@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-17",
+  "updated_at": "2026-10-17T07:16:28.470587+09:00",
+  "article_count": 1,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "9e5fb7d1c20164",
+      "title": "현대차, 인도 푸네공장 준공... 현대모비스, 상하이 혁신기업 발굴 외 [시경Today-자동차] - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iRXlubWJXR2JLNGx3VzlrSlZYUVVoYzUyMFhiY3N4c2FFOGZ6SDlsa1pQeHVKS25BYUxrMmFtdzRkVkRoV1dtM2VKREpCSDctV1hfcUdGc3ZFcWUzTktXSDN0NVhmNkJtOENBVFh5aVY?oc=5",
+      "source": "시장경제신문",
+      "published": "2026-10-16T17:15:46+09:00",
+      "category": "자동차",
+      "description": "현대차, 인도 푸네공장 준공... 현대모비스, 상하이 혁신기업 발굴 외 [시경Today-자동차] 시장경제신문",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대자동차가 인도 푸네 공장을 준공하며 현지 생산 거점을 확대했습니다. 현대모비스는 상하이에서 혁신 기업을 발굴하는 등 글로벌 시장에서의 기술 협력 및 사업 확장을 추진하고 있습니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차그룹의 인도 시장 생산 능력 강화 및 글로벌 기술 혁신 거점 확보 전략",
+        "key_points": [
+          "현대차 인도 푸네 공장 준공",
+          "현대모비스 상하이 혁신 기업 발굴 및 협력 추진"
+        ],
+        "what_to_watch": "인도 푸네 공장의 본격적인 가동에 따른 생산량 증대 및 현대모비스의 기술 협력 성과",
+        "fact_check": "현대차 인도 푸네 공장 준공 사실 확인"
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "ffd093c39d6466c8"
+    }
+  ]
+}
