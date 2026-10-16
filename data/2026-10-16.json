@@ -1,8 +1,8 @@
 {
   "date": "2026-10-16",
-  "updated_at": "2026-10-16T10:31:47.491557+09:00",
-  "article_count": 10,
-  "ai_enabled": false,
+  "updated_at": "2026-10-16T10:35:21.859856+09:00",
+  "article_count": 13,
+  "ai_enabled": true,
   "articles": [
     {
       "id": "e1eac2cee44723",
@@ -164,16 +164,21 @@
       "published": "2026-10-16T06:00:00+09:00",
       "category": "전동화",
       "description": "POSCO Future M Delays EV Battery Materials Production Until End of 2027, Shifts Focus to AI Data Center Demand 알파경제",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
+      "summary": "포스코퓨처엠이 전기차 배터리 소재 생산 시점을 2027년 말로 연기하고, AI 데이터 센터 수요 대응으로 전략을 수정했습니다. 전기차 시장의 일시적 수요 둔화(캐즘)에 따른 사업 포트폴리오 조정으로 분석됩니다.",
+      "impact": "전기차 배터리 소재 공급망 변화에 따른 관련 부품 및 포장 물류 계획 조정 필요",
+      "importance": "높음",
       "section": "산업·업무",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
+        "background": "글로벌 전기차 시장의 성장세가 예상보다 완만해지면서 배터리 소재 기업들이 투자 속도 조절에 나서고 있습니다. 포스코퓨처엠은 AI 데이터 센터 등 신규 수요처를 확보하여 수익성을 다변화하려는 전략입니다.",
+        "key_points": [
+          "배터리 소재 생산 2027년 말로 연기",
+          "AI 데이터 센터 수요 대응으로 전략 전환",
+          "전기차 시장 수요 둔화에 따른 투자 조정"
+        ],
+        "what_to_watch": "배터리 소재 공급망 재편에 따른 관련 산업계의 후속 조치",
+        "fact_check": "생산 연기 및 전략 수정은 기사 내용에 기반함"
+      },
+      "ai_summary": true
     },
     {
       "id": "b9437316193021",
@@ -193,6 +198,78 @@
         "what_to_watch": "원문 및 공식 후속 발표 확인",
         "fact_check": "제목과 RSS 발췌문만 수집됨"
       }
+    },
+    {
+      "id": "f70a1984dc40b8",
+      "title": "국가인증상표 부착 위조상품 대응··· 'K-브랜드 정부인증제도' 시행 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ2lCcmUxdGNRbWc2YlNveFJJTjNIdF9OVC1TQ25CeXZUaEdUOVVXYnZPQU5uN3JXS0h6MUFoV2FaTzFzNXlmOGwzbUI5ZlNuamppRzFTQ1dFS3llRFJDTVJLX1VCVnBiQ0lHZHRqVk9XVC1tM0dqaldWQnZzUnFoUkctOU5oV2cxWXVNc19R?oc=5",
+      "source": "Naver Blog",
+      "published": "2026-10-16T04:29:38+09:00",
+      "category": "정치·정책",
+      "description": "국가인증상표 부착 위조상품 대응··· 'K-브랜드 정부인증제도' 시행 Naver Blog",
+      "summary": "정부가 국가인증상표를 부착한 위조상품에 대응하기 위해 'K-브랜드 정부인증제도'를 시행합니다. 이는 국내 브랜드의 지식재산권 보호와 수출 경쟁력 강화를 목적으로 합니다.",
+      "impact": "수출 포장 시 국가인증상표 관련 규정 준수 및 위조 방지 패키징 기술 적용 필요",
+      "importance": "보통",
+      "section": "일반 뉴스",
+      "detail": {
+        "background": "해외 시장에서 K-브랜드의 위상이 높아짐에 따라 위조상품 피해가 증가하고 있습니다. 정부는 이를 방지하기 위해 공식 인증 제도를 도입하여 브랜드 신뢰도를 제고하고자 합니다.",
+        "key_points": [
+          "K-브랜드 정부인증제도 시행",
+          "위조상품 대응 및 지식재산권 보호",
+          "수출 브랜드 신뢰도 강화"
+        ],
+        "what_to_watch": "인증제도 세부 시행 지침 및 수출 기업 적용 범위",
+        "fact_check": "정부인증제도 시행은 확정된 정책임"
+      },
+      "ai_summary": true
+    },
+    {
+      "id": "1719adf6e2632d",
+      "title": "[‘클릭’ 증시] 유가·美 물가에 코스피·코스닥 7%대 폭락 - 공공뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6YU4wMGcxbUlFNUVYTXdCMUdCMHF2R0dVc3B4Z0VsSlRHNmpPR2MxUFpJSmx2SmZMTDg0QUw4NDZ1QnNGUTN5dUE1MC1QOVBkSlMtbGZ3MzBZRzE0Q3pIOUQ3WEJ0UnFFVHfSAW5BVV95cUxPTEd0S094aDZyNWMxYU9rcmZoQWxic2VYcGN6SC13OUdrQlIwbDh3WC1QcnpVSlVZRElLS29QZXM2cjNmdEZ5LWQ5QkJKaEtrNmdPYUNRVllpUVNjNmN6SjZobWx6cEpVeERQLUhoUQ?oc=5",
+      "source": "공공뉴스",
+      "published": "2026-10-15T17:56:38+09:00",
+      "category": "경제·금융",
+      "description": "[‘클릭’ 증시] 유가·美 물가에 코스피·코스닥 7%대 폭락 공공뉴스",
+      "summary": "미국 물가 지표 충격과 유가 상승 여파로 국내 증시가 7%대 폭락을 기록했습니다. 글로벌 경제 불확실성이 커지면서 국내 수출입 기업들의 경영 환경에도 경고등이 켜졌습니다.",
+      "impact": "환율 변동성 확대 및 글로벌 물류비용 상승 가능성으로 인한 수출입 물류 리스크 관리 필요",
+      "importance": "높음",
+      "section": "일반 뉴스",
+      "detail": {
+        "background": "미국 생산자물가지수(PPI) 등 물가 지표가 예상치를 상회하며 금리 인하 기대감이 후퇴했습니다. 이로 인해 글로벌 증시가 동반 하락하며 국내 시장에도 큰 충격을 주었습니다.",
+        "key_points": [
+          "미국 물가 충격 및 유가 상승",
+          "코스피·코스닥 7%대 폭락",
+          "글로벌 경제 불확실성 증대"
+        ],
+        "what_to_watch": "환율 추이 및 글로벌 물류 운임 변동",
+        "fact_check": "증시 폭락은 시장 데이터에 기반함"
+      },
+      "ai_summary": true
+    },
+    {
+      "id": "24ac47be285457",
+      "title": "현대차 푸네공장 가동에 부품사도 활짝…인도 동반진출 확대 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBUUY4TnBMVVZoT2FGSUVveE1uV2otSmFlTjRvRTl2WmFnT1R1MTJtX3gzS3Z5bjFSblQ2YXh5aE0wV05oVVRvT0pXNk1XYkZDc1p3U3JISVLSAVhBVV95cUxQQVFGOE5wTFVWaE9hRklFb3hNbldqLUphZU40b0U5dlphZ09UdTEybV94M0t2eW4xUm5UNmF4eWhNMFdOaFVUb09KVzZNV2JGQ3Nad1NySElS?oc=5",
+      "source": "아주경제",
+      "published": "2026-10-15T16:46:43+09:00",
+      "category": "자동차",
+      "description": "현대차 푸네공장 가동에 부품사도 활짝…인도 동반진출 확대 아주경제",
+      "summary": "현대차의 인도 푸네 공장 가동이 본격화되면서 국내 부품사들의 인도 동반 진출이 가속화되고 있습니다. 이는 현대차의 인도 시장 생산 능력 확대에 따른 공급망 현지화 전략의 일환으로 풀이됩니다.",
+      "impact": "현대차 인도 생산 거점 확대에 따른 CKD 부품 수출 물량 증가 및 현지 물류·포장 수요 발생 가능성 높음",
+      "importance": "높음",
+      "section": "산업·업무",
+      "detail": {
+        "background": "현대차는 인도 시장 점유율 확대를 위해 푸네 공장을 가동하며 생산 능력을 강화하고 있습니다. 이에 따라 국내 협력사들도 인도 현지 생산 체제를 구축하며 동반 진출을 확대하는 추세입니다.",
+        "key_points": [
+          "현대차 푸네 공장 가동 본격화",
+          "국내 부품사들의 인도 동반 진출 확대",
+          "인도 시장 내 공급망 현지화 전략 강화"
+        ],
+        "what_to_watch": "현대차 인도 공장 가동률 및 국내 부품사들의 추가 현지 투자 계획",
+        "fact_check": "현대차 푸네 공장 가동 및 부품사 동반 진출은 사실로 확인됨"
+      },
+      "ai_summary": true
     }
   ]
 }
