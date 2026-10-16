@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
-  "updated_at": "2026-10-16T14:08:29.242672+09:00",
-  "article_count": 11,
+  "updated_at": "2026-10-16T14:14:22.004257+09:00",
+  "article_count": 9,
   "ai_enabled": true,
   "articles": [
     {
@@ -88,29 +88,22 @@
       "published": "2026-10-16T10:40:49+09:00",
       "category": "관심 키워드",
       "description": "車부품 수익성 제자리 … 현대모비스, 3분기도 AS사업이 실적 떠받친다 뉴데일리",
-      "summary": "현대모비스가 3분기에도 본업인 자동차 부품 사업의 수익성 정체 속에서 AS 부품 사업이 실적을 견인하는 구조를 이어갈 것으로 전망됩니다. 전반적인 부품 사업의 수익성 개선이 과제로 지목됩니다.",
-      "impact": "현대모비스 실적 및 부품 사업 수익성 모니터링 필요",
+      "summary": "현대모비스의 3분기 실적이 완성차 부품 부문의 수익성 정체에도 불구하고 AS 사업 부문의 견조한 성과로 인해 방어될 것으로 전망됩니다. 핵심 부품 사업의 수익성 개선이 더딘 상황에서 AS 사업이 실적을 견인하는 구조가 지속되고 있습니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
       "section": "산업·업무",
       "detail": {
-        "background": "현대모비스의 사업 부문별 수익 구조 분석",
+        "background": "현대모비스는 모듈 및 핵심부품 사업과 AS 부품 사업을 영위하고 있으며, 최근 완성차 업황 둔화에 따른 부품 수익성 압박을 받고 있습니다.",
         "key_points": [
-          "자동차 부품 사업의 수익성 정체 지속",
-          "AS 사업 부문이 전체 실적을 방어하는 구조",
-          "3분기 실적 전망 및 사업 포트폴리오 점검"
+          "완성차 부품 부문의 수익성 정체 지속",
+          "AS 사업 부문이 전체 실적의 버팀목 역할 수행",
+          "3분기 실적 역시 AS 사업의 기여도가 높을 것으로 예상"
         ],
-        "what_to_watch": "현대모비스의 3분기 실적 발표 및 수익성 개선 전략",
-        "fact_check": "현대모비스의 사업 구조 및 실적 전망에 관한 분석"
+        "what_to_watch": "핵심 부품 사업의 수익성 회복 시점 및 AS 사업의 성장세 유지 여부",
+        "fact_check": "현대모비스의 사업 구조상 AS 부품의 높은 마진율이 전체 영업이익을 보전하는 구조는 지속적으로 관찰됨"
       },
       "ai_summary": true,
-      "related_articles": [
-        {
-          "title": "車부품 수익성 제자리 … 현대모비스, 3분기도 AS사업이 실적 떠받친다 - 뉴데일리",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0E4YTE2bFl0WVVoYUhMcGJoMzVhb09fVWhXVmk2cERsbHh0LTkzTXFOQmVBMjNaQ3piMWl2Y0VxQW4tY1ZjMmk3WDhMQkRJal95eE00d0xYd2pFRnhNcmd5S2xLMjExMFUyc3QzYlVaeEhibWFYWHJNT3lRYzlyTNIBgAFBVV95cUxOX0E4YTE2bFl0WVVoYUhMcGJoMzVhb09fVWhXVmk2cERsbHh0LTkzTXFOQmVBMjNaQ3piMWl2Y0VxQW4tY1ZjMmk3WDhMQkRJal95eE00d0xYd2pFRnhNcmd5S2xLMjExMFUyc3QzYlVaeEhibWFYWHJNT3lRYzlyTA?oc=5",
-          "source": "뉴데일리",
-          "published": "2026-10-16T10:40:49+09:00"
-        }
-      ],
+      "related_articles": [],
       "original_summary": "현대모비스의 3분기 실적이 본업인 자동차 부품 사업의 수익성 정체에도 불구하고 AS 사업 부문의 견조한 성과로 인해 방어되고 있습니다. 완성차 업황 둔화에 따른 부품 수익성 압박이 지속되는 상황입니다.",
       "original_detail": {
         "background": "자동차 부품 업계 전반의 수익성 저하 기조 속에서 현대모비스의 사업 구조적 특징을 분석한 내용입니다. AS 사업이 실적의 핵심 버팀목 역할을 수행하고 있습니다.",
@@ -124,7 +117,7 @@
       },
       "new_information": "",
       "integrated_summary": true,
-      "integration_signature": "9a43c7dc017d841e"
+      "integration_signature": "d87217a08f5108b9"
     },
     {
       "id": "c6ee0432d91463",
@@ -261,44 +254,6 @@
       "integration_signature": "482b8225914aff84"
     },
     {
-      "id": "24ac47be285457",
-      "title": "현대차 푸네공장 가동에 부품사도 활짝…인도 동반진출 확대 - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBUUY4TnBMVVZoT2FGSUVveE1uV2otSmFlTjRvRTl2WmFnT1R1MTJtX3gzS3Z5bjFSblQ2YXh5aE0wV05oVVRvT0pXNk1XYkZDc1p3U3JISVLSAVhBVV95cUxQQVFGOE5wTFVWaE9hRklFb3hNbldqLUphZU40b0U5dlphZ09UdTEybV94M0t2eW4xUm5UNmF4eWhNMFdOaFVUb09KVzZNV2JGQ3Nad1NySElS?oc=5",
-      "source": "아주경제",
-      "published": "2026-10-15T16:46:43+09:00",
-      "category": "자동차",
-      "description": "현대차 푸네공장 가동에 부품사도 활짝…인도 동반진출 확대 아주경제",
-      "summary": "현대차의 인도 푸네 공장 가동이 본격화되면서 국내 부품사들의 인도 동반 진출이 가속화되고 있습니다. 현지 생산 거점 확대에 따라 공급망 안정화와 부품사들의 동반 성장이 기대됩니다.",
-      "impact": "인도 시장 내 현대차 공급망 강화 및 관련 부품사 사업 기회 확대",
-      "importance": "보통",
-      "section": "산업·업무",
-      "detail": {
-        "background": "현대차의 인도 시장 점유율 확대 및 생산 능력 증대 전략",
-        "key_points": [
-          "현대차 푸네 공장 가동에 따른 공급망 재편",
-          "국내 부품사들의 인도 동반 진출 확대 추세"
-        ],
-        "what_to_watch": "인도 시장 내 현대차 생산량 증가에 따른 부품사 매출 영향",
-        "fact_check": "현대차 푸네 공장 가동은 인도 시장 전략의 핵심 요소임"
-      },
-      "ai_summary": true,
-      "related_articles": [],
-      "original_summary": "현대차의 인도 푸네 공장 가동이 본격화되면서 국내 부품사들의 인도 동반 진출이 가속화되고 있습니다. 이는 현대차의 인도 시장 생산 능력 확대에 따른 공급망 현지화 전략의 일환으로 풀이됩니다.",
-      "original_detail": {
-        "background": "현대차는 인도 시장 점유율 확대를 위해 푸네 공장을 가동하며 생산 능력을 강화하고 있습니다. 이에 따라 국내 협력사들도 인도 현지 생산 체제를 구축하며 동반 진출을 확대하는 추세입니다.",
-        "key_points": [
-          "현대차 푸네 공장 가동 본격화",
-          "국내 부품사들의 인도 동반 진출 확대",
-          "인도 시장 내 공급망 현지화 전략 강화"
-        ],
-        "what_to_watch": "현대차 인도 공장 가동률 및 국내 부품사들의 추가 현지 투자 계획",
-        "fact_check": "현대차 푸네 공장 가동 및 부품사 동반 진출은 사실로 확인됨"
-      },
-      "new_information": "",
-      "integrated_summary": true,
-      "integration_signature": "e7930868d914849e"
-    },
-    {
       "id": "ff672c3667bd09",
       "title": "증시 폭락에 원·달러 환율 급등 [김혜란의 FX] - 서울경제",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWnpRU1BJQUEzS2JQMHVuX2wxaWFDS0dodGc5NEtXZWozd3ZfQ1FuVUJTS21pVVV5U1Y3WU5pekNfV2JfNDQ5WDZmOENBdXpVelE?oc=5",
@@ -388,45 +343,6 @@
       "integration_signature": "c7182a120da35f50"
     },
     {
-      "id": "6812769c9ad776",
-      "title": "[K-금융 글로벌 전략 2026] [폴란드·헝가리] 배터리 공장 따라갔던 신한은행…폴란드서 방산·원전 '새 먹거리' - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmNVWEZ5a0hrWjdhMXNHLV9rYVFMTXlnYU9MTnZNamVGa0M2azhnZkVxWmVlMXd0RDhnU2NhYnpiWlFIeEJJdnNUTUp3QUZHWW5MUGJfOEdKaklCanJneFFtemtBTXpaY2tRbVRRNmF3a0Q1bVpvWm1JXzVtZGJaeU02RG55WGdodWpfYUpKWQ?oc=5",
-      "source": "Naver Blog",
-      "published": "2026-10-14T20:00:16+09:00",
-      "category": "전동화",
-      "description": "[K-금융 글로벌 전략 2026] [폴란드·헝가리] 배터리 공장 따라갔던 신한은행…폴란드서 방산·원전 '새 먹거리' Naver Blog",
-      "section": "산업·업무",
-      "summary": "신한은행이 폴란드와 헝가리 등 동유럽 시장에서 기존 배터리 기업 지원을 넘어 방산 및 원전 분야로 금융 영토를 확장하고 있습니다. 현지 진출 기업과의 협력을 강화하며 새로운 수익 모델을 창출하는 전략을 추진 중입니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "detail": {
-        "background": "국내 기업의 동유럽 진출 가속화에 따른 금융권의 동반 진출 및 사업 다각화",
-        "key_points": [
-          "배터리 산업 중심의 금융 지원에서 방산·원전으로 영역 확대",
-          "폴란드 및 헝가리 시장 내 신규 먹거리 발굴",
-          "현지 진출 국내 기업 대상 맞춤형 금융 솔루션 제공"
-        ],
-        "what_to_watch": "동유럽 내 대규모 프로젝트 수주에 따른 금융 지원 규모 및 성과",
-        "fact_check": "신한은행의 폴란드·헝가리 중심 글로벌 전략 강화 확인"
-      },
-      "ai_summary": true,
-      "related_articles": [],
-      "original_summary": "신한은행이 폴란드 등 동유럽 시장에서 배터리 기업들의 진출을 지원하며 쌓은 네트워크를 바탕으로 방산 및 원전 분야로 금융 지원 범위를 확대하고 있습니다. 이는 국내 기업들의 글로벌 공급망 진출에 따른 금융 동반 성장의 사례입니다.",
-      "original_detail": {
-        "background": "국내 기업들이 유럽 내 생산 기지를 구축함에 따라 국내 금융권도 현지 금융 지원을 통해 동반 진출하는 전략을 취하고 있습니다.",
-        "key_points": [
-          "배터리 기업 동반 진출을 통한 네트워크 확보",
-          "폴란드 내 방산 및 원전 분야로 금융 지원 확대",
-          "글로벌 금융 전략 강화"
-        ],
-        "what_to_watch": "추가적인 국내 기업의 폴란드 진출 시 금융 지원 연계 여부.",
-        "fact_check": "금융권의 전략적 움직임을 다룬 기사로 CKD 물류와는 직접적 연관성이 낮음."
-      },
-      "new_information": "",
-      "integrated_summary": true,
-      "integration_signature": "b028fcef3a9c2655"
-    },
-    {
       "id": "d7efbb8cede53c",
       "title": "[이슈] 현대차, 인도서 '제2 성장판' 키운다…\"푸네공장에 부품사 120곳 동행\" - 팍스경제TV",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vM1JjSUR2d0J3a0ZlOHNWYmpMdTZlUmJzQ0dSbVlHMEtBVmktNG1tMklwa3QxeHRHSXFiTGxzNHFGZWNYVVpvYVFKNkhQYVl3dlZUX2p3RXZoeWowVTVYbU9PSnZGNmc?oc=5",
@@ -435,21 +351,28 @@
       "category": "자동차",
       "description": "[이슈] 현대차, 인도서 '제2 성장판' 키운다…\"푸네공장에 부품사 120곳 동행\" 팍스경제TV",
       "section": "산업·업무",
-      "summary": "현대차의 인도 푸네 공장 가동과 관련하여 국내 부품사 120곳이 동반 진출하며 현지 공급망 생태계를 구축합니다. 이는 현대차의 인도 시장 내 제2 성장판을 마련하기 위한 전략적 행보로 풀이됩니다.",
-      "impact": "인도 진출 국내 부품사들의 현지 생산 거점 확보 및 공급망 변화",
+      "summary": "현대자동차가 인도 푸네 공장 가동을 본격화하며 현지 생산 능력을 확대하는 가운데, 국내 부품 협력사 120여 곳이 동반 진출하며 생태계를 구축하고 있습니다. 이는 현대차의 인도 시장 내 제2 성장판 확보 전략의 일환으로, 협력사들의 동반 성장이 기대됩니다.",
+      "impact": "인도 시장 내 공급망 안정화 및 협력사 동반 진출에 따른 현지 생산 효율성 증대",
       "importance": "높음",
       "detail": {
-        "background": "현대차의 인도 생산 능력 확대에 따른 협력사 동반 진출 필요성 증대",
+        "background": "현대차는 인도 시장 점유율 확대를 위해 푸네 공장을 인수 및 가동하며 생산 거점을 다변화하고 있습니다.",
         "key_points": [
-          "인도 푸네 공장 가동에 따른 부품사 120곳 동반 진출",
-          "현지 공급망 내재화를 통한 생산 효율성 제고",
-          "인도 시장 내 현대차의 제2 성장 전략 본격화"
+          "현대차 인도 푸네 공장 가동 본격화",
+          "국내 부품 협력사 120여 곳의 인도 동반 진출",
+          "인도 시장 내 생산 거점 확대 및 공급망 현지화 전략"
         ],
-        "what_to_watch": "부품사 동반 진출에 따른 현지 생산 품질 안정화 및 물류 효율성",
-        "fact_check": "푸네 공장 관련 부품사 120곳 동반 진출 계획 확인"
+        "what_to_watch": "푸네 공장의 가동률 추이 및 동반 진출 협력사들의 현지 생산 안정화 속도",
+        "fact_check": "현대차의 인도 푸네 공장 가동과 관련하여 120여 개의 협력사가 동반 진출한다는 점은 업계의 주요 공급망 확장 전략으로 확인됨"
       },
       "ai_summary": true,
-      "related_articles": [],
+      "related_articles": [
+        {
+          "title": "현대차 푸네공장 가동에 부품사도 활짝…인도 동반진출 확대 - 아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBUUY4TnBMVVZoT2FGSUVveE1uV2otSmFlTjRvRTl2WmFnT1R1MTJtX3gzS3Z5bjFSblQ2YXh5aE0wV05oVVRvT0pXNk1XYkZDc1p3U3JISVLSAVhBVV95cUxQQVFGOE5wTFVWaE9hRklFb3hNbldqLUphZU40b0U5dlphZ09UdTEybV94M0t2eW4xUm5UNmF4eWhNMFdOaFVUb09KVzZNV2JGQ3Nad1NySElS?oc=5",
+          "source": "아주경제",
+          "published": "2026-10-15T16:46:43+09:00"
+        }
+      ],
       "original_summary": "현대차가 인도 푸네 공장 증설과 함께 120여 개의 국내 부품 협력사와 동반 진출을 추진하며 인도 시장에서의 제2 성장판을 마련하고 있습니다. 이는 현지 생산 체계 강화와 공급망 안정화를 동시에 도모하는 전략입니다.",
       "original_detail": {
         "background": "현대차는 인도 내 생산 능력 확대를 위해 부품 공급망의 현지화가 필수적이라고 판단하고, 협력사들과 함께 생태계를 구축하고 있습니다.",
@@ -463,7 +386,7 @@
       },
       "new_information": "",
       "integrated_summary": true,
-      "integration_signature": "c7c2327b54f4d1ac"
+      "integration_signature": "b23636bd474eae8a"
     }
   ]
 }
