@@ -163,6 +163,12 @@ def classify(a):
         '시사뒷담','지지율','여론조사','정치판','모빌리티 데이’ 개최')
     if has_any(title, reject):
         return None
+    # Banking/financial expansion is not automotive supply-chain news merely
+    # because a battery factory is mentioned as historical context.
+    finance = ('은행', '금융', 'bank', 'banking')
+    non_auto_business = ('방산', '원전', '부동산', '보험', '대출', '채권')
+    if has_any(title, finance) and has_any(title, non_auto_business) and not has_any(title, ('자동차 부품', '자동차 생산', '완성차 공급', 'ckd 물류')):
+        return None
     if ('모비스' in title and ('로봇' in title or '로보틱스' in title or '기술 동맹' in title or '오픈이노베이션' in title)):
         return '산업·업무'
     if ('battery materials production' in title or 'ev battery' in title) and ('delay' in title or 'production' in title):
@@ -202,6 +208,8 @@ def topic_key(a):
         return 'mobis-china-robotics'
     if ('코스피' in title or '국내 증시' in title) and ('폭락' in title or '급락' in title):
         return 'korean-market-plunge'
+    if ('현대차' in title or '현대자동차' in title or 'hyundai motor' in title or '현대차그룹' in title) and ('푸네' in title or 'pune' in title) and ('부품사' in title or '협력사' in title or '동반진출' in title or 'supply' in title):
+        return 'hyundai-pune-suppliers'
     if ('현대차' in title or '현대자동차' in title or 'hyundai motor' in title or '현대차그룹' in title) and ('인도' in title or 'india' in title) and ('투자' in title or 'invest' in title) and not ('푸네' in title or 'pune' in title):
         return 'hyundai-india-investment'
     # Same headline distributed with different publisher suffixes.
@@ -245,6 +253,17 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
 
     ranked_groups = []
     for (section, _), members in groups.items():
+        # Multiple Google News URLs can point to the exact same published
+        # story. Keep one per normalized publisher+headline before grouping.
+        unique_members = {}
+        for member in members:
+            headline = re.sub(r'[^\w가-힣]', '', re.sub(r'\s*[-|]\s*[^-|]+$', '', member.get('title', '').lower()))
+            publisher = member.get('source', '').strip().lower()
+            dedup_key = (publisher, headline)
+            previous = unique_members.get(dedup_key)
+            if previous is None or representative_score(member) > representative_score(previous):
+                unique_members[dedup_key] = member
+        members = list(unique_members.values())
         members.sort(key=lambda a: (representative_score(a), a.get('published', '')), reverse=True)
         representative = dict(members[0])
         representative['section'] = section
@@ -422,6 +441,7 @@ def main():
         if cached.get('integrated_summary') and cached.get('integration_signature') == sig:
             saved = dict(cached)
             saved['related_articles'] = a.get('related_articles', [])
+            saved['section'] = a.get('section', saved.get('section'))
             merged.append(saved)
         else:
             review_needed.append(a)
