@@ -102,6 +102,7 @@ def summarize(items):
           "제공되지 않은 사실·수치·발언을 절대 지어내지 말고 불확실성은 명시한다. "
           "입력된 모든 기사 각각에 대해 반드시 하나의 결과를 반환하라. 기사를 선정하거나 생략하지 마라. "
           "정책은 발언/제안/검토/확정 시행을 구분한다. "
+          "인명·정부명·한자 약칭을 추측해서 풀어 쓰지 마라. 李정부는 이명박 정부가 아니며, 불확실하면 원문 표기를 유지한다. "
           "각 기사마다 id, summary(한국어 2~3문장), impact(CKD 관련성이 없으면 "
           "'직접적인 업무 영향 확인되지 않음'), importance('높음' 또는 '보통'), "
           "detail 객체(background: 근거 기반 2~3문장, key_points: 주요 내용 문자열 배열 2~4개, "
@@ -349,6 +350,7 @@ def ai_editorial_review(items, history):
                   "불명확하면 status='keep'으로 보수적으로 유지하라. 이전 기사가 없는 경우 무조건 keep. "
                   "같은 날 관련 기사들에서 확인되는 정보를 종합하되 RSS에 없는 사실을 만들지 마라. "
                   "기사 제목만 다르다는 이유로 새로운 사실이라고 판단하지 마라. "
+                  "정치인·정부명·한자 약칭을 추측해서 풀어 쓰지 마라. 특히 李정부를 이명박 정부로 해석하지 말고, 불확실하면 원문 표기를 유지하라. "
                   "각 id마다 status(keep/repeat), summary(한국어 2~3문장), "
                   "new_information(전일 대비 추가/변경 내용, 없으면 빈 문자열), "
                   "impact(직접적 CKD 영향이 불명확하면 '직접적인 업무 영향 확인되지 않음'), "
@@ -401,6 +403,25 @@ def integration_signature(a, history):
     return hashlib.sha1(json.dumps(content, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
 
 
+def correct_known_name_error(a):
+    """Correct a previously cached misreading of the government name."""
+    if '李정부' not in a.get('title', ''):
+        return a
+    a = dict(a)
+    def fix(v):
+        if isinstance(v, str):
+            return v.replace('이명박 정부', '이재명 정부')
+        if isinstance(v, list):
+            return [fix(x) for x in v]
+        if isinstance(v, dict):
+            return {k: fix(x) for k, x in v.items()}
+        return v
+    for field in ('summary', 'detail', 'original_summary', 'original_detail', 'new_information'):
+        if field in a:
+            a[field] = fix(a[field])
+    return a
+
+
 def main():
     articles = fetch()
     if not articles:
@@ -419,7 +440,7 @@ def main():
         archived = json.loads(archive_path.read_text(encoding='utf-8')).get('articles', []) if archive_path.exists() else []
     except Exception:
         archived = []
-    all_saved = {a['id']: a for a in archived if a.get('id')}
+    all_saved = {a['id']: correct_known_name_error(a) for a in archived if a.get('id')}
     for a in old:
         if a.get('id'):
             all_saved[a['id']] = a
@@ -442,7 +463,7 @@ def main():
             saved = dict(cached)
             saved['related_articles'] = a.get('related_articles', [])
             saved['section'] = a.get('section', saved.get('section'))
-            merged.append(saved)
+            merged.append(correct_known_name_error(saved))
         else:
             review_needed.append(a)
     budget = max(0, int(os.environ.get('MAX_AI_ARTICLES_PER_RUN', '25')))
@@ -461,11 +482,12 @@ def main():
     for a in merged:
         a.pop('group_members', None)
         a.pop('integration_signature_candidate', None)
+    merged = [correct_known_name_error(a) for a in merged]
     merged.sort(key=lambda a:a.get('published',''), reverse=True)
     new_items = [a for a in chosen if a['id'] not in old_map]
     # Retain newly completed summaries even if the public selection changes later.
     for a in merged:
-        all_saved[a['id']] = a
+        all_saved[a['id']] = correct_known_name_error(a)
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
     result = {'date': TODAY, 'updated_at': NOW.isoformat(), 'article_count': len(merged),
               'ai_enabled': any(a.get('ai_summary') for a in merged), 'articles': merged}
