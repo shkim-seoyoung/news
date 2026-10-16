@@ -205,26 +205,64 @@ def topic_key(a):
     # Same headline distributed with different publisher suffixes.
     return re.sub(r'[^\w가-힣]','',re.sub(r'\s*[-|]\s*[^-|]+$','',title))[:75]
 
+def representative_score(a):
+    """Prefer a substantive, already summarized report over the first RSS hit."""
+    title = a.get('title', '')
+    description = a.get('description', '')
+    detail = a.get('detail') or {}
+    points = detail.get('key_points') or []
+    if not isinstance(points, list):
+        points = []
+    score = editorial_score(a)
+    score += min(len(description), 300) / 45
+    score += min(len(a.get('summary', '')), 350) / 65
+    score += min(len(points), 4) * 2
+    score += 5 if a.get('ai_summary') else 0
+    score += 3 if re.search(r'\d+(?:[.,]\d+)?\s*(?:억|조|만|대|곳|%|달러|원|billion|million)', title.lower()) else 0
+    score -= 8 if a.get('source', '').lower() in ('naver blog', 'google news rss') else 0
+    return score
+
+
 def choose_for_day(articles, existing, work_limit=12, general_limit=3):
-    """Reassess old AND new entries; keep original summaries unchanged."""
+    """Select issue representatives; retain up to three source links per issue.
+
+    Existing article summaries are never rewritten. Related items remain in
+    the archive, and the public payload gets a small related_articles array.
+    """
     by_id = {a['id']: dict(a) for a in existing if a.get('id')}
     for a in articles:
         if a.get('id'):
             by_id.setdefault(a['id'], dict(a))
-    ranked = sorted(by_id.values(), key=lambda a:(editorial_score(a), bool(a.get('ai_summary')), a.get('published','')), reverse=True)
-    chosen, seen, counts = [], set(), {'산업·업무':0, '일반 뉴스':0}
-    for a in ranked:
+
+    groups = {}
+    for a in by_id.values():
         section = classify(a)
-        if section is None or counts[section] >= (work_limit if section == '산업·업무' else general_limit):
+        if section is None:
             continue
-        topic = topic_key(a)
-        if topic in seen:
+        groups.setdefault((section, topic_key(a)), []).append(a)
+
+    ranked_groups = []
+    for (section, _), members in groups.items():
+        members.sort(key=lambda a: (representative_score(a), a.get('published', '')), reverse=True)
+        representative = dict(members[0])
+        representative['section'] = section
+        representative['related_articles'] = [
+            {'title': a.get('title', ''), 'url': a.get('url', ''),
+             'source': a.get('source', ''), 'published': a.get('published', '')}
+            for a in members[1:4] if a.get('url')
+        ]
+        ranked_groups.append((editorial_score(representative), representative_score(representative), representative))
+
+    ranked_groups.sort(key=lambda x: (x[0], x[1], x[2].get('published', '')), reverse=True)
+    chosen, counts = [], {'산업·업무': 0, '일반 뉴스': 0}
+    for _, _, a in ranked_groups:
+        section = a['section']
+        limit = work_limit if section == '산업·업무' else general_limit
+        if counts[section] >= limit:
             continue
-        seen.add(topic)
-        a['section'] = section
         chosen.append(a)
         counts[section] += 1
-    return sorted(chosen, key=lambda a:a.get('published',''), reverse=True)
+    return sorted(chosen, key=lambda a: a.get('published', ''), reverse=True)
 
 def main():
     articles = fetch()
@@ -248,6 +286,10 @@ def main():
     for a in old:
         if a.get('id'):
             all_saved[a['id']] = a
+    # Save new RSS candidates too, so grouped related links survive later runs.
+    for a in articles:
+        if a.get('id'):
+            all_saved.setdefault(a['id'], a)
     # Archive first; re-running cannot erase a previously saved AI summary.
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
     chosen = choose_for_day(articles, list(all_saved.values()))
