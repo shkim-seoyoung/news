@@ -73,10 +73,10 @@ def fallback(items):
     out=[]
     for a in items:
         a=dict(a)
-        a['summary']='원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.'
-        a['impact']='원문 확인 후 업무 영향 판단 필요'
+        a['summary']='AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.'
+        a['impact']='AI 분석 대기 중' if a.get('section') == '산업·업무' else ''
         a['importance']='보통'
-        a['section']='산업·업무' if a['category'] in ('자동차','CKD·물류','전동화','관심 키워드') else '일반 뉴스'
+        a['section']=a.get('section') or classify(a) or '일반 뉴스'
         a['detail']={'background':'기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.','key_points':[],'what_to_watch':'원문 및 공식 후속 발표 확인','fact_check':'제목과 RSS 발췌문만 수집됨'}
         out.append(a)
     return out
@@ -126,7 +126,7 @@ def summarize(items):
                 article = dict(lookup[x['id']])
                 for field in ('summary', 'impact', 'importance'):
                     article[field] = norm(str(x.get(field, '')))
-                article['section'] = '산업·업무' if article['category'] in ('자동차', 'CKD·물류', '전동화', '관심 키워드') else '일반 뉴스'
+                article['section'] = article.get('section') or classify(article) or '일반 뉴스'
                 detail = x.get('detail', {})
                 article['detail'] = detail if isinstance(detail, dict) else {}
                 article['ai_summary'] = True
@@ -139,46 +139,85 @@ def summarize(items):
     return results
 
 
-# Editorial caps for new daily editions. Existing AI summaries are retained.
+# Article-level classification: RSS query category alone is not evidence of work relevance.
 WORK_CATEGORIES = {'자동차', 'CKD·물류', '전동화', '관심 키워드'}
-WORK_TERMS = ('ckd','현대차','기아','모비스','현대모비스','부품','생산','공장','수출','해운','선박','운임','항만','물류','관세','전기차','배터리','erev','hev','현지','공급망','파렛트','포장','hyundai','kia','mobis','shipping','freight','tariff','automotive','factory','export','supply chain')
-MAJOR_TERMS = ('속보','긴급','발표','확정','시행','합의','인상','인하','제재','전쟁','휴전','정상회담','대통령','정부','금리','환율','재난','사망','대규모','선거','법안','관세','중앙은행','긴급회의','breaking','major','election','sanction','ceasefire','central bank')
-MINOR_TERMS = ('연예','방송','드라마','영화','아이돌','패션','맛집','운세','스포츠','경기 결과','celebrity','entertainment')
+AUTO = ('현대차','현대자동차','기아','현대모비스','모비스','자동차','완성차','차량','전기차','배터리','전동화','erev','hev','ckd','hyundai','kia','mobis','automotive','automaker','vehicle','ev production')
+OPERATIONS = ('생산','증산','감산','가동','공장','투자','신설','수출','수입','부품','공급','납품','발주','판매','실적','관세','무역','현지화','조달','파업','중단','리콜','생산량','물량','supply','production','factory','plant','export','tariff','investment','shipment','sales','sourcing')
+LOGISTICS = ('해운','선복','선적','항만','컨테이너','운임','운송','물류','항공화물','화물','공급망','통관','수출규제','shipping','freight','container','port congestion','supply chain','logistics','customs')
+POLICY = ('자동차 관세','부품 관세','전기차 보조금','자동차 규제','무역협정','수입 규제','수출 통제','현지 생산','전기차 정책','자동차 산업','ev tariff','auto tariff','vehicle tariff')
+MAJOR = ('금리 결정','기준금리','환율 급등','환율 급락','증시 급락','증시 폭락','서킷브레이커','금융위기','국가비상사태','대규모 재난','지진','태풍','전쟁','휴전','정상회담','대통령 탄핵','총선 결과','대선 결과','중앙은행','무역 전쟁','긴급 제재','interest rate decision','central bank','ceasefire','earthquake','financial crisis','stock market crash','sanctions')
+PROMOTION = ('축제','페스티벌','런페스타','마라톤','행사 참가','표창','수상','봉사활동','사회공헌','기부','캠페인','홍보대사','도서 출간','신간','책 소개','경제공부','맛집','운세','연예','아이돌','드라마','영화','festival','award ceremony','book review','celebrity')
+GENERAL_NOISE = ('지지율 조사','여론조사','운세','맛집','연예','드라마','영화','아이돌','도서','책 소개','표창','수상','축제','페스티벌')
+
+def has_any(text, terms):
+    return any(term in text for term in terms)
+
+def classify(a):
+    title = a.get('title', '').lower()
+    desc = a.get('description', '').lower()
+    body = title + ' ' + desc
+    # A promotional headline is not an operational article merely because it names an automaker.
+    if has_any(title, PROMOTION):
+        return None
+    if has_any(body, POLICY):
+        return '산업·업무'
+    if has_any(body, AUTO) and has_any(body, OPERATIONS + LOGISTICS):
+        return '산업·업무'
+    # Direct shipping/logistics developments are relevant without an automotive keyword.
+    if has_any(title, LOGISTICS) and has_any(body, ('운임','선복','선적','지연','중단','혼잡','파업','비용','인상','급등','규제','차질','freight','shipping','delay','disruption','congestion','strike','rates')):
+        return '산업·업무'
+    if has_any(title, MAJOR):
+        return '일반 뉴스'
+    return None
 
 def is_work(a):
-    return a.get('category') in WORK_CATEGORIES
+    return a.get('section') == '산업·업무' if a.get('section') else classify(a) == '산업·업무'
 
 def editorial_score(a):
     title = a.get('title','').lower()
     desc = a.get('description','').lower()
-    score = 20 if is_work(a) else 0
-    score += min(24, sum(4 for term in WORK_TERMS if term in title))
-    score += min(12, sum(2 for term in WORK_TERMS if term in desc))
-    score += min(20, sum(5 for term in MAJOR_TERMS if term in title))
-    score -= 30 if any(term in title for term in MINOR_TERMS) else 0
-    if a.get('category') == '관심 키워드': score += 8
-    if a.get('ai_summary'): score += 2
+    body = title + ' ' + desc
+    score = 0
+    if has_any(title, AUTO): score += 12
+    if has_any(title, OPERATIONS): score += 12
+    if has_any(title, LOGISTICS): score += 15
+    if has_any(body, POLICY): score += 18
+    if has_any(desc, OPERATIONS): score += 4
+    if has_any(title, MAJOR): score += 18
+    if a.get('category') == '관심 키워드': score += 3
     return score
 
-def choose_for_day(articles, existing, work_limit=15, general_limit=5):
-    """Select important headlines, preserve existing AI-summarized entries.
-
-    For an edition already populated under the old 60-article policy, do not
-    silently delete the user's previously summarized entries. On a new day,
-    the tighter caps apply from the start.
-    """
+def choose_for_day(articles, existing, work_limit=12, general_limit=3):
+    """Preserve previously published articles; select only relevant new headlines."""
     by_id = {a['id']: a for a in existing if a.get('id')}
-    for a in articles:
-        by_id.setdefault(a['id'], a)
+    for article in articles:
+        if article.get('id') and article['id'] not in by_id:
+            a = dict(article)
+            section = classify(a)
+            if section is None:
+                continue
+            a['section'] = section
+            by_id[a['id']] = a
     all_items = list(by_id.values())
     work = sorted((a for a in all_items if is_work(a)), key=lambda a:(editorial_score(a), a.get('published','')), reverse=True)
-    general = sorted((a for a in all_items if not is_work(a) and editorial_score(a) >= 5), key=lambda a:(editorial_score(a), a.get('published','')), reverse=True)
-    # Keep already AI-summarized entries even if this exceeds the cap for
-    # editions originally produced with the older publication rules.
-    keep = {a['id']:a for a in existing if a.get('ai_summary') and a.get('id')}
-    for a in work[:work_limit] + general[:general_limit]:
-        keep.setdefault(a['id'],a)
-    return sorted(keep.values(),key=lambda a:a.get('published',''),reverse=True)
+    general = sorted((a for a in all_items if not is_work(a)), key=lambda a:(editorial_score(a), a.get('published','')), reverse=True)
+    # Never delete already-published articles or existing AI summaries.
+    keep = {a['id']:a for a in existing if a.get('id')}
+    new_work_slots = max(0, work_limit - sum(is_work(a) for a in existing))
+    new_general_slots = max(0, general_limit - sum(not is_work(a) for a in existing))
+    for group, limit in ((work, new_work_slots), (general, new_general_slots)):
+        if limit <= 0:
+            continue
+        added = 0
+        for a in group:
+            if a['id'] not in keep:
+                keep[a['id']] = a
+                added += 1
+                if added >= limit:
+                    break
+            if limit == 0:
+                break
+    return sorted(keep.values(), key=lambda a:a.get('published',''), reverse=True)
 
 def main():
     articles = fetch()
@@ -195,7 +234,7 @@ def main():
     old_map = {a['id']: a for a in old if a.get('id')}
     pending = [a for a in chosen if not a.get('ai_summary')]
     pending.sort(key=lambda a:(is_work(a), editorial_score(a), a.get('published','')), reverse=True)
-    # Maximum 25 per run; once a day's 20 selected articles are summarized,
+    # Maximum 25 per run; once a day's selected articles are summarized,
     # subsequent runs do not re-summarize them.
     budget = max(0, int(os.environ.get('MAX_AI_ARTICLES_PER_RUN', '25')))
     candidates = pending[:budget]
