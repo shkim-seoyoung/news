@@ -99,7 +99,7 @@ def summarize(items):
       "what_to_watch: 확인할 후속 발표, fact_check: RSS 정보 한계와 정책 확정 여부)를 작성한다. "
       "JSON 객체 {\"articles\":[...]}만 출력하며 입력에 없는 id는 생성하지 않는다. "
       "입력 자료: " + json.dumps(pool, ensure_ascii=False))
-    model = os.environ.get('GEMINI_MODEL', 'gemini-2.5-flash-lite')
+    model = os.environ.get('GEMINI_MODEL', 'gemini-3.1-flash-lite')
     endpoint = 'https://generativelanguage.googleapis.com/v1beta/models/' + model + ':generateContent'
     try:
         resp = requests.post(endpoint, headers={'x-goog-api-key': key, 'Content-Type': 'application/json'},
