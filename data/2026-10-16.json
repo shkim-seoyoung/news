@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
-  "updated_at": "2026-10-16T10:35:21.859856+09:00",
-  "article_count": 13,
+  "updated_at": "2026-10-16T10:38:32.266657+09:00",
+  "article_count": 16,
   "ai_enabled": true,
   "articles": [
     {
@@ -22,6 +22,29 @@
         "what_to_watch": "원문 및 공식 후속 발표 확인",
         "fact_check": "제목과 RSS 발췌문만 수집됨"
       }
+    },
+    {
+      "id": "4e51c902b792a7",
+      "title": "[로드픽] 미국발 인플레이션 경고, 한국경제 덮치나…환율·금리·반도체 ‘삼중 압박’ - 뉴스로드",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80QWZKdkcwelRLMkhmaWM3bTR6MElIcFRQRmFDRXhVdk9RSllvcWM5dVhMeE1CUkNWaWNLeXRqaVZkUlpQX0Zwcm5kYU1Hb0pjOVBHa0RlenA5cGdWckEtUGtOeGNsY3pXU3RKYjNjZ9IBb0FVX3lxTE80QWZKdkcwelRLMkhmaWM3bTR6MElIcFRQRmFDRXhVdk9RSllvcWM5dVhMeE1CUkNWaWNLeXRqaVZkUlpQX0Zwcm5kYU1Hb0pjOVBHa0RlenA5cGdWckEtUGtOeGNsY3pXU3RKYjNjZw?oc=5",
+      "source": "뉴스로드",
+      "published": "2026-10-16T09:25:47+09:00",
+      "category": "경제·금융",
+      "description": "[로드픽] 미국발 인플레이션 경고, 한국경제 덮치나…환율·금리·반도체 ‘삼중 압박’ 뉴스로드",
+      "summary": "미국발 인플레이션 경고가 한국 경제에 환율, 금리, 반도체라는 삼중 압박으로 작용하고 있습니다. 경제 전반의 불확실성이 커지며 산업계의 우려가 깊어지고 있습니다.",
+      "impact": "글로벌 공급망 불안정 및 물류비용 상승 가능성",
+      "importance": "보통",
+      "section": "일반 뉴스",
+      "detail": {
+        "background": "미국 경제 지표는 글로벌 물류 및 자동차 산업의 수요에 간접적인 영향을 미침.",
+        "key_points": [
+          "인플레이션 경고에 따른 삼중 압박",
+          "환율·금리·반도체 시장의 불확실성 증대"
+        ],
+        "what_to_watch": "미국 경제 지표 발표 및 한국 경제 대응 정책",
+        "fact_check": "RSS 발췌문 기반, 경제 전망 보도"
+      },
+      "ai_summary": true
     },
     {
       "id": "c2fe6640076fc2",
@@ -50,16 +73,20 @@
       "published": "2026-10-16T09:13:18+09:00",
       "category": "자동차",
       "description": "[오너 경영능력 평가-정의선 ③] 125조·260억달러 투자…‘성과 회수와 지배구조’ 마지막 시험대 에너지경제신문",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
+      "summary": "정의선 현대차그룹 회장의 경영 능력을 평가하며 125조 원 규모의 대규모 투자와 지배구조 개편의 과제를 조명했습니다. 성과 회수와 지배구조 안정화가 향후 그룹의 핵심 시험대가 될 것으로 분석됩니다.",
+      "impact": "CKD 포장 및 물류 전략은 그룹의 대규모 투자 및 생산 거점 재편과 직결되므로 모니터링 필요",
+      "importance": "높음",
       "section": "산업·업무",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
+        "background": "현대차그룹의 대규모 투자 계획과 지배구조 변화는 글로벌 생산 및 공급망 전략에 영향을 미칠 수 있음.",
+        "key_points": [
+          "125조 원 및 260억 달러 규모의 투자 진행",
+          "성과 회수 및 지배구조 개편 과제 직면"
+        ],
+        "what_to_watch": "그룹 차원의 지배구조 개편안 및 투자 집행 속도",
+        "fact_check": "RSS 발췌문 기반, 정책 확정 여부 아님"
+      },
+      "ai_summary": true
     },
     {
       "id": "cf242a256e35bf",
@@ -107,16 +134,20 @@
       "published": "2026-10-16T08:15:00+09:00",
       "category": "경제·금융",
       "description": "美국채금리 급락·뉴욕증시 반등…환율 1340원 하회 시도[외환브리핑] 이데일리",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
+      "summary": "미국 국채 금리 급락과 뉴욕 증시 반등의 영향으로 원/달러 환율이 1340원 하회를 시도하고 있습니다. 외환 시장의 변동성이 커지면서 수출 기업들의 대응이 주목됩니다.",
+      "impact": "환율 하락 시 CKD 수출 대금 회수 및 가격 경쟁력에 직접적인 영향",
+      "importance": "높음",
       "section": "일반 뉴스",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
+        "background": "환율은 수출입 물류 및 포장 비용 정산에 직접적인 영향을 미치는 핵심 지표임.",
+        "key_points": [
+          "미국 국채 금리 급락 및 증시 반등",
+          "원/달러 환율 1340원 하회 시도"
+        ],
+        "what_to_watch": "환율 변동성 지속 여부 및 외환 시장 동향",
+        "fact_check": "RSS 발췌문 기반, 시장 상황 보도"
+      },
+      "ai_summary": true
     },
     {
       "id": "a6acc2763c8dcf",
@@ -181,6 +212,29 @@
       "ai_summary": true
     },
     {
+      "id": "03b220e4e5ae2f",
+      "title": "[전망] 현대모비스, 원화 강세로 이익·목표가 '하향'...중장기 성장성은 유지 - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tLWoyVlFPaEVjazZCbEQ0VFlXRndhaFlpUlNLcjVHeWdGYzNGZ21ySlpBT3RZelFSMEVmeGZmTHBPak5YRklqWXAzRHVRN1lpeFR6Zi1mUUNTa1o5SW5Ka0plSkU1dzRlT29XVnR3?oc=5",
+      "source": "알파경제",
+      "published": "2026-10-16T06:00:00+09:00",
+      "category": "관심 키워드",
+      "description": "[전망] 현대모비스, 원화 강세로 이익·목표가 '하향'...중장기 성장성은 유지 알파경제",
+      "summary": "원화 강세의 영향으로 현대모비스의 이익 전망과 목표 주가가 하향 조정되었습니다. 다만, 중장기적인 성장 잠재력은 여전히 유효하다는 분석이 제기되었습니다.",
+      "impact": "환율 변동에 따른 CKD 수출 채산성 및 물류비용 영향 분석 필요",
+      "importance": "높음",
+      "section": "산업·업무",
+      "detail": {
+        "background": "원화 강세는 수출 중심의 자동차 부품 기업인 현대모비스의 수익성에 직접적인 영향을 미침.",
+        "key_points": [
+          "원화 강세로 인한 이익 전망 하향",
+          "중장기 성장성은 유지 평가"
+        ],
+        "what_to_watch": "환율 추이 및 분기별 실적 발표",
+        "fact_check": "RSS 발췌문 기반, 증권가 분석 보고"
+      },
+      "ai_summary": true
+    },
+    {
       "id": "b9437316193021",
       "title": "화면 크기에 따라 메뉴가 이동하는지 보는 랭크 카지노 보증 - Calgary Roughnecks",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1l6QlQtb0NOQTU2R21oYW8zUHZUdzFLc3ZMM29Ta21XVUUtR0FZQi1DUi1SOFo5a29PbWJIQ3U5WTVHOUttOERuaG5VUGdOWjlxd0xBYzVyQWt5Y3JUSTlpQ3NHUDRBT0k2SmZIXzV2eXZqSmtEcjRUemJnS3Zfb1pUNmllN1l5UWlaUXlqanFINjZZQ3RBd0xGZlA4NzdpRmJ3c2xOb3JBakxtQnZtT05wa2MteGM?oc=5",
@@ -220,6 +274,29 @@
         ],
         "what_to_watch": "인증제도 세부 시행 지침 및 수출 기업 적용 범위",
         "fact_check": "정부인증제도 시행은 확정된 정책임"
+      },
+      "ai_summary": true
+    },
+    {
+      "id": "09e6c686120d6c",
+      "title": "현대모비스, 상하이서 로봇 생태계 글로벌 영토 확장 - 경제타임스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jNFctYm9rWjhjMlpqN0lvSmRnZ0o4dlJvY1NkNzQ3c01hTXlKQ2pDQnJIc0dLSDBLRGUwMFRsOEpvN1RxajNuVW00NUY5bVJCVVdfaWo1bXM?oc=5",
+      "source": "경제타임스",
+      "published": "2026-10-15T19:11:08+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 상하이서 로봇 생태계 글로벌 영토 확장 경제타임스",
+      "summary": "현대모비스가 중국 상하이에서 로봇 생태계 확장을 위한 글로벌 협력을 강화하고 있습니다. 로보틱스 분야의 기술 협력 및 생태계 구축을 통해 미래 모빌리티 경쟁력을 확보하려는 전략입니다.",
+      "impact": "로봇 관련 부품의 CKD 수출 및 물류 프로세스 변화 가능성 확인 필요",
+      "importance": "높음",
+      "section": "산업·업무",
+      "detail": {
+        "background": "현대모비스는 실리콘밸리에 이어 중국을 로보틱스 협력의 거점으로 삼아 기술 생태계를 확장 중임.",
+        "key_points": [
+          "상하이 로봇 생태계 진출 및 협력",
+          "글로벌 로보틱스 기술 협력사 발굴"
+        ],
+        "what_to_watch": "중국 내 로봇 관련 기술 협력의 구체적 성과 및 공급망 편입 여부",
+        "fact_check": "RSS 발췌문 기반, 기업 전략 발표 단계"
       },
       "ai_summary": true
     },
