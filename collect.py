@@ -202,6 +202,8 @@ def topic_key(a):
         return 'mobis-china-robotics'
     if ('코스피' in title or '국내 증시' in title) and ('폭락' in title or '급락' in title):
         return 'korean-market-plunge'
+    if ('현대차' in title or '현대자동차' in title or 'hyundai motor' in title or '현대차그룹' in title) and ('인도' in title or 'india' in title) and ('투자' in title or 'invest' in title) and not ('푸네' in title or 'pune' in title):
+        return 'hyundai-india-investment'
     # Same headline distributed with different publisher suffixes.
     return re.sub(r'[^\w가-힣]','',re.sub(r'\s*[-|]\s*[^-|]+$','',title))[:75]
 
@@ -246,6 +248,11 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
         members.sort(key=lambda a: (representative_score(a), a.get('published', '')), reverse=True)
         representative = dict(members[0])
         representative['section'] = section
+        representative['group_members'] = [
+            {'id': a.get('id'), 'title': a.get('title', ''), 'description': a.get('description', ''),
+             'source': a.get('source', ''), 'published': a.get('published', ''), 'url': a.get('url', '')}
+            for a in members[:4]
+        ]
         representative['related_articles'] = [
             {'title': a.get('title', ''), 'url': a.get('url', ''),
              'source': a.get('source', ''), 'published': a.get('published', '')}
@@ -263,6 +270,117 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
         chosen.append(a)
         counts[section] += 1
     return sorted(chosen, key=lambda a: a.get('published', ''), reverse=True)
+
+def recent_history(days=7):
+    """Read only earlier public digests; never alter historical JSON files."""
+    out = []
+    for offset in range(1, days + 1):
+        day = (NOW - datetime.timedelta(days=offset)).strftime('%Y-%m-%d')
+        path = DATA / (day + '.json')
+        if not path.exists():
+            continue
+        try:
+            for article in json.loads(path.read_text(encoding='utf-8')).get('articles', []):
+                if isinstance(article, dict):
+                    out.append({'date': day, 'article': article})
+        except (ValueError, OSError) as ex:
+            print('History unavailable:', day, ex)
+    return out
+
+
+def same_issue_prior(a, history):
+    """Conservative match: only a recognized issue key or an identical headline."""
+    key = topic_key(a)
+    return [h for h in history if classify(h['article']) == a.get('section')
+            and topic_key(h['article']) == key][:3]
+
+
+def ai_editorial_review(items, history):
+    """AI checks factual novelty against 7-day history and merges same-day RSS snippets.
+
+    Failure defaults to retaining the story, never silently dropping it.
+    """
+    key = os.environ.get('GEMINI_API_KEY', '').strip()
+    if not key or not items:
+        return items
+    model = os.environ.get('GEMINI_MODEL', 'gemini-3.1-flash-lite')
+    endpoint = 'https://generativelanguage.googleapis.com/v1beta/models/' + model + ':generateContent'
+    result = []
+    for start in range(0, len(items), 4):
+        batch = items[start:start + 4]
+        payload = []
+        for a in batch:
+            related = a.get('group_members') or []
+            previous = same_issue_prior(a, history)
+            payload.append({
+                'id': a['id'], 'current': [
+                    {'title': m.get('title'), 'description': m.get('description'), 'source': m.get('source')}
+                    for m in related[:4]
+                ] or [{'title': a.get('title'), 'description': a.get('description')}],
+                'previous': [
+                    {'date': h['date'], 'title': h['article'].get('title'),
+                     'summary': h['article'].get('summary'),
+                     'key_points': (h['article'].get('detail') or {}).get('key_points', [])}
+                    for h in previous
+                ]
+            })
+        prompt = ("너는 뉴스 편집자다. 입력은 RSS 제목/발췌문과 최근 7일 브리핑 기록이며 기사 전문이 아니다. "
+                  "동일한 사건에 대해 전일 보도 대비 확인 가능한 새로운 사실(수치/일정/결정/참여사/변경사항)이 "
+                  "명확하게 없을 때만 status='repeat'로 분류하라. 이전 기사와의 동일성 또는 새 사실 유무가 "
+                  "불명확하면 status='keep'으로 보수적으로 유지하라. 이전 기사가 없는 경우 무조건 keep. "
+                  "같은 날 관련 기사들에서 확인되는 정보를 종합하되 RSS에 없는 사실을 만들지 마라. "
+                  "기사 제목만 다르다는 이유로 새로운 사실이라고 판단하지 마라. "
+                  "각 id마다 status(keep/repeat), summary(한국어 2~3문장), "
+                  "new_information(전일 대비 추가/변경 내용, 없으면 빈 문자열), "
+                  "impact(직접적 CKD 영향이 불명확하면 '직접적인 업무 영향 확인되지 않음'), "
+                  "importance(높음/보통), detail 객체(background, key_points 배열 2~4개, "
+                  "what_to_watch, fact_check)를 포함하라. 전일 기록이 없는 경우 new_information은 빈 문자열. "
+                  "JSON 객체 {\"articles\":[...]}만 출력. 입력: " + json.dumps(payload, ensure_ascii=False))
+        try:
+            resp = requests.post(endpoint, headers={'x-goog-api-key': key, 'Content-Type': 'application/json'},
+                json={'contents': [{'parts': [{'text': prompt}]}],
+                      'generationConfig': {'responseMimeType': 'application/json', 'temperature': 0.1}}, timeout=110)
+            resp.raise_for_status()
+            parsed = json.loads(resp.json()['candidates'][0]['content']['parts'][0]['text'])
+            found = {x['id']: x for x in parsed.get('articles', []) if isinstance(x, dict) and x.get('id')}
+        except Exception as ex:
+            print('Editorial review unavailable, keeping stories:', str(ex)[:250])
+            result.extend(batch)
+            continue
+        for a in batch:
+            x = found.get(a['id'])
+            if not x or not isinstance(x.get('summary'), str) or not x['summary'].strip():
+                result.append(a)
+                continue
+            if x.get('status') == 'repeat' and same_issue_prior(a, history):
+                print('Omitting repeated prior-day issue:', a['title'][:75])
+                continue
+            b = dict(a)
+            # Keep original individual summary as an audit trail before adding a merged one.
+            if b.get('ai_summary') and not b.get('original_summary'):
+                b['original_summary'] = b.get('summary', '')
+                b['original_detail'] = b.get('detail', {})
+            for field in ('summary', 'impact', 'importance'):
+                if isinstance(x.get(field), str) and x[field].strip():
+                    b[field] = norm(x[field])
+            if isinstance(x.get('detail'), dict):
+                b['detail'] = x['detail']
+            b['new_information'] = norm(x.get('new_information', ''))
+            b['ai_summary'] = True
+            b['integrated_summary'] = True
+            b['integration_signature'] = b.get('integration_signature_candidate', '')
+            result.append(b)
+    return result
+
+
+def integration_signature(a, history):
+    members = a.get('group_members') or []
+    previous = same_issue_prior(a, history)
+    # Stable across repeated runs and changes only if input evidence changes.
+    content = {'current': sorted([(m.get('id'), m.get('title'), m.get('description')) for m in members]),
+               'previous': sorted([(h['date'], h['article'].get('id'), h['article'].get('summary')) for h in previous])}
+    return hashlib.sha1(json.dumps(content, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
+
 
 def main():
     articles = fetch()
@@ -293,23 +411,36 @@ def main():
     # Archive first; re-running cannot erase a previously saved AI summary.
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
     chosen = choose_for_day(articles, list(all_saved.values()))
+    history = recent_history(7)
     old_map = all_saved
-    pending = [a for a in chosen if not a.get('ai_summary')]
-    pending.sort(key=lambda a:(is_work(a), editorial_score(a), a.get('published','')), reverse=True)
-    # Maximum 25 per run; once a day's selected articles are summarized,
-    # subsequent runs do not re-summarize them.
-    budget = max(0, int(os.environ.get('MAX_AI_ARTICLES_PER_RUN', '25')))
-    candidates = pending[:budget]
-    selected = summarize(candidates) if candidates else []
-    updates = {a['id']:a for a in selected}
-    merged = []
+    # Reuse previous integrated summary unless today's sources or 7-day comparison changed.
+    review_needed, merged = [], []
     for a in chosen:
-        if a.get('ai_summary'):
-            merged.append(a)
-        elif updates.get(a['id'], {}).get('ai_summary'):
-            merged.append(updates[a['id']])
+        sig = integration_signature(a, history)
+        a['integration_signature_candidate'] = sig
+        cached = old_map.get(a['id'], {})
+        if cached.get('integrated_summary') and cached.get('integration_signature') == sig:
+            saved = dict(cached)
+            saved['related_articles'] = a.get('related_articles', [])
+            merged.append(saved)
         else:
-            merged.append(old_map.get(a['id'], fallback([a])[0]))
+            review_needed.append(a)
+    budget = max(0, int(os.environ.get('MAX_AI_ARTICLES_PER_RUN', '25')))
+    reviewed = ai_editorial_review(review_needed[:budget], history)
+    reviewed_ids = {a['id'] for a in reviewed}
+    for a in reviewed:
+        if a.get('integrated_summary') or a.get('ai_summary'):
+            merged.append(a)
+        else:
+            merged.extend(summarize([a]))
+    # Preserve unreviewed entries and allow a future run to finish their AI analysis.
+    for a in review_needed[budget:]:
+        merged.append(a if a.get('ai_summary') else fallback([a])[0])
+    # If AI review failed to produce a result for an article, it is retained by
+    # ai_editorial_review; only explicit 'repeat' findings are omitted.
+    for a in merged:
+        a.pop('group_members', None)
+        a.pop('integration_signature_candidate', None)
     merged.sort(key=lambda a:a.get('published',''), reverse=True)
     new_items = [a for a in chosen if a['id'] not in old_map]
     # Retain newly completed summaries even if the public selection changes later.
