@@ -101,7 +101,7 @@ def summarize(items):
           "입력은 RSS 기사 제목·발췌문·날짜·링크일 뿐 기사 전문이 아니다. "
           "제공되지 않은 사실·수치·발언을 절대 지어내지 말고 불확실성은 명시한다. "
           "입력된 모든 기사 각각에 대해 반드시 하나의 결과를 반환하라. 기사를 선정하거나 생략하지 마라. "
-          "정책은 발언/제안/검토/확정 시행을 구분한다. "
+          "정책은 발언/제안/검토/확정 시행을 구분한다. 정치인의 비판이나 주장은 사실로 단정하지 않고 발언 주체를 명시한다. 현재 정부를 과거 정부로 표현하지 말고, 시점이 확인되지 않은 과거 사례를 임의로 추가하지 마라. "
           "인명·정부명·한자 약칭을 추측해서 풀어 쓰지 마라. 李정부는 이명박 정부가 아니며, 불확실하면 원문 표기를 유지한다. "
           "각 기사마다 id, summary(한국어 2~3문장), impact(CKD 관련성이 없으면 "
           "'직접적인 업무 영향 확인되지 않음'), importance('높음' 또는 '보통'), "
@@ -349,7 +349,7 @@ def ai_editorial_review(items, history):
                   "명확하게 없을 때만 status='repeat'로 분류하라. 이전 기사와의 동일성 또는 새 사실 유무가 "
                   "불명확하면 status='keep'으로 보수적으로 유지하라. 이전 기사가 없는 경우 무조건 keep. "
                   "같은 날 관련 기사들에서 확인되는 정보를 종합하되 RSS에 없는 사실을 만들지 마라. "
-                  "기사 제목만 다르다는 이유로 새로운 사실이라고 판단하지 마라. "
+                  "기사 제목만 다르다는 이유로 새로운 사실이라고 판단하지 마라. 정치인의 비판·주장은 사실로 단정하지 말고 발언 주체를 명시하라. 현재 정부를 과거 정부로 서술하거나 근거 없는 과거 정책 사례를 만들지 마라. "
                   "정치인·정부명·한자 약칭을 추측해서 풀어 쓰지 마라. 특히 李정부를 이명박 정부로 해석하지 말고, 불확실하면 원문 표기를 유지하라. "
                   "각 id마다 status(keep/repeat), summary(한국어 2~3문장), "
                   "new_information(전일 대비 추가/변경 내용, 없으면 빈 문자열), "
@@ -404,21 +404,24 @@ def integration_signature(a, history):
 
 
 def correct_known_name_error(a):
-    """Correct a previously cached misreading of the government name."""
-    if '李정부' not in a.get('title', ''):
+    """Repair a known cached political-summary error without rewriting other news."""
+    if '李정부' not in a.get('title', '') or '정점식' not in a.get('title', ''):
         return a
     a = dict(a)
-    def fix(v):
-        if isinstance(v, str):
-            return v.replace('이명박 정부', '이재명 정부')
-        if isinstance(v, list):
-            return [fix(x) for x in v]
-        if isinstance(v, dict):
-            return {k: fix(x) for k, x in v.items()}
-        return v
-    for field in ('summary', 'detail', 'original_summary', 'original_detail', 'new_information'):
-        if field in a:
-            a[field] = fix(a[field])
+    a['summary'] = ("정점식 의원은 최근 증시 폭락과 관련해 이재명 정부가 국민연금을 "
+                    "동원해 증시를 정치적으로 부양했다고 주장하며 비판했습니다. "
+                    "이는 정 의원의 주장으로, 실제 국민연금 동원 여부나 증시 하락의 원인은 기사 제목만으로 확인할 수 없습니다.")
+    a['original_summary'] = a['summary']
+    a['detail'] = {
+        'background': '최근 증시 하락을 둘러싼 정치권의 정부 정책 비판을 다룬 기사입니다.',
+        'key_points': [
+            '정점식 의원이 이재명 정부의 국민연금 동원 의혹을 제기',
+            '증시 하락 원인에 관한 정치적 주장으로, 인과관계는 확인되지 않음'
+        ],
+        'what_to_watch': '정부·국민연금 측의 공식 설명과 관련 근거 공개 여부',
+        'fact_check': 'RSS 제목에 인용된 의원 발언만 확인되며 실제 국민연금 운용 내역과 증시 영향은 검증되지 않음'
+    }
+    a['original_detail'] = dict(a['detail'])
     return a
 
 
@@ -443,7 +446,7 @@ def main():
     all_saved = {a['id']: correct_known_name_error(a) for a in archived if a.get('id')}
     for a in old:
         if a.get('id'):
-            all_saved[a['id']] = a
+            all_saved[a['id']] = correct_known_name_error(a)
     # Save new RSS candidates too, so grouped related links survive later runs.
     for a in articles:
         if a.get('id'):
