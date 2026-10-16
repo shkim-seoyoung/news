@@ -1,53 +1,29 @@
 {
   "date": "2026-10-16",
-  "updated_at": "2026-10-16T12:51:12.595504+09:00",
-  "article_count": 34,
+  "updated_at": "2026-10-16T13:03:17.984256+09:00",
+  "article_count": 12,
   "ai_enabled": true,
   "articles": [
     {
-      "id": "950991d1702dd2",
-      "title": "현대모비스 주가, 10월 16일 장중 359,000원 6.37% 상승 - 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFMUZXa0o5NlA1OFFid3Z2Q1FMNC1tTnpHMHpiMzc3d0NLdF9xR0J1U0x4aVg5UjJYeklEV01ZN0xUR3otanVDdThlNlBBdFJnc0s2MFpzNkQtdmhlRFk5OVE5NjhPRExZUG9EN0tCWVVoQQ?oc=5",
-      "source": "톱스타뉴스",
-      "published": "2026-10-16T11:34:07+09:00",
-      "category": "관심 키워드",
-      "description": "현대모비스 주가, 10월 16일 장중 359,000원 6.37% 상승 톱스타뉴스",
-      "summary": "10월 16일 장중 현대모비스의 주가가 전일 대비 6.37% 상승한 359,000원을 기록했습니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "산업·업무",
-      "detail": {
-        "background": "당일 주식 시장에서의 현대모비스 주가 변동 현황을 보도한 내용입니다.",
-        "key_points": [
-          "10월 16일 장중 주가 상승",
-          "상승률 6.37% 기록"
-        ],
-        "what_to_watch": "주가 변동에 따른 시장의 추가 분석 및 기업 공시",
-        "fact_check": "RSS 발췌문 기반의 당일 시장 데이터"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "00fb4ebcb12706",
-      "title": "이 대통령 지지율 39%…총선 ‘정부견제론’ 47%, ‘지원론’ 34%[한국갤럽] - 경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sN3k2OTJ2RWlwazhMdzgzazVZUW80LTFOeVNlMlo3NHlMYUkzNDFSV0lZaUc4aXhVVlFoMS00c0d1cXM4U2NkNnBXWTQ3OWtoLWJkSEVmMTAyd9IBX0FVX3lxTE4xQ0l6WWJxeHJlTjZDV1BiTllDS0QtaEd5a09VaXpvMVdtYWVsSDBWZk1HV2ZrRWhhUUMzZzlBZGw2RGlJWHFhRGVYM083elU2aGhEZUNEZ3VpbG9YcEVF?oc=5",
-      "source": "경향신문",
-      "published": "2026-10-16T10:54:00+09:00",
+      "id": "d6d4c6d4501825",
+      "title": "정점식 \"증시 폭락, 李정부 국민연금 동원 '정치 부양' 탓\" - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zc2h2RVVjNi1ObDdhZk9kYVRHeXVZQ1RkcDN3TGo2NF9henNMLU9mak9HTVFQZ1RQekJWdUdsZkZtQnlUMThrNGdkWVU4bGpydFd5eHFoS2cwUQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-16T10:50:49+09:00",
       "category": "정치·정책",
-      "description": "이 대통령 지지율 39%…총선 ‘정부견제론’ 47%, ‘지원론’ 34%[한국갤럽] 경향신문",
-      "summary": "한국갤럽 조사 결과 이 대통령의 지지율이 39%로 나타났습니다. 총선과 관련하여 정부 견제론과 지원론이 팽팽하게 대립하고 있습니다.",
+      "description": "정점식 \"증시 폭락, 李정부 국민연금 동원 '정치 부양' 탓\" 한국경제",
+      "section": "일반 뉴스",
+      "summary": "정점식 의원이 최근 증시 폭락의 원인을 이명박 정부 당시 국민연금을 동원한 '정치 부양' 탓으로 돌리며 정치권 공방이 이어지고 있습니다. 해당 발언은 현 경제 상황에 대한 정치적 해석을 담고 있습니다.",
       "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
-      "section": "일반 뉴스",
       "detail": {
-        "background": "최근 정치권의 지지율 변화와 총선 민심을 확인하기 위한 여론조사 결과입니다. 정부 정책 추진 동력과 직결되는 지표로 해석됩니다.",
+        "background": "최근 증시 변동성이 커지면서 정치권에서 과거 정부의 경제 정책에 대한 책임론이 제기되고 있습니다. 정점식 의원은 국민연금의 시장 개입이 현재의 부작용을 초래했다고 주장했습니다.",
         "key_points": [
-          "이 대통령 지지율 39% 기록",
-          "총선 관련 정부 견제론(47%) vs 지원론(34%)",
-          "한국갤럽 여론조사 결과"
+          "정점식 의원, 증시 폭락 원인으로 과거 정부의 국민연금 동원 지목",
+          "정치권 내 경제 정책 책임 공방 가열"
         ],
-        "what_to_watch": "향후 지지율 추이 및 총선 관련 정치권 변화",
-        "fact_check": "RSS 제목 및 발췌문 기반으로 작성됨"
+        "what_to_watch": "정치권의 추가적인 경제 정책 비판 및 관련 대응",
+        "fact_check": "제공된 RSS 발췌문에는 해당 발언의 구체적인 근거 데이터가 포함되어 있지 않음"
       },
       "ai_summary": true
     },
@@ -76,311 +52,25 @@
       "ai_summary": true
     },
     {
-      "id": "7dcc0a059cca1d",
-      "title": "강남구, 행정안전부 주관 재난관리평가 행정안전부 장관 표창 수상 - 아시아뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wWXNUS3B0QnNSMGtwMTRrTnVyMm9kamtUb0p2NWc0YjVMcTRWa0JwZXFSeGRHMEVrd1QxT0FFVXkzaFZFMHNzaGIyOWtGdV9mLWF1d1FaRnRkTHZm?oc=5",
-      "source": "아시아뉴스통신",
-      "published": "2026-10-16T10:38:33+09:00",
-      "category": "국내 주요 사건",
-      "description": "강남구, 행정안전부 주관 재난관리평가 행정안전부 장관 표창 수상 아시아뉴스통신",
-      "summary": "강남구가 행정안전부 주관 재난관리평가에서 장관 표창을 수상했습니다. 지자체의 재난 관리 역량 강화는 지역 내 물류 시설 안전 관리와 간접적인 연관이 있을 수 있습니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "행정안전부는 매년 지자체를 대상으로 재난 관리 실태를 평가하여 우수 기관을 선정합니다. 강남구의 수상은 지역 안전 관리 체계의 우수성을 인정받은 결과입니다.",
-        "key_points": [
-          "강남구 재난관리평가 장관 표창 수상",
-          "행정안전부 주관 평가"
-        ],
-        "what_to_watch": "지자체별 재난 관리 정책 변화",
-        "fact_check": "RSS 발췌문 기반으로 작성됨"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "a034528a91bda9",
-      "title": "현대모비스, 울산고래축제·울산 런페스타 참가…\"시민들 만나 다양한 이벤트 진행\" - 마이데일리",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FSURlNGFPaFBfaVVlMEw0ZE5YcnJSMWYxenVaWVlvSlFnYjV4UVBBUGFtZklrY3VRbW81UTVNQThLSTNRZGU5SE9OX2R1Vk9kanFTMUtYN0x6Q1JqOTJobkJ4UEJrZw?oc=5",
-      "source": "마이데일리",
-      "published": "2026-10-16T10:33:20+09:00",
+      "id": "ca14b28eb98d82",
+      "title": "中 로봇 생태계로 뛰어든 현대모비스 - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWb053SG04Skt5RFlobUR6NjVPa0NfTmhTblFveG8wUUprNTV0eXJsOU1MWGJsYnUwWDhTVWRoRHpnQ2hROFNGTDQ2NFA5RFZC0gFUQVVfeXFMTU1NbWlfUG9vdkg5aTVabVpBSXBxSnJ5QndwbVFDUTlyb1lDYjNBR3oyM2NKc3pQTzBxeW1SQVJuMVVadDlWenhidkV2T0drSUJGRVpv?oc=5",
+      "source": "세계일보",
+      "published": "2026-10-16T06:00:00+09:00",
       "category": "관심 키워드",
-      "description": "현대모비스, 울산고래축제·울산 런페스타 참가…\"시민들 만나 다양한 이벤트 진행\" 마이데일리",
-      "summary": "현대모비스가 울산고래축제 및 울산 런페스타에 참가하여 시민들과 소통하는 이벤트를 진행했습니다. 이는 기업의 사회적 책임 및 브랜드 이미지 제고 활동의 일환입니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "산업·업무",
-      "detail": {
-        "background": "현대모비스는 주요 사업장이 위치한 울산 지역에서 다양한 지역 밀착형 사회공헌 활동을 지속하고 있습니다.",
-        "key_points": [
-          "현대모비스 울산고래축제 참가",
-          "울산 런페스타 이벤트 진행"
-        ],
-        "what_to_watch": "현대모비스의 지역 사회공헌 활동 확대 여부",
-        "fact_check": "RSS 발췌문 기반으로 작성됨"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "07ff60c5f0f9dd",
-      "title": "코스피 폭락에 개미 한숨 쉬는데…정부 \"증시 기초여건 견조\" - 한국경제",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kc3N2Q2hBSW1YYktGVmZnM2s5LU1QRnZMN1B5cElDX2RVaEFaaUs5ZjNUYU1vb2dKT2Z2cmJzMEpwZkdmSmVvVHJjYTNQVGlLdEgwMmFWUzBfQQ?oc=5",
-      "source": "한국경제",
-      "published": "2026-10-16T10:21:41+09:00",
-      "category": "경제·금융",
-      "description": "코스피 폭락에 개미 한숨 쉬는데…정부 \"증시 기초여건 견조\" 한국경제",
-      "summary": "코스피 지수 급락에도 불구하고 정부는 우리 증시의 기초여건(펀더멘털)이 견조하다고 평가했습니다. 국내 증시 불안은 기업의 자금 조달 및 투자 환경에 영향을 미칠 수 있습니다.",
-      "impact": "국내 경제 상황 변화에 따른 경영 환경 모니터링 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "최근 국내 증시의 변동성이 확대되면서 투자자들의 우려가 커지자 정부가 시장 안정 메시지를 전달한 것으로 보입니다.",
-        "key_points": [
-          "코스피 지수 급락",
-          "정부의 증시 기초여건 견조 평가",
-          "시장 불안 심리 확산"
-        ],
-        "what_to_watch": "정부의 추가적인 시장 안정화 대책 발표",
-        "fact_check": "RSS 발췌문 기반으로 작성됨"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "e1eac2cee44723",
-      "title": "[신간] 운명을 바꾸는 초압축 경제공부 - 한국사회복지저널",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PSGF1aHQwazI0N29BWEoyb3hNSGRzVy1EOXg2Y2o2eHU2OE9QVktCT2wzRmRsaXMxekMwcGdSQlc1TXlDczgwcHhEbFI1dEJsQ1ZSSFBNV0VTczh0R0d0Q2hQaEdtb29QSE9n?oc=5",
-      "source": "한국사회복지저널",
-      "published": "2026-10-16T10:02:15+09:00",
-      "category": "경제·금융",
-      "description": "[신간] 운명을 바꾸는 초압축 경제공부 한국사회복지저널",
-      "summary": "신간 '운명을 바꾸는 초압축 경제공부'가 출간되었습니다. 경제 지식 습득을 위한 도서 소개 기사입니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "4e51c902b792a7",
-      "title": "[로드픽] 미국발 인플레이션 경고, 한국경제 덮치나…환율·금리·반도체 ‘삼중 압박’ - 뉴스로드",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80QWZKdkcwelRLMkhmaWM3bTR6MElIcFRQRmFDRXhVdk9RSllvcWM5dVhMeE1CUkNWaWNLeXRqaVZkUlpQX0Zwcm5kYU1Hb0pjOVBHa0RlenA5cGdWckEtUGtOeGNsY3pXU3RKYjNjZ9IBb0FVX3lxTE80QWZKdkcwelRLMkhmaWM3bTR6MElIcFRQRmFDRXhVdk9RSllvcWM5dVhMeE1CUkNWaWNLeXRqaVZkUlpQX0Zwcm5kYU1Hb0pjOVBHa0RlenA5cGdWckEtUGtOeGNsY3pXU3RKYjNjZw?oc=5",
-      "source": "뉴스로드",
-      "published": "2026-10-16T09:25:47+09:00",
-      "category": "경제·금융",
-      "description": "[로드픽] 미국발 인플레이션 경고, 한국경제 덮치나…환율·금리·반도체 ‘삼중 압박’ 뉴스로드",
-      "summary": "미국발 인플레이션 경고가 한국 경제에 환율, 금리, 반도체라는 삼중 압박으로 작용하고 있습니다. 경제 전반의 불확실성이 커지며 산업계의 우려가 깊어지고 있습니다.",
-      "impact": "글로벌 공급망 불안정 및 물류비용 상승 가능성",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "미국 경제 지표는 글로벌 물류 및 자동차 산업의 수요에 간접적인 영향을 미침.",
-        "key_points": [
-          "인플레이션 경고에 따른 삼중 압박",
-          "환율·금리·반도체 시장의 불확실성 증대"
-        ],
-        "what_to_watch": "미국 경제 지표 발표 및 한국 경제 대응 정책",
-        "fact_check": "RSS 발췌문 기반, 경제 전망 보도"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "65ab955e1d3173",
-      "title": "초대 중수청장 김지용 공식 업무 시작…개청 2주 만에 지휘체계 정비 본격화 - 서울뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwVEdTbTFQYlNORGhySTJ2TC1Cc0hkYmNOdE0wR04tOVhiVEh3NHc3MWgyNFZiSGNMTGFnZktNSzZVa3d5RlcxbnVidVhLLXFrU3pPUTBSWXRzTmM4OUN4QlpRc1ZQTWNfV0E4?oc=5",
-      "source": "서울뉴스통신",
-      "published": "2026-10-16T09:15:00+09:00",
-      "category": "국내 주요 사건",
-      "description": "초대 중수청장 김지용 공식 업무 시작…개청 2주 만에 지휘체계 정비 본격화 서울뉴스통신",
-      "summary": "김지용 초대 중수청장이 공식 업무를 시작하며 개청 2주 만에 조직 지휘체계 정비에 나섰다. 중수청의 본격적인 행보가 시작됨에 따라 향후 관련 정책 및 조사 방향에 이목이 쏠리고 있다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "중대범죄수사청(중수청)이 개청한 지 2주가 경과한 시점이다. 초대 청장 취임으로 조직 운영의 기틀을 마련하는 단계에 있다.",
-        "key_points": [
-          "김지용 초대 중수청장 공식 업무 개시",
-          "개청 2주 차 지휘체계 정비 본격화"
-        ],
-        "what_to_watch": "중수청의 향후 주요 수사 방향 및 조직 운영 세부 계획",
-        "fact_check": "제공된 정보 외 구체적인 정책 방향이나 수사 대상은 명시되지 않음"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "c2fe6640076fc2",
-      "title": "안철수 \"靑 영문 홈피, 北 지뢰도발을 '재수없는 사고'라니\" - 데일리안",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNSjdCRC01LWNZMjY2MDJUUFdWTGVZd3UtSVBJSU04Z3RJZlAwMWVxRnpIVENQYndGV2N2X2F4M205UWxKclh1UGp4dWRjcG9GSldqNjZlY3NYb0lSX1V5N1EwNllJV3NOalowMXFqdkRnZnFMUFFNeWlBOW5zUGtLZWUxS0ptZHU0eGFPTDU4UmdJSUQzcWNmWHVlRFZVamZyYUIxc3Jrc2lCaTFJcDBybWY0amx3cTdkM2dsOE5Bdi1rLUYzRU1KZF85YXphNXI4NDFQRnJVQzJwcWxNWUFBSzBPNm04RmEydHNRRW50S0FnR0J1VC15eHZPck13SjZjX3dqZDVfRjUwOVdFV3c?oc=5",
-      "source": "데일리안",
-      "published": "2026-10-16T09:14:00+09:00",
-      "category": "국내 주요 사건",
-      "description": "안철수 \"靑 영문 홈피, 北 지뢰도발을 '재수없는 사고'라니\" 데일리안",
-      "summary": "안철수 의원이 청와대 영문 홈페이지의 북한 지뢰 도발 관련 표현을 비판한 내용입니다. 정치적 논란에 관한 보도입니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "b6e528b7f77c62",
-      "title": "[오너 경영능력 평가-정의선 ③] 125조·260억달러 투자…‘성과 회수와 지배구조’ 마지막 시험대 - 에너지경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NZ2tPZkFMY0JIOVp1eUdpV2lwWjYwTzQyWUYwSlZZTDJXdFBGQ2FrR2FjTWtDWXFGREVrOFQydExKYkJfdnhyZFpLdkNyNEpuMkMwWjB3WFFMMDU2Ml9UMHByRQ?oc=5",
-      "source": "에너지경제신문",
-      "published": "2026-10-16T09:13:18+09:00",
-      "category": "자동차",
-      "description": "[오너 경영능력 평가-정의선 ③] 125조·260억달러 투자…‘성과 회수와 지배구조’ 마지막 시험대 에너지경제신문",
-      "summary": "정의선 현대차그룹 회장의 경영 능력을 평가하며 125조 원 규모의 대규모 투자와 지배구조 개편의 과제를 조명했습니다. 성과 회수와 지배구조 안정화가 향후 그룹의 핵심 시험대가 될 것으로 분석됩니다.",
-      "impact": "CKD 포장 및 물류 전략은 그룹의 대규모 투자 및 생산 거점 재편과 직결되므로 모니터링 필요",
+      "description": "中 로봇 생태계로 뛰어든 현대모비스 세계일보",
+      "summary": "현대모비스가 중국 로봇 생태계에 본격적으로 진출하며 사업 영역을 확장하고 있다. 이는 자동차 부품을 넘어 로봇 기술을 활용한 신사업 동력 확보 전략으로 보인다.",
+      "impact": "로봇 관련 부품의 CKD 수출 가능성 및 신규 물류 자동화 솔루션 도입 가능성 존재",
       "importance": "높음",
       "section": "산업·업무",
       "detail": {
-        "background": "현대차그룹의 대규모 투자 계획과 지배구조 변화는 글로벌 생산 및 공급망 전략에 영향을 미칠 수 있음.",
+        "background": "현대모비스는 기존 자동차 부품 사업에서 로봇 및 모빌리티 솔루션 기업으로의 체질 개선을 시도하고 있다. 중국은 거대한 로봇 시장을 보유하고 있어 전략적 요충지로 평가된다.",
         "key_points": [
-          "125조 원 및 260억 달러 규모의 투자 진행",
-          "성과 회수 및 지배구조 개편 과제 직면"
+          "현대모비스의 중국 로봇 생태계 진출",
+          "신사업 동력 확보를 위한 기술 투자"
         ],
-        "what_to_watch": "그룹 차원의 지배구조 개편안 및 투자 집행 속도",
-        "fact_check": "RSS 발췌문 기반, 정책 확정 여부 아님"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "cf242a256e35bf",
-      "title": "“전날 급락에 반발 매수세 유입”…국내 증시, 강한 반등 기대되는 이유는? - 주간시사매거진",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hakc0NHFYb0R0QnBET182VTlVYW1lTl9uQlEwR0VYS055NkI5RE9GZHhNcEx0bmU3U1lPZjRnNmdwX3BCSExab2U0Sy1sdDE3NDBsekhYMm1KdUF5Um81VllEVWpYaGItSUQ5SFpB?oc=5",
-      "source": "주간시사매거진",
-      "published": "2026-10-16T08:47:03+09:00",
-      "category": "경제·금융",
-      "description": "“전날 급락에 반발 매수세 유입”…국내 증시, 강한 반등 기대되는 이유는? 주간시사매거진",
-      "summary": "전날 급락했던 국내 증시에 반발 매수세가 유입되며 반등이 기대된다는 시장 분석 기사입니다. 투자 심리 변화를 다루고 있습니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "44e71d18c15380",
-      "title": "PPI 폭등했는데 금리 왜 떨어졌나... 증시 색깔 이렇게 바뀐다 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoSkk0RTF4UFFjSnM4ZEdjQk1xOEwzT2tfdFBTUEdjQ0dsakZtWDU4Ty1Lb1h2SEtZNFYzVHg5eUs2bVVKN1pHd3hKM0xVNGNsLVNocg?oc=5",
-      "source": "매일경제",
-      "published": "2026-10-16T08:43:14+09:00",
-      "category": "경제·금융",
-      "description": "PPI 폭등했는데 금리 왜 떨어졌나... 증시 색깔 이렇게 바뀐다 매일경제",
-      "summary": "생산자물가지수(PPI) 폭등에도 불구하고 금리가 하락한 현상과 이에 따른 증시 영향력을 분석한 기사입니다. 거시 경제 지표와 시장 반응을 다룹니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "61ea40d9d03027",
-      "title": "美국채금리 급락·뉴욕증시 반등…환율 1340원 하회 시도[외환브리핑] - 이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZXl4b25pMEFpdmFkcVh0bTF6NVA0SEE1aVdHSmpCZWFiY2ZEbzNmTnNrRnJKLXF2SHNxNDBzS201YmlmaDAzMFJUYm02Y0tZNWhVbmxXUUZUVldIamY0LWRISXY3cXRRRjJSaWNLQ3FESVVJWHl4ZGdFakJPY3M1UQ?oc=5",
-      "source": "이데일리",
-      "published": "2026-10-16T08:15:00+09:00",
-      "category": "경제·금융",
-      "description": "美국채금리 급락·뉴욕증시 반등…환율 1340원 하회 시도[외환브리핑] 이데일리",
-      "summary": "미국 국채 금리 급락과 뉴욕 증시 반등의 영향으로 원/달러 환율이 1340원 하회를 시도하고 있습니다. 외환 시장의 변동성이 커지면서 수출 기업들의 대응이 주목됩니다.",
-      "impact": "환율 하락 시 CKD 수출 대금 회수 및 가격 경쟁력에 직접적인 영향",
-      "importance": "높음",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "환율은 수출입 물류 및 포장 비용 정산에 직접적인 영향을 미치는 핵심 지표임.",
-        "key_points": [
-          "미국 국채 금리 급락 및 증시 반등",
-          "원/달러 환율 1340원 하회 시도"
-        ],
-        "what_to_watch": "환율 변동성 지속 여부 및 외환 시장 동향",
-        "fact_check": "RSS 발췌문 기반, 시장 상황 보도"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "a6acc2763c8dcf",
-      "title": "'치이카와'가 대한민국 정치판에 산다면…이재명·홍준표·한동훈·추미애·임광현은 누구? [시사뒷담] - 매일신문",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mcE9hZVhFaVk5OGtTd3o3dWpWMGIxOVRTVl9fWnFEaUtyRDhJNUN2M2NybHduWWlxNHRtYjA3eFVheXVpZ0NRM2ZuVzlzeXE4QUZuM3IwQThWb3VhUU1ldDJn?oc=5",
-      "source": "매일신문",
-      "published": "2026-10-16T07:26:06+09:00",
-      "category": "국내 주요 사건",
-      "description": "'치이카와'가 대한민국 정치판에 산다면…이재명·홍준표·한동훈·추미애·임광현은 누구? [시사뒷담] 매일신문",
-      "summary": "인기 캐릭터 '치이카와'를 활용해 국내 주요 정치인들의 성향을 비유적으로 분석한 시사 칼럼입니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "e2ea5a862cd907",
-      "title": "“글로벌 오픈이노베이션 아시아 확대”..현대모비스, ‘모빌리티 데이’ 개최 - 데일리카",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0a0l3blJGTEJzVFZnX3VyYVU1bmVaRFJzZTJmVENkNjBhSXQtcjJfY2NFd2lhYTVhVm9jTFg3U0xhRF9QSnV6UHMydmRMNHUwd3JfaVdxX3JHMmdtTjRnTE1ZUzFkX1hGNzQtclpTaXp2WmI1VVE?oc=5",
-      "source": "데일리카",
-      "published": "2026-10-16T07:08:06+09:00",
-      "category": "관심 키워드",
-      "description": "“글로벌 오픈이노베이션 아시아 확대”..현대모비스, ‘모빌리티 데이’ 개최 데일리카",
-      "summary": "현대모비스가 '모빌리티 데이'를 개최하고 글로벌 오픈이노베이션 전략을 아시아 지역으로 확대하겠다는 계획을 밝혔다. 이는 미래 모빌리티 기술 확보를 위한 협력 생태계 강화의 일환으로 풀이된다.",
-      "impact": "현대모비스의 글로벌 공급망 및 기술 협력 전략 변화는 CKD 부품 수출 물량 및 현지화 전략에 간접적인 영향을 미칠 수 있음",
-      "importance": "높음",
-      "section": "산업·업무",
-      "detail": {
-        "background": "현대모비스는 미래 모빌리티 시장 선점을 위해 글로벌 기술 협력을 지속적으로 추진해 왔다. 이번 행사는 아시아 시장에서의 기술 거점 확보를 목표로 한다.",
-        "key_points": [
-          "글로벌 오픈이노베이션 아시아 확대 전략 발표",
-          "현대모비스 '모빌리티 데이' 개최"
-        ],
-        "what_to_watch": "아시아 지역 내 구체적인 기술 협력 파트너 및 CKD 관련 부품 현지화 연계 여부",
-        "fact_check": "오픈이노베이션의 구체적인 실행 로드맵은 기사 내용에 포함되지 않음"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "8efd8046957644",
-      "title": "미국증시, 다우 556P 급등·나스닥 강보합…국채금리 하락에 반전 - 톱스타뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxODdrTDM2MlZLVnNnZTNpWE9QTDdOTDRuVmN2YmFIcmJNaGdrVjJqTXJCN2ZNQzlJY1pwQ3N6cE9MUkx4TWY2cHl1S1JvOXl1T29xZnQ4T0hmejBnZW56NUtJdkF0QkgzYWE2bF9uYzVhUQ?oc=5",
-      "source": "톱스타뉴스",
-      "published": "2026-10-16T06:58:40+09:00",
-      "category": "경제·금융",
-      "description": "미국증시, 다우 556P 급등·나스닥 강보합…국채금리 하락에 반전 톱스타뉴스",
-      "summary": "미국 증시가 국채 금리 하락에 힘입어 다우 지수가 556포인트 급등하고 나스닥이 강보합세를 보이며 반등했습니다. 글로벌 금융 시장의 변동성이 CKD 수출 물류비 및 환율에 영향을 줄 수 있습니다.",
-      "impact": "환율 변동에 따른 수출 채산성 영향 가능성 있음",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "미국 국채 금리 하락은 통상적으로 증시의 투자 심리를 개선하는 요인으로 작용합니다. 글로벌 경제 지표 변화는 수출입 기업의 금융 비용 및 환율 리스크와 직결됩니다.",
-        "key_points": [
-          "다우 지수 556포인트 급등",
-          "나스닥 강보합 마감",
-          "국채 금리 하락이 시장 반등 견인"
-        ],
-        "what_to_watch": "환율 변동 추이 및 글로벌 금리 정책 변화",
-        "fact_check": "RSS 발췌문 기반으로 작성되었으며 기사 전문 확인 필요"
+        "what_to_watch": "중국 내 로봇 관련 구체적인 사업 모델 및 CKD 공급망과의 시너지 효과",
+        "fact_check": "진출 규모 및 구체적인 로봇 사업의 성격은 명시되지 않음"
       },
       "ai_summary": true
     },
@@ -409,276 +99,25 @@
       "ai_summary": true
     },
     {
-      "id": "03b220e4e5ae2f",
-      "title": "[전망] 현대모비스, 원화 강세로 이익·목표가 '하향'...중장기 성장성은 유지 - 알파경제",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tLWoyVlFPaEVjazZCbEQ0VFlXRndhaFlpUlNLcjVHeWdGYzNGZ21ySlpBT3RZelFSMEVmeGZmTHBPak5YRklqWXAzRHVRN1lpeFR6Zi1mUUNTa1o5SW5Ka0plSkU1dzRlT29XVnR3?oc=5",
-      "source": "알파경제",
-      "published": "2026-10-16T06:00:00+09:00",
-      "category": "관심 키워드",
-      "description": "[전망] 현대모비스, 원화 강세로 이익·목표가 '하향'...중장기 성장성은 유지 알파경제",
-      "summary": "원화 강세의 영향으로 현대모비스의 이익 전망과 목표 주가가 하향 조정되었습니다. 다만, 중장기적인 성장 잠재력은 여전히 유효하다는 분석이 제기되었습니다.",
-      "impact": "환율 변동에 따른 CKD 수출 채산성 및 물류비용 영향 분석 필요",
-      "importance": "높음",
-      "section": "산업·업무",
-      "detail": {
-        "background": "원화 강세는 수출 중심의 자동차 부품 기업인 현대모비스의 수익성에 직접적인 영향을 미침.",
-        "key_points": [
-          "원화 강세로 인한 이익 전망 하향",
-          "중장기 성장성은 유지 평가"
-        ],
-        "what_to_watch": "환율 추이 및 분기별 실적 발표",
-        "fact_check": "RSS 발췌문 기반, 증권가 분석 보고"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "ca14b28eb98d82",
-      "title": "中 로봇 생태계로 뛰어든 현대모비스 - 세계일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWb053SG04Skt5RFlobUR6NjVPa0NfTmhTblFveG8wUUprNTV0eXJsOU1MWGJsYnUwWDhTVWRoRHpnQ2hROFNGTDQ2NFA5RFZC0gFUQVVfeXFMTU1NbWlfUG9vdkg5aTVabVpBSXBxSnJ5QndwbVFDUTlyb1lDYjNBR3oyM2NKc3pQTzBxeW1SQVJuMVVadDlWenhidkV2T0drSUJGRVpv?oc=5",
-      "source": "세계일보",
-      "published": "2026-10-16T06:00:00+09:00",
-      "category": "관심 키워드",
-      "description": "中 로봇 생태계로 뛰어든 현대모비스 세계일보",
-      "summary": "현대모비스가 중국 로봇 생태계에 본격적으로 진출하며 사업 영역을 확장하고 있다. 이는 자동차 부품을 넘어 로봇 기술을 활용한 신사업 동력 확보 전략으로 보인다.",
-      "impact": "로봇 관련 부품의 CKD 수출 가능성 및 신규 물류 자동화 솔루션 도입 가능성 존재",
-      "importance": "높음",
-      "section": "산업·업무",
-      "detail": {
-        "background": "현대모비스는 기존 자동차 부품 사업에서 로봇 및 모빌리티 솔루션 기업으로의 체질 개선을 시도하고 있다. 중국은 거대한 로봇 시장을 보유하고 있어 전략적 요충지로 평가된다.",
-        "key_points": [
-          "현대모비스의 중국 로봇 생태계 진출",
-          "신사업 동력 확보를 위한 기술 투자"
-        ],
-        "what_to_watch": "중국 내 로봇 관련 구체적인 사업 모델 및 CKD 공급망과의 시너지 효과",
-        "fact_check": "진출 규모 및 구체적인 로봇 사업의 성격은 명시되지 않음"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "8f22effdebcecd",
-      "title": "[BK 프리뷰] 연패 끊어야 하는 소노, 연승 원하는 현대모비스 - 바스켓코리아",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1udTVncWJKV3ItclVUV3ByNzVJb0V6ZzNvZTEwZHNvMmQyNU5CLUdTTXc1VC10YWFPQWQ3NnAzUjVhMTRncmRMR3hwbTFFNEFPRUZ1dzhkdkl2eTdfQlN1SHY3SnNfU2RKYjFDcVRUOVNndw?oc=5",
-      "source": "바스켓코리아",
-      "published": "2026-10-16T05:55:50+09:00",
-      "category": "관심 키워드",
-      "description": "[BK 프리뷰] 연패 끊어야 하는 소노, 연승 원하는 현대모비스 바스켓코리아",
-      "summary": "프로농구 현대모비스 팀의 경기 프리뷰 기사로, 연승을 노리는 팀의 상황을 다루고 있다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "산업·업무",
-      "detail": {
-        "background": "현대모비스 프로농구단과 관련된 스포츠 경기 일정 및 팀 분위기에 관한 내용이다.",
-        "key_points": [
-          "현대모비스 농구단 연승 도전",
-          "소노와의 경기 프리뷰"
-        ],
-        "what_to_watch": "경기 결과",
-        "fact_check": "기업 경영 및 CKD 수출과는 무관한 스포츠 뉴스임"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "b9437316193021",
-      "title": "화면 크기에 따라 메뉴가 이동하는지 보는 랭크 카지노 보증 - Calgary Roughnecks",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV1l6QlQtb0NOQTU2R21oYW8zUHZUdzFLc3ZMM29Ta21XVUUtR0FZQi1DUi1SOFo5a29PbWJIQ3U5WTVHOUttOERuaG5VUGdOWjlxd0xBYzVyQWt5Y3JUSTlpQ3NHUDRBT0k2SmZIXzV2eXZqSmtEcjRUemJnS3Zfb1pUNmllN1l5UWlaUXlqanFINjZZQ3RBd0xGZlA4NzdpRmJ3c2xOb3JBakxtQnZtT05wa2MteGM?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "2026-10-16T05:15:31+09:00",
-      "category": "전동화",
-      "description": "화면 크기에 따라 메뉴가 이동하는지 보는 랭크 카지노 보증 Calgary Roughnecks",
-      "summary": "해당 기사는 웹사이트 UI/UX 관련 내용으로 보이며, CKD 자동차 수출포장 업무와는 관련이 없습니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "산업·업무",
-      "detail": {
-        "background": "입력된 기사 제목과 내용은 자동차 산업과 무관한 웹사이트 기능 테스트 관련 정보로 판단됩니다.",
-        "key_points": [
-          "웹 화면 크기에 따른 메뉴 이동 테스트",
-          "카지노 관련 키워드 포함"
-        ],
-        "what_to_watch": "없음",
-        "fact_check": "RSS 정보 한계로 인해 기사 내용이 산업과 무관함"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "235f29b96e80bd",
-      "title": "\"국민 모두의 대통령, 옳은 방향…성공 서두르다 통합 소홀\" - 이데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObHV4REt1UzdnbkhaV0otd2dDN3FFMVRXS2QtdklQMXVfOG9laDNfTTVWcm5XUElKLTE5aFJwUmdfUWFVM0V4VnhOOHdPT0VGYzRBcWQtWmZadTFpa1JtQmJCNGhaSElrRkRfampRZzB5SEhTYk5DVUFIdVZFbGVMWg?oc=5",
+      "id": "34231275ceadb9",
+      "title": "\"내년 채권시장 반등 기대…기준금리 정점은 3.25%~3.5%\" - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmNuc0VDZXcwQXFTS2FhbUZHUEQyWGRnNVJkeGlqNTlpa3p5TWV1OHU1c0VaRUREOEZPQldtTi1YbEZZLTltN25aUHJqaEs5eXlQbVJaUTZCTmVsaEtrVG1yZ2lQd3VSWUYtQ0dIX3VQM042UWxENmM1bmpCZWYwdA?oc=5",
       "source": "이데일리",
-      "published": "2026-10-16T05:05:03+09:00",
-      "category": "정치·정책",
-      "description": "\"국민 모두의 대통령, 옳은 방향…성공 서두르다 통합 소홀\" 이데일리",
-      "summary": "대통령의 국정 운영 방향과 통합 노력에 대한 정치적 평가를 다룬 기사이다. 성공을 서두르는 과정에서 국민 통합이 다소 소홀했다는 비판적 시각을 담고 있다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "현 정부의 국정 운영 방식에 대한 정치권 및 언론의 평가가 이어지고 있다.",
-        "key_points": [
-          "국정 운영 방향에 대한 평가",
-          "성공 지향적 정책 추진과 통합의 균형 문제 제기"
-        ],
-        "what_to_watch": "향후 국정 운영 기조 변화 및 관련 정책 발표",
-        "fact_check": "특정 정책의 구체적인 시행 여부는 언급되지 않음"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "f70a1984dc40b8",
-      "title": "국가인증상표 부착 위조상품 대응··· 'K-브랜드 정부인증제도' 시행 - Naver Blog",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ2lCcmUxdGNRbWc2YlNveFJJTjNIdF9OVC1TQ25CeXZUaEdUOVVXYnZPQU5uN3JXS0h6MUFoV2FaTzFzNXlmOGwzbUI5ZlNuamppRzFTQ1dFS3llRFJDTVJLX1VCVnBiQ0lHZHRqVk9XVC1tM0dqaldWQnZzUnFoUkctOU5oV2cxWXVNc19R?oc=5",
-      "source": "Naver Blog",
-      "published": "2026-10-16T04:29:38+09:00",
-      "category": "정치·정책",
-      "description": "국가인증상표 부착 위조상품 대응··· 'K-브랜드 정부인증제도' 시행 Naver Blog",
-      "summary": "정부가 국가인증상표를 부착한 위조상품에 대응하기 위해 'K-브랜드 정부인증제도'를 시행합니다. 이는 국내 브랜드의 지식재산권 보호와 수출 경쟁력 강화를 목적으로 합니다.",
-      "impact": "수출 포장 시 국가인증상표 관련 규정 준수 및 위조 방지 패키징 기술 적용 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "해외 시장에서 K-브랜드의 위상이 높아짐에 따라 위조상품 피해가 증가하고 있습니다. 정부는 이를 방지하기 위해 공식 인증 제도를 도입하여 브랜드 신뢰도를 제고하고자 합니다.",
-        "key_points": [
-          "K-브랜드 정부인증제도 시행",
-          "위조상품 대응 및 지식재산권 보호",
-          "수출 브랜드 신뢰도 강화"
-        ],
-        "what_to_watch": "인증제도 세부 시행 지침 및 수출 기업 적용 범위",
-        "fact_check": "정부인증제도 시행은 확정된 정책임"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "09e6c686120d6c",
-      "title": "현대모비스, 상하이서 로봇 생태계 글로벌 영토 확장 - 경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jNFctYm9rWjhjMlpqN0lvSmRnZ0o4dlJvY1NkNzQ3c01hTXlKQ2pDQnJIc0dLSDBLRGUwMFRsOEpvN1RxajNuVW00NUY5bVJCVVdfaWo1bXM?oc=5",
-      "source": "경제타임스",
-      "published": "2026-10-15T19:11:08+09:00",
-      "category": "관심 키워드",
-      "description": "현대모비스, 상하이서 로봇 생태계 글로벌 영토 확장 경제타임스",
-      "summary": "현대모비스가 중국 상하이에서 로봇 생태계 확장을 위한 글로벌 협력을 강화하고 있습니다. 로보틱스 분야의 기술 협력 및 생태계 구축을 통해 미래 모빌리티 경쟁력을 확보하려는 전략입니다.",
-      "impact": "로봇 관련 부품의 CKD 수출 및 물류 프로세스 변화 가능성 확인 필요",
-      "importance": "높음",
-      "section": "산업·업무",
-      "detail": {
-        "background": "현대모비스는 실리콘밸리에 이어 중국을 로보틱스 협력의 거점으로 삼아 기술 생태계를 확장 중임.",
-        "key_points": [
-          "상하이 로봇 생태계 진출 및 협력",
-          "글로벌 로보틱스 기술 협력사 발굴"
-        ],
-        "what_to_watch": "중국 내 로봇 관련 기술 협력의 구체적 성과 및 공급망 편입 여부",
-        "fact_check": "RSS 발췌문 기반, 기업 전략 발표 단계"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "320f4d084df1c4",
-      "title": "실리콘밸리 다음은 상하이…현대모비스 기술 동맹 - 경제타임스",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTVkYxWC1PNlpWNnQ2T2J6RmtDNDk0b0hiRXM4c1puVkE1QkllV1R6MkJ4VEhxdkl0c3pJMTBHTzVWaDc5eFBhaDFudVgyaEptRzRz?oc=5",
-      "source": "경제타임스",
-      "published": "2026-10-15T19:11:08+09:00",
-      "category": "관심 키워드",
-      "description": "실리콘밸리 다음은 상하이…현대모비스 기술 동맹 경제타임스",
-      "summary": "현대모비스가 실리콘밸리에 이어 상하이를 중심으로 기술 동맹을 확대하며 글로벌 기술 경쟁력을 강화하고 있습니다.",
-      "impact": "중국 시장 내 부품 공급 및 기술 협력 전략 변화 가능성",
-      "importance": "보통",
-      "section": "산업·업무",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "2a0d1aadc52cac",
-      "title": "현대모비스, 실리콘밸리 이어 中서 로보틱스 협력사 찾는다 - 대한경제",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPYll5NFV1WXNVSDNCMFczcmRqZ1ZuZlk3QjRJSXRVNGFwV2ZoaWdkNGRwMEhSclVPNkZaZ1UwNEF2V1EzV1hSRTJUYmRLdE91ZVBfRWh1NDlxaVBIQ2RLSENub1A3WmktT0ktZGNIWmFSejQ?oc=5",
-      "source": "대한경제",
-      "published": "2026-10-15T18:19:53+09:00",
-      "category": "관심 키워드",
-      "description": "현대모비스, 실리콘밸리 이어 中서 로보틱스 협력사 찾는다 대한경제",
-      "summary": "현대모비스가 실리콘밸리에 이어 중국 시장에서 로보틱스 분야의 새로운 협력사를 찾고 있습니다. 미래 모빌리티 기술 확보를 위한 글로벌 네트워크 확장 전략의 일환으로 풀이됩니다.",
-      "impact": "로보틱스 관련 부품의 CKD 수출 물량 및 공급망 다변화 가능성 존재",
-      "importance": "높음",
-      "section": "산업·업무",
-      "detail": {
-        "background": "현대모비스는 최근 로보틱스 기술 고도화를 위해 글로벌 기술 협력을 강화하고 있습니다. 이번 행보는 중국 내 유망 로봇 기업과의 기술 제휴를 통해 시장 경쟁력을 확보하려는 의도로 보입니다.",
-        "key_points": [
-          "현대모비스의 로보틱스 기술 협력 대상 확대",
-          "중국 시장 내 기술 파트너 발굴 추진",
-          "글로벌 기술 거점 확보 전략"
-        ],
-        "what_to_watch": "구체적인 협력 대상 기업 및 기술 제휴 범위 발표",
-        "fact_check": "RSS 제목 및 발췌문 기반으로 작성됨"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "526d1e7dfddb99",
-      "title": "[기업] 현대모비스, 중국 기업과 로봇 관련 기술 협력 논의 - YTN",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3LUlZMlMyVUVJa01wTEZyVXhhTlNEcjdRak5GRFFTSkx1dUUtd1ZaaEJta1VNQ1VYd21Ua1VXRUZETUxZTE4tZWRuTGFYZGdTekE0cFVKMmd5d2F4cUE?oc=5",
-      "source": "YTN",
-      "published": "2026-10-15T18:04:00+09:00",
-      "category": "관심 키워드",
-      "description": "[기업] 현대모비스, 중국 기업과 로봇 관련 기술 협력 논의 YTN",
-      "summary": "현대모비스가 중국 기업들과 로봇 관련 기술 협력을 논의 중인 것으로 알려졌습니다. 로봇 기술 내재화 및 글로벌 협업 생태계 구축을 위한 행보로 분석됩니다.",
-      "impact": "로보틱스 관련 부품의 CKD 수출 물량 및 공급망 다변화 가능성 존재",
-      "importance": "높음",
-      "section": "산업·업무",
-      "detail": {
-        "background": "현대모비스는 모빌리티 솔루션 기업으로의 전환을 위해 로봇 기술을 핵심 역량으로 육성하고 있습니다. 중국 기업과의 협력은 기술적 시너지를 창출하기 위한 전략적 선택으로 판단됩니다.",
-        "key_points": [
-          "현대모비스-중국 기업 간 로봇 기술 협력 논의",
-          "로봇 관련 기술 내재화 추진",
-          "글로벌 기술 협력 네트워크 강화"
-        ],
-        "what_to_watch": "협력 논의의 구체적 성과 및 공식 발표",
-        "fact_check": "RSS 제목 및 발췌문 기반으로 작성됨"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "1719adf6e2632d",
-      "title": "[‘클릭’ 증시] 유가·美 물가에 코스피·코스닥 7%대 폭락 - 공공뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6YU4wMGcxbUlFNUVYTXdCMUdCMHF2R0dVc3B4Z0VsSlRHNmpPR2MxUFpJSmx2SmZMTDg0QUw4NDZ1QnNGUTN5dUE1MC1QOVBkSlMtbGZ3MzBZRzE0Q3pIOUQ3WEJ0UnFFVHfSAW5BVV95cUxPTEd0S094aDZyNWMxYU9rcmZoQWxic2VYcGN6SC13OUdrQlIwbDh3WC1QcnpVSlVZRElLS29QZXM2cjNmdEZ5LWQ5QkJKaEtrNmdPYUNRVllpUVNjNmN6SjZobWx6cEpVeERQLUhoUQ?oc=5",
-      "source": "공공뉴스",
-      "published": "2026-10-15T17:56:38+09:00",
+      "published": "2026-10-16T00:04:02+09:00",
       "category": "경제·금융",
-      "description": "[‘클릭’ 증시] 유가·美 물가에 코스피·코스닥 7%대 폭락 공공뉴스",
-      "summary": "미국 물가 지표 충격과 유가 상승 여파로 국내 증시가 7%대 폭락을 기록했습니다. 글로벌 경제 불확실성이 커지면서 국내 수출입 기업들의 경영 환경에도 경고등이 켜졌습니다.",
-      "impact": "환율 변동성 확대 및 글로벌 물류비용 상승 가능성으로 인한 수출입 물류 리스크 관리 필요",
-      "importance": "높음",
+      "description": "\"내년 채권시장 반등 기대…기준금리 정점은 3.25%~3.5%\" 이데일리",
       "section": "일반 뉴스",
+      "summary": "시장 전문가들은 내년 채권시장 반등을 기대하며 기준금리 정점을 3.25%~3.5% 수준으로 전망했습니다. 금리 안정화는 기업의 자금 조달 비용과 환율 변동성에 영향을 미칠 수 있습니다.",
+      "impact": "금리 변동에 따른 수출 기업의 금융 비용 및 환율 변동성 관리 필요",
+      "importance": "높음",
       "detail": {
-        "background": "미국 생산자물가지수(PPI) 등 물가 지표가 예상치를 상회하며 금리 인하 기대감이 후퇴했습니다. 이로 인해 글로벌 증시가 동반 하락하며 국내 시장에도 큰 충격을 주었습니다.",
+        "background": "고금리 기조가 이어지는 가운데 시장에서는 금리 인상 사이클의 종료 시점과 향후 금리 인하 가능성에 주목하고 있습니다. 이는 기업의 투자 계획 및 재무 전략 수립의 핵심 지표입니다.",
         "key_points": [
-          "미국 물가 충격 및 유가 상승",
-          "코스피·코스닥 7%대 폭락",
-          "글로벌 경제 불확실성 증대"
+          "내년 채권시장 반등 전망",
+          "기준금리 정점 3.25%~3.5% 수준 예상"
         ],
-        "what_to_watch": "환율 추이 및 글로벌 물류 운임 변동",
-        "fact_check": "증시 폭락은 시장 데이터에 기반함"
-      },
-      "ai_summary": true
-    },
-    {
-      "id": "ea9fcbce9274a3",
-      "title": "[자동차오늘] 현대차, 팰리세이드 하이브리드 기술력 입증 外 현대모비스·지프 - 천지일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CMUZ1ZmxSTk1hRUFkN1loTmFyU2xyV19DRnlGbFRTY1VxQ3YzSUM4UHMwenB2V2YycGowcTJzdlRaSjc2WDNNYmN4RGxralFlMldvdEpZbnd4dUdnTzE5QVR4Y19QYmg3QXc?oc=5",
-      "source": "천지일보",
-      "published": "2026-10-15T17:16:14+09:00",
-      "category": "관심 키워드",
-      "description": "[자동차오늘] 현대차, 팰리세이드 하이브리드 기술력 입증 外 현대모비스·지프 천지일보",
-      "summary": "현대차의 팰리세이드 하이브리드 기술력 입증과 현대모비스 및 지프 관련 소식이 포함된 자동차 산업 단신입니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "section": "산업·업무",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "what_to_watch": "한국은행의 향후 금리 결정 및 시장 금리 추이",
+        "fact_check": "제공된 RSS 정보는 전문가들의 전망치이며 실제 금리 결정은 통화정책 방향에 따라 달라질 수 있음"
       },
       "ai_summary": true
     },
@@ -707,73 +146,145 @@
       "ai_summary": true
     },
     {
-      "id": "90073fa7453774",
-      "title": "현대모비스, 미국 이어 중국서도 ‘로봇 동맹’ 찾는다 - 한겨레",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aLU8zLWRYSFliOW13M29YaG5TcHBEYnhpVDc5eHo1WTgzNVNLeW5CSGpLblRYemVscEw2VVlPOS1VZkhIMkkzVGhvMy1QTTkzSnZFREpoblRCaXdTOThHY3EyR1M4Mzk2bHc?oc=5",
-      "source": "한겨레",
-      "published": "2026-10-15T16:46:00+09:00",
-      "category": "관심 키워드",
-      "description": "현대모비스, 미국 이어 중국서도 ‘로봇 동맹’ 찾는다 한겨레",
-      "summary": "현대모비스가 미국에 이어 중국에서도 로봇 관련 기술 동맹을 모색하고 있습니다. 글로벌 로봇 시장에서의 입지를 다지기 위한 전략적 행보가 가속화되고 있습니다.",
-      "impact": "로보틱스 관련 부품의 CKD 수출 물량 및 공급망 다변화 가능성 존재",
+      "id": "ff672c3667bd09",
+      "title": "증시 폭락에 원·달러 환율 급등 [김혜란의 FX] - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWnpRU1BJQUEzS2JQMHVuX2wxaWFDS0dodGc5NEtXZWozd3ZfQ1FuVUJTS21pVVV5U1Y3WU5pekNfV2JfNDQ5WDZmOENBdXpVelE?oc=5",
+      "source": "서울경제",
+      "published": "2026-10-15T16:00:20+09:00",
+      "category": "경제·금융",
+      "description": "증시 폭락에 원·달러 환율 급등 [김혜란의 FX] 서울경제",
+      "section": "일반 뉴스",
+      "summary": "증시 폭락의 여파로 원·달러 환율이 급등하는 등 금융시장 불안이 가중되고 있습니다. 환율 상승은 수출 기업의 가격 경쟁력에는 긍정적일 수 있으나, 원자재 수입 비용 증가 등 복합적인 영향을 미칩니다.",
+      "impact": "환율 급등으로 인한 CKD 부품 수입 및 수출 정산 비용 변동성 확대",
       "importance": "높음",
-      "section": "산업·업무",
       "detail": {
-        "background": "현대모비스는 로봇 기술을 미래 성장 동력으로 삼고 글로벌 파트너십을 적극적으로 추진 중입니다. 이번 중국 행보는 기술 확보와 시장 확대를 동시에 겨냥한 것으로 보입니다.",
+        "background": "주식 시장의 급격한 하락은 안전자산 선호 심리를 자극하여 달러 강세와 원화 약세를 유도합니다. 환율 변동성은 수출입 기업의 수익성에 직접적인 영향을 주는 요소입니다.",
         "key_points": [
-          "현대모비스의 글로벌 로봇 동맹 확대",
-          "미국에 이은 중국 시장 내 파트너십 추진",
-          "미래 모빌리티 기술 경쟁력 강화"
+          "증시 폭락에 따른 원·달러 환율 급등",
+          "금융시장 변동성 확대에 따른 외환 리스크 증가"
         ],
-        "what_to_watch": "향후 중국 내 파트너십 체결 여부 및 구체적 협력 분야",
-        "fact_check": "RSS 제목 및 발췌문 기반으로 작성됨"
+        "what_to_watch": "외환 당국의 시장 개입 여부 및 환율 추이",
+        "fact_check": "제공된 RSS 정보는 현상에 대한 보도이며 환율의 구체적인 수치는 명시되지 않음"
       },
       "ai_summary": true
     },
     {
-      "id": "11c2abfd81eb1f",
-      "title": "“북한 지뢰를 ‘재수없는 사고’로 포장한 청와대”…이 대통령 맹렬히 비판한 정치인 - 위키트리",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12THJCeGdZbW1kTWxCOWVidU5SMlM4Z3NjU0l6Qmdpbk4wcUJoNGFObDBFQlhUMmVYT0RaUkRDQ242U21mX2xBRWp5RU9hRy1CTzdmcUxB?oc=5",
-      "source": "위키트리",
-      "published": "2026-10-15T11:27:00+09:00",
-      "category": "국내 주요 사건",
-      "description": "“북한 지뢰를 ‘재수없는 사고’로 포장한 청와대”…이 대통령 맹렬히 비판한 정치인 위키트리",
-      "summary": "북한 지뢰 사고와 관련하여 청와대의 대응을 비판하는 정치인의 발언이 보도되었습니다. 정치권 내 공방이 이어지고 있는 상황입니다.",
+      "id": "96556a11a6ff96",
+      "title": "Hyundai Motor Group to Invest $15.5 Billion in India Over Seven Years, Expands Production Capacity to 1.43 Million Vehicles - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwSmt4Wm1aSHFVUXVfcHhYbzNKcGxkT01oUTRTTUxhYVpGWkp2SlFKU1l4ZEQ0dDl5OGdDdkx5TEVKMkMxd2pYM3V4aE5vUkp0ZUpXUVR3VGs5aW5zcWg4ZndxRlJyZml5SktUSGhR?oc=5",
+      "source": "알파경제",
+      "published": "2026-10-15T06:00:00+09:00",
+      "category": "자동차",
+      "description": "Hyundai Motor Group to Invest $15.5 Billion in India Over Seven Years, Expands Production Capacity to 1.43 Million Vehicles 알파경제",
+      "section": "산업·업무",
+      "summary": "현대차그룹이 향후 7년간 인도에 155억 달러(약 21조 원)를 투자하여 생산 능력을 143만 대 규모로 확대할 계획을 확정했습니다. 이번 투자는 인도 시장을 단순 생산 기지를 넘어 글로벌 수출 및 개발의 핵심 거점으로 육성하기 위한 전략적 결정입니다.",
+      "impact": "인도 현지 생산 능력 확대에 따른 CKD 부품 공급망 재편 및 물류 최적화 필요성 증대.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차그룹은 인도 시장의 성장 잠재력을 높게 평가하며 대규모 자본 투입을 통해 생산 인프라를 대폭 강화하고 있습니다. 이는 글로벌 공급망 다변화 전략의 일환으로 해석됩니다.",
+        "key_points": [
+          "7년간 155억 달러 투자 확정",
+          "연간 생산 능력 143만 대 확보 목표",
+          "인도를 글로벌 수출 및 개발 허브로 육성"
+        ],
+        "what_to_watch": "연도별 구체적인 투자 집행 계획 및 생산 라인 증설 일정.",
+        "fact_check": "제시된 투자 금액과 생산 목표치는 기사 내용을 기반으로 함."
+      },
+      "ai_summary": true
+    },
+    {
+      "id": "6fa8dda863f5fd",
+      "title": "[오늘의 PICK!] 현대차그룹, 인도에 21조원 투자…생산 넘어 개발·수출 중심축으로 키운다 - 코리아포스트 한글판",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lNkdQYlVfeW5LOXV4Q2VXdTdFMzZONGdRaUNXeExkZm45dUxFeXhFV3ZEejl0Q2NPYUxhRUZxRFJjM015cnFsd0V6NHFDY0N4VVNPYWRMWGlDc1MzVjFuSDRwSjhQVGVJUklpVUFn?oc=5",
+      "source": "코리아포스트 한글판",
+      "published": "2026-10-14T22:31:06+09:00",
+      "category": "자동차",
+      "description": "[오늘의 PICK!] 현대차그룹, 인도에 21조원 투자…생산 넘어 개발·수출 중심축으로 키운다 코리아포스트 한글판",
+      "section": "산업·업무",
+      "summary": "현대차그룹이 인도 시장에 21조 원 규모의 대규모 투자를 단행하며, 인도 법인을 단순 생산 기지에서 개발 및 수출의 핵심 축으로 격상시킵니다. 정의선 회장의 인도 총리 면담 등을 통해 해당 투자 전략이 공식화되었습니다.",
+      "impact": "인도 거점의 역할 변화에 따른 CKD 수출 물량 및 부품 현지화 전략의 대대적인 수정 가능성.",
+      "importance": "높음",
+      "detail": {
+        "background": "인도는 현대차그룹의 글로벌 전략에서 가장 중요한 시장 중 하나로 부상하고 있으며, 이번 투자는 현지 시장 점유율 유지 및 글로벌 수출 경쟁력 강화를 목적으로 합니다.",
+        "key_points": [
+          "21조 원 규모의 인도 투자 확정",
+          "생산, 개발, 수출을 아우르는 통합 거점화",
+          "정부 차원의 협력 강화"
+        ],
+        "what_to_watch": "인도 현지 생산 비중 확대에 따른 국내 CKD 수출 물량의 변동 추이.",
+        "fact_check": "투자 금액은 기사 내용을 인용함."
+      },
+      "ai_summary": true
+    },
+    {
+      "id": "6812769c9ad776",
+      "title": "[K-금융 글로벌 전략 2026] [폴란드·헝가리] 배터리 공장 따라갔던 신한은행…폴란드서 방산·원전 '새 먹거리' - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmNVWEZ5a0hrWjdhMXNHLV9rYVFMTXlnYU9MTnZNamVGa0M2azhnZkVxWmVlMXd0RDhnU2NhYnpiWlFIeEJJdnNUTUp3QUZHWW5MUGJfOEdKaklCanJneFFtemtBTXpaY2tRbVRRNmF3a0Q1bVpvWm1JXzVtZGJaeU02RG55WGdodWpfYUpKWQ?oc=5",
+      "source": "Naver Blog",
+      "published": "2026-10-14T20:00:16+09:00",
+      "category": "전동화",
+      "description": "[K-금융 글로벌 전략 2026] [폴란드·헝가리] 배터리 공장 따라갔던 신한은행…폴란드서 방산·원전 '새 먹거리' Naver Blog",
+      "section": "산업·업무",
+      "summary": "신한은행이 폴란드 등 동유럽 시장에서 배터리 기업들의 진출을 지원하며 쌓은 네트워크를 바탕으로 방산 및 원전 분야로 금융 지원 범위를 확대하고 있습니다. 이는 국내 기업들의 글로벌 공급망 진출에 따른 금융 동반 성장의 사례입니다.",
       "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
-      "section": "일반 뉴스",
       "detail": {
-        "background": "북한 지뢰 사고에 대한 정부의 대응 방식이 정치적 논란의 중심이 되고 있습니다. 특정 정치인이 이를 비판하며 정치적 공방이 가열되는 양상입니다.",
+        "background": "국내 기업들이 유럽 내 생산 기지를 구축함에 따라 국내 금융권도 현지 금융 지원을 통해 동반 진출하는 전략을 취하고 있습니다.",
         "key_points": [
-          "북한 지뢰 사고 관련 청와대 대응 비판",
-          "정치권의 공방 심화"
+          "배터리 기업 동반 진출을 통한 네트워크 확보",
+          "폴란드 내 방산 및 원전 분야로 금융 지원 확대",
+          "글로벌 금융 전략 강화"
         ],
-        "what_to_watch": "정치권의 추가 대응 및 여론 추이",
-        "fact_check": "RSS 제목 및 발췌문 기반으로 작성됨"
+        "what_to_watch": "추가적인 국내 기업의 폴란드 진출 시 금융 지원 연계 여부.",
+        "fact_check": "금융권의 전략적 움직임을 다룬 기사로 CKD 물류와는 직접적 연관성이 낮음."
       },
       "ai_summary": true
     },
     {
-      "id": "90cd4b173987b3",
-      "title": "현대모비스, 美 실리콘밸리 이어 中 상하이로 글로벌 오픈이노베이션 확대! | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaE53WXZDTTlNcERqMUYyZGd1UlZJQzlmSTc0Z19KcjgtcHdSamdXeW5BWXFNdHFvSVF0bi0tc3dYOWtxUWNZR3ZVYmg1SjNMVmxONmdrWWFRTEU0amN3dVdmWGJQNXd0NEIwR3BNRXB4d2t4dlZERGRpR2piSTJucG10emhlSzZKcWlHMWRuSkw?oc=5",
-      "source": "Hyundai Motor Group",
-      "published": "2026-10-15T11:02:00+09:00",
-      "category": "관심 키워드",
-      "description": "현대모비스, 美 실리콘밸리 이어 中 상하이로 글로벌 오픈이노베이션 확대! | 뉴스 | 현대자동차그룹 Hyundai Motor Group",
-      "summary": "현대모비스가 미국 실리콘밸리에 이어 중국 상하이에 글로벌 오픈이노베이션 거점을 확대하며 기술 협력을 강화합니다.",
-      "impact": "중국 현지 CKD 부품 소싱 및 기술 협력 생태계 변화 가능성",
-      "importance": "보통",
+      "id": "d7efbb8cede53c",
+      "title": "[이슈] 현대차, 인도서 '제2 성장판' 키운다…\"푸네공장에 부품사 120곳 동행\" - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vM1JjSUR2d0J3a0ZlOHNWYmpMdTZlUmJzQ0dSbVlHMEtBVmktNG1tMklwa3QxeHRHSXFiTGxzNHFGZWNYVVpvYVFKNkhQYVl3dlZUX2p3RXZoeWowVTVYbU9PSnZGNmc?oc=5",
+      "source": "팍스경제TV",
+      "published": "2026-10-14T17:23:38+09:00",
+      "category": "자동차",
+      "description": "[이슈] 현대차, 인도서 '제2 성장판' 키운다…\"푸네공장에 부품사 120곳 동행\" 팍스경제TV",
       "section": "산업·업무",
+      "summary": "현대차가 인도 푸네 공장 증설과 함께 120여 개의 국내 부품 협력사와 동반 진출을 추진하며 인도 시장에서의 제2 성장판을 마련하고 있습니다. 이는 현지 생산 체계 강화와 공급망 안정화를 동시에 도모하는 전략입니다.",
+      "impact": "부품사 동반 진출에 따른 CKD 공급망의 현지화 가속화 및 국내 수출 물량 구조 변화.",
+      "importance": "높음",
       "detail": {
-        "background": "현대모비스의 글로벌 기술 거점 전략의 일환으로, 중국 시장 내 기술 동맹을 통한 경쟁력 확보를 목표로 합니다.",
+        "background": "현대차는 인도 내 생산 능력 확대를 위해 부품 공급망의 현지화가 필수적이라고 판단하고, 협력사들과 함께 생태계를 구축하고 있습니다.",
         "key_points": [
-          "상하이 오픈이노베이션 거점 확대",
-          "글로벌 기술 동맹 강화",
-          "실리콘밸리 모델의 중국 확장"
+          "푸네 공장 중심의 생산 확대",
+          "120개 부품 협력사 동반 진출",
+          "인도 시장 내 공급망 생태계 조성"
         ],
-        "what_to_watch": "상하이 거점의 구체적인 기술 협력 분야 및 파트너사 발표",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "what_to_watch": "동반 진출하는 부품사들의 현지 생산 시작 시점 및 CKD 물량 대체 속도.",
+        "fact_check": "부품사 120곳 동반 진출은 기사 내용을 기반으로 함."
+      },
+      "ai_summary": true
+    },
+    {
+      "id": "92737e9f4ba0a4",
+      "title": "현대차 정의선 회장, 인도 총리 만나 투자·성장 전략 제시 - 스페셜경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91Rk16QU5wOTFlakJkeVdmZUxETlJEcVFjcnNrNW51SDNTTTB3Skh5aFpnRVh6RTY3S1ZmWjR5Vjg1V2ZaWXVyZEpTd2ZJR2NYZHk2MVdTNXFBYnI5VlN3d0ZlSmwxSTREZ3NiXw?oc=5",
+      "source": "스페셜경제",
+      "published": "2026-10-14T13:51:00+09:00",
+      "category": "자동차",
+      "description": "현대차 정의선 회장, 인도 총리 만나 투자·성장 전략 제시 스페셜경제",
+      "section": "산업·업무",
+      "summary": "정의선 현대차그룹 회장이 인도 총리와 면담을 갖고 인도 시장에 대한 대규모 투자 및 성장 전략을 직접 제시했습니다. 이번 면담은 현대차그룹의 인도 사업 확대 의지를 재확인하고 정부 차원의 지원을 확보하기 위한 행보로 풀이됩니다.",
+      "impact": "인도 투자 전략의 공식화에 따른 향후 CKD 공급망 및 물류 계획의 구체화 예상.",
+      "importance": "높음",
+      "detail": {
+        "background": "글로벌 자동차 시장의 불확실성 속에서 인도는 현대차그룹의 핵심 성장 동력으로 지목되고 있으며, 최고 경영진의 직접적인 소통을 통해 사업 추진력을 확보하고 있습니다.",
+        "key_points": [
+          "정의선 회장과 인도 총리 간 투자 전략 논의",
+          "인도 시장 성장 전략 제시",
+          "정부 차원의 협력 및 지원 논의"
+        ],
+        "what_to_watch": "면담 이후 인도 정부의 구체적인 인센티브 정책 발표 여부.",
+        "fact_check": "정의선 회장의 인도 총리 면담 사실을 기반으로 함."
       },
       "ai_summary": true
     }
