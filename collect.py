@@ -82,34 +82,81 @@ def fallback(items):
     return out
 
 def summarize(items):
-    key=os.environ.get('OPENAI_API_KEY')
-    if not key: return fallback(items)
-    from openai import OpenAI
-    client=OpenAI(api_key=key)
-    pool=items[:100]
-    prompt='''아래는 RSS로 수집한 뉴스의 제목, 짧은 발췌문, 링크와 날짜다. 원문 전문을 읽지 않았으므로 주어진 정보에 없는 사실을 만들지 마라. 같은 사건은 하나만 선택한다. 한국어로 일반 뉴스 5~10건과 산업·업무 뉴스 5~10건을 각각 고르고 국내외 주요 뉴스와 자동차/CKD/물류 뉴스를 균형 있게 포함한다. 각 기사별 id, summary(근거 있는 1~2문장), impact(자동차 CKD 수출포장, 생산물량, 선적, 통관 관련성이 확인되는 경우에만 구체적으로, 아니면 '직접적인 업무 영향 확인되지 않음'), importance('높음' 또는 '보통'), detail({background:기사 배경 2~3문장,key_points:확인 가능한 주요 사실 2~4개 배열,what_to_watch:향후 확인할 발표·변수,fact_check:발언/검토/확정 구분 및 정보 한계})를 JSON 객체 {"articles":[...]}로 출력하라. 입력에 없는 ID를 만들지 마라. 제목만으로 추정한 내용은 추정임을 명시하라.''' 
+    """Use Gemini free-tier when available; never claim to have read full articles."""
+    key = os.environ.get('GEMINI_API_KEY', '').strip()
+    if not key:
+        print('GEMINI_API_KEY missing; using RSS-only fallback')
+        return fallback(items)
+    pool = items[:30]
+    prompt = ("너는 CKD 자동차 수출포장 및 국내외 주요 뉴스 브리핑 편집자다. "
+      "입력은 RSS 기사 제목·발췌문·날짜·링크일 뿐 기사 전문이 아니다. "
+      "제공되지 않은 사실·수치·발언을 절대 지어내지 말고 불확실성은 명시한다. "
+      "산업·업무 기사와 일반 주요 뉴스를 골고루 선택하되, 중요도와 중복을 고려하여 최대 15건 선정한다. "
+      "정책은 발언/제안/검토/확정 시행을 반드시 구분한다. "
+      "각 기사마다 id, summary(한국어 2~3문장), impact(CKD 포장·물류·선적·생산 관련성이 "
+      "확인되지 않으면 '직접적인 업무 영향 확인되지 않음'), importance('높음' 또는 '보통'), "
+      "detail 객체(background: 근거 기반 2~3문장, key_points: 주요 내용 문자열 배열 2~4개, "
+      "what_to_watch: 확인할 후속 발표, fact_check: RSS 정보 한계와 정책 확정 여부)를 작성한다. "
+      "JSON 객체 {\"articles\":[...]}만 출력하며 입력에 없는 id는 생성하지 않는다. "
+      "입력 자료: " + json.dumps(pool, ensure_ascii=False))
+    model = os.environ.get('GEMINI_MODEL', 'gemini-2.5-flash-lite')
+    endpoint = 'https://generativelanguage.googleapis.com/v1beta/models/' + model + ':generateContent'
     try:
-        response=client.chat.completions.create(model=os.environ.get('OPENAI_MODEL','gpt-4.1-mini'),response_format={'type':'json_object'},messages=[{'role':'system','content':prompt},{'role':'user','content':json.dumps(pool,ensure_ascii=False)}],temperature=0.2)
-        parsed=json.loads(response.choices[0].message.content)
-        lookup={a['id']:a for a in pool}
-        out=[]
-        for x in parsed.get('articles',[]):
-            if x.get('id') not in lookup: continue
-            a=dict(lookup[x['id']]); a.update({k:norm(str(x.get(k,''))) for k in ('summary','impact','importance')});a['section']='산업·업무' if a['category'] in ('자동차','CKD·물류','전동화','관심 키워드') else '일반 뉴스';a['detail']=x.get('detail',{}) if isinstance(x.get('detail'),dict) else {};out.append(a)
-            if len(out)>=20:break
-        return out if len(out)>=5 else fallback(items)
+        resp = requests.post(endpoint, headers={'x-goog-api-key': key, 'Content-Type': 'application/json'},
+            json={'contents': [{'parts': [{'text': prompt}]}],
+                  'generationConfig': {'responseMimeType': 'application/json', 'temperature': 0.2}},
+            timeout=110)
+        resp.raise_for_status()
+        raw = resp.json()['candidates'][0]['content']['parts'][0]['text']
+        parsed = json.loads(raw)
+        lookup = {a['id']: a for a in pool}
+        out, seen = [], set()
+        for x in parsed.get('articles', []):
+            if not isinstance(x, dict) or x.get('id') not in lookup or x['id'] in seen:
+                continue
+            a = dict(lookup[x['id']]); seen.add(a['id'])
+            for field in ('summary', 'impact', 'importance'):
+                a[field] = norm(str(x.get(field, '')))
+            a['section'] = '산업·업무' if a['category'] in ('자동차', 'CKD·물류', '전동화', '관심 키워드') else '일반 뉴스'
+            d = x.get('detail', {})
+            a['detail'] = d if isinstance(d, dict) else {}
+            a['ai_summary'] = True
+            out.append(a)
+            if len(out) >= 15: break
+        if out:
+            print('Gemini summarized', len(out), 'articles')
+            return out
+        print('Gemini returned no valid articles; using fallback')
     except Exception as ex:
-        print('AI error:',str(ex));return fallback(items)
+        print('Gemini unavailable; RSS fallback:', str(ex)[:500])
+    return fallback(items)
 
 def main():
-    articles=fetch()
+    articles = fetch()
     if not articles:
         print('No RSS entries found; existing archive unchanged.')
         return
-    selected=summarize(articles)
-    result={'date':TODAY,'updated_at':NOW.isoformat(),'article_count':len(selected),'ai_enabled':bool(os.environ.get('OPENAI_API_KEY')),'articles':selected}
-    (DATA/f'{TODAY}.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
-    index=sorted([p.stem for p in DATA.glob('????-??-??.json')],reverse=True)
-    (DATA/'index.json').write_text(json.dumps({'dates':index,'latest':index[0] if index else None,'updated_at':NOW.isoformat()},ensure_ascii=False,indent=2),encoding='utf-8')
-    print('Saved',TODAY,len(selected),'articles')
-if __name__=='__main__': main()
+    path = DATA / f'{TODAY}.json'
+    try:
+        old = json.loads(path.read_text(encoding='utf-8')).get('articles', []) if path.exists() else []
+    except Exception:
+        old = []
+    # Preserve articles from earlier runs and avoid paying to summarize the same story again.
+    old_ids = {a.get('id') for a in old}
+    new_items = [a for a in articles if a['id'] not in old_ids]
+    # Upgrade a few old RSS-only items if Gemini was configured later.
+    retry = [a for a in old if not a.get('ai_summary')][:10] if os.environ.get('GEMINI_API_KEY') else []
+    candidates = (retry + new_items)[:30]
+    selected = summarize(candidates) if candidates else []
+    by_id = {a['id']: a for a in old if a.get('id')}
+    for a in selected:
+        by_id[a['id']] = a
+    merged = sorted(by_id.values(), key=lambda a: a.get('published', ''), reverse=True)[:60]
+    result = {'date': TODAY, 'updated_at': NOW.isoformat(), 'article_count': len(merged),
+              'ai_enabled': any(a.get('ai_summary') for a in merged), 'articles': merged}
+    path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding='utf-8')
+    index = sorted([p.stem for p in DATA.glob('????-??-??.json')], reverse=True)
+    (DATA / 'index.json').write_text(json.dumps({'dates': index, 'latest': index[0] if index else None,
+          'updated_at': NOW.isoformat()}, ensure_ascii=False, indent=2), encoding='utf-8')
+    print('Saved', TODAY, len(merged), 'articles; new candidates', len(new_items))
+if __name__ == '__main__': main()
