@@ -153,85 +153,105 @@ def has_any(text, terms):
     return any(term in text for term in terms)
 
 def classify(a):
+    """Classify by article substance, never by the search keyword/category."""
     title = a.get('title', '').lower()
     desc = a.get('description', '').lower()
     body = title + ' ' + desc
-    # A promotional headline is not an operational article merely because it names an automaker.
-    if has_any(title, PROMOTION):
+    # Exclude clearly low-value coverage from BOTH sections.
+    reject = PROMOTION + ('농구','프로농구','경기 프리뷰','연승','연패','카지노',
+        '스포츠','주가,','주가 상승','주가 하락','장중','목표주가','목표가',
+        '시사뒷담','지지율','여론조사','정치판','모빌리티 데이’ 개최')
+    if has_any(title, reject):
         return None
+    if ('모비스' in title and ('로봇' in title or '로보틱스' in title or '기술 동맹' in title or '오픈이노베이션' in title)):
+        return '산업·업무'
+    if ('battery materials production' in title or 'ev battery' in title) and ('delay' in title or 'production' in title):
+        return '산업·업무'
     if has_any(body, POLICY):
         return '산업·업무'
-    if has_any(body, AUTO) and has_any(body, OPERATIONS + LOGISTICS):
+    if has_any(title, AUTO) and has_any(body, OPERATIONS + LOGISTICS):
         return '산업·업무'
-    # Direct shipping/logistics developments are relevant without an automotive keyword.
     if has_any(title, LOGISTICS) and has_any(body, ('운임','선복','선적','지연','중단','혼잡','파업','비용','인상','급등','규제','차질','freight','shipping','delay','disruption','congestion','strike','rates')):
         return '산업·업무'
+    if has_any(title, ('코스피 폭락','증시 폭락','7%대 폭락','미국발 인플레이션','금리 결정','환율 급등','환율 급락','중앙은행','대규모 재난','전쟁','휴전','정상회담')):
+        return '일반 뉴스'
     if has_any(title, MAJOR):
         return '일반 뉴스'
     return None
 
 def is_work(a):
-    return a.get('section') == '산업·업무' if a.get('section') else classify(a) == '산업·업무'
+    return classify(a) == '산업·업무'
 
 def editorial_score(a):
     title = a.get('title','').lower()
-    desc = a.get('description','').lower()
-    body = title + ' ' + desc
+    body = title + ' ' + a.get('description','').lower()
     score = 0
     if has_any(title, AUTO): score += 12
     if has_any(title, OPERATIONS): score += 12
     if has_any(title, LOGISTICS): score += 15
     if has_any(body, POLICY): score += 18
-    if has_any(desc, OPERATIONS): score += 4
     if has_any(title, MAJOR): score += 18
-    if a.get('category') == '관심 키워드': score += 3
+    if a.get('category') == '관심 키워드': score += 2
+    if a.get('importance') == '높음': score += 2
     return score
 
+def topic_key(a):
+    """Conservatively collapse repeated reports of the same clear event."""
+    title = a.get('title','').lower()
+    if ('모비스' in title or 'mobis' in title) and ('로봇' in title or '로보틱스' in title or '기술 동맹' in title or '오픈이노베이션' in title) and ('중국' in title or '상하이' in title or '中' in a.get('title','')):
+        return 'mobis-china-robotics'
+    if ('코스피' in title or '국내 증시' in title) and ('폭락' in title or '급락' in title):
+        return 'korean-market-plunge'
+    # Same headline distributed with different publisher suffixes.
+    return re.sub(r'[^\w가-힣]','',re.sub(r'\s*[-|]\s*[^-|]+$','',title))[:75]
+
 def choose_for_day(articles, existing, work_limit=12, general_limit=3):
-    """Preserve previously published articles; select only relevant new headlines."""
-    by_id = {a['id']: a for a in existing if a.get('id')}
-    for article in articles:
-        if article.get('id') and article['id'] not in by_id:
-            a = dict(article)
-            section = classify(a)
-            if section is None:
-                continue
-            a['section'] = section
-            by_id[a['id']] = a
-    all_items = list(by_id.values())
-    work = sorted((a for a in all_items if is_work(a)), key=lambda a:(editorial_score(a), a.get('published','')), reverse=True)
-    general = sorted((a for a in all_items if not is_work(a)), key=lambda a:(editorial_score(a), a.get('published','')), reverse=True)
-    # Never delete already-published articles or existing AI summaries.
-    keep = {a['id']:a for a in existing if a.get('id')}
-    new_work_slots = max(0, work_limit - sum(is_work(a) for a in existing))
-    new_general_slots = max(0, general_limit - sum(not is_work(a) for a in existing))
-    for group, limit in ((work, new_work_slots), (general, new_general_slots)):
-        if limit <= 0:
+    """Reassess old AND new entries; keep original summaries unchanged."""
+    by_id = {a['id']: dict(a) for a in existing if a.get('id')}
+    for a in articles:
+        if a.get('id'):
+            by_id.setdefault(a['id'], dict(a))
+    ranked = sorted(by_id.values(), key=lambda a:(editorial_score(a), bool(a.get('ai_summary')), a.get('published','')), reverse=True)
+    chosen, seen, counts = [], set(), {'산업·업무':0, '일반 뉴스':0}
+    for a in ranked:
+        section = classify(a)
+        if section is None or counts[section] >= (work_limit if section == '산업·업무' else general_limit):
             continue
-        added = 0
-        for a in group:
-            if a['id'] not in keep:
-                keep[a['id']] = a
-                added += 1
-                if added >= limit:
-                    break
-            if limit == 0:
-                break
-    return sorted(keep.values(), key=lambda a:a.get('published',''), reverse=True)
+        topic = topic_key(a)
+        if topic in seen:
+            continue
+        seen.add(topic)
+        a['section'] = section
+        chosen.append(a)
+        counts[section] += 1
+    return sorted(chosen, key=lambda a:a.get('published',''), reverse=True)
 
 def main():
     articles = fetch()
     if not articles:
-        print('No RSS entries found; existing archive unchanged.')
-        return
+        print('No new RSS entries; rechecking saved articles.')
     path = DATA / f'{TODAY}.json'
     try:
         old = json.loads(path.read_text(encoding='utf-8')).get('articles', []) if path.exists() else []
     except Exception:
         old = []
-    # Rank before summarization; do not spend tokens on discarded headlines.
-    chosen = choose_for_day(articles, old)
-    old_map = {a['id']: a for a in old if a.get('id')}
+    # Preserve the full original collection and all completed AI summaries in
+    # a separate archive, even when an item is no longer published.
+    archive_dir = DATA / 'archive'
+    archive_dir.mkdir(exist_ok=True)
+    archive_path = archive_dir / f'{TODAY}.json'
+    try:
+        archived = json.loads(archive_path.read_text(encoding='utf-8')).get('articles', []) if archive_path.exists() else []
+    except Exception:
+        archived = []
+    all_saved = {a['id']: a for a in archived if a.get('id')}
+    for a in old:
+        if a.get('id'):
+            all_saved[a['id']] = a
+    # Archive first; re-running cannot erase a previously saved AI summary.
+    archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
+    chosen = choose_for_day(articles, list(all_saved.values()))
+    old_map = all_saved
     pending = [a for a in chosen if not a.get('ai_summary')]
     pending.sort(key=lambda a:(is_work(a), editorial_score(a), a.get('published','')), reverse=True)
     # Maximum 25 per run; once a day's selected articles are summarized,
@@ -250,6 +270,10 @@ def main():
             merged.append(old_map.get(a['id'], fallback([a])[0]))
     merged.sort(key=lambda a:a.get('published',''), reverse=True)
     new_items = [a for a in chosen if a['id'] not in old_map]
+    # Retain newly completed summaries even if the public selection changes later.
+    for a in merged:
+        all_saved[a['id']] = a
+    archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
     result = {'date': TODAY, 'updated_at': NOW.isoformat(), 'article_count': len(merged),
               'ai_enabled': any(a.get('ai_summary') for a in merged), 'articles': merged}
     path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding='utf-8')
