@@ -1,9 +1,28 @@
 {
   "date": "2026-10-16",
-  "updated_at": "2026-10-16T10:52:55.009322+09:00",
-  "article_count": 60,
+  "updated_at": "2026-10-16T11:09:21.403693+09:00",
+  "article_count": 34,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "00fb4ebcb12706",
+      "title": "이 대통령 지지율 39%…총선 ‘정부견제론’ 47%, ‘지원론’ 34%[한국갤럽] - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sN3k2OTJ2RWlwazhMdzgzazVZUW80LTFOeVNlMlo3NHlMYUkzNDFSV0lZaUc4aXhVVlFoMS00c0d1cXM4U2NkNnBXWTQ3OWtoLWJkSEVmMTAyd9IBX0FVX3lxTE4xQ0l6WWJxeHJlTjZDV1BiTllDS0QtaEd5a09VaXpvMVdtYWVsSDBWZk1HV2ZrRWhhUUMzZzlBZGw2RGlJWHFhRGVYM083elU2aGhEZUNEZ3VpbG9YcEVF?oc=5",
+      "source": "경향신문",
+      "published": "2026-10-16T10:54:00+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령 지지율 39%…총선 ‘정부견제론’ 47%, ‘지원론’ 34%[한국갤럽] 경향신문",
+      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
+      "impact": "원문 확인 후 업무 영향 판단 필요",
+      "importance": "보통",
+      "section": "일반 뉴스",
+      "detail": {
+        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
+        "key_points": [],
+        "what_to_watch": "원문 및 공식 후속 발표 확인",
+        "fact_check": "제목과 RSS 발췌문만 수집됨"
+      }
+    },
     {
       "id": "7dcc0a059cca1d",
       "title": "강남구, 행정안전부 주관 재난관리평가 행정안전부 장관 표창 수상 - 아시아뉴스통신",
@@ -453,25 +472,6 @@
       "ai_summary": true
     },
     {
-      "id": "3916aa6db7f2f9",
-      "title": "그래서 '내 편' 맞던가요 [뉴스룸에서] - 한국일보",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LblUxX21wM3hDUjVsanZvVnZFZU9WNDVjYUZLdWtDbUpoQ2dPVUNoazJoamRkbko4aHM1QXNXajlKRnJ4bnMxNzFwSjJGX3JvcERrYmJFekFHb1N4bkVyTHpZdjJIVlBsY1ptb09n0gFzQVVfeXFMUGh1OUZVQ1VSYmdpdEVGSUgzNUhnUXdqX2M3LUpEV1ZDaXlKdVlDZ2xfVDFvdl9OZTFiMEtDVU1GdUF4ZDBTOGxQcWNDSXNMaGU0ZG11WHphbXBXNHEteHM4R2c0ZG1rd1ZFdTQyT3hPaW8xOA?oc=5",
-      "source": "한국일보",
-      "published": "2026-10-16T04:30:00+09:00",
-      "category": "국내 주요 사건",
-      "description": "그래서 '내 편' 맞던가요 [뉴스룸에서] 한국일보",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
       "id": "f70a1984dc40b8",
       "title": "국가인증상표 부착 위조상품 대응··· 'K-브랜드 정부인증제도' 시행 - Naver Blog",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ2lCcmUxdGNRbWc2YlNveFJJTjNIdF9OVC1TQ25CeXZUaEdUOVVXYnZPQU5uN3JXS0h6MUFoV2FaTzFzNXlmOGwzbUI5ZlNuamppRzFTQ1dFS3llRFJDTVJLX1VCVnBiQ0lHZHRqVk9XVC1tM0dqaldWQnZzUnFoUkctOU5oV2cxWXVNc19R?oc=5",
@@ -494,101 +494,6 @@
         "fact_check": "정부인증제도 시행은 확정된 정책임"
       },
       "ai_summary": true
-    },
-    {
-      "id": "7de8e50df0de4e",
-      "title": "Euro gains against Canadian Dollar despite ECB facing rate pause pressure - tmgm.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSEgzbDN5cXdleDBKX0hPanVBUjN3TmJHdXVjdktIUzZWSGw3X2MwbUtFSGFNWVF6aExPVTBfcktIUksxUlZ1NVdBWHdLdTY5TlNuaTI4SEJEeFVfZVJfaFFGQWl1S2JwUHBTZWRBNms5bHNxWFIyOXpVYWxFdVBUNWFQaHVldVVPWnMxbDY4QnVxWWFVaUNRd0VLZV9hQkNRblpCVHdGdkltR1NyMVhxTnJZT2NfOUVvUmxFR3VHSWNIMTNGSV9XdXpZa2tuazBHVkh1QmRB?oc=5",
-      "source": "tmgm.com",
-      "published": "2026-10-16T03:58:17+09:00",
-      "category": "경제·금융",
-      "description": "Euro gains against Canadian Dollar despite ECB facing rate pause pressure tmgm.com",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "e2c1060b2af62c",
-      "title": "\"내년 채권시장 반등 기대…기준금리 정점은 3.25%~3.5%\" - 마켓인",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0aXRtZk9zMkY4TmRGUFp3a0tuTUVGbTV3eHB2bE5Vckt4NlRmYzJrYURYd2ltQ20ybVJxeGpoM2d5cEJvT3VYN0FRSWtMd2NMRWZ0TFBmRmxlZTNRRVBBRzgzWjE3WVFwUDhzcVFDUDgxZw?oc=5",
-      "source": "마켓인",
-      "published": "2026-10-16T00:03:23+09:00",
-      "category": "경제·금융",
-      "description": "\"내년 채권시장 반등 기대…기준금리 정점은 3.25%~3.5%\" 마켓인",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "000e02cf2c0131",
-      "title": "[진단과 전망] 출범 500일 맞은 국민주권정부…‘4만 달러’와 ‘체감 경기’의 간극 - 수원일보",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dm92aW96N3hoTUx2T05wSEdRTjR4eDZTSGlaOTM4eVlOVU9LU2hkX3ZoM3Juc2xwYlFUM1dSZDZ2N0t6X0Z2TEI4MHJDTlZmVWdxZnlGSTNfRWNrek1RRkpraWJNUQ?oc=5",
-      "source": "수원일보",
-      "published": "2026-10-15T23:09:32+09:00",
-      "category": "정치·정책",
-      "description": "[진단과 전망] 출범 500일 맞은 국민주권정부…‘4만 달러’와 ‘체감 경기’의 간극 수원일보",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "545cee7c8a25ec",
-      "title": "미국 중간선거와 한국 경제 - 뉴스비전e",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkQ3VnMVBIWm5VMmVpOF9ZaUc5S2pfS3lnWVRoWDlmS3lDb05YUFNjV295YWxPYlExVDZodks0NmxPR2VqZy1Pa3J2b1hzdWpxV2N2SzNscDRtN2F3NkdROU1CX2lJcms?oc=5",
-      "source": "뉴스비전e",
-      "published": "2026-10-15T22:01:43+09:00",
-      "category": "경제·금융",
-      "description": "미국 중간선거와 한국 경제 뉴스비전e",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "82001a6022b98c",
-      "title": "우크라 매체 “韓 대북정책·국내정치 탓…北포로 갈등 부풀려져” [배틀라인] - 서울신문",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NczRRSDRQT3paaDR6MTZ2NUlPSksxUjBuaGRLNnBUVzVWZGhsOTJzM2s5X1JIQUVzaHYtWklPLXkwVGw4Z1RXeENYai1pa1NUN2s1VkVySjBRaTNpNU1xWEp2a1Y2dW5yaXUwRGZTRG9pY3VQTUNr?oc=5",
-      "source": "서울신문",
-      "published": "2026-10-15T19:25:22+09:00",
-      "category": "정치·정책",
-      "description": "우크라 매체 “韓 대북정책·국내정치 탓…北포로 갈등 부풀려져” [배틀라인] 서울신문",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
     },
     {
       "id": "09e6c686120d6c",
@@ -614,17 +519,17 @@
       "ai_summary": true
     },
     {
-      "id": "6176ff77344317",
-      "title": "진주로 이사하는 김경수, 총선 지역구 점찍기?[정치쏙닥쏙닥] - 경남도민일보",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tR1YxX295OXJfelVuN3dwMkNSYkczOGRfbk9fXzUtWnlucVJoZU1qMGZ4eUViRk5jT0VMY0N5T3BwLUdYRXlNbzdKanJpd1A0YzE0dnFiVzduazN0RDR0RTBMWDdXbVFpS1E?oc=5",
-      "source": "경남도민일보",
-      "published": "2026-10-15T18:51:43+09:00",
-      "category": "정치·정책",
-      "description": "진주로 이사하는 김경수, 총선 지역구 점찍기?[정치쏙닥쏙닥] 경남도민일보",
+      "id": "320f4d084df1c4",
+      "title": "실리콘밸리 다음은 상하이…현대모비스 기술 동맹 - 경제타임스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTVkYxWC1PNlpWNnQ2T2J6RmtDNDk0b0hiRXM4c1puVkE1QkllV1R6MkJ4VEhxdkl0c3pJMTBHTzVWaDc5eFBhaDFudVgyaEptRzRz?oc=5",
+      "source": "경제타임스",
+      "published": "2026-10-15T19:11:08+09:00",
+      "category": "관심 키워드",
+      "description": "실리콘밸리 다음은 상하이…현대모비스 기술 동맹 경제타임스",
       "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
       "impact": "원문 확인 후 업무 영향 판단 필요",
       "importance": "보통",
-      "section": "일반 뉴스",
+      "section": "산업·업무",
       "detail": {
         "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
         "key_points": [],
@@ -671,44 +576,6 @@
       }
     },
     {
-      "id": "80a34959d725a6",
-      "title": "[대한민국 정치개혁Ⅱ-②] 당원주권이라면서 운영비는 국민 세금?…정당 국고보조금 폐지하자 - 일요서울i",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fLW9MdkdJYXVYTDNVTGdabEoxa0pTYjNvaFRDajA4N3pJUWpMdktHazh1ekpXUHgtUFVQSUpGbHFfUlJHS0hGMk0tMkxGaUdvc1FJRWZPUE40X25fRWdZeHpIVzlMdXpJMlRTRmpB?oc=5",
-      "source": "일요서울i",
-      "published": "2026-10-15T17:59:19+09:00",
-      "category": "정치·정책",
-      "description": "[대한민국 정치개혁Ⅱ-②] 당원주권이라면서 운영비는 국민 세금?…정당 국고보조금 폐지하자 일요서울i",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "0b43a1b8dad199",
-      "title": "증시 불안에 갈 곳 없다…＇美 물가 충격＇에도 채권 강세 - 한국경제TV",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iSGFpOFhEcFV6ZV9fZ18xRnVkbEY5RGFvei11WlZKa3FVY3JfQk1Vcm1VWnh6UkpWWk5nWFVocUF1aXBmUXdTemh5SkdwRVB1SS1CU2FyMkxTbF9RWUdEZ3NXaUdpVVJ4YlhmSW9ycld0cTA1TmJ3?oc=5",
-      "source": "한국경제TV",
-      "published": "2026-10-15T17:57:00+09:00",
-      "category": "경제·금융",
-      "description": "증시 불안에 갈 곳 없다…＇美 물가 충격＇에도 채권 강세 한국경제TV",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
       "id": "1719adf6e2632d",
       "title": "[‘클릭’ 증시] 유가·美 물가에 코스피·코스닥 7%대 폭락 - 공공뉴스",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6YU4wMGcxbUlFNUVYTXdCMUdCMHF2R0dVc3B4Z0VsSlRHNmpPR2MxUFpJSmx2SmZMTDg0QUw4NDZ1QnNGUTN5dUE1MC1QOVBkSlMtbGZ3MzBZRzE0Q3pIOUQ3WEJ0UnFFVHfSAW5BVV95cUxPTEd0S094aDZyNWMxYU9rcmZoQWxic2VYcGN6SC13OUdrQlIwbDh3WC1QcnpVSlVZRElLS29QZXM2cjNmdEZ5LWQ5QkJKaEtrNmdPYUNRVllpUVNjNmN6SjZobWx6cEpVeERQLUhoUQ?oc=5",
@@ -733,63 +600,6 @@
       "ai_summary": true
     },
     {
-      "id": "b77348d2633b6b",
-      "title": "일본 다카이치 총리, 핵무기 반입 금지 원칙 재검토 시사…안보정책 변화 주목 - 재팬코리아데일리",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScVhJSnVkMDlnd3FTUDRfWkpUVGp6cHV5YThIeWZjR0RPT3NhbnpiZ1N3SGR3SndVcDdXTmxyNURBM3JfVUpvanFmdGs0QUViN3NmREx2dWMyd2VZZmJvS1ZnRDhSUHFNYm5hVA?oc=5",
-      "source": "재팬코리아데일리",
-      "published": "2026-10-15T17:56:23+09:00",
-      "category": "정치·정책",
-      "description": "일본 다카이치 총리, 핵무기 반입 금지 원칙 재검토 시사…안보정책 변화 주목 재팬코리아데일리",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "9f190a94cf3f78",
-      "title": "“푸바오 다시 한국으로! 정부는 귀환 추진 여부·진행 상황 책임 있게 설명해야”⋯시민단체 청와대 앞 집회 - 강원일보",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fRmVrbmdvUTZUNmFRZXVoZTBYa2ZzLTFfTWhnbGVkUXRkQ1BtMVhjUzFOYUExRW85bW9oQnY3VW93VmpwNTBfcG5sZEFpTlhCa0lfd01sYllBWGM?oc=5",
-      "source": "강원일보",
-      "published": "2026-10-15T17:25:41+09:00",
-      "category": "국내 주요 사건",
-      "description": "“푸바오 다시 한국으로! 정부는 귀환 추진 여부·진행 상황 책임 있게 설명해야”⋯시민단체 청와대 앞 집회 강원일보",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "71d7ecdb715796",
-      "title": "서울중수청, 李대통령 '지뢰 부실 대응' 일반이적 사건 수사 착수 - 데일리안",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTjE5RXpwdHRUbDZuUU91M2Q2ay1xMnhpdXQyZzBURGdhazlqdlNGaGFXcExENDBHOU1TWTBaYzJwcTItaHhuVFp2UF9kYnFNeVl6bHlVaW5janZ0S09HbDY4aGpGUC16bkZUR2VyVWpMMXpEOUYxNWtRQTZhYy1pcEtmbEZPejRtMllHcm5FNTRudzZ0SEJwY2VhZ3JaNDRxWENBMjY1cE1sX2VlUFA0bHJvVzdnS0c0VmZYRF8zanFFWTV2LTNjdllkbGMxcW5LOEhDWENyYjBIeHQ4VUVfQmQ1NWR0U29mRktGclVtejNRWGphMldHYk5kalVIRE1ES25JbmotSmdPU2JIcXpFY21kckF3eW8?oc=5",
-      "source": "데일리안",
-      "published": "2026-10-15T17:23:00+09:00",
-      "category": "국내 주요 사건",
-      "description": "서울중수청, 李대통령 '지뢰 부실 대응' 일반이적 사건 수사 착수 데일리안",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
       "id": "ea9fcbce9274a3",
       "title": "[자동차오늘] 현대차, 팰리세이드 하이브리드 기술력 입증 外 현대모비스·지프 - 천지일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CMUZ1ZmxSTk1hRUFkN1loTmFyU2xyV19DRnlGbFRTY1VxQ3YzSUM4UHMwenB2V2YycGowcTJzdlRaSjc2WDNNYmN4RGxralFlMldvdEpZbnd4dUdnTzE5QVR4Y19QYmg3QXc?oc=5",
@@ -801,44 +611,6 @@
       "impact": "원문 확인 후 업무 영향 판단 필요",
       "importance": "보통",
       "section": "산업·업무",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "0a13f9a84f458a",
-      "title": "온라인 마권시장 급성장…9개월 만에 1조5000억원 돌파·청년층 이용 확대 - 서울뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Vb25Bb2Y0LTVMZGdwSDFWd2dMWXBwVlg0dWdTSDg4b3cyNWNqc2xQSF9MYXVraFVtcGhrd0w0QmVxNGJZSUhPNEtXZFltcHNKdDFEaDN1ME9UdVhTQ3hOZE5jcThSeUZxTVhj?oc=5",
-      "source": "서울뉴스통신",
-      "published": "2026-10-15T17:13:22+09:00",
-      "category": "국내 주요 사건",
-      "description": "온라인 마권시장 급성장…9개월 만에 1조5000억원 돌파·청년층 이용 확대 서울뉴스통신",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "358f2a2e68aee8",
-      "title": "우수상 수상 '포천 루비에스 사과, 대한민국 최대 과일박람회서 3일간 전시' - 중앙신문",
-      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOSGZ3WDJSZ3lYaWFiNWNXc0FEaTJKSHhEU3Z3VGlkaWtnTGMySHZnY2h2NTJqTGVXdHFiV3RqS2FHUDhkVUJLT2NTcHRkZHJSbkZjWEJtbURPc3VpN0RhUXhQY19kY3FrTHhqQTJQdGhGdUc3SnpSU0dYTHNMU0dBM3dpb2VfOFFBYld0QnlNQm1hQUxTUGgyLUM5ZWNBVzdJcW9jc3JGODZxTE85cjdpMGdOdjFiVG1JNkk1RVBYV3U4RFNWUTFIX2dSd0wzRldpRXZMejR5TElaUmM4S09qZU9xS2lWSjBZd1NPOTByWXJvcmhzU014Q2ctYktNb1FaWGJLS3hVREJ5b0xZeEpiSEZndUMzY2s5dExybDRpOEJUc2VhQ1U3Vk1laU5ObHcyVVpaTkUxT2lTVnhtaExTXzRraWlDOUZCYzgyOHhSdVJFS2tzRDg4M3pjQlhUWUM0QzBfTldSYjAyd0NGM0o4LUNlSmh4RWRrdzZlYnl6UjQweWNPV3k2ZUtHZ0lPRklfSnRWaUpYb1k0RlpHM3ZoWFI0cmNFZkQ1YnlPTnZIZ1paX0Vxa2dEWjYtdWJ0RjQx?oc=5",
-      "source": "중앙신문",
-      "published": "2026-10-15T17:08:37+09:00",
-      "category": "국내 주요 사건",
-      "description": "우수상 수상 '포천 루비에스 사과, 대한민국 최대 과일박람회서 3일간 전시' 중앙신문",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
       "detail": {
         "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
         "key_points": [],
@@ -890,44 +662,6 @@
       }
     },
     {
-      "id": "49de4345b006d4",
-      "title": "광진구, ‘2026 재난대응 안전한국훈련’ 19일 실시 - 서울포커스",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10WVVadDRyRGkwNU9kQWVidTF0cV9UZWt1V0JTamtQT1lIa0QzQUYzSzRHNnVrMXdabXVxcWY0SlVTdWl2ZngwcVdOSG1TaENIWEpVXzZ1bzYtUGNRYU5jVUpQVm4ySWtiOXdaQQ?oc=5",
-      "source": "서울포커스",
-      "published": "2026-10-15T16:38:53+09:00",
-      "category": "국내 주요 사건",
-      "description": "광진구, ‘2026 재난대응 안전한국훈련’ 19일 실시 서울포커스",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "9f7b6cf4496f66",
-      "title": "파주소방서, LG디스플레이서 복합재난 대응 합동훈련 실시 - 내외뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xOTIwZVJ4S2czbzJqRFpYWVhPeFREdkdjcVJoWlp1VFZYQzg0cjlJUUxqUEtfZm5IczBreG5CMno2M3JFbFR6MTRmb1NmdF9tcy1xM0dOVGpGLXBkeUs2WWRCNTd4ekVXZ1pEVDVn0gFwQVVfeXFMTlhDVnNSR2tCQXFvckwyOEphY25sQ19aR2hjaGo3VmlZdXhYZmItNmFaNkt0Q3J6U1JzNGxxbDlMUTg2VFJZRHk2ZGhxc1BnNHk1Q1BrUVJHV1hQUkpDOTFMWGQxX0RLcDdacHctQ0FuWA?oc=5",
-      "source": "내외뉴스통신",
-      "published": "2026-10-15T16:22:25+09:00",
-      "category": "국내 주요 사건",
-      "description": "파주소방서, LG디스플레이서 복합재난 대응 합동훈련 실시 내외뉴스통신",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
       "id": "7f25b3a98c9f0c",
       "title": "현대모비스, 中서 로보틱스 협력사 발굴…오픈이노베이션 확대 - 매일일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBld0RGU1RIa1dZVThDMDN6aDQxMEtZODJGYk5ZWnAwZGxEZ0dWMWE5d0VGcGo5RlFWVU12LWhEWm9QdWFISGVYZ1ctZ3hlRy11ZVBWeF9ZMHJENHh3bWIwVzRReEo?oc=5",
@@ -939,101 +673,6 @@
       "impact": "원문 확인 후 업무 영향 판단 필요",
       "importance": "보통",
       "section": "산업·업무",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "ff672c3667bd09",
-      "title": "증시 폭락에 원·달러 환율 급등 [김혜란의 FX] - 서울경제",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QWnpRU1BJQUEzS2JQMHVuX2wxaWFDS0dodGc5NEtXZWozd3ZfQ1FuVUJTS21pVVV5U1Y3WU5pekNfV2JfNDQ5WDZmOENBdXpVelE?oc=5",
-      "source": "서울경제",
-      "published": "2026-10-15T16:00:20+09:00",
-      "category": "경제·금융",
-      "description": "증시 폭락에 원·달러 환율 급등 [김혜란의 FX] 서울경제",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "df339089f40080",
-      "title": "[증시 레이더] 코스피 5,550선 추락⋯AI 수익성 우려에 양대 시장 '서킷브레이커' - 포커스온경제",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CTjgyaWNWd1V2MHZWbVRGbDZFR2JvaGNJQXIwSWtzMy1NX19pU3F1bnBEV3VuUTd4S1RMc0ptTzlKOEk3R1pLdlNEcWtIOHVhWEFfZTFqNk85bVdadlV3dw?oc=5",
-      "source": "포커스온경제",
-      "published": "2026-10-15T15:52:19+09:00",
-      "category": "경제·금융",
-      "description": "[증시 레이더] 코스피 5,550선 추락⋯AI 수익성 우려에 양대 시장 '서킷브레이커' 포커스온경제",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "52c58f1edccc7a",
-      "title": "다른 게임과 기능 구성을 맞춰 보는 카지노 입플 뜻 - Calgary Roughnecks",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZTktVlNxN3RoM25zdWwxNFF6dzF6d0JyNlg2WHpselFLRnNtSjI4a1BHNmNJS1g5TTV0NnNIZ3AwLXp1TkNESlpoUWRuOWRPc0ZKNVdWd2JtTnBPdk9YQWVWY3BUbHFDVVQw?oc=5",
-      "source": "Calgary Roughnecks",
-      "published": "2026-10-15T15:30:19+09:00",
-      "category": "전동화",
-      "description": "다른 게임과 기능 구성을 맞춰 보는 카지노 입플 뜻 Calgary Roughnecks",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "산업·업무",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "e18b3aabe33392",
-      "title": "증시 폭락에 금융위 긴급회의…이억원 \"무분별한 빚투·신용공여 자제\" - www.ebn.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UZExxRUxLM2hyRXN0aE01Q1BYNGFYdXdCaG9VdVpzWC11dl9sLVJvcGR3bG1NeE83cFZfUEJoeGw1R2JZV1QzZndmbkFSckVKdXVjbUZvNURFbW5pVFB6NHJxQjZVZ3lB?oc=5",
-      "source": "www.ebn.co.kr",
-      "published": "2026-10-15T15:16:44+09:00",
-      "category": "경제·금융",
-      "description": "증시 폭락에 금융위 긴급회의…이억원 \"무분별한 빚투·신용공여 자제\" www.ebn.co.kr",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "6af657712be59a",
-      "title": "안철수 “李 기념사 영문본, 北 지뢰 도발을 ‘재수 없는 사고’로 포장” - 시사저널",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00WVB4YVpnVFIwMUt5MnRmcjdoRmpSNzJDWXNKT3R1WVpQSi13eXRRMlJpQnBLc185QUZLYnBzTElDUEw3aVI2cXkwNDZWVEp1OVNqRUV3WGZWcG82VmVYMXB4a1pyZlI3bE93UlBGRdIBc0FVX3lxTFBDajZEQlBVTFZTMzg3ZHktVGNiTUx4cEFxRHFGakFzM1FINHI0cGtMSWxvTEJfVzBKbFQ5cjRkOHBVRWJ1Z1o4Z3lET19HcnI5OVF0UE53b3lpTzJOd1h1cXpGV0JWMGt2RzA5cnFIczN6bUE?oc=5",
-      "source": "시사저널",
-      "published": "2026-10-15T15:02:23+09:00",
-      "category": "국내 주요 사건",
-      "description": "안철수 “李 기념사 영문본, 北 지뢰 도발을 ‘재수 없는 사고’로 포장” 시사저널",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
       "detail": {
         "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
         "key_points": [],
@@ -1061,158 +700,6 @@
       }
     },
     {
-      "id": "ee1c90afe1a091",
-      "title": "공기업 영업이익으로 이자도 못 내는 부실 위기 -> 국가 부도 부르는 시한폭탄 => 장부 밖 1000조 공공 부채 방치하다간 2030년 국가 재정 파탄 난다 - 데일리머니",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lYjZCUi12c3l5dk43ZE00c0hudzkxcjd4U3EtR2RJd3ZfX0tvcmpzeDdYS0VOUkgxV0FBVnZQZGZkejRYNVphSTZjR21lVm0wT21KS0VfOHRjZDA4SHhhMHJON0VpeFVqQnY0TGJod29Ddw?oc=5",
-      "source": "데일리머니",
-      "published": "2026-10-15T15:00:02+09:00",
-      "category": "정치·정책",
-      "description": "공기업 영업이익으로 이자도 못 내는 부실 위기 -> 국가 부도 부르는 시한폭탄 => 장부 밖 1000조 공공 부채 방치하다간 2030년 국가 재정 파탄 난다 데일리머니",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "30da6fb8e41f6b",
-      "title": "안철수, 李대통령에 “北 지뢰 사건이 ‘재수없는 사고’냐” 영문 기념사 지적 - 경기일보",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvUlk5YVYtY0tLUmRseXlKSEpJNV9WVkdqUjQyakdhLThxY18zWjhOcG5XLVg3N241SGxYNjg1clZoeXQtTzhiWWdZeTd5bno0OHZSOTJwYV9ZTW8?oc=5",
-      "source": "경기일보",
-      "published": "2026-10-15T14:47:01+09:00",
-      "category": "국내 주요 사건",
-      "description": "안철수, 李대통령에 “北 지뢰 사건이 ‘재수없는 사고’냐” 영문 기념사 지적 경기일보",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "3829f10583f5fa",
-      "title": "현대모비스, 中 상하이서 첫 모빌리티 데이…로봇·피지컬 AI 사업 확대 By 알파경제 alphabiz - Investing.com 한국어",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLYmI5ZHlESjIzRlZjQjMweG9sT2hVM0MxSkJSNU1yVVBKUWI4R3pVSTdfNjAwa25KQ0JWVlN1X0lEa0k3dzVGWk56Sjk5X0ZyVTRCNVZlTjRSQkt3cE9YVjJLLW9qdkZ5NHplVDgzTnI?oc=5",
-      "source": "Investing.com 한국어",
-      "published": "2026-10-15T14:42:00+09:00",
-      "category": "관심 키워드",
-      "description": "현대모비스, 中 상하이서 첫 모빌리티 데이…로봇·피지컬 AI 사업 확대 By 알파경제 alphabiz Investing.com 한국어",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "산업·업무",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "f546dbd02df80c",
-      "title": "현대모비스, 로보틱스 협력망 中으로 확대 … 상하이서 혁신기업 발굴 - 뉴데일리",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHJ2RE5Dd2ZhYUZIRTUyclNqZDZPYmYxT2pfdFJGWFY0S2hlVEdYemt5dWgwZGJTTmcwaVlrSmNyLUVnMVhqM2o0VkZ6VHFWb0J6Y1NLSE94c3RZb2pxd1pFaXdreFZQaVRSbnVYeDV3QngwdTUyb3lWdk1JWkl2NtIBgAFBVV95cUxPcHJ2RE5Dd2ZhYUZIRTUyclNqZDZPYmYxT2pfdFJGWFY0S2hlVEdYemt5dWgwZGJTTmcwaVlrSmNyLUVnMVhqM2o0VkZ6VHFWb0J6Y1NLSE94c3RZb2pxd1pFaXdreFZQaVRSbnVYeDV3QngwdTUyb3lWdk1JWkl2Ng?oc=5",
-      "source": "뉴데일리",
-      "published": "2026-10-15T14:34:32+09:00",
-      "category": "관심 키워드",
-      "description": "현대모비스, 로보틱스 협력망 中으로 확대 … 상하이서 혁신기업 발굴 뉴데일리",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "산업·업무",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "81a9e782e9e624",
-      "title": "안철수 \"北 지뢰도발을 '재수없는 사고'?…李, 국군통수권자 맞나\" - 뉴시스",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3Mm5KZzc5bE93eGE3SVQ3M3pvdjdYallXQUJvRzJZdGxCMVNjZ3doS0sySUxqR2NaNGh1TmdXVEVFLW5nRFFCQWpkMmRuT2I3b29ZNU5HT0tIN3dZbjA4btIBeEFVX3lxTE9KWld0eWI1Q3JQTmZSTTdrNmVlQkwtLXRsV3MyNUxqZWhJM1d5LWpZTi13eXVmMWowOEJlcnc0a3ROX2R3Z1M1djJjaTJsWTdNeU9LYTFxRDdXeS01WWZxOUNrR3AtUDRDVmw2WDNLYkhGZU5tTkVBaA?oc=5",
-      "source": "뉴시스",
-      "published": "2026-10-15T14:11:34+09:00",
-      "category": "국내 주요 사건",
-      "description": "안철수 \"北 지뢰도발을 '재수없는 사고'?…李, 국군통수권자 맞나\" 뉴시스",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "7e013a270fec33",
-      "title": "한국 인터넷 속도 세계 22위 논란…정부 \"평가 기준 불명확, 객관적 비교 한계\" - 서울뉴스통신",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uZXRDX1Q2SHowcDYzRmZtRGN0SklrNk42NnVxVU50d2EtOHZLclVLTHlMTkN5VlJZQ0dKWFc5b0lVa25Pc2VTVDZLVy16UkxSMG5veU5aMm5meGdiQktyM1pBcEVUcC02Wndz?oc=5",
-      "source": "서울뉴스통신",
-      "published": "2026-10-15T14:02:41+09:00",
-      "category": "국내 주요 사건",
-      "description": "한국 인터넷 속도 세계 22위 논란…정부 \"평가 기준 불명확, 객관적 비교 한계\" 서울뉴스통신",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "58b2895debf770",
-      "title": "코스피·코스닥 오후 들어 8% 폭락...나란히 ‘서킷 브레이커’ - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYXlFeG9UaC1LNTBXWmVUdWNKZzNwaE9SX3BHNEtBdDIzQVJ6SFVUUENOLUVDRzd4LU5HVFNTNmwtbU40bzRVeUh0VWVIbndCQmV0b1RBSVRTbFhXb2ZHeXk2Y2FxSmlsRVNwYXJraTF3OHphOGIyZW91bjU5TFVLRw?oc=5",
-      "source": "조선일보",
-      "published": "2026-10-15T13:37:34+09:00",
-      "category": "경제·금융",
-      "description": "코스피·코스닥 오후 들어 8% 폭락...나란히 ‘서킷 브레이커’ 조선일보",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
-      "id": "e541c241d6330d",
-      "title": "안철수 “李대통령, 지뢰로 국군이 발목 잃은 사고가 ‘재수없는 사고’인가?⋯대한민국 국군통수권자 맞나?” - 강원일보",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90QnBvVVZ6V0FmbFZNc2FRY18wWlpoZTVmWFVaNS1ZWFJfLXhTOXZCMUNTaXV6b2NNcldQZEM1bnRpRVZ4R29kdHlTOVcxZXpMcFRoZ3R0d0pBaTQ?oc=5",
-      "source": "강원일보",
-      "published": "2026-10-15T13:07:57+09:00",
-      "category": "국내 주요 사건",
-      "description": "안철수 “李대통령, 지뢰로 국군이 발목 잃은 사고가 ‘재수없는 사고’인가?⋯대한민국 국군통수권자 맞나?” 강원일보",
-      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
-      "impact": "원문 확인 후 업무 영향 판단 필요",
-      "importance": "보통",
-      "section": "일반 뉴스",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      }
-    },
-    {
       "id": "11c2abfd81eb1f",
       "title": "“북한 지뢰를 ‘재수없는 사고’로 포장한 청와대”…이 대통령 맹렬히 비판한 정치인 - 위키트리",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12THJCeGdZbW1kTWxCOWVidU5SMlM4Z3NjU0l6Qmdpbk4wcUJoNGFObDBFQlhUMmVYT0RaUkRDQ242U21mX2xBRWp5RU9hRy1CTzdmcUxB?oc=5",
@@ -1224,6 +711,25 @@
       "impact": "원문 확인 후 업무 영향 판단 필요",
       "importance": "보통",
       "section": "일반 뉴스",
+      "detail": {
+        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
+        "key_points": [],
+        "what_to_watch": "원문 및 공식 후속 발표 확인",
+        "fact_check": "제목과 RSS 발췌문만 수집됨"
+      }
+    },
+    {
+      "id": "90cd4b173987b3",
+      "title": "현대모비스, 美 실리콘밸리 이어 中 상하이로 글로벌 오픈이노베이션 확대! | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaE53WXZDTTlNcERqMUYyZGd1UlZJQzlmSTc0Z19KcjgtcHdSamdXeW5BWXFNdHFvSVF0bi0tc3dYOWtxUWNZR3ZVYmg1SjNMVmxONmdrWWFRTEU0amN3dVdmWGJQNXd0NEIwR3BNRXB4d2t4dlZERGRpR2piSTJucG10emhlSzZKcWlHMWRuSkw?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "2026-10-15T11:02:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 美 실리콘밸리 이어 中 상하이로 글로벌 오픈이노베이션 확대! | 뉴스 | 현대자동차그룹 Hyundai Motor Group",
+      "summary": "원문 제목을 확인하세요. AI 요약이 설정되지 않아 기사 본문을 요약하지 않았습니다.",
+      "impact": "원문 확인 후 업무 영향 판단 필요",
+      "importance": "보통",
+      "section": "산업·업무",
       "detail": {
         "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
         "key_points": [],
