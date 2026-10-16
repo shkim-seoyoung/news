@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
-  "updated_at": "2026-10-16T13:14:39.054436+09:00",
-  "article_count": 13,
+  "updated_at": "2026-10-16T14:08:29.242672+09:00",
+  "article_count": 11,
   "ai_enabled": true,
   "articles": [
     {
@@ -14,10 +14,22 @@
       "description": "[정의선 현대차 6년 ③] 현대차그룹 3대 과제…관세·노조·모비스 순환출자 자본시장뉴스",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대차그룹 정의선 회장 체제 6년을 맞아 그룹이 직면한 3대 핵심 과제로 관세 장벽, 노조 관계, 모비스 순환출자 구조 해소가 지목되었습니다. 특히 글로벌 무역 환경 변화에 따른 관세 문제는 수출 중심의 현대차그룹 경영 전략에 중요한 변수로 작용하고 있습니다.",
-      "impact": "글로벌 관세 정책 변화는 CKD 부품 수출 단가 및 현지 조립 생산 비용 구조에 직접적인 영향을 미칠 수 있음.",
-      "importance": "높음",
+      "summary": "정의선 회장 취임 6년 차를 맞은 현대차그룹이 직면한 3대 핵심 과제로 관세 리스크 대응, 노조와의 관계 개선, 그리고 모비스 순환출자 해소 문제를 꼽았습니다. 그룹의 지속 가능한 성장을 위해 지배구조 개편과 대외 불확실성 해소가 시급한 상황입니다.",
+      "impact": "현대차그룹 지배구조 개편 및 대외 리스크 관련 모니터링 필요",
+      "importance": "보통",
       "detail": {
+        "background": "정의선 회장 체제 하의 현대차그룹이 해결해야 할 경영 및 지배구조 과제 분석",
+        "key_points": [
+          "글로벌 관세 장벽에 따른 수출 전략 재점검",
+          "노사 관계 안정화 및 임금 협상 과제",
+          "현대모비스 중심의 순환출자 고리 해소 방안"
+        ],
+        "what_to_watch": "지배구조 개편을 위한 구체적인 로드맵 발표 여부",
+        "fact_check": "현대차그룹의 3대 과제에 대한 언론의 분석적 보도임"
+      },
+      "ai_summary": true,
+      "original_summary": "현대차그룹 정의선 회장 체제 6년을 맞아 그룹이 직면한 3대 핵심 과제로 관세 장벽, 노조 관계, 모비스 순환출자 구조 해소가 지목되었습니다. 특히 글로벌 무역 환경 변화에 따른 관세 문제는 수출 중심의 현대차그룹 경영 전략에 중요한 변수로 작용하고 있습니다.",
+      "original_detail": {
         "background": "정의선 회장 취임 이후 현대차그룹은 전동화 전환과 글로벌 시장 확대를 추진해 왔으나, 최근 보호무역주의 강화로 인한 관세 리스크가 커지고 있습니다. 지배구조 개편과 노사 관계 안정화 또한 지속 가능한 성장을 위한 필수 과제로 평가받습니다.",
         "key_points": [
           "글로벌 보호무역주의 확산에 따른 관세 리스크 대응 필요",
@@ -27,7 +39,9 @@
         "what_to_watch": "주요 수출국별 관세 정책 변화 및 현대차그룹의 지배구조 개편 로드맵 발표 여부",
         "fact_check": "제공된 RSS 정보는 기사 제목과 요약에 기반하며, 구체적인 관세율 수치나 노조 협상 세부 내용은 포함되어 있지 않음."
       },
-      "ai_summary": true
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "72a3d387c70b831a"
     },
     {
       "id": "d6d4c6d4501825",
@@ -38,10 +52,22 @@
       "category": "정치·정책",
       "description": "정점식 \"증시 폭락, 李정부 국민연금 동원 '정치 부양' 탓\" 한국경제",
       "section": "일반 뉴스",
-      "summary": "정점식 의원이 최근 증시 폭락의 원인을 이명박 정부 당시 국민연금을 동원한 '정치 부양' 탓으로 돌리며 정치권 공방이 이어지고 있습니다. 해당 발언은 현 경제 상황에 대한 정치적 해석을 담고 있습니다.",
+      "summary": "정점식 의원이 최근 증시 폭락 사태의 원인으로 이명박 정부 당시 국민연금을 동원한 '정치 부양'을 지목하며 비판했습니다. 현 경제 상황과 과거 정책 간의 연관성을 두고 정치권의 공방이 이어지고 있습니다.",
       "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
       "detail": {
+        "background": "최근 국내 증시 변동성 확대에 따른 정치권의 책임 공방",
+        "key_points": [
+          "정점식 의원의 증시 폭락 원인 분석 및 정부 비판",
+          "과거 국민연금 동원 사례와 현재 시장 상황 비교"
+        ],
+        "what_to_watch": "정치권의 증시 관련 추가 발언 및 정책 대응 논의",
+        "fact_check": "정점식 의원의 발언을 인용한 정치권 뉴스"
+      },
+      "ai_summary": true,
+      "related_articles": [],
+      "original_summary": "정점식 의원이 최근 증시 폭락의 원인을 이명박 정부 당시 국민연금을 동원한 '정치 부양' 탓으로 돌리며 정치권 공방이 이어지고 있습니다. 해당 발언은 현 경제 상황에 대한 정치적 해석을 담고 있습니다.",
+      "original_detail": {
         "background": "최근 증시 변동성이 커지면서 정치권에서 과거 정부의 경제 정책에 대한 책임론이 제기되고 있습니다. 정점식 의원은 국민연금의 시장 개입이 현재의 부작용을 초래했다고 주장했습니다.",
         "key_points": [
           "정점식 의원, 증시 폭락 원인으로 과거 정부의 국민연금 동원 지목",
@@ -50,8 +76,9 @@
         "what_to_watch": "정치권의 추가적인 경제 정책 비판 및 관련 대응",
         "fact_check": "제공된 RSS 발췌문에는 해당 발언의 구체적인 근거 데이터가 포함되어 있지 않음"
       },
-      "ai_summary": true,
-      "related_articles": []
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "b2e746630ae9294a"
     },
     {
       "id": "6ba87e4c7960f0",
@@ -61,11 +88,31 @@
       "published": "2026-10-16T10:40:49+09:00",
       "category": "관심 키워드",
       "description": "車부품 수익성 제자리 … 현대모비스, 3분기도 AS사업이 실적 떠받친다 뉴데일리",
-      "summary": "현대모비스의 3분기 실적이 본업인 자동차 부품 사업의 수익성 정체에도 불구하고 AS 사업 부문의 견조한 성과로 인해 방어되고 있습니다. 완성차 업황 둔화에 따른 부품 수익성 압박이 지속되는 상황입니다.",
-      "impact": "CKD 부품 공급망 및 물류 비용 효율화 전략에 간접적 영향 가능성",
-      "importance": "높음",
+      "summary": "현대모비스가 3분기에도 본업인 자동차 부품 사업의 수익성 정체 속에서 AS 부품 사업이 실적을 견인하는 구조를 이어갈 것으로 전망됩니다. 전반적인 부품 사업의 수익성 개선이 과제로 지목됩니다.",
+      "impact": "현대모비스 실적 및 부품 사업 수익성 모니터링 필요",
+      "importance": "보통",
       "section": "산업·업무",
       "detail": {
+        "background": "현대모비스의 사업 부문별 수익 구조 분석",
+        "key_points": [
+          "자동차 부품 사업의 수익성 정체 지속",
+          "AS 사업 부문이 전체 실적을 방어하는 구조",
+          "3분기 실적 전망 및 사업 포트폴리오 점검"
+        ],
+        "what_to_watch": "현대모비스의 3분기 실적 발표 및 수익성 개선 전략",
+        "fact_check": "현대모비스의 사업 구조 및 실적 전망에 관한 분석"
+      },
+      "ai_summary": true,
+      "related_articles": [
+        {
+          "title": "車부품 수익성 제자리 … 현대모비스, 3분기도 AS사업이 실적 떠받친다 - 뉴데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0E4YTE2bFl0WVVoYUhMcGJoMzVhb09fVWhXVmk2cERsbHh0LTkzTXFOQmVBMjNaQ3piMWl2Y0VxQW4tY1ZjMmk3WDhMQkRJal95eE00d0xYd2pFRnhNcmd5S2xLMjExMFUyc3QzYlVaeEhibWFYWHJNT3lRYzlyTNIBgAFBVV95cUxOX0E4YTE2bFl0WVVoYUhMcGJoMzVhb09fVWhXVmk2cERsbHh0LTkzTXFOQmVBMjNaQ3piMWl2Y0VxQW4tY1ZjMmk3WDhMQkRJal95eE00d0xYd2pFRnhNcmd5S2xLMjExMFUyc3QzYlVaeEhibWFYWHJNT3lRYzlyTA?oc=5",
+          "source": "뉴데일리",
+          "published": "2026-10-16T10:40:49+09:00"
+        }
+      ],
+      "original_summary": "현대모비스의 3분기 실적이 본업인 자동차 부품 사업의 수익성 정체에도 불구하고 AS 사업 부문의 견조한 성과로 인해 방어되고 있습니다. 완성차 업황 둔화에 따른 부품 수익성 압박이 지속되는 상황입니다.",
+      "original_detail": {
         "background": "자동차 부품 업계 전반의 수익성 저하 기조 속에서 현대모비스의 사업 구조적 특징을 분석한 내용입니다. AS 사업이 실적의 핵심 버팀목 역할을 수행하고 있습니다.",
         "key_points": [
           "자동차 부품 본업의 수익성 정체",
@@ -75,8 +122,9 @@
         "what_to_watch": "현대모비스의 3분기 공식 실적 발표 및 부문별 세부 수익성 지표",
         "fact_check": "RSS 발췌문 기반으로 작성되었으며, 구체적인 수치는 공식 실적 발표 확인 필요"
       },
-      "ai_summary": true,
-      "related_articles": []
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "9a43c7dc017d841e"
     },
     {
       "id": "c6ee0432d91463",
@@ -86,11 +134,24 @@
       "published": "2026-10-16T06:00:00+09:00",
       "category": "전동화",
       "description": "POSCO Future M Delays EV Battery Materials Production Until End of 2027, Shifts Focus to AI Data Center Demand 알파경제",
-      "summary": "포스코퓨처엠이 전기차 배터리 소재 생산 시점을 2027년 말로 연기하고, AI 데이터 센터 수요 대응으로 전략을 수정했습니다. 전기차 시장의 일시적 수요 둔화(캐즘)에 따른 사업 포트폴리오 조정으로 분석됩니다.",
-      "impact": "전기차 배터리 소재 공급망 변화에 따른 관련 부품 및 포장 물류 계획 조정 필요",
+      "summary": "포스코퓨처엠이 전기차 배터리 소재 생산 시점을 2027년 말로 연기하고, AI 데이터 센터 수요 대응으로 사업 전략을 수정했습니다. 전기차 시장의 일시적 수요 둔화(캐즘)에 따른 전략적 선택으로 풀이됩니다.",
+      "impact": "배터리 소재 공급망 및 포스코퓨처엠 사업 전략 변화 확인",
       "importance": "높음",
       "section": "산업·업무",
       "detail": {
+        "background": "전기차 시장 성장세 둔화에 따른 배터리 소재 기업들의 전략 수정",
+        "key_points": [
+          "배터리 소재 생산 목표 시점 2027년 말로 연기",
+          "AI 데이터 센터 관련 수요로 사업 중심 이동",
+          "시장 환경 변화에 따른 포트폴리오 재편"
+        ],
+        "what_to_watch": "향후 배터리 소재 시장의 수요 회복 시점 및 AI 관련 신규 사업 성과",
+        "fact_check": "포스코퓨처엠의 생산 일정 변경 및 전략 수정 보도"
+      },
+      "ai_summary": true,
+      "related_articles": [],
+      "original_summary": "포스코퓨처엠이 전기차 배터리 소재 생산 시점을 2027년 말로 연기하고, AI 데이터 센터 수요 대응으로 전략을 수정했습니다. 전기차 시장의 일시적 수요 둔화(캐즘)에 따른 사업 포트폴리오 조정으로 분석됩니다.",
+      "original_detail": {
         "background": "글로벌 전기차 시장의 성장세가 예상보다 완만해지면서 배터리 소재 기업들이 투자 속도 조절에 나서고 있습니다. 포스코퓨처엠은 AI 데이터 센터 등 신규 수요처를 확보하여 수익성을 다변화하려는 전략입니다.",
         "key_points": [
           "배터리 소재 생산 2027년 말로 연기",
@@ -100,8 +161,9 @@
         "what_to_watch": "배터리 소재 공급망 재편에 따른 관련 산업계의 후속 조치",
         "fact_check": "생산 연기 및 전략 수정은 기사 내용에 기반함"
       },
-      "ai_summary": true,
-      "related_articles": []
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "49ec3b8fa8484732"
     },
     {
       "id": "34231275ceadb9",
@@ -112,10 +174,22 @@
       "category": "경제·금융",
       "description": "\"내년 채권시장 반등 기대…기준금리 정점은 3.25%~3.5%\" 이데일리",
       "section": "일반 뉴스",
-      "summary": "시장 전문가들은 내년 채권시장 반등을 기대하며 기준금리 정점을 3.25%~3.5% 수준으로 전망했습니다. 금리 안정화는 기업의 자금 조달 비용과 환율 변동성에 영향을 미칠 수 있습니다.",
-      "impact": "금리 변동에 따른 수출 기업의 금융 비용 및 환율 변동성 관리 필요",
-      "importance": "높음",
+      "summary": "내년 채권시장 반등에 대한 기대감이 커지는 가운데, 기준금리 정점이 3.25%에서 3.5% 수준에서 형성될 것이라는 전망이 제기되었습니다. 시장은 금리 인상 기조의 마무리 국면을 주시하며 채권 투자 전략을 재정비하고 있습니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
       "detail": {
+        "background": "글로벌 통화 긴축 기조와 국내외 경기 상황에 따른 채권시장 전망",
+        "key_points": [
+          "내년 채권시장 반등 가능성 제기",
+          "기준금리 정점 예상치 3.25%~3.5% 제시"
+        ],
+        "what_to_watch": "한국은행의 향후 금리 결정 및 물가 지표 추이",
+        "fact_check": "기준금리 정점 전망치는 전문가들의 시장 분석에 기반함"
+      },
+      "ai_summary": true,
+      "related_articles": [],
+      "original_summary": "시장 전문가들은 내년 채권시장 반등을 기대하며 기준금리 정점을 3.25%~3.5% 수준으로 전망했습니다. 금리 안정화는 기업의 자금 조달 비용과 환율 변동성에 영향을 미칠 수 있습니다.",
+      "original_detail": {
         "background": "고금리 기조가 이어지는 가운데 시장에서는 금리 인상 사이클의 종료 시점과 향후 금리 인하 가능성에 주목하고 있습니다. 이는 기업의 투자 계획 및 재무 전략 수립의 핵심 지표입니다.",
         "key_points": [
           "내년 채권시장 반등 전망",
@@ -124,8 +198,9 @@
         "what_to_watch": "한국은행의 향후 금리 결정 및 시장 금리 추이",
         "fact_check": "제공된 RSS 정보는 전문가들의 전망치이며 실제 금리 결정은 통화정책 방향에 따라 달라질 수 있음"
       },
-      "ai_summary": true,
-      "related_articles": []
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "a612ceee25992bbf"
     },
     {
       "id": "2a0d1aadc52cac",
@@ -135,19 +210,19 @@
       "published": "2026-10-15T18:19:53+09:00",
       "category": "관심 키워드",
       "description": "현대모비스, 실리콘밸리 이어 中서 로보틱스 협력사 찾는다 대한경제",
-      "summary": "현대모비스가 실리콘밸리에 이어 중국 시장에서 로보틱스 분야의 새로운 협력사를 찾고 있습니다. 미래 모빌리티 기술 확보를 위한 글로벌 네트워크 확장 전략의 일환으로 풀이됩니다.",
-      "impact": "로보틱스 관련 부품의 CKD 수출 물량 및 공급망 다변화 가능성 존재",
+      "summary": "현대모비스가 미국 실리콘밸리에 이어 중국 상하이에서도 로보틱스 분야의 오픈이노베이션을 확대하며 글로벌 협력사 발굴에 나섰습니다. 중국 현지 기업들과 로봇 관련 기술 협력을 논의하며 미래 모빌리티 기술 역량 강화에 집중하고 있습니다.",
+      "impact": "현대모비스의 로보틱스 기술 확보 및 글로벌 협력 생태계 확장과 관련됨",
       "importance": "높음",
       "section": "산업·업무",
       "detail": {
-        "background": "현대모비스는 최근 로보틱스 기술 고도화를 위해 글로벌 기술 협력을 강화하고 있습니다. 이번 행보는 중국 내 유망 로봇 기업과의 기술 제휴를 통해 시장 경쟁력을 확보하려는 의도로 보입니다.",
+        "background": "현대모비스의 글로벌 오픈이노베이션 전략의 일환으로 로보틱스 기술 내재화 추진",
         "key_points": [
-          "현대모비스의 로보틱스 기술 협력 대상 확대",
-          "중국 시장 내 기술 파트너 발굴 추진",
-          "글로벌 기술 거점 확보 전략"
+          "미국 실리콘밸리에 이어 중국 상하이로 협력 거점 확대",
+          "중국 현지 기업들과 로봇 기술 협력 논의 진행",
+          "글로벌 오픈이노베이션을 통한 미래 모빌리티 기술 확보"
         ],
-        "what_to_watch": "구체적인 협력 대상 기업 및 기술 제휴 범위 발표",
-        "fact_check": "RSS 제목 및 발췌문 기반으로 작성됨"
+        "what_to_watch": "중국 내 구체적인 협력 파트너 선정 및 기술 협력 성과",
+        "fact_check": "현대자동차그룹 공식 채널을 통해 중국 상하이 거점 확대 사실 확인"
       },
       "ai_summary": true,
       "related_articles": [
@@ -169,7 +244,21 @@
           "source": "Hyundai Motor Group",
           "published": "2026-10-15T11:02:00+09:00"
         }
-      ]
+      ],
+      "original_summary": "현대모비스가 실리콘밸리에 이어 중국 시장에서 로보틱스 분야의 새로운 협력사를 찾고 있습니다. 미래 모빌리티 기술 확보를 위한 글로벌 네트워크 확장 전략의 일환으로 풀이됩니다.",
+      "original_detail": {
+        "background": "현대모비스는 최근 로보틱스 기술 고도화를 위해 글로벌 기술 협력을 강화하고 있습니다. 이번 행보는 중국 내 유망 로봇 기업과의 기술 제휴를 통해 시장 경쟁력을 확보하려는 의도로 보입니다.",
+        "key_points": [
+          "현대모비스의 로보틱스 기술 협력 대상 확대",
+          "중국 시장 내 기술 파트너 발굴 추진",
+          "글로벌 기술 거점 확보 전략"
+        ],
+        "what_to_watch": "구체적인 협력 대상 기업 및 기술 제휴 범위 발표",
+        "fact_check": "RSS 제목 및 발췌문 기반으로 작성됨"
+      },
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "482b8225914aff84"
     },
     {
       "id": "24ac47be285457",
@@ -179,11 +268,23 @@
       "published": "2026-10-15T16:46:43+09:00",
       "category": "자동차",
       "description": "현대차 푸네공장 가동에 부품사도 활짝…인도 동반진출 확대 아주경제",
-      "summary": "현대차의 인도 푸네 공장 가동이 본격화되면서 국내 부품사들의 인도 동반 진출이 가속화되고 있습니다. 이는 현대차의 인도 시장 생산 능력 확대에 따른 공급망 현지화 전략의 일환으로 풀이됩니다.",
-      "impact": "현대차 인도 생산 거점 확대에 따른 CKD 부품 수출 물량 증가 및 현지 물류·포장 수요 발생 가능성 높음",
-      "importance": "높음",
+      "summary": "현대차의 인도 푸네 공장 가동이 본격화되면서 국내 부품사들의 인도 동반 진출이 가속화되고 있습니다. 현지 생산 거점 확대에 따라 공급망 안정화와 부품사들의 동반 성장이 기대됩니다.",
+      "impact": "인도 시장 내 현대차 공급망 강화 및 관련 부품사 사업 기회 확대",
+      "importance": "보통",
       "section": "산업·업무",
       "detail": {
+        "background": "현대차의 인도 시장 점유율 확대 및 생산 능력 증대 전략",
+        "key_points": [
+          "현대차 푸네 공장 가동에 따른 공급망 재편",
+          "국내 부품사들의 인도 동반 진출 확대 추세"
+        ],
+        "what_to_watch": "인도 시장 내 현대차 생산량 증가에 따른 부품사 매출 영향",
+        "fact_check": "현대차 푸네 공장 가동은 인도 시장 전략의 핵심 요소임"
+      },
+      "ai_summary": true,
+      "related_articles": [],
+      "original_summary": "현대차의 인도 푸네 공장 가동이 본격화되면서 국내 부품사들의 인도 동반 진출이 가속화되고 있습니다. 이는 현대차의 인도 시장 생산 능력 확대에 따른 공급망 현지화 전략의 일환으로 풀이됩니다.",
+      "original_detail": {
         "background": "현대차는 인도 시장 점유율 확대를 위해 푸네 공장을 가동하며 생산 능력을 강화하고 있습니다. 이에 따라 국내 협력사들도 인도 현지 생산 체제를 구축하며 동반 진출을 확대하는 추세입니다.",
         "key_points": [
           "현대차 푸네 공장 가동 본격화",
@@ -193,8 +294,9 @@
         "what_to_watch": "현대차 인도 공장 가동률 및 국내 부품사들의 추가 현지 투자 계획",
         "fact_check": "현대차 푸네 공장 가동 및 부품사 동반 진출은 사실로 확인됨"
       },
-      "ai_summary": true,
-      "related_articles": []
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "e7930868d914849e"
     },
     {
       "id": "ff672c3667bd09",
@@ -205,10 +307,22 @@
       "category": "경제·금융",
       "description": "증시 폭락에 원·달러 환율 급등 [김혜란의 FX] 서울경제",
       "section": "일반 뉴스",
-      "summary": "증시 폭락의 여파로 원·달러 환율이 급등하는 등 금융시장 불안이 가중되고 있습니다. 환율 상승은 수출 기업의 가격 경쟁력에는 긍정적일 수 있으나, 원자재 수입 비용 증가 등 복합적인 영향을 미칩니다.",
-      "impact": "환율 급등으로 인한 CKD 부품 수입 및 수출 정산 비용 변동성 확대",
-      "importance": "높음",
+      "summary": "최근 증시 폭락의 여파로 원·달러 환율이 급등하는 등 금융시장의 변동성이 확대되고 있습니다. 시장 불안 심리가 반영되면서 환율 시장의 불확실성이 커진 상황입니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
       "detail": {
+        "background": "글로벌 증시 하락 및 안전자산 선호 심리 강화",
+        "key_points": [
+          "증시 폭락에 따른 원·달러 환율 급등",
+          "금융시장 내 변동성 확대 및 투자 심리 위축"
+        ],
+        "what_to_watch": "환율 급등세 지속 여부 및 금융당국의 시장 안정화 조치",
+        "fact_check": "환율 변동은 증시 상황과 밀접하게 연동됨"
+      },
+      "ai_summary": true,
+      "related_articles": [],
+      "original_summary": "증시 폭락의 여파로 원·달러 환율이 급등하는 등 금융시장 불안이 가중되고 있습니다. 환율 상승은 수출 기업의 가격 경쟁력에는 긍정적일 수 있으나, 원자재 수입 비용 증가 등 복합적인 영향을 미칩니다.",
+      "original_detail": {
         "background": "주식 시장의 급격한 하락은 안전자산 선호 심리를 자극하여 달러 강세와 원화 약세를 유도합니다. 환율 변동성은 수출입 기업의 수익성에 직접적인 영향을 주는 요소입니다.",
         "key_points": [
           "증시 폭락에 따른 원·달러 환율 급등",
@@ -217,8 +331,9 @@
         "what_to_watch": "외환 당국의 시장 개입 여부 및 환율 추이",
         "fact_check": "제공된 RSS 정보는 현상에 대한 보도이며 환율의 구체적인 수치는 명시되지 않음"
       },
-      "ai_summary": true,
-      "related_articles": []
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "c1d4df72364f9706"
     },
     {
       "id": "96556a11a6ff96",
@@ -229,10 +344,36 @@
       "category": "자동차",
       "description": "Hyundai Motor Group to Invest $15.5 Billion in India Over Seven Years, Expands Production Capacity to 1.43 Million Vehicles 알파경제",
       "section": "산업·업무",
-      "summary": "현대차그룹이 향후 7년간 인도에 155억 달러(약 21조 원)를 투자하여 생산 능력을 143만 대 규모로 확대할 계획을 확정했습니다. 이번 투자는 인도 시장을 단순 생산 기지를 넘어 글로벌 수출 및 개발의 핵심 거점으로 육성하기 위한 전략적 결정입니다.",
-      "impact": "인도 현지 생산 능력 확대에 따른 CKD 부품 공급망 재편 및 물류 최적화 필요성 증대.",
+      "summary": "현대차그룹이 인도 시장에 향후 7년간 약 21조 원(155억 달러) 규모의 대규모 투자를 단행합니다. 이번 투자를 통해 생산 능력을 143만 대까지 확대하고, 인도를 단순 생산 기지를 넘어 개발 및 수출의 핵심 거점으로 육성할 계획입니다.",
+      "impact": "인도 시장 내 현대차그룹의 생산 및 수출 전략 변화에 따른 부품 공급망 및 현지 사업 환경 변화 가능성",
       "importance": "높음",
       "detail": {
+        "background": "현대차그룹의 글로벌 생산 전략 재편 및 인도 시장의 전략적 중요성 증대",
+        "key_points": [
+          "7년간 21조 원 규모의 인도 투자 계획 발표",
+          "연간 생산 능력 143만 대 확보 목표",
+          "인도를 글로벌 개발 및 수출 허브로 전환"
+        ],
+        "what_to_watch": "인도 현지 생산 시설 확충에 따른 국내 부품사 동반 진출 및 현지 공급망 안정화 여부",
+        "fact_check": "투자 규모 155억 달러(약 21조 원) 및 생산 목표 143만 대 확인"
+      },
+      "ai_summary": true,
+      "related_articles": [
+        {
+          "title": "[오늘의 PICK!] 현대차그룹, 인도에 21조원 투자…생산 넘어 개발·수출 중심축으로 키운다 - 코리아포스트 한글판",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lNkdQYlVfeW5LOXV4Q2VXdTdFMzZONGdRaUNXeExkZm45dUxFeXhFV3ZEejl0Q2NPYUxhRUZxRFJjM015cnFsd0V6NHFDY0N4VVNPYWRMWGlDc1MzVjFuSDRwSjhQVGVJUklpVUFn?oc=5",
+          "source": "코리아포스트 한글판",
+          "published": "2026-10-14T22:31:06+09:00"
+        },
+        {
+          "title": "현대차 정의선 회장, 인도 총리 만나 투자·성장 전략 제시 - 스페셜경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91Rk16QU5wOTFlakJkeVdmZUxETlJEcVFjcnNrNW51SDNTTTB3Skh5aFpnRVh6RTY3S1ZmWjR5Vjg1V2ZaWXVyZEpTd2ZJR2NYZHk2MVdTNXFBYnI5VlN3d0ZlSmwxSTREZ3NiXw?oc=5",
+          "source": "스페셜경제",
+          "published": "2026-10-14T13:51:00+09:00"
+        }
+      ],
+      "original_summary": "현대차그룹이 향후 7년간 인도에 155억 달러(약 21조 원)를 투자하여 생산 능력을 143만 대 규모로 확대할 계획을 확정했습니다. 이번 투자는 인도 시장을 단순 생산 기지를 넘어 글로벌 수출 및 개발의 핵심 거점으로 육성하기 위한 전략적 결정입니다.",
+      "original_detail": {
         "background": "현대차그룹은 인도 시장의 성장 잠재력을 높게 평가하며 대규모 자본 투입을 통해 생산 인프라를 대폭 강화하고 있습니다. 이는 글로벌 공급망 다변화 전략의 일환으로 해석됩니다.",
         "key_points": [
           "7년간 155억 달러 투자 확정",
@@ -242,33 +383,9 @@
         "what_to_watch": "연도별 구체적인 투자 집행 계획 및 생산 라인 증설 일정.",
         "fact_check": "제시된 투자 금액과 생산 목표치는 기사 내용을 기반으로 함."
       },
-      "ai_summary": true,
-      "related_articles": []
-    },
-    {
-      "id": "6fa8dda863f5fd",
-      "title": "[오늘의 PICK!] 현대차그룹, 인도에 21조원 투자…생산 넘어 개발·수출 중심축으로 키운다 - 코리아포스트 한글판",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lNkdQYlVfeW5LOXV4Q2VXdTdFMzZONGdRaUNXeExkZm45dUxFeXhFV3ZEejl0Q2NPYUxhRUZxRFJjM015cnFsd0V6NHFDY0N4VVNPYWRMWGlDc1MzVjFuSDRwSjhQVGVJUklpVUFn?oc=5",
-      "source": "코리아포스트 한글판",
-      "published": "2026-10-14T22:31:06+09:00",
-      "category": "자동차",
-      "description": "[오늘의 PICK!] 현대차그룹, 인도에 21조원 투자…생산 넘어 개발·수출 중심축으로 키운다 코리아포스트 한글판",
-      "section": "산업·업무",
-      "summary": "현대차그룹이 인도 시장에 21조 원 규모의 대규모 투자를 단행하며, 인도 법인을 단순 생산 기지에서 개발 및 수출의 핵심 축으로 격상시킵니다. 정의선 회장의 인도 총리 면담 등을 통해 해당 투자 전략이 공식화되었습니다.",
-      "impact": "인도 거점의 역할 변화에 따른 CKD 수출 물량 및 부품 현지화 전략의 대대적인 수정 가능성.",
-      "importance": "높음",
-      "detail": {
-        "background": "인도는 현대차그룹의 글로벌 전략에서 가장 중요한 시장 중 하나로 부상하고 있으며, 이번 투자는 현지 시장 점유율 유지 및 글로벌 수출 경쟁력 강화를 목적으로 합니다.",
-        "key_points": [
-          "21조 원 규모의 인도 투자 확정",
-          "생산, 개발, 수출을 아우르는 통합 거점화",
-          "정부 차원의 협력 강화"
-        ],
-        "what_to_watch": "인도 현지 생산 비중 확대에 따른 국내 CKD 수출 물량의 변동 추이.",
-        "fact_check": "투자 금액은 기사 내용을 인용함."
-      },
-      "ai_summary": true,
-      "related_articles": []
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "c7182a120da35f50"
     },
     {
       "id": "6812769c9ad776",
@@ -279,10 +396,23 @@
       "category": "전동화",
       "description": "[K-금융 글로벌 전략 2026] [폴란드·헝가리] 배터리 공장 따라갔던 신한은행…폴란드서 방산·원전 '새 먹거리' Naver Blog",
       "section": "산업·업무",
-      "summary": "신한은행이 폴란드 등 동유럽 시장에서 배터리 기업들의 진출을 지원하며 쌓은 네트워크를 바탕으로 방산 및 원전 분야로 금융 지원 범위를 확대하고 있습니다. 이는 국내 기업들의 글로벌 공급망 진출에 따른 금융 동반 성장의 사례입니다.",
+      "summary": "신한은행이 폴란드와 헝가리 등 동유럽 시장에서 기존 배터리 기업 지원을 넘어 방산 및 원전 분야로 금융 영토를 확장하고 있습니다. 현지 진출 기업과의 협력을 강화하며 새로운 수익 모델을 창출하는 전략을 추진 중입니다.",
       "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
       "detail": {
+        "background": "국내 기업의 동유럽 진출 가속화에 따른 금융권의 동반 진출 및 사업 다각화",
+        "key_points": [
+          "배터리 산업 중심의 금융 지원에서 방산·원전으로 영역 확대",
+          "폴란드 및 헝가리 시장 내 신규 먹거리 발굴",
+          "현지 진출 국내 기업 대상 맞춤형 금융 솔루션 제공"
+        ],
+        "what_to_watch": "동유럽 내 대규모 프로젝트 수주에 따른 금융 지원 규모 및 성과",
+        "fact_check": "신한은행의 폴란드·헝가리 중심 글로벌 전략 강화 확인"
+      },
+      "ai_summary": true,
+      "related_articles": [],
+      "original_summary": "신한은행이 폴란드 등 동유럽 시장에서 배터리 기업들의 진출을 지원하며 쌓은 네트워크를 바탕으로 방산 및 원전 분야로 금융 지원 범위를 확대하고 있습니다. 이는 국내 기업들의 글로벌 공급망 진출에 따른 금융 동반 성장의 사례입니다.",
+      "original_detail": {
         "background": "국내 기업들이 유럽 내 생산 기지를 구축함에 따라 국내 금융권도 현지 금융 지원을 통해 동반 진출하는 전략을 취하고 있습니다.",
         "key_points": [
           "배터리 기업 동반 진출을 통한 네트워크 확보",
@@ -292,8 +422,9 @@
         "what_to_watch": "추가적인 국내 기업의 폴란드 진출 시 금융 지원 연계 여부.",
         "fact_check": "금융권의 전략적 움직임을 다룬 기사로 CKD 물류와는 직접적 연관성이 낮음."
       },
-      "ai_summary": true,
-      "related_articles": []
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "b028fcef3a9c2655"
     },
     {
       "id": "d7efbb8cede53c",
@@ -304,10 +435,23 @@
       "category": "자동차",
       "description": "[이슈] 현대차, 인도서 '제2 성장판' 키운다…\"푸네공장에 부품사 120곳 동행\" 팍스경제TV",
       "section": "산업·업무",
-      "summary": "현대차가 인도 푸네 공장 증설과 함께 120여 개의 국내 부품 협력사와 동반 진출을 추진하며 인도 시장에서의 제2 성장판을 마련하고 있습니다. 이는 현지 생산 체계 강화와 공급망 안정화를 동시에 도모하는 전략입니다.",
-      "impact": "부품사 동반 진출에 따른 CKD 공급망의 현지화 가속화 및 국내 수출 물량 구조 변화.",
+      "summary": "현대차의 인도 푸네 공장 가동과 관련하여 국내 부품사 120곳이 동반 진출하며 현지 공급망 생태계를 구축합니다. 이는 현대차의 인도 시장 내 제2 성장판을 마련하기 위한 전략적 행보로 풀이됩니다.",
+      "impact": "인도 진출 국내 부품사들의 현지 생산 거점 확보 및 공급망 변화",
       "importance": "높음",
       "detail": {
+        "background": "현대차의 인도 생산 능력 확대에 따른 협력사 동반 진출 필요성 증대",
+        "key_points": [
+          "인도 푸네 공장 가동에 따른 부품사 120곳 동반 진출",
+          "현지 공급망 내재화를 통한 생산 효율성 제고",
+          "인도 시장 내 현대차의 제2 성장 전략 본격화"
+        ],
+        "what_to_watch": "부품사 동반 진출에 따른 현지 생산 품질 안정화 및 물류 효율성",
+        "fact_check": "푸네 공장 관련 부품사 120곳 동반 진출 계획 확인"
+      },
+      "ai_summary": true,
+      "related_articles": [],
+      "original_summary": "현대차가 인도 푸네 공장 증설과 함께 120여 개의 국내 부품 협력사와 동반 진출을 추진하며 인도 시장에서의 제2 성장판을 마련하고 있습니다. 이는 현지 생산 체계 강화와 공급망 안정화를 동시에 도모하는 전략입니다.",
+      "original_detail": {
         "background": "현대차는 인도 내 생산 능력 확대를 위해 부품 공급망의 현지화가 필수적이라고 판단하고, 협력사들과 함께 생태계를 구축하고 있습니다.",
         "key_points": [
           "푸네 공장 중심의 생산 확대",
@@ -317,33 +461,9 @@
         "what_to_watch": "동반 진출하는 부품사들의 현지 생산 시작 시점 및 CKD 물량 대체 속도.",
         "fact_check": "부품사 120곳 동반 진출은 기사 내용을 기반으로 함."
       },
-      "ai_summary": true,
-      "related_articles": []
-    },
-    {
-      "id": "92737e9f4ba0a4",
-      "title": "현대차 정의선 회장, 인도 총리 만나 투자·성장 전략 제시 - 스페셜경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91Rk16QU5wOTFlakJkeVdmZUxETlJEcVFjcnNrNW51SDNTTTB3Skh5aFpnRVh6RTY3S1ZmWjR5Vjg1V2ZaWXVyZEpTd2ZJR2NYZHk2MVdTNXFBYnI5VlN3d0ZlSmwxSTREZ3NiXw?oc=5",
-      "source": "스페셜경제",
-      "published": "2026-10-14T13:51:00+09:00",
-      "category": "자동차",
-      "description": "현대차 정의선 회장, 인도 총리 만나 투자·성장 전략 제시 스페셜경제",
-      "section": "산업·업무",
-      "summary": "정의선 현대차그룹 회장이 인도 총리와 면담을 갖고 인도 시장에 대한 대규모 투자 및 성장 전략을 직접 제시했습니다. 이번 면담은 현대차그룹의 인도 사업 확대 의지를 재확인하고 정부 차원의 지원을 확보하기 위한 행보로 풀이됩니다.",
-      "impact": "인도 투자 전략의 공식화에 따른 향후 CKD 공급망 및 물류 계획의 구체화 예상.",
-      "importance": "높음",
-      "detail": {
-        "background": "글로벌 자동차 시장의 불확실성 속에서 인도는 현대차그룹의 핵심 성장 동력으로 지목되고 있으며, 최고 경영진의 직접적인 소통을 통해 사업 추진력을 확보하고 있습니다.",
-        "key_points": [
-          "정의선 회장과 인도 총리 간 투자 전략 논의",
-          "인도 시장 성장 전략 제시",
-          "정부 차원의 협력 및 지원 논의"
-        ],
-        "what_to_watch": "면담 이후 인도 정부의 구체적인 인센티브 정책 발표 여부.",
-        "fact_check": "정의선 회장의 인도 총리 면담 사실을 기반으로 함."
-      },
-      "ai_summary": true,
-      "related_articles": []
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "c7c2327b54f4d1ac"
     }
   ]
 }
