@@ -70,7 +70,8 @@
         "what_to_watch": "현대모비스의 3분기 공식 실적 발표 및 부문별 세부 수익성 지표",
         "fact_check": "RSS 발췌문 기반으로 작성되었으며, 구체적인 수치는 공식 실적 발표 확인 필요"
       },
-      "ai_summary": true
+      "ai_summary": true,
+      "related_articles": []
     },
     {
       "id": "7dcc0a059cca1d",
@@ -403,7 +404,8 @@
         "what_to_watch": "배터리 소재 공급망 재편에 따른 관련 산업계의 후속 조치",
         "fact_check": "생산 연기 및 전략 수정은 기사 내용에 기반함"
       },
-      "ai_summary": true
+      "ai_summary": true,
+      "related_articles": []
     },
     {
       "id": "03b220e4e5ae2f",
@@ -609,7 +611,27 @@
         "what_to_watch": "구체적인 협력 대상 기업 및 기술 제휴 범위 발표",
         "fact_check": "RSS 제목 및 발췌문 기반으로 작성됨"
       },
-      "ai_summary": true
+      "ai_summary": true,
+      "related_articles": [
+        {
+          "title": "[기업] 현대모비스, 중국 기업과 로봇 관련 기술 협력 논의 - YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3LUlZMlMyVUVJa01wTEZyVXhhTlNEcjdRak5GRFFTSkx1dUUtd1ZaaEJta1VNQ1VYd21Ua1VXRUZETUxZTE4tZWRuTGFYZGdTekE0cFVKMmd5d2F4cUE?oc=5",
+          "source": "YTN",
+          "published": "2026-10-15T18:04:00+09:00"
+        },
+        {
+          "title": "현대모비스, 미국 이어 중국서도 ‘로봇 동맹’ 찾는다 - 한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aLU8zLWRYSFliOW13M29YaG5TcHBEYnhpVDc5eHo1WTgzNVNLeW5CSGpLblRYemVscEw2VVlPOS1VZkhIMkkzVGhvMy1QTTkzSnZFREpoblRCaXdTOThHY3EyR1M4Mzk2bHc?oc=5",
+          "source": "한겨레",
+          "published": "2026-10-15T16:46:00+09:00"
+        },
+        {
+          "title": "현대모비스, 美 실리콘밸리 이어 中 상하이로 글로벌 오픈이노베이션 확대! | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaE53WXZDTTlNcERqMUYyZGd1UlZJQzlmSTc0Z19KcjgtcHdSamdXeW5BWXFNdHFvSVF0bi0tc3dYOWtxUWNZR3ZVYmg1SjNMVmxONmdrWWFRTEU0amN3dVdmWGJQNXd0NEIwR3BNRXB4d2t4dlZERGRpR2piSTJucG10emhlSzZKcWlHMWRuSkw?oc=5",
+          "source": "Hyundai Motor Group",
+          "published": "2026-10-15T11:02:00+09:00"
+        }
+      ]
     },
     {
       "id": "526d1e7dfddb99",
@@ -701,7 +723,8 @@
         "what_to_watch": "현대차 인도 공장 가동률 및 국내 부품사들의 추가 현지 투자 계획",
         "fact_check": "현대차 푸네 공장 가동 및 부품사 동반 진출은 사실로 확인됨"
       },
-      "ai_summary": true
+      "ai_summary": true,
+      "related_articles": []
     },
     {
       "id": "90073fa7453774",
@@ -795,7 +818,8 @@
         "what_to_watch": "정치권의 추가적인 경제 정책 비판 및 관련 대응",
         "fact_check": "제공된 RSS 발췌문에는 해당 발언의 구체적인 근거 데이터가 포함되어 있지 않음"
       },
-      "ai_summary": true
+      "ai_summary": true,
+      "related_articles": []
     },
     {
       "id": "34231275ceadb9",
@@ -818,7 +842,8 @@
         "what_to_watch": "한국은행의 향후 금리 결정 및 시장 금리 추이",
         "fact_check": "제공된 RSS 정보는 전문가들의 전망치이며 실제 금리 결정은 통화정책 방향에 따라 달라질 수 있음"
       },
-      "ai_summary": true
+      "ai_summary": true,
+      "related_articles": []
     },
     {
       "id": "ff672c3667bd09",
@@ -841,7 +866,8 @@
         "what_to_watch": "외환 당국의 시장 개입 여부 및 환율 추이",
         "fact_check": "제공된 RSS 정보는 현상에 대한 보도이며 환율의 구체적인 수치는 명시되지 않음"
       },
-      "ai_summary": true
+      "ai_summary": true,
+      "related_articles": []
     },
     {
       "id": "96556a11a6ff96",
@@ -865,7 +891,8 @@
         "what_to_watch": "연도별 구체적인 투자 집행 계획 및 생산 라인 증설 일정.",
         "fact_check": "제시된 투자 금액과 생산 목표치는 기사 내용을 기반으로 함."
       },
-      "ai_summary": true
+      "ai_summary": true,
+      "related_articles": []
     },
     {
       "id": "6fa8dda863f5fd",
@@ -889,7 +916,8 @@
         "what_to_watch": "인도 현지 생산 비중 확대에 따른 국내 CKD 수출 물량의 변동 추이.",
         "fact_check": "투자 금액은 기사 내용을 인용함."
       },
-      "ai_summary": true
+      "ai_summary": true,
+      "related_articles": []
     },
     {
       "id": "6812769c9ad776",
@@ -913,7 +941,8 @@
         "what_to_watch": "추가적인 국내 기업의 폴란드 진출 시 금융 지원 연계 여부.",
         "fact_check": "금융권의 전략적 움직임을 다룬 기사로 CKD 물류와는 직접적 연관성이 낮음."
       },
-      "ai_summary": true
+      "ai_summary": true,
+      "related_articles": []
     },
     {
       "id": "d7efbb8cede53c",
@@ -937,7 +966,8 @@
         "what_to_watch": "동반 진출하는 부품사들의 현지 생산 시작 시점 및 CKD 물량 대체 속도.",
         "fact_check": "부품사 120곳 동반 진출은 기사 내용을 기반으로 함."
       },
-      "ai_summary": true
+      "ai_summary": true,
+      "related_articles": []
     },
     {
       "id": "92737e9f4ba0a4",
@@ -961,7 +991,519 @@
         "what_to_watch": "면담 이후 인도 정부의 구체적인 인센티브 정책 발표 여부.",
         "fact_check": "정의선 회장의 인도 총리 면담 사실을 기반으로 함."
       },
+      "ai_summary": true,
+      "related_articles": []
+    },
+    {
+      "id": "d4659fb637d63e",
+      "title": "[정의선 현대차 6년 ③] 현대차그룹 3대 과제…관세·노조·모비스 순환출자 - 자본시장뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vOXJFYmJWSUUwbDlrbUFEU3NObmZTbm5WdjV5SXZBOXlrQkRKdDl1U25UTi14ZEpUWW1kZG9uZkFOWGZDYklKb0E2WUhjeVFRajNaUENsZ3g2Zm0tbHQ4NzlaRktGUU0?oc=5",
+      "source": "자본시장뉴스",
+      "published": "2026-10-16T13:00:00+09:00",
+      "category": "자동차",
+      "description": "[정의선 현대차 6년 ③] 현대차그룹 3대 과제…관세·노조·모비스 순환출자 자본시장뉴스",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차그룹 정의선 회장 체제 6년을 맞아 그룹이 직면한 3대 핵심 과제로 관세 장벽, 노조 관계, 모비스 순환출자 구조 해소가 지목되었습니다. 특히 글로벌 무역 환경 변화에 따른 관세 문제는 수출 중심의 현대차그룹 경영 전략에 중요한 변수로 작용하고 있습니다.",
+      "impact": "글로벌 관세 정책 변화는 CKD 부품 수출 단가 및 현지 조립 생산 비용 구조에 직접적인 영향을 미칠 수 있음.",
+      "importance": "높음",
+      "detail": {
+        "background": "정의선 회장 취임 이후 현대차그룹은 전동화 전환과 글로벌 시장 확대를 추진해 왔으나, 최근 보호무역주의 강화로 인한 관세 리스크가 커지고 있습니다. 지배구조 개편과 노사 관계 안정화 또한 지속 가능한 성장을 위한 필수 과제로 평가받습니다.",
+        "key_points": [
+          "글로벌 보호무역주의 확산에 따른 관세 리스크 대응 필요",
+          "현대차그룹의 노사 관계 안정화 및 생산 효율성 제고",
+          "현대모비스 중심의 순환출자 고리 해소 및 지배구조 투명성 강화"
+        ],
+        "what_to_watch": "주요 수출국별 관세 정책 변화 및 현대차그룹의 지배구조 개편 로드맵 발표 여부",
+        "fact_check": "제공된 RSS 정보는 기사 제목과 요약에 기반하며, 구체적인 관세율 수치나 노조 협상 세부 내용은 포함되어 있지 않음."
+      },
       "ai_summary": true
+    },
+    {
+      "id": "9747a0e5b985f1",
+      "title": "윤세아, 러닝 열정 담은 응원…'각성' 앞두고 활발 행보 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00U1gyc1Fpck5PNlY4VHpibzZlV0V5TnU4bWtsTm9INF9PYzBHWFZ3czdsbHZnd2pIZk1HYk5wWXo5QUF6LUZUUWFxNW5IVTkyQjFGTGktal9IXzJsVlVjdkVKeXQ1ak5QcHpPclY4MGNHdw?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-10-16T12:29:56+09:00",
+      "category": "국내 주요 사건",
+      "description": "윤세아, 러닝 열정 담은 응원…'각성' 앞두고 활발 행보 톱스타뉴스"
+    },
+    {
+      "id": "ec8d5f71d6e3b6",
+      "title": "외국인 국내 증권자금 200억달러 순유출…9월 주식·채권 동반 이탈 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0TTlCX2Zpd1ZRMlIzUUJ1S19tVTJQOGxYcDNmV0VBSTE5bVNtM29QMS0xQ2pzWDREcktNZFFubl9NWEZDZktTRGhSaFFKT0dadnRvQUFYbHVKVWlG?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-10-16T12:00:00+09:00",
+      "category": "경제·금융",
+      "description": "외국인 국내 증권자금 200억달러 순유출…9월 주식·채권 동반 이탈 뉴스핌"
+    },
+    {
+      "id": "cfe1a249204c92",
+      "title": "외국인 증권자금 200억달러 이탈…올해 누적 1470억달러 - 파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzcGVfQWQ4dHh2ZVhkVGIyTWN5MzVRNUlTeE5EYllRV1RfMmx3dWdhelY0SUlBUHJmdktEY1VjVk5jUkJYZ3QtZmlwbDJyQlQxWlNTa0EySTMzdlgzc1hYZE4td016QV9MN24zOHZ1RlBTMmlG?oc=5",
+      "source": "파이낸셜포스트",
+      "published": "2026-10-16T12:00:00+09:00",
+      "category": "경제·금융",
+      "description": "외국인 증권자금 200억달러 이탈…올해 누적 1470억달러 파이낸셜포스트"
+    },
+    {
+      "id": "f864ec38b3266f",
+      "title": "김제시, 세대를 초월한 감동… 뮤지컬 , 10월 30일 김제 공연 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBabFhac1h0bDJlZHM0cTlPTGdsQS1odGhoR3BZSjE5T3NGeEpvSnV1ZzRQblQ2MlV4dm45VVhIenR5R3dHd25JRFBHZzJtX1R4OE9LS29CTUMzWnAx?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-16T11:58:36+09:00",
+      "category": "국내 주요 사건",
+      "description": "김제시, 세대를 초월한 감동… 뮤지컬 , 10월 30일 김제 공연 아시아뉴스통신"
+    },
+    {
+      "id": "4b7ec5e6a1ceff",
+      "title": "[JB프리뷰] ‘살아난 에이스’ 이정현, 소노 4연패 탈출 이끌까? - 점프볼",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SMmxDb0ZheGljSURHTTVsdHVZOGZLNmptNDg5MkNyUmR3dFVHWFZPX3M4TWpKbWhpeDhOdENHeDVoSnhyd3kyRlRZTFRscUk1dGNvekZjSUhJVUJoTXRwcXB1dUVoNmM0RG9jOHFMMExXaWpo?oc=5",
+      "source": "점프볼",
+      "published": "2026-10-16T11:19:17+09:00",
+      "category": "관심 키워드",
+      "description": "[JB프리뷰] ‘살아난 에이스’ 이정현, 소노 4연패 탈출 이끌까? 점프볼"
+    },
+    {
+      "id": "05fd60d314389e",
+      "title": "정부 \"증시 변동성 커져\"…실시간 합동 점검·교란행위 엄정 대응 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwcTNJZ21uUzNaWVVvUEd5S0cwVGhlNWI4MXBhMV9wenQ0SzdldFd1X0xEZzlsWDZfQW1XRlllNUVqS3YwQ1NWYkpHUklFN3Q4bjN2ZHI2M0wwa05naXJ2djl3?oc=5",
+      "source": "매일신문",
+      "published": "2026-10-16T11:09:26+09:00",
+      "category": "경제·금융",
+      "description": "정부 \"증시 변동성 커져\"…실시간 합동 점검·교란행위 엄정 대응 매일신문"
+    },
+    {
+      "id": "fa8bd319f7a57c",
+      "title": "폭락 겪은 코스피, 미 증시 반등에 상승 출발 기대 - 기독일보",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yQjRacGJiZ1JMd21FR2U0M3J4X2xFemVfNDQxcEpPYUw4U1haUTFuYWRiZjNOZGdFY05SM01aZElVRXg0d2UteTJYQ0VfY3FaUFZldHI4TdIBXEFVX3lxTE9qbUVldm14SGpnN2FWaWd5XzZXUDRueUZPRzllc3pIOWxEdHRLbkkwS0o3d2xvVDhXWVhMRnI4cWxoWjBlR1Q0Q3E1OXZGaDdVcHBkZmk5NlQtVjlJ?oc=5",
+      "source": "기독일보",
+      "published": "2026-10-16T10:40:04+09:00",
+      "category": "경제·금융",
+      "description": "폭락 겪은 코스피, 미 증시 반등에 상승 출발 기대 기독일보"
+    },
+    {
+      "id": "4a8623566a07f3",
+      "title": "20% 폭락에도 \"증시 끄떡없다\"…정부는 자신만만한 이유 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kc3N2Q2hBSW1YYktGVmZnM2s5LU1QRnZMN1B5cElDX2RVaEFaaUs5ZjNUYU1vb2dKT2Z2cmJzMEpwZkdmSmVvVHJjYTNQVGlLdEgwMmFWUzBfQQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-16T10:21:41+09:00",
+      "category": "경제·금융",
+      "description": "20% 폭락에도 \"증시 끄떡없다\"…정부는 자신만만한 이유 한국경제"
+    },
+    {
+      "id": "dcb2d8d7143673",
+      "title": "[로드픽] 미국발 인플레이션 경고, 한국경제 덮치나…환율·금리·반도체 ‘삼중 압박’ - 뉴스로드",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qdWVwY3Rva1M5T0JyaWJvRElnQ2JGVnZFWHJHTE1MdmlETUNwQ2JCWlc1SEFSSEgtd1pZY0FTb3BvZHBSTWxLMXFzT0Jna21tZW51T3JQdFJWVWg0OUxuTDJUclBaRXdjNE400gFvQVVfeXFMTzRBZkp2RzB6VEsySGZpYzdtNHowSUhwVFBGYUNFeFV2T1FKWW9xYzl1WEx4TUJSQ1ZpY0t5dGppVmRSWlBfRnBybmRhTUdvSmM5UEdrRGV6cDlwZ1ZyQS1Qa054Y2xjeldTdEpiM2Nn?oc=5",
+      "source": "뉴스로드",
+      "published": "2026-10-16T09:18:09+09:00",
+      "category": "경제·금융",
+      "description": "[로드픽] 미국발 인플레이션 경고, 한국경제 덮치나…환율·금리·반도체 ‘삼중 압박’ 뉴스로드"
+    },
+    {
+      "id": "6e423187694717",
+      "title": "[오너 경영능력 평가-정의선 ③] 125조·260억달러 투자…‘성과 회수와 지배구조’ 마지막 시험대 - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZZy1sOXFuMlBxVEZrVHdwY2prWkxNVzZ0VXdwMlBiMnBNRXFoaVBVVlZvS3FBZWlUcWRfbzJzRTIxOWsyNG5Td09oX0ZPd2lqWUVWQUJqc1c2cVFVQS1reW9B?oc=5",
+      "source": "에너지경제신문",
+      "published": "2026-10-16T09:13:18+09:00",
+      "category": "자동차",
+      "description": "[오너 경영능력 평가-정의선 ③] 125조·260억달러 투자…‘성과 회수와 지배구조’ 마지막 시험대 에너지경제신문"
+    },
+    {
+      "id": "69878eff0bf6dd",
+      "title": "[마켓 프리뷰] 뉴욕증시 반등에 삼전·닉스 프리마켓 3%대 강세…코스피 반발 매수 기대 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XZUEtTFJPWF85UGRWLUtoTXp4c25TSzBqNndYS0RnbVdmV2k1U3pqdDYyQnhYWGlaTUZTQ3d3cjg1UmViUDZRMGFDd1h0ZndRdElla0JSYzbSAVhBVV95cUxNV2VBLUxST1hfOVBkVi1LaE16eHNuU0swajZ3WEtEZ21XZldpNVN6anQ2MkJ4WFhpWk1GU0N3d3I4NVJlYlA2UTBhQ3dYdGZ3UXRJZWtCUmM2?oc=5",
+      "source": "아주경제",
+      "published": "2026-10-16T08:12:36+09:00",
+      "category": "경제·금융",
+      "description": "[마켓 프리뷰] 뉴욕증시 반등에 삼전·닉스 프리마켓 3%대 강세…코스피 반발 매수 기대 아주경제"
+    },
+    {
+      "id": "460ada140ff676",
+      "title": "정부 \"국무회의는 대통령과 국무위원들 사이의 자유로운 의견 개진과 협의를 통해 운영' 밝혀 - 정경시사 FOCUS",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyc2FjaTVUQjJ1WGh0RmFoRlpmek5GX1RhZjl2aHZ0Z3FPM1hoaTczSUUxck9Id0pfN1UzWHQ3ZHJWM1BVVVYzWThraEtjcWFfTE1ZOF9wcmt4ck15N01BNjdOdnFUOWFU?oc=5",
+      "source": "정경시사 FOCUS",
+      "published": "2026-10-16T06:51:07+09:00",
+      "category": "정치·정책",
+      "description": "정부 \"국무회의는 대통령과 국무위원들 사이의 자유로운 의견 개진과 협의를 통해 운영' 밝혀 정경시사 FOCUS"
+    },
+    {
+      "id": "3916aa6db7f2f9",
+      "title": "그래서 '내 편' 맞던가요 [뉴스룸에서] - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LblUxX21wM3hDUjVsanZvVnZFZU9WNDVjYUZLdWtDbUpoQ2dPVUNoazJoamRkbko4aHM1QXNXajlKRnJ4bnMxNzFwSjJGX3JvcERrYmJFekFHb1N4bkVyTHpZdjJIVlBsY1ptb09n0gFzQVVfeXFMUGh1OUZVQ1VSYmdpdEVGSUgzNUhnUXdqX2M3LUpEV1ZDaXlKdVlDZ2xfVDFvdl9OZTFiMEtDVU1GdUF4ZDBTOGxQcWNDSXNMaGU0ZG11WHphbXBXNHEteHM4R2c0ZG1rd1ZFdTQyT3hPaW8xOA?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-16T04:30:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "그래서 '내 편' 맞던가요 [뉴스룸에서] 한국일보"
+    },
+    {
+      "id": "7de8e50df0de4e",
+      "title": "Euro gains against Canadian Dollar despite ECB facing rate pause pressure - tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSEgzbDN5cXdleDBKX0hPanVBUjN3TmJHdXVjdktIUzZWSGw3X2MwbUtFSGFNWVF6aExPVTBfcktIUksxUlZ1NVdBWHdLdTY5TlNuaTI4SEJEeFVfZVJfaFFGQWl1S2JwUHBTZWRBNms5bHNxWFIyOXpVYWxFdVBUNWFQaHVldVVPWnMxbDY4QnVxWWFVaUNRd0VLZV9hQkNRblpCVHdGdkltR1NyMVhxTnJZT2NfOUVvUmxFR3VHSWNIMTNGSV9XdXpZa2tuazBHVkh1QmRB?oc=5",
+      "source": "tmgm.com",
+      "published": "2026-10-16T03:58:17+09:00",
+      "category": "경제·금융",
+      "description": "Euro gains against Canadian Dollar despite ECB facing rate pause pressure tmgm.com"
+    },
+    {
+      "id": "4e887fced1ce3f",
+      "title": "현대모비스, 中 로봇 기업과 협업 가능성 논의 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSGRDRnk3VTlOZzR4REwzQ2Ffc3lXRkdXODM4eFFFVEQ5U1BJanBaV0lLaGk4ZlM1TzkwMGtFVVNNR1Q5X2RRd2tJTlFKUExaQURyNkQwdDI5Z1lDV3dlaHhjM3p4VWlXTTlYMnN4NjRpdmlrdEtUWjEtTkoxX1E?oc=5",
+      "source": "조선일보",
+      "published": "2026-10-16T00:33:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 中 로봇 기업과 협업 가능성 논의 조선일보"
+    },
+    {
+      "id": "000e02cf2c0131",
+      "title": "[진단과 전망] 출범 500일 맞은 국민주권정부…‘4만 달러’와 ‘체감 경기’의 간극 - 수원일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dm92aW96N3hoTUx2T05wSEdRTjR4eDZTSGlaOTM4eVlOVU9LU2hkX3ZoM3Juc2xwYlFUM1dSZDZ2N0t6X0Z2TEI4MHJDTlZmVWdxZnlGSTNfRWNrek1RRkpraWJNUQ?oc=5",
+      "source": "수원일보",
+      "published": "2026-10-15T23:09:32+09:00",
+      "category": "정치·정책",
+      "description": "[진단과 전망] 출범 500일 맞은 국민주권정부…‘4만 달러’와 ‘체감 경기’의 간극 수원일보"
+    },
+    {
+      "id": "545cee7c8a25ec",
+      "title": "미국 중간선거와 한국 경제 - 뉴스비전e",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkQ3VnMVBIWm5VMmVpOF9ZaUc5S2pfS3lnWVRoWDlmS3lDb05YUFNjV295YWxPYlExVDZodks0NmxPR2VqZy1Pa3J2b1hzdWpxV2N2SzNscDRtN2F3NkdROU1CX2lJcms?oc=5",
+      "source": "뉴스비전e",
+      "published": "2026-10-15T22:01:43+09:00",
+      "category": "경제·금융",
+      "description": "미국 중간선거와 한국 경제 뉴스비전e"
+    },
+    {
+      "id": "865ce8a4707f0d",
+      "title": "국감장 곳곳 여야 충돌…“성남라인” “정치 공세” - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtWHNWUk92eDlQeW5wWnFaY3ZvTkZ2ekozVkhDNUtxaTU3enNiSWhmSU95OTlreHFCMmRRdlJSODhiam9YY21GNHFIVDFuRDN0bGc3R09BZWxTcmc?oc=5",
+      "source": "KBS 뉴스",
+      "published": "2026-10-15T21:32:00+09:00",
+      "category": "정치·정책",
+      "description": "국감장 곳곳 여야 충돌…“성남라인” “정치 공세” KBS 뉴스"
+    },
+    {
+      "id": "82001a6022b98c",
+      "title": "우크라 매체 “韓 대북정책·국내정치 탓…北포로 갈등 부풀려져” [배틀라인] - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NczRRSDRQT3paaDR6MTZ2NUlPSksxUjBuaGRLNnBUVzVWZGhsOTJzM2s5X1JIQUVzaHYtWklPLXkwVGw4Z1RXeENYai1pa1NUN2s1VkVySjBRaTNpNU1xWEp2a1Y2dW5yaXUwRGZTRG9pY3VQTUNr?oc=5",
+      "source": "서울신문",
+      "published": "2026-10-15T19:25:22+09:00",
+      "category": "정치·정책",
+      "description": "우크라 매체 “韓 대북정책·국내정치 탓…北포로 갈등 부풀려져” [배틀라인] 서울신문"
+    },
+    {
+      "id": "6176ff77344317",
+      "title": "진주로 이사하는 김경수, 총선 지역구 점찍기?[정치쏙닥쏙닥] - 경남도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tR1YxX295OXJfelVuN3dwMkNSYkczOGRfbk9fXzUtWnlucVJoZU1qMGZ4eUViRk5jT0VMY0N5T3BwLUdYRXlNbzdKanJpd1A0YzE0dnFiVzduazN0RDR0RTBMWDdXbVFpS1E?oc=5",
+      "source": "경남도민일보",
+      "published": "2026-10-15T18:51:43+09:00",
+      "category": "정치·정책",
+      "description": "진주로 이사하는 김경수, 총선 지역구 점찍기?[정치쏙닥쏙닥] 경남도민일보"
+    },
+    {
+      "id": "80a34959d725a6",
+      "title": "[대한민국 정치개혁Ⅱ-②] 당원주권이라면서 운영비는 국민 세금?…정당 국고보조금 폐지하자 - 일요서울i",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fLW9MdkdJYXVYTDNVTGdabEoxa0pTYjNvaFRDajA4N3pJUWpMdktHazh1ekpXUHgtUFVQSUpGbHFfUlJHS0hGMk0tMkxGaUdvc1FJRWZPUE40X25fRWdZeHpIVzlMdXpJMlRTRmpB?oc=5",
+      "source": "일요서울i",
+      "published": "2026-10-15T17:59:19+09:00",
+      "category": "정치·정책",
+      "description": "[대한민국 정치개혁Ⅱ-②] 당원주권이라면서 운영비는 국민 세금?…정당 국고보조금 폐지하자 일요서울i"
+    },
+    {
+      "id": "b77348d2633b6b",
+      "title": "일본 다카이치 총리, 핵무기 반입 금지 원칙 재검토 시사…안보정책 변화 주목 - 재팬코리아데일리",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ScVhJSnVkMDlnd3FTUDRfWkpUVGp6cHV5YThIeWZjR0RPT3NhbnpiZ1N3SGR3SndVcDdXTmxyNURBM3JfVUpvanFmdGs0QUViN3NmREx2dWMyd2VZZmJvS1ZnRDhSUHFNYm5hVA?oc=5",
+      "source": "재팬코리아데일리",
+      "published": "2026-10-15T17:56:23+09:00",
+      "category": "정치·정책",
+      "description": "일본 다카이치 총리, 핵무기 반입 금지 원칙 재검토 시사…안보정책 변화 주목 재팬코리아데일리"
+    },
+    {
+      "id": "9f190a94cf3f78",
+      "title": "“푸바오 다시 한국으로! 정부는 귀환 추진 여부·진행 상황 책임 있게 설명해야”⋯시민단체 청와대 앞 집회 - 강원일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fRmVrbmdvUTZUNmFRZXVoZTBYa2ZzLTFfTWhnbGVkUXRkQ1BtMVhjUzFOYUExRW85bW9oQnY3VW93VmpwNTBfcG5sZEFpTlhCa0lfd01sYllBWGM?oc=5",
+      "source": "강원일보",
+      "published": "2026-10-15T17:25:41+09:00",
+      "category": "국내 주요 사건",
+      "description": "“푸바오 다시 한국으로! 정부는 귀환 추진 여부·진행 상황 책임 있게 설명해야”⋯시민단체 청와대 앞 집회 강원일보"
+    },
+    {
+      "id": "71d7ecdb715796",
+      "title": "서울중수청, 李대통령 '지뢰 부실 대응' 일반이적 사건 수사 착수 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTjE5RXpwdHRUbDZuUU91M2Q2ay1xMnhpdXQyZzBURGdhazlqdlNGaGFXcExENDBHOU1TWTBaYzJwcTItaHhuVFp2UF9kYnFNeVl6bHlVaW5janZ0S09HbDY4aGpGUC16bkZUR2VyVWpMMXpEOUYxNWtRQTZhYy1pcEtmbEZPejRtMllHcm5FNTRudzZ0SEJwY2VhZ3JaNDRxWENBMjY1cE1sX2VlUFA0bHJvVzdnS0c0VmZYRF8zanFFWTV2LTNjdllkbGMxcW5LOEhDWENyYjBIeHQ4VUVfQmQ1NWR0U29mRktGclVtejNRWGphMldHYk5kalVIRE1ES25JbmotSmdPU2JIcXpFY21kckF3eW8?oc=5",
+      "source": "데일리안",
+      "published": "2026-10-15T17:23:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "서울중수청, 李대통령 '지뢰 부실 대응' 일반이적 사건 수사 착수 데일리안"
+    },
+    {
+      "id": "0a13f9a84f458a",
+      "title": "온라인 마권시장 급성장…9개월 만에 1조5000억원 돌파·청년층 이용 확대 - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Vb25Bb2Y0LTVMZGdwSDFWd2dMWXBwVlg0dWdTSDg4b3cyNWNqc2xQSF9MYXVraFVtcGhrd0w0QmVxNGJZSUhPNEtXZFltcHNKdDFEaDN1ME9UdVhTQ3hOZE5jcThSeUZxTVhj?oc=5",
+      "source": "서울뉴스통신",
+      "published": "2026-10-15T17:13:22+09:00",
+      "category": "국내 주요 사건",
+      "description": "온라인 마권시장 급성장…9개월 만에 1조5000억원 돌파·청년층 이용 확대 서울뉴스통신"
+    },
+    {
+      "id": "358f2a2e68aee8",
+      "title": "우수상 수상 '포천 루비에스 사과, 대한민국 최대 과일박람회서 3일간 전시' - 중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOSGZ3WDJSZ3lYaWFiNWNXc0FEaTJKSHhEU3Z3VGlkaWtnTGMySHZnY2h2NTJqTGVXdHFiV3RqS2FHUDhkVUJLT2NTcHRkZHJSbkZjWEJtbURPc3VpN0RhUXhQY19kY3FrTHhqQTJQdGhGdUc3SnpSU0dYTHNMU0dBM3dpb2VfOFFBYld0QnlNQm1hQUxTUGgyLUM5ZWNBVzdJcW9jc3JGODZxTE85cjdpMGdOdjFiVG1JNkk1RVBYV3U4RFNWUTFIX2dSd0wzRldpRXZMejR5TElaUmM4S09qZU9xS2lWSjBZd1NPOTByWXJvcmhzU014Q2ctYktNb1FaWGJLS3hVREJ5b0xZeEpiSEZndUMzY2s5dExybDRpOEJUc2VhQ1U3Vk1laU5ObHcyVVpaTkUxT2lTVnhtaExTXzRraWlDOUZCYzgyOHhSdVJFS2tzRDg4M3pjQlhUWUM0QzBfTldSYjAyd0NGM0o4LUNlSmh4RWRrdzZlYnl6UjQweWNPV3k2ZUtHZ0lPRklfSnRWaUpYb1k0RlpHM3ZoWFI0cmNFZkQ1YnlPTnZIZ1paX0Vxa2dEWjYtdWJ0RjQx?oc=5",
+      "source": "중앙신문",
+      "published": "2026-10-15T17:08:37+09:00",
+      "category": "국내 주요 사건",
+      "description": "우수상 수상 '포천 루비에스 사과, 대한민국 최대 과일박람회서 3일간 전시' 중앙신문"
+    },
+    {
+      "id": "9f7b6cf4496f66",
+      "title": "파주소방서, LG디스플레이서 복합재난 대응 합동훈련 실시 - 내외뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xOTIwZVJ4S2czbzJqRFpYWVhPeFREdkdjcVJoWlp1VFZYQzg0cjlJUUxqUEtfZm5IczBreG5CMno2M3JFbFR6MTRmb1NmdF9tcy1xM0dOVGpGLXBkeUs2WWRCNTd4ekVXZ1pEVDVn0gFwQVVfeXFMTlhDVnNSR2tCQXFvckwyOEphY25sQ19aR2hjaGo3VmlZdXhYZmItNmFaNkt0Q3J6U1JzNGxxbDlMUTg2VFJZRHk2ZGhxc1BnNHk1Q1BrUVJHV1hQUkpDOTFMWGQxX0RLcDdacHctQ0FuWA?oc=5",
+      "source": "내외뉴스통신",
+      "published": "2026-10-15T16:22:25+09:00",
+      "category": "국내 주요 사건",
+      "description": "파주소방서, LG디스플레이서 복합재난 대응 합동훈련 실시 내외뉴스통신"
+    },
+    {
+      "id": "df339089f40080",
+      "title": "[증시 레이더] 코스피 5,550선 추락⋯AI 수익성 우려에 양대 시장 '서킷브레이커' - 포커스온경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CTjgyaWNWd1V2MHZWbVRGbDZFR2JvaGNJQXIwSWtzMy1NX19pU3F1bnBEV3VuUTd4S1RMc0ptTzlKOEk3R1pLdlNEcWtIOHVhWEFfZTFqNk85bVdadlV3dw?oc=5",
+      "source": "포커스온경제",
+      "published": "2026-10-15T15:52:19+09:00",
+      "category": "경제·금융",
+      "description": "[증시 레이더] 코스피 5,550선 추락⋯AI 수익성 우려에 양대 시장 '서킷브레이커' 포커스온경제"
+    },
+    {
+      "id": "52c58f1edccc7a",
+      "title": "다른 게임과 기능 구성을 맞춰 보는 카지노 입플 뜻 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZTktVlNxN3RoM25zdWwxNFF6dzF6d0JyNlg2WHpselFLRnNtSjI4a1BHNmNJS1g5TTV0NnNIZ3AwLXp1TkNESlpoUWRuOWRPc0ZKNVdWd2JtTnBPdk9YQWVWY3BUbHFDVVQw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-15T15:30:19+09:00",
+      "category": "전동화",
+      "description": "다른 게임과 기능 구성을 맞춰 보는 카지노 입플 뜻 Calgary Roughnecks"
+    },
+    {
+      "id": "6af657712be59a",
+      "title": "안철수 “李 기념사 영문본, 北 지뢰 도발을 ‘재수 없는 사고’로 포장” - 시사저널",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00WVB4YVpnVFIwMUt5MnRmcjdoRmpSNzJDWXNKT3R1WVpQSi13eXRRMlJpQnBLc185QUZLYnBzTElDUEw3aVI2cXkwNDZWVEp1OVNqRUV3WGZWcG82VmVYMXB4a1pyZlI3bE93UlBGRdIBc0FVX3lxTFBDajZEQlBVTFZTMzg3ZHktVGNiTUx4cEFxRHFGakFzM1FINHI0cGtMSWxvTEJfVzBKbFQ5cjRkOHBVRWJ1Z1o4Z3lET19HcnI5OVF0UE53b3lpTzJOd1h1cXpGV0JWMGt2RzA5cnFIczN6bUE?oc=5",
+      "source": "시사저널",
+      "published": "2026-10-15T15:02:23+09:00",
+      "category": "국내 주요 사건",
+      "description": "안철수 “李 기념사 영문본, 北 지뢰 도발을 ‘재수 없는 사고’로 포장” 시사저널"
+    },
+    {
+      "id": "4126de6570ecf3",
+      "title": "현대모비스, 상하이서 오픈이노베이션 첫 개최…로보틱스·피지컬 AI 협력 - 뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94VkVPSUJQazBwVEpCNHVreHJoN2UxdGR6WE16Wkp0X2x3NnE2S0piVTZHS2VxQkVZNGZIYXAwSjkxQTdtLXFnWlMxbHhFQUJrVEVzMWN2WEIwY3I1d3NFeg?oc=5",
+      "source": "뉴스토마토",
+      "published": "2026-10-15T15:01:33+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 상하이서 오픈이노베이션 첫 개최…로보틱스·피지컬 AI 협력 뉴스토마토"
+    },
+    {
+      "id": "30da6fb8e41f6b",
+      "title": "안철수, 李대통령에 “北 지뢰 사건이 ‘재수없는 사고’냐” 영문 기념사 지적 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvUlk5YVYtY0tLUmRseXlKSEpJNV9WVkdqUjQyakdhLThxY18zWjhOcG5XLVg3N241SGxYNjg1clZoeXQtTzhiWWdZeTd5bno0OHZSOTJwYV9ZTW8?oc=5",
+      "source": "경기일보",
+      "published": "2026-10-15T14:47:01+09:00",
+      "category": "국내 주요 사건",
+      "description": "안철수, 李대통령에 “北 지뢰 사건이 ‘재수없는 사고’냐” 영문 기념사 지적 경기일보"
+    },
+    {
+      "id": "81a9e782e9e624",
+      "title": "안철수 \"北 지뢰도발을 '재수없는 사고'?…李, 국군통수권자 맞나\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3Mm5KZzc5bE93eGE3SVQ3M3pvdjdYallXQUJvRzJZdGxCMVNjZ3doS0sySUxqR2NaNGh1TmdXVEVFLW5nRFFCQWpkMmRuT2I3b29ZNU5HT0tIN3dZbjA4btIBeEFVX3lxTE9KWld0eWI1Q3JQTmZSTTdrNmVlQkwtLXRsV3MyNUxqZWhJM1d5LWpZTi13eXVmMWowOEJlcnc0a3ROX2R3Z1M1djJjaTJsWTdNeU9LYTFxRDdXeS01WWZxOUNrR3AtUDRDVmw2WDNLYkhGZU5tTkVBaA?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-15T14:11:34+09:00",
+      "category": "국내 주요 사건",
+      "description": "안철수 \"北 지뢰도발을 '재수없는 사고'?…李, 국군통수권자 맞나\" 뉴시스"
+    },
+    {
+      "id": "7e013a270fec33",
+      "title": "한국 인터넷 속도 세계 22위 논란…정부 \"평가 기준 불명확, 객관적 비교 한계\" - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uZXRDX1Q2SHowcDYzRmZtRGN0SklrNk42NnVxVU50d2EtOHZLclVLTHlMTkN5VlJZQ0dKWFc5b0lVa25Pc2VTVDZLVy16UkxSMG5veU5aMm5meGdiQktyM1pBcEVUcC02Wndz?oc=5",
+      "source": "서울뉴스통신",
+      "published": "2026-10-15T14:02:41+09:00",
+      "category": "국내 주요 사건",
+      "description": "한국 인터넷 속도 세계 22위 논란…정부 \"평가 기준 불명확, 객관적 비교 한계\" 서울뉴스통신"
+    },
+    {
+      "id": "e541c241d6330d",
+      "title": "안철수 “李대통령, 지뢰로 국군이 발목 잃은 사고가 ‘재수없는 사고’인가?⋯대한민국 국군통수권자 맞나?” - 강원일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90QnBvVVZ6V0FmbFZNc2FRY18wWlpoZTVmWFVaNS1ZWFJfLXhTOXZCMUNTaXV6b2NNcldQZEM1bnRpRVZ4R29kdHlTOVcxZXpMcFRoZ3R0d0pBaTQ?oc=5",
+      "source": "강원일보",
+      "published": "2026-10-15T13:07:57+09:00",
+      "category": "국내 주요 사건",
+      "description": "안철수 “李대통령, 지뢰로 국군이 발목 잃은 사고가 ‘재수없는 사고’인가?⋯대한민국 국군통수권자 맞나?” 강원일보"
+    },
+    {
+      "id": "8ba910264c1867",
+      "title": "안철수 “지뢰 폭발이 ‘재수없는 사고’?”…청와대 영문 표기에 맹공 - 채널A",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jNGlINFVTOFRmM29NNHdYc0czQUZTclZyQ2lSczh0cXRqb1dhNXJxdDlDaUd1Unk1Y2d0aDl6ZFFxc29tR3NWQ3pPdTVRU0UzNTlVRmpyajRyWEdzaUHSAWNBVV95cUxQckpJMWJaTVlmd2RBcThtRkRmRUlJU2tjeXZwZldBRDQtODE0U2tCZTF2Ym1BVThQNjdXRDBBUElvb1ZOY2p2MC16SGJEakNBSzc3NW5KS3ZyT1gyM2N6QVFlS1E?oc=5",
+      "source": "채널A",
+      "published": "2026-10-15T11:14:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "안철수 “지뢰 폭발이 ‘재수없는 사고’?”…청와대 영문 표기에 맹공 채널A"
+    },
+    {
+      "id": "358d8735f465fd",
+      "title": "안철수 “靑 영문 홈피, 北 지뢰도발을 ‘재수없는 사고’라니” - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Kcy1OYmt2WERnRXRuVWt4TXhkS3Z3WGVuSVNIWlJRTWczRDM1am1TMEtUOFRsbk1UeDRYeENReEw4QldGbjVrekJ4ZXlOb0Va?oc=5",
+      "source": "문화일보",
+      "published": "2026-10-15T10:55:07+09:00",
+      "category": "국내 주요 사건",
+      "description": "안철수 “靑 영문 홈피, 北 지뢰도발을 ‘재수없는 사고’라니” 문화일보"
+    },
+    {
+      "id": "5bd12c54b8c1a5",
+      "title": "현대모비스 램프 새 둥지 성남…ISS·블랙록 '주식매수청구' 여론전 - SBS Biz",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QdmhrYzZFZmZRMURjbGRFeU45REZxaDVRTzVhcEd6V3dhUFJuMGZoUDBOeDFyUUtFVThsTVgzYmVMOUJSelIybWUwenZUblFhUHMwTEJvLU7SAVhBVV95cUxPUHZoa2M2RWZmUTFEY2xkRXlOOURGcWg1UU81YXBHeld3YVBSbjBmaFAwTngxclFLRVU4bE1YM2JlTDlCUnpSMm1lMHp2VG5RYVBzMExCby1O?oc=5",
+      "source": "SBS Biz",
+      "published": "2026-10-15T10:20:00+09:00",
+      "category": "자동차",
+      "description": "현대모비스 램프 새 둥지 성남…ISS·블랙록 '주식매수청구' 여론전 SBS Biz"
+    },
+    {
+      "id": "fe6078cfb0ea09",
+      "title": "우크라 매체 \"北포로 송환 갈등 부풀려져…韓 대북정책·국내정치 탓\" - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pTGhRaE9LQWZRSmxINjVfVXpmSmdtZlktdVRiR0U0LTBBcnFrRVYyNTR1VlJmaEp4QnpzbVVXY0dzUWxOWERiSVVJRFkzX0Y4THlF?oc=5",
+      "source": "뉴스1",
+      "published": "2026-10-15T09:44:56+09:00",
+      "category": "정치·정책",
+      "description": "우크라 매체 \"北포로 송환 갈등 부풀려져…韓 대북정책·국내정치 탓\" 뉴스1"
+    },
+    {
+      "id": "44b08210fcc858",
+      "title": "마포구, 가스폭발·인파사고 가정 재난대응 훈련 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRU2ZmU1VkVXdKVWZTcGJyb25uWHJybVpSX3E4ZVRwc2xIV2V4UXdSd0tmUm1aaVZmSGVTV1dRc21tQ3JXdXQyT0NWZGtwb0VHandHbzNSaEFvV1RnNU5BTjJBNjRDd1lGcmxKN1FBVdIBc0FVX3lxTE9uTWlzclZXZDdwM0hWZHJlYUpNazNyOWVmV1k2Y3lGM0thWl85U2E4WjR4TFpaZ1dHLUVZMWZ1alRWUmRQQVRHeTVNazQ4YXcyZ2x3Mjd0QWRhN2NOR1l2MkNkQ05MYmhJRFkyUUoyZGQ2akE?oc=5",
+      "source": "데일리한국",
+      "published": "2026-10-15T08:44:55+09:00",
+      "category": "국내 주요 사건",
+      "description": "마포구, 가스폭발·인파사고 가정 재난대응 훈련 데일리한국"
+    },
+    {
+      "id": "043c4ac956b5db",
+      "title": "토토 허위충전 심벌 강조 표시 해설 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWF81U01rRmt1cWpoM1VCakJEQTNJbHhzdjdyRm1MQjlQbWQ2ZXM0M3ctcU92MHJxdnMtaFlkcHltRUwtUDZyeFRHbjhXOXZDeEVHWUo4Z2pEdGJKYTlZRktDX2M1NFNsWVhLZWU2VDEzblNJTWI3bTJPWjl4MURsbXRRV3EwN21mbkQxVWt6OWEtTkZWVjB1REJyU1BBVWozSlBfa19NM2xnRVNtX1R5ZFhrdzRrWWNHdnJwdUNPUmxVWnFjSFVOa1R6bTlGVTRjTnF0MkJrWVBQVm5QYldvQ3RMck5FNDRC?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-15T08:32:50+09:00",
+      "category": "전동화",
+      "description": "토토 허위충전 심벌 강조 표시 해설 Calgary Roughnecks"
+    },
+    {
+      "id": "7aa0f440c8399f",
+      "title": "아내 살해하고 도주...70대 체포 - 전라일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBScXd0QU5VM2FYT1dhbVJVODdQX3lKb0tIRm1Zdjdpd182TGF3TVNlT05MN3l4YUJGVkN5WXFldEhjRWpmWEU0TkpvUmQ3cDVYSDlOVTk0WU9TRGp6eDRfRGd6ZkE3VU5RMk1qV9IBcEFVX3lxTE9RekRqc1RnM0RXWlJObS1mNHBNOEFOOXYwNHptaC1XN3ZRaG9GLTA0eEpvLWhNb3pzam4yUjhsMFFYRDdPclBQdnByX1g0TkxUekw0VW5aQWpyd21UVUVqMzVNSFVheFEydHZJeTBDNWc?oc=5",
+      "source": "전라일보",
+      "published": "2026-10-15T08:24:27+09:00",
+      "category": "국내 주요 사건",
+      "description": "아내 살해하고 도주...70대 체포 전라일보"
+    },
+    {
+      "id": "342f57e3f84eae",
+      "title": "[환율 전망] 어제의 친구가 오늘의 적? 반도체의 두 얼굴 - KB Think",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qNGdLelpOQjUzOVU1cVVXQVlVWnFpWncyYnNvb0laQk50QVJqRERFSndwTmVfdWVablNHV0FUZW1KN0oxTi10enhFbXpaLWJnZG5fdUZhNXNveURNekU5Tg?oc=5",
+      "source": "KB Think",
+      "published": "2026-10-15T08:07:10+09:00",
+      "category": "경제·금융",
+      "description": "[환율 전망] 어제의 친구가 오늘의 적? 반도체의 두 얼굴 KB Think"
+    },
+    {
+      "id": "c249b0f8a9cbe8",
+      "title": "\"지뢰도발이 재수없는 사고?\"…안철수, 靑 영문본 작심 비판 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jc21hSGpvcWJsQTdsdEN5NkZXWmNVVDFnZWdFQy1Ib2NWNlhocWJZQ0tmT3poWUxNcHRpbjE0X21TMW8xcmYtNEhLSGJOeWFDMXZOVjh6bThFUQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-15T07:50:25+09:00",
+      "category": "국내 주요 사건",
+      "description": "\"지뢰도발이 재수없는 사고?\"…안철수, 靑 영문본 작심 비판 한국경제"
+    },
+    {
+      "id": "1cb44797c9d207",
+      "title": "[오늘의 이슈]미국 물가 충격에 금리인상 우려 확산 - 센트럴경제",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55czNBd0IxZTB6c2MwbUhBUVUxdzVmWW04RFhhc2djRUJwMFBqaFRjeGpNRjVIdjRYU0xWcjdfUHExTmFVN05QaXFBNEswLWI2NUctUnE1VURQX0dsZDIyMm1FNXBTbUXSAWpBVV95cUxOYUlrQVhlZDhUTUNYOEowMTJIeUJHeUpsSnVWSU13SkhPR1gwdE0wXy1sRDNiVTZrdDFiOUw0VTlsOTV2TERENjUzLTB2S0NVb3ViLUdSaUhHcy0zcmVJTEJoYUVwMHR4bU5B?oc=5",
+      "source": "센트럴경제",
+      "published": "2026-10-15T07:24:39+09:00",
+      "category": "경제·금융",
+      "description": "[오늘의 이슈]미국 물가 충격에 금리인상 우려 확산 센트럴경제"
+    },
+    {
+      "id": "87214981af75e8",
+      "title": "이 대통령 \"규모 넘어 질적 성장으로…인구정책 대전환 필요\" - 한국언론포털통신사",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ubVpMVThQUHNBRzBtVVRjOFpGSHlHMVprTE9TV3Z1QTlZV0FrNkZOdzA2UmszV0NOYktyeTRrcmQ0cnc3R0d2TlN4eC1xSGhnOXRmTUtHeDhOS2FiVGM5QnBZSFQ?oc=5",
+      "source": "한국언론포털통신사",
+      "published": "2026-10-15T07:12:46+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령 \"규모 넘어 질적 성장으로…인구정책 대전환 필요\" 한국언론포털통신사"
+    },
+    {
+      "id": "df744742be90c3",
+      "title": "[오늘의 주요일정] 정치·정부 (15일, 목) - Queen 이코노미퀸",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PM3ROeU9mTnZKUzRPd0ZpZ0JFVkJaR1BTNmsyVjVpclMxem5ZLXJCLUJCdVhfTF9GUnBHWGlhMDRUM2tXNmxKemdfbzFQTGphZTFNRnJROEhlTXpadGhXZnBuX1ZEZHdOQ3c?oc=5",
+      "source": "Queen 이코노미퀸",
+      "published": "2026-10-15T06:24:39+09:00",
+      "category": "정치·정책",
+      "description": "[오늘의 주요일정] 정치·정부 (15일, 목) Queen 이코노미퀸"
+    },
+    {
+      "id": "f433c7a6f41c5e",
+      "title": "가장 먼저 이해할 게임의 단위, 브릭 토토 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Geko0QVB0TjdnM0ZjcjVzbnNVZXVWN3FCWU55dkdSc0ZoY3o4ZjZ0TlI0UDYyTS01R0xnZVlEai1ENkhXSUpIbDkxQXRLTHcyaXpxZFZMU2l0WW04TVpB?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-15T01:38:57+09:00",
+      "category": "전동화",
+      "description": "가장 먼저 이해할 게임의 단위, 브릭 토토 Calgary Roughnecks"
+    },
+    {
+      "id": "60bdd9b22d5038",
+      "title": "이 대통령 “인구정책 바꿀 전환기…시스템 근본적 재설계” - 강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lZ2VSYy1vT05ISjc5cDFLNTEzQmtJdVRXNGFqc3Z5c0tMcXR3V2lWZldDNFkySS1zdl9oQnlDakU4Rl9HMmpqOW43eS1iOXhNOVUwek41SVRVVXVZT1I0YmN4cmdDcEk?oc=5",
+      "source": "강원도민일보",
+      "published": "2026-10-15T00:02:01+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령 “인구정책 바꿀 전환기…시스템 근본적 재설계” 강원도민일보"
+    },
+    {
+      "id": "1fe77e1928e7fd",
+      "title": "[CEO 포커스] 정의선 취임 6년, 현대차그룹 ‘글로벌 3위’ 안착…다음 승부처는 '피지컬 AI' - 인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rUGtDZ0hsdnF5UUlZSmU0WkxneDhBNnNld3AybjlSTmJOR3BjbTdWZ25zUzduWTlZTmNFMXJUNFZWQ1RUMVFpNU00Tm93UFdpY1F1MDBfaDlNdjFJRHpORUppQS1YbVQtN3RhQjVZS3FaUQ?oc=5",
+      "source": "인더스트리뉴스",
+      "published": "2026-10-14T16:33:08+09:00",
+      "category": "자동차",
+      "description": "[CEO 포커스] 정의선 취임 6년, 현대차그룹 ‘글로벌 3위’ 안착…다음 승부처는 '피지컬 AI' 인더스트리뉴스"
+    },
+    {
+      "id": "0cf744c7b30ef5",
+      "title": "국힘 민생정책 플랫폼 '당근위' 출범…장동혁 \"효능감 드릴 것\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxV0RadHBkeWhDWHdSc2M1NkJzVzBpaGJhV3k5VThxaUkwWXdpN1hoN0NJUTRieFgtVlNjRFJaNUkzWDhxd2x0aGhNdVplQ1hLZU1qZUVYYWJ3N2FIYlQ5YdIBYEFVX3lxTFBxV0RadHBkeWhDWHdSc2M1NkJzVzBpaGJhV3k5VThxaUkwWXdpN1hoN0NJUTRieFgtVlNjRFJaNUkzWDhxd2x0aGhNdVplQ1hLZU1qZUVYYWJ3N2FIYlQ5YQ?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-14T15:09:50+09:00",
+      "category": "정치·정책",
+      "description": "국힘 민생정책 플랫폼 '당근위' 출범…장동혁 \"효능감 드릴 것\" 연합뉴스"
+    },
+    {
+      "id": "42d448f480e4eb",
+      "title": "정의선, 모디 총리 만나 ‘155억달러 투자’ 승부수… 인도 공략 가속 - 비즈트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lMVJuRkRrRHc2WmhvdDJqR3cyVVhoZjZxeFktXzFueEd3YkhBRUFNMkZfRnZzNkR4SE1iSUVHS0VRT3lvMFRIdVo4ZnJ3X2xzZjlwZWtvd2ZlaVBjVll0U09hazhuU0h2cWwweGRXcTA?oc=5",
+      "source": "비즈트리뷴",
+      "published": "2026-10-14T15:01:58+09:00",
+      "category": "자동차",
+      "description": "정의선, 모디 총리 만나 ‘155억달러 투자’ 승부수… 인도 공략 가속 비즈트리뷴"
+    },
+    {
+      "id": "95c28e1c54ddcf",
+      "title": "中기업인 러일 영토분쟁지 쿠릴 방문에…日 \"절대 못 받아들여\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjSG5uVHVveUJmdmRPNWhDX2MzWWEtaDZzVU9KaXBxR2Jtc1c0Yjh5SkREN0tlT3Rkd09RN1dyMlEwZ28zUmFNLXcxODJvOGhPOWVpdm5obWp6T1FJS2hzVdIBYEFVX3lxTFBjSG5uVHVveUJmdmRPNWhDX2MzWWEtaDZzVU9KaXBxR2Jtc1c0Yjh5SkREN0tlT3Rkd09RN1dyMlEwZ28zUmFNLXcxODJvOGhPOWVpdm5obWp6T1FJS2hzVQ?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-14T14:19:56+09:00",
+      "category": "국제·외교",
+      "description": "中기업인 러일 영토분쟁지 쿠릴 방문에…日 \"절대 못 받아들여\" 연합뉴스"
+    },
+    {
+      "id": "4638f18e71f027",
+      "title": "현재 버전을 어디서 찾나요? 도박 금지 포스터 정보 확인 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUDNRM1pEVzFONEgwYnNLbG1LcGVNVDNzNjJkZktqanRQM2hhaF90djFfd3VqRG9BWEUtZTJlZjZIWl90SVF3WW9UVlVGd3Q1WjczeWFYaWxXY0RKdXViN2VvLW1KbGxGOThEYmpQRkQ1ZVlNa1pQbkwxNEhvV0hWRmVDcHZSdDZaQmh3bFRqd18xblUzWUh0aTZ2QmpPcHNRS2xIRXdVeUtiWS1VdHhfSFM1Z0dlVlk4d3VWQTU2b3JpeGdydEhhbkxhNHA2SnpPWTFMck9xQnMteGEtcnRMMDdobzJDRTdVdWx0RXJTY1Q?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-14T13:57:03+09:00",
+      "category": "국제·외교",
+      "description": "현재 버전을 어디서 찾나요? 도박 금지 포스터 정보 확인 Calgary Roughnecks"
     }
   ]
 }
