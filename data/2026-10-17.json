@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
-  "updated_at": "2026-10-17T07:16:28.470587+09:00",
-  "article_count": 1,
+  "updated_at": "2026-10-17T12:16:11.457953+09:00",
+  "article_count": 2,
   "ai_enabled": true,
   "articles": [
     {
@@ -30,6 +30,34 @@
       "ai_summary": true,
       "integrated_summary": true,
       "integration_signature": "ffd093c39d6466c8"
+    },
+    {
+      "id": "627eb2ff577524",
+      "title": "여야, 부마항쟁·증시 급락·대법관 인선 놓고 정치 공방 - M이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkSmxzTDI1ZXd6bU5KbkFDWHh5SnVnOWxhYW0ycHpVaDFwQVNKVlRxWlF0MDc1WEVaWDlKZU1hMXJXS2xiWTJIRDM0dkNPYVRwaHFMTnRsT3pEaTZySmYwUEYwWDFsYjg?oc=5",
+      "source": "M이코노미뉴스",
+      "published": "2026-10-16T16:20:25+09:00",
+      "category": "정치·정책",
+      "description": "여야, 부마항쟁·증시 급락·대법관 인선 놓고 정치 공방 M이코노미뉴스",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "여야가 부마항쟁 기념일, 최근 증시 급락 사태, 대법관 인선 문제를 두고 정치적 공방을 벌이고 있습니다. 각 현안에 대한 입장 차이가 뚜렷해 향후 국회 내 갈등이 지속될 전망입니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "부마항쟁 기념일, 증시 변동성, 대법관 인선 등 주요 정치·경제 현안에 대한 여야의 시각차.",
+        "key_points": [
+          "부마항쟁 관련 역사 인식 및 기념 방식에 대한 여야 이견",
+          "증시 급락에 따른 정부 대응 및 여야 책임 공방",
+          "대법관 인선 절차 및 후보자 적격성 논란"
+        ],
+        "what_to_watch": "국회 내 관련 상임위 논의 및 대법관 인선 절차 진행 상황",
+        "fact_check": "정치권의 주장이므로 각 당의 공식 논평 확인 필요"
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "3dc34cbc3e1b0a5c"
     }
   ]
 }
