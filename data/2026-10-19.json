@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-19",
+  "updated_at": "2026-10-19T07:10:12.280360+09:00",
+  "article_count": 2,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "cddcca91a7b645",
+      "title": "현대차·기아, 공장을 소프트웨어로…신기술 200여 건 - 자본시장뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTmd0Q1BYOFR0Wkt2bGRUaWhrMGFwVW81WVVEaERCMUlaMHdzZlJsRkZnVkJDaVdTQTEzMGh3SkQ5WXdmQkpFN0ZtbmVMZXduRm45Zm9TTU1oYk5oenI5TEt0NVVTeDg?oc=5",
+      "source": "자본시장뉴스",
+      "published": "2026-10-18T17:30:00+09:00",
+      "category": "자동차",
+      "description": "현대차·기아, 공장을 소프트웨어로…신기술 200여 건 자본시장뉴스",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차와 기아가 생산 공장의 소프트웨어 중심 전환을 위해 200여 건의 신기술을 도입합니다. 이를 통해 제조 공정의 효율성을 높이고 미래 모빌리티 생산 체계를 고도화할 계획입니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차·기아의 스마트 팩토리 전환 및 제조 경쟁력 강화 전략",
+        "key_points": [
+          "공장 운영의 소프트웨어 중심 전환 추진",
+          "200여 건의 신규 제조 기술 도입"
+        ],
+        "what_to_watch": "도입되는 신기술의 구체적인 적용 범위 및 생산성 향상 효과",
+        "fact_check": "현대차·기아의 공장 소프트웨어 전환 관련 신기술 도입 건수 확인"
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "57531969348a68c2"
+    },
+    {
+      "id": "ecf0e0ac2dd805",
+      "title": "현대모비스, 로봇 한 대에 액추에이터 40개…2028년 생산능력 확대 추진 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55bEdfSktlLVhMQ0Zpck55QXpfWnQ3aW01V3QzVVAwaVFVUE1EVkw5c3prTW8xeC1uSWVKOXpaWHhPN1ZYWnpUSVUyMERDQjd3VTl3Z3RQN2ktdEdFU05HWXNzZTVNbUhZa3RFZTlPa0lneUhpWWFJ0gF3QVVfeXFMTnlsR19KS2UtWExDRmlyTnlBel9adDdpbTVXdDNVUDBpUVVQTURWTDlzemtNbzF4LW5JZUo5elpYeE83VlhaelRJVTIwRENCN3dVOXdndFA3aS10R0VTTkdZc3NlNU1tSFlrdEVlOU9rSWd5SGlZYUk?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-10-18T15:35:25+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 로봇 한 대에 액추에이터 40개…2028년 생산능력 확대 추진 핀포인트뉴스",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 로봇 한 대당 40개의 액추에이터를 탑재하는 고도화된 로봇 기술을 선보였습니다. 2028년까지 로봇 관련 생산 능력을 대폭 확대하여 시장 경쟁력을 확보할 방침입니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "현대모비스의 로보틱스 사업 확장 및 생산 인프라 투자",
+        "key_points": [
+          "로봇 1대당 액추에이터 40개 탑재 기술 확보",
+          "2028년 목표로 로봇 생산 능력 확대 추진"
+        ],
+        "what_to_watch": "2028년 생산 능력 확대에 따른 구체적인 투자 규모 및 로봇 사업 매출 비중",
+        "fact_check": "현대모비스의 로봇 액추에이터 기술 사양 및 2028년 생산 계획 확인"
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "57fe8f92751dee86"
+    }
+  ]
+}
