@@ -97,7 +97,10 @@ function workCard(a){
 }
 function render(){
  if(selectedSection==='네이버 인기'){renderPopular();return}
- const data=historyResults||current,all=data?.articles||[],q=$('search').value.trim().toLowerCase(),cat=$('category').value;
+ const data=historyResults||current,base=data?.articles||[],popular=historyResults?[]:(popularData?.articles||[]);
+ const seen=new Set(base.map(a=>(a.url||'').split('?')[0].replace(/\/$/,'').toLowerCase()).filter(Boolean));
+ const extras=popular.filter(a=>{const key=(a.url||'').split('?')[0].replace(/\/$/,'').toLowerCase();if(key&&seen.has(key))return false;if(key)seen.add(key);return true}).map(a=>({...a,section:'일반 뉴스'}));
+ const all=selectedSection===''?[...base,...extras]:base,q=$('search').value.trim().toLowerCase(),cat=$('category').value;
  const list=all.filter(a=>(!selectedSection||a.section===selectedSection)&&(!cat||a.category===cat)&&(!q||[a.title,a.summary,a.impact,a.source].join(' ').toLowerCase().includes(q)));
  const priority={'높음':3,'보통':2,'낮음':1},time=a=>{const n=Date.parse(a.published||'');return Number.isFinite(n)?n:0},mode=$('sort').value;
  list.sort((a,b)=>mode==='importance'?(priority[b.importance]||0)-(priority[a.importance]||0)||time(b)-time(a):mode==='oldest'?time(a)-time(b):time(b)-time(a));
@@ -110,9 +113,12 @@ function render(){
  if(selectedSection==='' && list.every(a=>a.section!=='산업·업무'))$('cards').classList.add('general-list');
  for(const a of list)$('cards').append(a.section==='산업·업무'?workCard(a):generalRow(a));
 }
-async function loadPopular(){const date=$('date').value;if(!date)return;try{popularData=await json('data/popular/'+encodeURIComponent(date)+'.json')}catch{popularData=null}if(selectedSection==='네이버 인기')renderPopular()}
+async function loadPopular(){const date=$('date').value;if(!date)return;try{popularData=await json('data/popular/'+encodeURIComponent(date)+'.json')}catch{popularData=null}if(selectedSection==='네이버 인기')renderPopular();else if(selectedSection==='')render()}
 function renderPopular(){
- const all=popularData?.articles||[],q=$('search').value.trim().toLowerCase(),cat=$('category').value;
+ const base=(historyResults||current)?.articles||[],collected=base.filter(a=>a.section!=='산업·업무'),popular=historyResults?[]:(popularData?.articles||[]);
+ const seen=new Set(collected.map(a=>(a.url||'').split('?')[0].replace(/\/$/,'').toLowerCase()).filter(Boolean));
+ const extras=popular.filter(a=>{const key=(a.url||'').split('?')[0].replace(/\/$/,'').toLowerCase();if(key&&seen.has(key))return false;if(key)seen.add(key);return true});
+ const all=[...collected,...extras],q=$('search').value.trim().toLowerCase(),cat=$('category').value;
  const list=all.filter(a=>(!cat||a.category===cat)&&(!q||[a.title,a.source].join(' ').toLowerCase().includes(q)));
  const priority={'높음':3,'보통':2,'낮음':1};if($('sort').value==='importance')list.sort((a,b)=>(priority[b.importance]||0)-(priority[a.importance]||0));
  $('cards').replaceChildren();$('cards').classList.add('general-list');$('headline').textContent=($('date').value||'오늘')+' 일반 뉴스';
