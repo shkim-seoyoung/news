@@ -360,7 +360,7 @@ def ai_editorial_review(items, history):
                   "정치인·정부명·한자 약칭을 추측해서 풀어 쓰지 마라. 특히 李정부를 이명박 정부로 해석하지 말고, 불확실하면 원문 표기를 유지하라. "
                   "각 id마다 status(keep/repeat), summary(한국어 2~3문장), "
                   "new_information(전일 대비 추가/변경 내용, 없으면 빈 문자열), "
-                  "impact(직접적 CKD 영향이 불명확하면 '직접적인 업무 영향 확인되지 않음'), "
+                  "impact(발주·선적·포장·통관·해외생산에 관한 명시적 근거가 없는 경우 반드시 '직접적인 업무 영향 확인되지 않음'으로 작성. 기업명만으로 CKD 물량 변화나 직접 영향을 추정하지 마라), "
                   "importance(높음/보통), detail 객체(background, key_points 배열 2~4개, "
                   "what_to_watch, fact_check)를 포함하라. 전일 기록이 없는 경우 new_information은 빈 문자열. "
                   "JSON 객체 {\"articles\":[...]}만 출력. 입력: " + json.dumps(payload, ensure_ascii=False))
@@ -517,10 +517,9 @@ def main():
     def in_window(a):
         try: return cutoff <= datetime.datetime.fromisoformat(a['published']) <= NOW
         except (ValueError, KeyError, TypeError): return False
-    # Keep articles already present in today's public digest, but never revive
-    # identical stories from earlier dates.
-    old_ids = {a.get('id') for a in old}
-    chosen = [a for a in chosen if (in_window(a) or a.get('id') in old_ids)
+    # Strict publication window: never revive old stories just because today's
+    # digest contained them. Same-issue follow-ups are reviewed separately.
+    chosen = [a for a in chosen if in_window(a)
               and not previously_published(a, history)]
     old_map = all_saved
     # Reuse previous integrated summary unless today's sources or 7-day comparison changed.
