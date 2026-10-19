@@ -269,7 +269,8 @@
       "new_information": "",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "57531969348a68c2"
+      "integration_signature": "57531969348a68c2",
+      "image_url": ""
     },
     {
       "id": "59325d8fd21b36",
@@ -404,7 +405,8 @@
       "new_information": "",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "57fe8f92751dee86"
+      "integration_signature": "57fe8f92751dee86",
+      "image_url": ""
     },
     {
       "id": "d7c0d1a454fb9e",
@@ -1189,6 +1191,51 @@
       "published": "2026-10-17T12:15:31+09:00",
       "category": "관심 키워드",
       "description": "울산 현대모비스, 피버스 키즈 모델 모집...2020~2022년생 아동 신청 가능 스포탈코리아"
+    },
+    {
+      "id": "60ad6eb68aa00d",
+      "title": "[알립니다] 원전·수소·신재생에너지 융합, 미래에너지 산업 거점 울진의 도약 모색 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05amVONmR6QkhaWmRPdUxWM2VYLVcxVjNHa0k0ZGswTUMwWjlUcTBKM0JRMU5VUFVQWHVEZkNMYndQcmFvZkFzYVF5TGZZUFMxNlBPN0x4aXZEQ2J3SE9BeXRvS1k3VkdndnNsM0VB0gFzQVVfeXFMTVpXZzRQemswS29SVjNINXhCaGs5V2E0VTFHQUpqNEZmVEE1VGoxRmRFNHdUYjNwVDJXbUVwMmdlSmRZOUwyaGVSUzFjSEJqWDdVcDNoUzNmOVh1YWF5TExoVWVseUhteW5jdF9NRng1cl93VQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-19T12:00:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "[알립니다] 원전·수소·신재생에너지 융합, 미래에너지 산업 거점 울진의 도약 모색 한국일보"
+    },
+    {
+      "id": "580ab97b190d22",
+      "title": "논산딸기축제 캐릭터 ‘베리프렌즈’, 대한민국 지자체 공공캐릭터 페스티벌 최우수상 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9URXJZT0hzaW9IRkdQaGdmdEdFdzRvSHowRXJTUlNHTVRJWUsyMFZ6SjY4N1gxNEJraFM5RV9UY3dNOEJrdjhhVGpRU0ExTTZkUWVpcjNIazg3dGZr?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-19T11:57:47+09:00",
+      "category": "국내 주요 사건",
+      "description": "논산딸기축제 캐릭터 ‘베리프렌즈’, 대한민국 지자체 공공캐릭터 페스티벌 최우수상 아시아뉴스통신"
+    },
+    {
+      "id": "a1faefcd401d94",
+      "title": "韓 성장률 3.5%까지 뛰나…정부, 경기 회복에 자신감 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5S3NmZTV2OWM1b09zQVFhRlZLX3VXSzNPeUNnS0w1MVVCeEFCTW80ZE9iOU9MQmJhMm1XU2JFQmtySU12MTVqdFprRW1WcEtYWndlVDF2RFFhdjRxZVNWX3lQYV8?oc=5",
+      "source": "매일일보",
+      "published": "2026-10-19T11:31:43+09:00",
+      "category": "정치·정책",
+      "description": "韓 성장률 3.5%까지 뛰나…정부, 경기 회복에 자신감 매일일보"
+    },
+    {
+      "id": "091394b8067134",
+      "title": "이형일 \"올해 성장률 3.4~3.6% 가능\"…증시·환율 안정 대응 - 노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iaFVadzE2MHQ1MUtaMTZfV0c2cmotLVA5eHB4UE1xcnNaaFk1a0VOQVZaRTBIamliQV9NWmd5NDcybmlQWVVzS0c0OEZVTWlyeEE?oc=5",
+      "source": "노컷뉴스",
+      "published": "2026-10-19T11:26:37+09:00",
+      "category": "경제·금융",
+      "description": "이형일 \"올해 성장률 3.4~3.6% 가능\"…증시·환율 안정 대응 노컷뉴스"
+    },
+    {
+      "id": "78d9a31d4eb4e9",
+      "title": "시민 제안 기후정책 90% 버려졌다...'답정너' 기후공론화 - 뉴스펭귄",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1EZEFVZFkwa092S3o1Ui1ZMkhKUGU2NWxYakVSTFNhcEhvQUFXNjNSYXRESG8wc3RpQ1hrVi1ISEcwM29PS3plM3NPeEJ2M3VMSXN3MVFsQjdqdFRyWUlHTVJ4U0NHZEdlS2NpWHdR0gFyQVVfeXFMTmZ2OGlweU5BRmZxeWxrdU1qcnQwcTltLVVUX3RabDQ4WUdrdnNlalB1VVZoUWVidkRuQ09Od1N0SWo0RjItcTRhYXZvSVJvd1lYR3NraFJXa2pvV2M3eENDNTJ3S3dycUo4NnBuUTBQaGJB?oc=5",
+      "source": "뉴스펭귄",
+      "published": "2026-10-19T11:03:45+09:00",
+      "category": "정치·정책",
+      "description": "시민 제안 기후정책 90% 버려졌다...'답정너' 기후공론화 뉴스펭귄"
     }
   ]
 }
