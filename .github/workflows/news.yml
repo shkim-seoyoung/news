@@ -24,6 +24,12 @@ jobs:
           SUPABASE_URL: ${{ vars.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          
+      - name: Collect Naver popular news
+        run: python naver_popular.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  
       - name: Save news
         run: |
           git config user.name "github-actions[bot]"
