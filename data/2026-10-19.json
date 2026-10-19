@@ -1,9 +1,37 @@
 {
   "date": "2026-10-19",
-  "updated_at": "2026-10-19T07:10:12.280360+09:00",
-  "article_count": 2,
+  "updated_at": "2026-10-19T11:09:37.051121+09:00",
+  "article_count": 3,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "6a76da8cb27946",
+      "title": "현대모비스, 22일 홈 LG전 시투자로 `걸그룹 클라씨` 선정…울산의 딸 박보은 공 잡는다 - 마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zY0l3MEoyNXJzdzlTektTT3JxWTdsY0FZdmhXMlNpS051Z2w3eGNHbVFRZEtUV3NDbE9DazJLYlZNRHV1dXFXXzBwY1AyM1ZEZU5ZQndfUkxjWnpxWVh2cDlFMHpZZw?oc=5",
+      "source": "마이데일리",
+      "published": "2026-10-19T10:54:49+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 22일 홈 LG전 시투자로 `걸그룹 클라씨` 선정…울산의 딸 박보은 공 잡는다 마이데일리",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 오는 22일 울산 동천체육관에서 열리는 LG와의 홈경기에 걸그룹 클라씨(CLASS:y)를 시투자로 초청했다. 울산 출신인 멤버 박보은이 시투를 맡아 경기 분위기를 띄울 예정이다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "현대모비스 프로농구단은 연고지인 울산 지역 팬들과의 소통을 강화하고 경기장 방문객들에게 즐거움을 제공하기 위해 다양한 이벤트를 진행하고 있다.",
+        "key_points": [
+          "22일 울산 동천체육관에서 현대모비스와 LG의 홈경기 개최",
+          "걸그룹 클라씨 멤버 박보은이 시투자로 선정",
+          "울산 출신 멤버를 초청해 지역 연고지 마케팅 강화"
+        ],
+        "what_to_watch": "경기 당일 시투 행사 및 관중 동원 효과",
+        "fact_check": "현대모비스 농구단 공식 발표 내용 기반"
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "2d4fa08447427b4c"
+    },
     {
       "id": "cddcca91a7b645",
       "title": "현대차·기아, 공장을 소프트웨어로…신기술 200여 건 - 자본시장뉴스",
