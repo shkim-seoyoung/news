@@ -57,6 +57,30 @@ def select_and_summarize(candidates):
         used.add(a['id']);out.append({**a,'category':item.get('category','기타'),'summary':summary,'summary_basis':'제목 기반 AI 요약 · 본문 미검증'})
     return out
 
+
+def extract_article_image(url):
+    """Best-effort OG/Twitter article image; never use a guessed stock photo."""
+    try:
+        from bs4 import BeautifulSoup
+        from urllib.parse import urljoin, urlparse
+        p=urlparse(url)
+        if p.scheme not in ('http','https') or not p.hostname:return ''
+        r=requests.get(url,headers={'User-Agent':'Mozilla/5.0'},timeout=5,stream=True)
+        if r.status_code!=200 or 'html' not in r.headers.get('Content-Type','').lower():return ''
+        raw=b''
+        for chunk in r.iter_content(8192):
+            raw+=chunk
+            if len(raw)>140000:break
+        r.close()
+        soup=BeautifulSoup(raw,'html.parser')
+        for selector in ('meta[property="og:image"]','meta[name="twitter:image"]','meta[property="og:image:url"]'):
+            tag=soup.select_one(selector)
+            if tag and tag.get('content'):
+                image=urljoin(url,tag['content'].strip())
+                if urlparse(image).scheme=='https':return image
+    except Exception:pass
+    return ''
+
 def main():
     target=ROOT/'data'/'popular';target.mkdir(exist_ok=True)
     path=target/(DATE+'.json')
@@ -65,6 +89,11 @@ def main():
         if not candidates:raise ValueError('Ranking article links not found; page layout or access may have changed')
         articles=select_and_summarize(candidates)
         if not articles:raise ValueError('AI summary unavailable; preserving prior saved data')
+        for a in articles:
+            if not a.get('image_url') and a.get('url'):
+                a['image_url']=extract_article_image(a['url'])
+        for a in articles:
+            a.setdefault('importance','보통')
         path.write_text(json.dumps({'date':DATE,'updated_at':NOW.isoformat(),'source_url':URL,'articles':articles,'note':'네이버 언론사별 인기 기사 참고 후 AI 재선정. 전체 통합 인기 순위가 아님. 제목 기반 요약.'},ensure_ascii=False,indent=2),encoding='utf-8')
         print('Saved Naver popular:',len(articles))
     except Exception as exc:

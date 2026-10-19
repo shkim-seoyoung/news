@@ -481,6 +481,30 @@ def retry_older_pending(days=14, limit=12):
         print('Completed previous pending summaries:', day, len(replacements))
 
 
+
+def extract_article_image(url):
+    """Best-effort OG/Twitter article image; never use a guessed stock photo."""
+    try:
+        from bs4 import BeautifulSoup
+        from urllib.parse import urljoin, urlparse
+        p=urlparse(url)
+        if p.scheme not in ('http','https') or not p.hostname:return ''
+        r=requests.get(url,headers={'User-Agent':'Mozilla/5.0'},timeout=5,stream=True)
+        if r.status_code!=200 or 'html' not in r.headers.get('Content-Type','').lower():return ''
+        raw=b''
+        for chunk in r.iter_content(8192):
+            raw+=chunk
+            if len(raw)>140000:break
+        r.close()
+        soup=BeautifulSoup(raw,'html.parser')
+        for selector in ('meta[property="og:image"]','meta[name="twitter:image"]','meta[property="og:image:url"]'):
+            tag=soup.select_one(selector)
+            if tag and tag.get('content'):
+                image=urljoin(url,tag['content'].strip())
+                if urlparse(image).scheme=='https':return image
+    except Exception:pass
+    return ''
+
 def main():
     articles = fetch()
     if not articles:
@@ -552,6 +576,9 @@ def main():
         a.pop('group_members', None)
         a.pop('integration_signature_candidate', None)
     merged = [correct_known_name_error(a) for a in merged if not irrelevant_work_article(a)]
+    for a in merged:
+        if not a.get('image_url') and a.get('url'):
+            a['image_url']=extract_article_image(a['url'])
     merged.sort(key=lambda a:a.get('published',''), reverse=True)
     new_items = [a for a in chosen if a['id'] not in old_map]
     # Retain newly completed summaries even if the public selection changes later.
