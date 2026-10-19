@@ -387,6 +387,12 @@ def ai_editorial_review(items, history):
             if isinstance(x.get('detail'), dict):
                 b['detail'] = x['detail']
             b['new_information'] = norm(x.get('new_information', ''))
+            previous = same_issue_prior(a, history)
+            if previous and b['new_information']:
+                b['follow_up'] = {'date': previous[0]['date'],
+                    'title': previous[0]['article'].get('title', ''),
+                    'summary': previous[0]['article'].get('summary', ''),
+                    'url': previous[0]['article'].get('url', '')}
             b['ai_summary'] = True
             b['integrated_summary'] = True
             b['integration_signature'] = b.get('integration_signature_candidate', '')
@@ -425,6 +431,49 @@ def correct_known_name_error(a):
     return a
 
 
+def article_fingerprint(a):
+    title = re.sub(r'\s*[-|]\s*[^-|]+$', '', a.get('title', '')).lower()
+    return re.sub(r'[^\w가-힣]', '', title)
+
+
+def previously_published(a, history):
+    """Exact repeats are never republished; distinct follow-ups go to AI review."""
+    fp = article_fingerprint(a)
+    url = a.get('url', '').split('#')[0].rstrip('/')
+    return any(article_fingerprint(h['article']) == fp or
+               (url and h['article'].get('url', '').split('#')[0].rstrip('/') == url)
+               for h in history)
+
+
+def retry_older_pending(days=14, limit=12):
+    """Complete historical public summaries without changing finished analyses."""
+    remaining = limit
+    for offset in range(1, days + 1):
+        if remaining <= 0: break
+        day = (NOW - datetime.timedelta(days=offset)).strftime('%Y-%m-%d')
+        path = DATA / (day + '.json')
+        if not path.exists(): continue
+        try: payload = json.loads(path.read_text(encoding='utf-8'))
+        except (OSError, ValueError): continue
+        articles = payload.get('articles', [])
+        pending = [a for a in articles if not a.get('ai_summary') and not a.get('integrated_summary')]
+        if not pending: continue
+        replacements = {a['id']: a for a in summarize(pending[:remaining]) if a.get('ai_summary')}
+        remaining -= min(len(pending), remaining)
+        if not replacements: continue
+        payload['articles'] = [replacements.get(a.get('id'), a) for a in articles]
+        payload['ai_enabled'] = any(a.get('ai_summary') for a in payload['articles'])
+        path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding='utf-8')
+        archive_path = DATA / 'archive' / (day + '.json')
+        if archive_path.exists():
+            try:
+                archive = json.loads(archive_path.read_text(encoding='utf-8'))
+                archive['articles'] = [replacements.get(a.get('id'), a) for a in archive.get('articles', [])]
+                archive_path.write_text(json.dumps(archive, ensure_ascii=False, indent=2), encoding='utf-8')
+            except (OSError, ValueError): pass
+        print('Completed previous pending summaries:', day, len(replacements))
+
+
 def main():
     articles = fetch()
     if not articles:
@@ -454,7 +503,17 @@ def main():
     # Archive first; re-running cannot erase a previously saved AI summary.
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
     chosen = choose_for_day(articles, list(all_saved.values()))
-    history = recent_history(7)
+    history = recent_history(14)
+    # Require a genuinely recent publication, not merely a newly collected RSS hit.
+    cutoff = NOW - datetime.timedelta(hours=24)
+    def in_window(a):
+        try: return cutoff <= datetime.datetime.fromisoformat(a['published']) <= NOW
+        except (ValueError, KeyError, TypeError): return False
+    # Keep articles already present in today's public digest, but never revive
+    # identical stories from earlier dates.
+    old_ids = {a.get('id') for a in old}
+    chosen = [a for a in chosen if (in_window(a) or a.get('id') in old_ids)
+              and not previously_published(a, history)]
     old_map = all_saved
     # Reuse previous integrated summary unless today's sources or 7-day comparison changed.
     review_needed, merged = [], []
@@ -498,5 +557,6 @@ def main():
     index = sorted([p.stem for p in DATA.glob('????-??-??.json')], reverse=True)
     (DATA / 'index.json').write_text(json.dumps({'dates': index, 'latest': index[0] if index else None,
           'updated_at': NOW.isoformat()}, ensure_ascii=False, indent=2), encoding='utf-8')
+    retry_older_pending(limit=max(0, int(os.environ.get('MAX_BACKLOG_AI_ARTICLES', '12'))))
     print('Saved', TODAY, len(merged), 'articles; new candidates', len(new_items))
 if __name__ == '__main__': main()

@@ -3,3 +3,4 @@ requests>=2.32
 openai>=1.50
 
 requests>=2.31
+beautifulsoup4>=4.12
