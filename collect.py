@@ -158,6 +158,8 @@ def classify(a):
     title = a.get('title', '').lower()
     desc = a.get('description', '').lower()
     body = title + ' ' + desc
+    if irrelevant_work_article(a):
+        return None
     # Exclude clearly low-value coverage from BOTH sections.
     reject = PROMOTION + ('농구','프로농구','경기 프리뷰','연승','연패','카지노',
         '스포츠','주가,','주가 상승','주가 하락','장중','목표주가','목표가',
@@ -185,6 +187,11 @@ def classify(a):
     if has_any(title, MAJOR):
         return '일반 뉴스'
     return None
+
+# Sports teams and celebrity promotions are never CKD/automotive work news.
+SPORTS_PUBLICITY = ('농구','프로농구','농구단','시투','시구','홈경기','골프단','골프대회','골프 선수','배구단','축구단','야구단','스포츠단','치어리더','걸그룹','팬미팅','선수 영입','선수단','응원단','플레이오프','올스타전')
+def irrelevant_work_article(a):
+    return has_any((a.get('title') or '').lower(), SPORTS_PUBLICITY)
 
 def is_work(a):
     return classify(a) == '산업·업무'
@@ -503,6 +510,7 @@ def main():
     # Archive first; re-running cannot erase a previously saved AI summary.
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
     chosen = choose_for_day(articles, list(all_saved.values()))
+    chosen = [a for a in chosen if not irrelevant_work_article(a)]
     history = recent_history(14)
     # Require a genuinely recent publication, not merely a newly collected RSS hit.
     cutoff = NOW - datetime.timedelta(hours=24)
@@ -544,7 +552,7 @@ def main():
     for a in merged:
         a.pop('group_members', None)
         a.pop('integration_signature_candidate', None)
-    merged = [correct_known_name_error(a) for a in merged]
+    merged = [correct_known_name_error(a) for a in merged if not irrelevant_work_article(a)]
     merged.sort(key=lambda a:a.get('published',''), reverse=True)
     new_items = [a for a in chosen if a['id'] not in old_map]
     # Retain newly completed summaries even if the public selection changes later.
