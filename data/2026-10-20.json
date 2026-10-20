@@ -1,9 +1,209 @@
 {
   "date": "2026-10-20",
-  "updated_at": "2026-10-20T12:18:30.859153+09:00",
-  "article_count": 7,
+  "updated_at": "2026-10-20T18:06:16.034080+09:00",
+  "article_count": 10,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "7d19dfdbbe2c8f",
+      "title": "현지 생산에 첨단기술까지… 유럽 고객사 확장나선 현대모비스 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55akgtOXpZQmM1YkVxZHpGWnBEWV9laGpFb19LWFVxclROclRtdVpUNkNTWnlkUUpCOVRoYmFuanlXNmc3M2tlSEhaZmFBMUNZSUx4aS1kSzhnbThRd0hZSlczRExVMWpmTGNHVnZn?oc=5",
+      "source": "아시아투데이",
+      "published": "2026-10-20T17:33:59+09:00",
+      "category": "관심 키워드",
+      "description": "현지 생산에 첨단기술까지… 유럽 고객사 확장나선 현대모비스 아시아투데이",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 유럽 시장 내 고객사 확장을 위해 현지 생산 거점 강화와 첨단 기술 공급 전략을 추진하고 있다. 유럽 완성차 업체들의 전동화 전환에 발맞춰 기술 경쟁력을 앞세워 수주를 확대하려는 움직임이다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "유럽 자동차 시장의 전동화 및 자율주행 기술 수요 증가에 따른 현대모비스의 대응 전략.",
+        "key_points": [
+          "유럽 현지 생산 거점 활용을 통한 공급망 최적화",
+          "첨단 전장 부품 및 전동화 핵심 기술 공급 확대",
+          "유럽 주요 완성차 업체 대상 수주 활동 강화"
+        ],
+        "what_to_watch": "유럽 내 신규 수주 계약 체결 여부 및 현지 생산 시설의 가동률 변화.",
+        "fact_check": "현대모비스의 유럽 시장 전략에 관한 일반적인 보도임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "133fcebfe42b9716",
+      "image_url": ""
+    },
+    {
+      "id": "d36be65e5a434d",
+      "title": "\"이동만 되면 됐는데 이젠 선루프 따져\"… 현대차 인도 판매점 가보니 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdjQwa2QwU1JOdG9aVnduSmhiSmdRcGhEX0tHcXVFWFBKNGUycEtLamtvbUdGRXdrSjA2emdEUHRMWUg5c3FkaTNFa2JaRHdBMjVISjlVdjByWW14NURSYk1uMnhzWnJSOWYweTZfVl9feXJ0UFNKVi1CS044ZERaSVJpa3RYOGVSeHA0SEtNQQ?oc=5",
+      "source": "조선일보",
+      "published": "2026-10-20T16:19:22+09:00",
+      "category": "자동차",
+      "description": "\"이동만 되면 됐는데 이젠 선루프 따져\"… 현대차 인도 판매점 가보니 조선일보",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "인도 자동차 시장에서 소비자들의 선호도가 단순 이동 수단에서 선루프 등 고급 편의사양을 중시하는 방향으로 변화하고 있다. 현대차는 이러한 인도 현지 소비자들의 니즈를 반영한 상품 전략을 통해 시장 점유율을 공고히 하고 있다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "인도 자동차 시장의 성장과 함께 소비자들의 소득 수준 향상 및 고급 사양 선호 현상.",
+        "key_points": [
+          "인도 소비자들의 차량 구매 기준 변화(편의사양 중시)",
+          "현대차 인도 판매점의 현장 분위기 및 소비자 반응",
+          "현지 맞춤형 상품 전략의 중요성 증대"
+        ],
+        "what_to_watch": "인도 시장 내 현대차의 모델별 판매 비중 및 사양 구성 변화.",
+        "fact_check": "인도 현지 시장의 소비 트렌드 변화에 대한 현장 취재 보도임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "2f6f2ec509a0f322",
+      "image_url": ""
+    },
+    {
+      "id": "0e4b855f5abeda",
+      "title": "멕시코 부품 관세 면제에 美 협상 기대감까지…기아, 연말 숨통 트이나 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLVEZwbmVfb0k5ZUJ4MmVvSEZGdlMxX2Q5WFpaMnFqOUdSaUtqdVJNa2VIc3ZsZFhvX2xEVXlPS2JBbklhWktsVWdUTW9NaERGQnRLbA?oc=5",
+      "source": "데일리안",
+      "published": "2026-10-20T15:44:00+09:00",
+      "category": "CKD·물류",
+      "description": "멕시코 부품 관세 면제에 美 협상 기대감까지…기아, 연말 숨통 트이나 데일리안",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "기아가 멕시코 생산 부품에 대한 관세 면제 조치와 미국과의 통상 협상 기대감으로 연말 실적 개선 가능성이 제기되고 있다. 대외 불확실성 완화가 기아의 북미 시장 수익성에 긍정적인 영향을 미칠지 주목된다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "높음",
+      "detail": {
+        "background": "북미 시장 내 관세 정책 변화 및 통상 환경의 불확실성.",
+        "key_points": [
+          "멕시코 생산 부품 관세 면제에 따른 비용 절감 기대",
+          "미국 정부와의 통상 협상 진행 상황 및 전망",
+          "연말 북미 시장 판매 실적에 미칠 영향"
+        ],
+        "what_to_watch": "미국 통상 정책의 구체적인 변화 및 기아의 북미 수출 물량 추이.",
+        "fact_check": "관세 면제 및 협상 기대감에 기반한 시장 분석 보도임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "f69d4c09a4a3a8d0",
+      "image_url": ""
+    },
+    {
+      "id": "d021e5369892a0",
+      "title": "두 번 올린 기준금리, 이번엔 멈추나…채권 전문가 93% '동결' 전망 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tX2xma0UzZk9IZlNTbzVDVDhZREJsa1pfbFB6WF8xekpEZE1zZ3pKYks4dmNteGFlREQ2aW93Wk4zclV4MldRMFhTdThEaUZIckdGSllGUHVZZ9IBVEFVX3lxTE0waVRsYkxkZ3hOeTNlN2RNT0tndDJucS1wOXhhS0tzTXl3Ui1DY2hyaVl5YTllU3Y1d1lqcGdUVl9IeGpDeHo1VWRMbmx0ZGdkRFFlNA?oc=5",
+      "source": "더팩트",
+      "published": "2026-10-20T15:24:29+09:00",
+      "category": "경제·금융",
+      "description": "두 번 올린 기준금리, 이번엔 멈추나…채권 전문가 93% '동결' 전망 더팩트",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "한국은행의 기준금리 결정이 임박한 가운데, 채권 전문가 대다수가 이번 금리 동결을 예상하고 있다. 경기 상황과 물가 지표를 고려한 통화 정책 방향에 시장의 관심이 집중되고 있다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "한국은행의 통화 정책 결정 및 시장 금리 변동성.",
+        "key_points": [
+          "채권 전문가 93%의 기준금리 동결 전망",
+          "이전 두 차례 금리 인상 이후의 정책 기조 변화 가능성",
+          "경기 침체 우려와 물가 안정 사이의 정책적 딜레마"
+        ],
+        "what_to_watch": "한국은행 금융통화위원회의 실제 금리 결정 결과.",
+        "fact_check": "전문가 설문조사를 바탕으로 한 금리 전망 보도임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "273d77de70727216",
+      "image_url": ""
+    },
+    {
+      "id": "078f8f8c02370f",
+      "title": "숨 고르는 한은, 갈림길 선 증시…기준금리 결정은 - 대한데일리",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWUcxcllGdjB6STltTWZlejFGSURVYWpNakNFendnVVh6QXZSel92NjNtUW5CWmxjT1QtQ0FrWnN6MVRGczV6S2szeEhQeVF5QmhwdHFXSzVuTHBfdEtqdy1rS1hLUUJsTURZ?oc=5",
+      "source": "대한데일리",
+      "published": "2026-10-20T14:53:57+09:00",
+      "category": "경제·금융",
+      "description": "숨 고르는 한은, 갈림길 선 증시…기준금리 결정은 대한데일리",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "한국은행의 기준금리 결정을 앞두고 금융시장의 관망세가 이어지고 있습니다. 시장은 금리 결정이 증시에 미칠 영향에 주목하며 향후 통화정책 방향을 주시하고 있습니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "한국은행 금융통화위원회의 기준금리 결정이 임박함에 따라 시장의 불확실성이 증대되고 있음.",
+        "key_points": [
+          "한국은행의 기준금리 결정 방향에 대한 시장의 관심 집중",
+          "금리 결정이 국내 증시에 미칠 파급효과 분석 필요"
+        ],
+        "what_to_watch": "금융통화위원회의 실제 금리 결정 내용 및 향후 통화정책 기조",
+        "fact_check": "한국은행의 기준금리 결정은 아직 이루어지지 않은 상태임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "b74d3009357da8d8",
+      "image_url": ""
+    },
+    {
+      "id": "9c84aba7bc324f",
+      "title": "채권시장 참여자 93% 10월 금통위서 기준금리 동결 예상 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oSE9nbXJ3azVOTUZEZ0dfV0gzdjNyYUlvS3oyUjc5eUhLYzFzVkpMbUtLVzdRNWJwRmxkaHdzdjRIZDk3eThyNVNUOFpqclZkNk1YYWpOaFbSAVhBVV95cUxOaEhPZ21yd2s1Tk1GRGdHX1dIM3YzcmFJb0t6MlI3OXlIS2Mxc1ZKTG1LS1c3UTVicEZsZGh3c3Y0SGQ5N3k4cjVTVDhaanJWZDZNWGFqTmhW?oc=5",
+      "source": "아주경제",
+      "published": "2026-10-20T14:22:10+09:00",
+      "category": "경제·금융",
+      "description": "채권시장 참여자 93% 10월 금통위서 기준금리 동결 예상 아주경제",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "채권시장 전문가 및 참여자들을 대상으로 한 설문조사 결과, 93%가 10월 금융통화위원회에서 기준금리가 동결될 것으로 전망했습니다. 시장은 물가 안정과 경기 상황을 고려한 한은의 신중한 행보를 예상하고 있습니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "10월 금융통화위원회를 앞두고 시장의 금리 예측치가 수렴하고 있음.",
+        "key_points": [
+          "채권시장 참여자 93%가 10월 기준금리 동결 예상",
+          "시장 내 금리 인하보다는 동결 기조가 우세함"
+        ],
+        "what_to_watch": "실제 금통위 결정과 시장 전망치 간의 괴리 여부",
+        "fact_check": "해당 수치는 채권시장 참여자 대상 설문조사 결과임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "0c6dcd1411758a79",
+      "image_url": ""
+    },
+    {
+      "id": "8fbef2e618e39a",
+      "title": "현대차·기아, 레벨4 자율주행 트럭 물류 운송 본격 돌입 - 뉴스N연합",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ZHJVZm1FOWpodVlZd0pEZnhFbVlPRkRRbDlScFF6Q1dSTUp4LTEwSVZraFh3c210SHUxUTBWUWRCWExaamJtS0RR?oc=5",
+      "source": "뉴스N연합",
+      "published": "2026-10-20T13:14:17+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 레벨4 자율주행 트럭 물류 운송 본격 돌입 뉴스N연합",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차와 기아가 레벨4 자율주행 기술을 적용한 트럭을 활용해 실제 물류 운송 사업을 본격적으로 시작합니다. 이는 자율주행 기술의 상용화 단계 진입을 의미하며 물류 효율성 제고가 기대됩니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차그룹이 자율주행 기술 고도화를 통해 물류 분야로 사업 영역을 확장하고 있음.",
+        "key_points": [
+          "현대차·기아 레벨4 자율주행 트럭 물류 운송 개시",
+          "자율주행 기술의 실질적인 상용화 및 물류 현장 적용"
+        ],
+        "what_to_watch": "자율주행 트럭 운송의 안전성 및 물류 효율성 데이터",
+        "fact_check": "레벨4 자율주행은 특정 조건에서 운전자 개입 없이 주행 가능한 수준임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "25bb27213ee31a4f",
+      "image_url": ""
+    },
     {
       "id": "5c40113731c263",
       "title": "현대차·기아, 레벨 4 자율주행 대형트럭 물류 실증 나선다 - 상용차매거진",
@@ -13,11 +213,40 @@
       "category": "관심 키워드",
       "description": "현대차·기아, 레벨 4 자율주행 대형트럭 물류 실증 나선다 상용차매거진",
       "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대차와 기아가 레벨 4 자율주행 기술이 적용된 대형 트럭을 활용해 실제 물류 노선에서 실증 사업을 진행한다. 이번 실증은 자율주행 기술의 상용화 가능성을 검증하고 물류 효율성을 높이기 위한 목적으로 추진된다.",
+      "related_articles": [
+        {
+          "title": "현대차·기아, 레벨4 자율주행 트럭으로 실제 물류 노선 실증 - 팍스경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcjhXRV9tQUc2SVUydFhzZ25pakVHaU1teVE0ajh6cTRXczlLbmdxSUtsRE5GVzBqM05zYTZMMWZ6eXpaT0RrazZ0SUE3SmlfLWpPbk1OMTRUSEdYV3pnVzVmZmhtaVU?oc=5",
+          "source": "팍스경제TV",
+          "published": "2026-10-20T09:03:01+09:00"
+        },
+        {
+          "title": "현대차·기아, 레벨 4 자율주행 트럭 실증...400km 물류 노선 달린다 - 뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sS0lCOFQ4Ti1GMUsyaThuM093RXplTTg0S1JWLWlTNGRNSW05SHZNME5IYlFBWGp4X3VFcnE4bWRQQnltcHJuSkxyVnFzZjA4TWtNc1BwX3VSbVJnQmc?oc=5",
+          "source": "뉴스투데이",
+          "published": "2026-10-20T14:51:00+09:00"
+        }
+      ],
+      "summary": "현대차·기아가 레벨 4 자율주행 기술을 적용한 대형 트럭을 활용해 실제 물류 노선 실증 사업에 착수한다. 이번 실증은 약 400km에 달하는 구간에서 진행되며, 자율주행 기술의 상용화 가능성을 검증하는 데 목적이 있다.",
       "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
       "detail": {
+        "background": "현대차·기아는 자율주행 기술 고도화를 위해 승용차뿐만 아니라 상용차 부문에서도 실도로 주행 테스트를 확대하고 있음.",
+        "key_points": [
+          "레벨 4 자율주행 대형 트럭 실증 사업 추진",
+          "약 400km 물류 노선에서 실제 주행 테스트 진행",
+          "자율주행 기술의 물류 현장 적용성 검증"
+        ],
+        "what_to_watch": "실증 사업을 통해 확보된 데이터가 향후 자율주행 트럭의 양산 및 상용화 시점에 미칠 영향",
+        "fact_check": "현대차·기아의 레벨 4 자율주행 트럭 실증 사업은 공식 보도된 내용임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "54639862ac0ffc79",
+      "image_url": "",
+      "original_summary": "현대차와 기아가 레벨 4 자율주행 기술이 적용된 대형 트럭을 활용해 실제 물류 노선에서 실증 사업을 진행한다. 이번 실증은 자율주행 기술의 상용화 가능성을 검증하고 물류 효율성을 높이기 위한 목적으로 추진된다.",
+      "original_detail": {
         "background": "현대차·기아는 자율주행 기술 고도화를 위해 승용차뿐만 아니라 상용차 분야에서도 실증 연구를 지속해왔다.",
         "key_points": [
           "현대차·기아, 레벨 4 자율주행 대형 트럭 실증 착수",
@@ -25,39 +254,35 @@
         ],
         "what_to_watch": "실증 사업을 통해 확보된 데이터가 향후 자율주행 트럭의 양산 및 상용화 시점에 미칠 영향",
         "fact_check": "현대차·기아의 레벨 4 자율주행 트럭 실증 사업 추진 사실 확인"
-      },
-      "new_information": "",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "36a50e7fe46c490d",
-      "image_url": ""
+      }
     },
     {
-      "id": "0d14db81fae6ca",
-      "title": "현대차·기아, 레벨4 자율주행 트럭으로 실제 물류 노선 실증 - 팍스경제TV",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcjhXRV9tQUc2SVUydFhzZ25pakVHaU1teVE0ajh6cTRXczlLbmdxSUtsRE5GVzBqM05zYTZMMWZ6eXpaT0RrazZ0SUE3SmlfLWpPbk1OMTRUSEdYV3pnVzVmZmhtaVU?oc=5",
-      "source": "팍스경제TV",
-      "published": "2026-10-20T09:03:01+09:00",
+      "id": "931d6eef34c387",
+      "title": "“인도 국민차 넘어 1,000만 대 고지로” 현대차, 크레타·엑스터 앞세워 판매 질주[재율 아빠 국산차 업계 소식] - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMGZLdHFsY29lZVU3R2xWLVJwZ19lQTJvQVZOSFVfdHlDYzZlRkFfMFc3Q1hjWUZGV2NDeXllS3ZyQUtzWmFKQjA0NXVNbDlHR0s5eHRDTVpGeXBBbF9Gd3V4ME9rQ1Q3VDJMQkg1YjNzWlFwYlVLOGwxWEwwSHZRZFd6WlRIRGxTeTdocg?oc=5",
+      "source": "Naver Blog",
+      "published": "2026-10-20T07:59:56+09:00",
       "category": "자동차",
-      "description": "현대차·기아, 레벨4 자율주행 트럭으로 실제 물류 노선 실증 팍스경제TV",
+      "description": "“인도 국민차 넘어 1,000만 대 고지로” 현대차, 크레타·엑스터 앞세워 판매 질주[재율 아빠 국산차 업계 소식] Naver Blog",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대차와 기아가 레벨 4 자율주행 대형 트럭을 이용한 실제 물류 노선 실증 사업을 진행한다. 이는 자율주행 기술의 실도로 운행 능력을 검증하기 위한 단계이다.",
+      "summary": "현대차가 인도 시장에서 크레타와 엑스터 등 주요 모델을 앞세워 판매 성장을 이어가며 누적 판매 1,000만 대 달성을 목표로 하고 있다. 인도 내 생산 및 판매 전략을 강화하여 시장 점유율을 확대하려는 움직임이다.",
       "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
       "detail": {
-        "background": "현대차·기아의 자율주행 상용차 기술 개발 및 실증 프로젝트의 일환임.",
+        "background": "인도는 현대차의 핵심 해외 생산 및 판매 거점 중 하나로, 현지 전략형 모델을 통해 시장 지배력을 높이고 있음.",
         "key_points": [
-          "현대차·기아, 레벨 4 자율주행 트럭 실도로 실증",
-          "실제 물류 노선 활용을 통한 기술 검증"
+          "인도 시장 내 크레타·엑스터 중심의 판매 호조",
+          "누적 판매 1,000만 대 고지 달성 목표",
+          "인도 시장 내 현대차의 브랜드 입지 강화"
         ],
-        "what_to_watch": "실증 결과에 따른 자율주행 상용차 기술의 고도화 및 향후 사업 확장 계획",
-        "fact_check": "기존 보도된 현대차·기아의 자율주행 트럭 실증 사업과 동일한 내용임"
+        "what_to_watch": "인도 시장 내 판매량 추이 및 향후 생산 능력 확대 계획",
+        "fact_check": "현대차의 인도 시장 판매 전략 및 주요 모델 성과는 업계의 일반적인 분석 내용임."
       },
       "new_information": "",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "44f9cb400adc2bef",
+      "integration_signature": "7f15c386a13d517f",
       "image_url": ""
     },
     {
@@ -86,119 +311,6 @@
       "ai_summary": true,
       "integrated_summary": true,
       "integration_signature": "e97251242b22ef44",
-      "image_url": ""
-    },
-    {
-      "id": "8d65e0cccdd9ed",
-      "title": "한은 10월 기준금리 ’동결‘ 전망 우세... 전문가 “인상 종료는 아냐” - 한양경제",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtZk41UXdmcDBiNjJUM1BIYUdOcmx2T3ZGenpqbGpfbWF2dWkwTmVSVHh0dUhpSTUxclVBd2o2S3hnQWgxdTdfWWFlR1N3WjA4VW95eEprZHB3VWJpZml4NjcwQW41Zzk3bmd0cGpPdUhLQQ?oc=5",
-      "source": "한양경제",
-      "published": "2026-10-19T17:26:01+09:00",
-      "category": "경제·금융",
-      "description": "한은 10월 기준금리 ’동결‘ 전망 우세... 전문가 “인상 종료는 아냐” 한양경제",
-      "section": "일반 뉴스",
-      "related_articles": [],
-      "summary": "한국은행의 10월 기준금리 결정에 대해 시장 전문가들은 동결 가능성을 높게 점치고 있다. 다만, 이번 동결이 금리 인상 기조의 완전한 종료를 의미하는 것은 아니라는 신중론이 우세하다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "detail": {
-        "background": "국내외 경제 상황과 물가 상승률, 가계부채 등을 고려한 한국은행의 통화정책 결정 시점임.",
-        "key_points": [
-          "10월 기준금리 동결 전망 우세",
-          "전문가들, 금리 인상 종료로 단정하기엔 이르다는 입장"
-        ],
-        "what_to_watch": "한국은행 금융통화위원회의 실제 금리 결정 및 향후 통화정책 방향성.",
-        "fact_check": "기준금리 동결 전망은 시장의 예측치이며 실제 결정은 금통위 회의를 통해 확정됨."
-      },
-      "new_information": "",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "1ceaa39906f551c8",
-      "image_url": ""
-    },
-    {
-      "id": "815e01bd65ee0c",
-      "title": "카타르도 뚫었다… 중동 전쟁도 못 막은 한우 수출 - 한국일보",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wZGQxdEhVNFpFWllpMlRsZklPd2h1dHlOUHRuU0x5N1g5ZzRpc1BhMUZUOGhoa2NubTc5TG1hRWJuby1YSEVsckpJLTBlelU2UUp6M1VYNGdxcmJveWgwX29VMnNLdVktRDhlcDdn0gFzQVVfeXFMTl9FeFhWMk5SX3VLOUxHdWhKZVFZQlh0b2VSWjBQeEZFWU1GTmtuN0VqZHd4TnA5b3otamc4dVdVVG9YVVdOdkp4d3ZLa2FWUERhTVk5Zi1LM0JDckVlOXZ2akt3UzZUeHVUQkpZQ2kzUExKMA?oc=5",
-      "source": "한국일보",
-      "published": "2026-10-19T17:23:00+09:00",
-      "category": "국내 주요 사건",
-      "description": "카타르도 뚫었다… 중동 전쟁도 못 막은 한우 수출 한국일보",
-      "section": "일반 뉴스",
-      "related_articles": [],
-      "summary": "중동 지역의 지정학적 리스크에도 불구하고 한국산 한우가 카타르 시장 수출길을 열었다. 이는 한우의 품질 경쟁력을 바탕으로 중동 시장 내 판로를 다변화하는 성과로 평가된다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "detail": {
-        "background": "정부와 업계는 한우 수출 확대를 위해 중동 등 신규 시장 개척에 주력해 왔음.",
-        "key_points": [
-          "한우, 카타르 시장 수출 성공",
-          "중동 정세 불안 속에서도 수출 판로 확보"
-        ],
-        "what_to_watch": "카타르를 시작으로 한 중동 내 타 국가로의 한우 수출 확대 가능성.",
-        "fact_check": "한우의 카타르 수출 사실 여부 확인."
-      },
-      "new_information": "",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "1d3aa31f69c10128",
-      "image_url": ""
-    },
-    {
-      "id": "a1edd2ca604071",
-      "title": "현대차·SK온 美 배터리 JV ‘HSBMA’로 확정…IRA 대응 공급망 본격 가동 - 쿠키뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KSUYzV1FmRXBJeVhXWlNsa3E4OGhfUEJHLXZGd245Nm42bFRzRFNjckpvQkhZeF9Yd1RLOXJFdTZpNDlNdHlnQTF2dVVMNnVEU0xPYTJ1UDFFYVZ0UXZaenFpMA?oc=5",
-      "source": "쿠키뉴스",
-      "published": "2026-10-19T17:05:11+09:00",
-      "category": "자동차",
-      "description": "현대차·SK온 美 배터리 JV ‘HSBMA’로 확정…IRA 대응 공급망 본격 가동 쿠키뉴스",
-      "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대자동차와 SK온의 미국 배터리 합작법인 사명이 'HSBMA'로 최종 확정되었다. 양사는 이번 합작을 통해 미국 인플레이션 감축법(IRA)에 대응하고 북미 공급망을 본격적으로 가동할 계획이다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "높음",
-      "detail": {
-        "background": "현대차와 SK온은 미국 내 전기차 생산 거점 확보를 위해 배터리 합작 공장 설립을 추진해 왔음.",
-        "key_points": [
-          "현대차-SK온 합작법인 사명 'HSBMA' 확정",
-          "IRA 대응 및 북미 배터리 공급망 강화"
-        ],
-        "what_to_watch": "합작법인의 공장 가동 시점 및 배터리 생산 규모.",
-        "fact_check": "합작법인 사명 확정 및 IRA 대응 전략 관련 보도 내용 확인."
-      },
-      "new_information": "",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "1a37ee1f6bd2f642",
-      "image_url": ""
-    },
-    {
-      "id": "308f9aa0520d85",
-      "title": "현대모비스·HL만도 '쑥쑥'… ADAS·차량용 부품주에 매수 온기 확산 - 핀포인트뉴스",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5GWWVBcHJvS19PaXZ6M2VHdkdCXy1WVko2OEdGZnFVdUhaV2hURVk1Ql8xZzVBa2hjMUp6VHhfVDNTcWxHenVZckZJeERXNkszSmZydENxektmd0Z5ZE5LZVRPMUJkWU1XcG1SWjBSM2VZZEFvc3ZB0gF3QVVfeXFMTkZZZUFwcm9LX09pdnozZUd2R0JfLVZWSjY4R0ZmcVV1SFpXaFRFWTVCXzFnNUFraGMxSnpUeF9UM1NxbEd6dVlyRkl4RFc2SzNKZnJ0Q3F6S2Z3RnlkTktlVE8xQmRZTVdwbVJaMFIzZVlkQW9zdkE?oc=5",
-      "source": "핀포인트뉴스",
-      "published": "2026-10-19T13:48:49+09:00",
-      "category": "관심 키워드",
-      "description": "현대모비스·HL만도 '쑥쑥'… ADAS·차량용 부품주에 매수 온기 확산 핀포인트뉴스",
-      "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대모비스와 HL만도를 비롯한 ADAS 및 차량용 부품 관련주에 대한 투자 심리가 개선되며 주가 상승세가 나타나고 있습니다. 자율주행 기술 고도화에 따른 부품 수요 증가 기대감이 시장에 반영된 것으로 풀이됩니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "detail": {
-        "background": "자동차 산업 내 전장화 및 자율주행 기술 도입이 가속화되면서 핵심 부품을 공급하는 기업들에 대한 시장의 관심이 높아지고 있습니다.",
-        "key_points": [
-          "현대모비스와 HL만장의 주가 상승세 관측",
-          "ADAS(첨단 운전자 보조 시스템) 관련 부품 수요 확대 기대",
-          "차량용 부품 섹터 전반에 대한 투자 매수세 확산"
-        ],
-        "what_to_watch": "ADAS 기술 관련 수주 실적 및 주요 완성차 업체의 전장 부품 채택 확대 여부",
-        "fact_check": "해당 내용은 증권 시장의 투자 심리 및 주가 흐름을 다룬 보도로, 특정 기업의 구체적인 생산 물량 변화나 계약 사항을 담고 있지 않음"
-      },
-      "new_information": "",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "2fc3a83325aad78b",
       "image_url": ""
     }
   ]

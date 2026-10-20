@@ -1069,11 +1069,40 @@
       "category": "관심 키워드",
       "description": "현대차·기아, 레벨 4 자율주행 대형트럭 물류 실증 나선다 상용차매거진",
       "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대차와 기아가 레벨 4 자율주행 기술이 적용된 대형 트럭을 활용해 실제 물류 노선에서 실증 사업을 진행한다. 이번 실증은 자율주행 기술의 상용화 가능성을 검증하고 물류 효율성을 높이기 위한 목적으로 추진된다.",
+      "related_articles": [
+        {
+          "title": "현대차·기아, 레벨4 자율주행 트럭으로 실제 물류 노선 실증 - 팍스경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcjhXRV9tQUc2SVUydFhzZ25pakVHaU1teVE0ajh6cTRXczlLbmdxSUtsRE5GVzBqM05zYTZMMWZ6eXpaT0RrazZ0SUE3SmlfLWpPbk1OMTRUSEdYV3pnVzVmZmhtaVU?oc=5",
+          "source": "팍스경제TV",
+          "published": "2026-10-20T09:03:01+09:00"
+        },
+        {
+          "title": "현대차·기아, 레벨 4 자율주행 트럭 실증...400km 물류 노선 달린다 - 뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sS0lCOFQ4Ti1GMUsyaThuM093RXplTTg0S1JWLWlTNGRNSW05SHZNME5IYlFBWGp4X3VFcnE4bWRQQnltcHJuSkxyVnFzZjA4TWtNc1BwX3VSbVJnQmc?oc=5",
+          "source": "뉴스투데이",
+          "published": "2026-10-20T14:51:00+09:00"
+        }
+      ],
+      "summary": "현대차·기아가 레벨 4 자율주행 기술을 적용한 대형 트럭을 활용해 실제 물류 노선 실증 사업에 착수한다. 이번 실증은 약 400km에 달하는 구간에서 진행되며, 자율주행 기술의 상용화 가능성을 검증하는 데 목적이 있다.",
       "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
       "detail": {
+        "background": "현대차·기아는 자율주행 기술 고도화를 위해 승용차뿐만 아니라 상용차 부문에서도 실도로 주행 테스트를 확대하고 있음.",
+        "key_points": [
+          "레벨 4 자율주행 대형 트럭 실증 사업 추진",
+          "약 400km 물류 노선에서 실제 주행 테스트 진행",
+          "자율주행 기술의 물류 현장 적용성 검증"
+        ],
+        "what_to_watch": "실증 사업을 통해 확보된 데이터가 향후 자율주행 트럭의 양산 및 상용화 시점에 미칠 영향",
+        "fact_check": "현대차·기아의 레벨 4 자율주행 트럭 실증 사업은 공식 보도된 내용임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "54639862ac0ffc79",
+      "image_url": "",
+      "original_summary": "현대차와 기아가 레벨 4 자율주행 기술이 적용된 대형 트럭을 활용해 실제 물류 노선에서 실증 사업을 진행한다. 이번 실증은 자율주행 기술의 상용화 가능성을 검증하고 물류 효율성을 높이기 위한 목적으로 추진된다.",
+      "original_detail": {
         "background": "현대차·기아는 자율주행 기술 고도화를 위해 승용차뿐만 아니라 상용차 분야에서도 실증 연구를 지속해왔다.",
         "key_points": [
           "현대차·기아, 레벨 4 자율주행 대형 트럭 실증 착수",
@@ -1081,12 +1110,7 @@
         ],
         "what_to_watch": "실증 사업을 통해 확보된 데이터가 향후 자율주행 트럭의 양산 및 상용화 시점에 미칠 영향",
         "fact_check": "현대차·기아의 레벨 4 자율주행 트럭 실증 사업 추진 사실 확인"
-      },
-      "new_information": "",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "36a50e7fe46c490d",
-      "image_url": ""
+      }
     },
     {
       "id": "025cb5443acb15",
@@ -1304,6 +1328,982 @@
       "published": "2026-10-18T15:50:15+09:00",
       "category": "관심 키워드",
       "description": "서명진 1쿼터 존재감+프림-베즐리-이우석 ’63점 합작‘하며 현대모비스, 원정 15연패 탈출! 점프볼"
+    },
+    {
+      "id": "828a5af721c0b8",
+      "title": "외인·기관 '쌍끌이' 매도에 짓눌린 증시…다시 무너지는 한국증시 - 프리진뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DSUw3emFrWFVCX1ZXUmk3V2luNlUwYmNaRXJCNzZMUWRjT3Bhc1RhMUJHaXdick1UbzcwR1JTbzZfZ2JRVEVzVGVaYzI0QzhhNXhMRFVzRnhJMHhTQWptZTR4Yy11Z25EeFB0TFhqMA?oc=5",
+      "source": "프리진뉴스",
+      "published": "2026-10-20T17:50:22+09:00",
+      "category": "경제·금융",
+      "description": "외인·기관 '쌍끌이' 매도에 짓눌린 증시…다시 무너지는 한국증시 프리진뉴스"
+    },
+    {
+      "id": "7d19dfdbbe2c8f",
+      "title": "현지 생산에 첨단기술까지… 유럽 고객사 확장나선 현대모비스 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55akgtOXpZQmM1YkVxZHpGWnBEWV9laGpFb19LWFVxclROclRtdVpUNkNTWnlkUUpCOVRoYmFuanlXNmc3M2tlSEhaZmFBMUNZSUx4aS1kSzhnbThRd0hZSlczRExVMWpmTGNHVnZn?oc=5",
+      "source": "아시아투데이",
+      "published": "2026-10-20T17:33:59+09:00",
+      "category": "관심 키워드",
+      "description": "현지 생산에 첨단기술까지… 유럽 고객사 확장나선 현대모비스 아시아투데이",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 유럽 시장 내 고객사 확장을 위해 현지 생산 거점 강화와 첨단 기술 공급 전략을 추진하고 있다. 유럽 완성차 업체들의 전동화 전환에 발맞춰 기술 경쟁력을 앞세워 수주를 확대하려는 움직임이다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "유럽 자동차 시장의 전동화 및 자율주행 기술 수요 증가에 따른 현대모비스의 대응 전략.",
+        "key_points": [
+          "유럽 현지 생산 거점 활용을 통한 공급망 최적화",
+          "첨단 전장 부품 및 전동화 핵심 기술 공급 확대",
+          "유럽 주요 완성차 업체 대상 수주 활동 강화"
+        ],
+        "what_to_watch": "유럽 내 신규 수주 계약 체결 여부 및 현지 생산 시설의 가동률 변화.",
+        "fact_check": "현대모비스의 유럽 시장 전략에 관한 일반적인 보도임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "133fcebfe42b9716",
+      "image_url": ""
+    },
+    {
+      "id": "d30f5a33e5a941",
+      "title": "현대차·기아, 레벨4 자율주행 대형트럭 실증 추진 - 전라매일",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRV1VlOTJ2WUM1a0owcWkyM3RVcWNVRXpjYklhVmVoTUI2bjRiQ0FYWnU1TmdzaUNOVWdWVGo0TGFLUHl3Nzg1M21hLXBueDJhemc?oc=5",
+      "source": "전라매일",
+      "published": "2026-10-20T17:31:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 레벨4 자율주행 대형트럭 실증 추진 전라매일"
+    },
+    {
+      "id": "ba9f9ec96fa588",
+      "title": "Bond Yields Are on Fire—and the ‘Bond Vigilantes’ Are Behind It - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXR3M2JtMS05NXU4ZDZfTHBKT1k3dEtERnBkQWN6bDFxalgtaHMyVmtMYjZBR1BjMDhQUDlZREdiTUhMaWMxaGttZU1WcGRiS0ROMk1rV2ZuTFZqVndRalFrMXNtY1BWcE5PU29Pd1ljcHpseDJTRzVaLURBbll3WDVCZ0p5clNuX19F?oc=5",
+      "source": "조선일보",
+      "published": "2026-10-20T17:24:44+09:00",
+      "category": "경제·금융",
+      "description": "Bond Yields Are on Fire—and the ‘Bond Vigilantes’ Are Behind It 조선일보"
+    },
+    {
+      "id": "01b82ef2677fda",
+      "title": "현대모비스 주가 17,500원 하락 후 장마감 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XbzdabTFfek1SS2JWd0RHS1d1MG9rMENXMW5RdTlqUnViZ0huWWtSTU1RT0pWSE90NF9fZjFveUdTSjh2MU1YLW8tb3RFN2JUUTNzTkU2SU9jd0J6?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-20T17:03:04+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 주가 17,500원 하락 후 장마감 아시아뉴스통신"
+    },
+    {
+      "id": "d2d8dfcbdc5202",
+      "title": "현대모비스, 독일서 미래차 기술 과시…유럽 시장 공략 가속 - www.dt.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52N1FKV0J6MTVDclZZNFZOUEo2RWVndGFBQTlycjBhMFlZQm85QjhhZ3hIemtMaElObE9RaE0xajJoU013aFJJYzVOSWVIdw?oc=5",
+      "source": "www.dt.co.kr",
+      "published": "2026-10-20T16:48:21+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 독일서 미래차 기술 과시…유럽 시장 공략 가속 www.dt.co.kr"
+    },
+    {
+      "id": "1a41b0f102aebe",
+      "title": "이석연 전 통합위원장, '盧 사위' 곽상언 후원회장 맡아…\"당론보다 양심\" - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RYkxMdXI4bFFiR2lJWlg3UWtkenNHVU5STndvQXJwNHlROWctZzVYMUFMVUdXQm5iTGdCTU9kS29FS1dQa0NuVllGTmZrRlpRUHJ3?oc=5",
+      "source": "데일리안",
+      "published": "2026-10-20T16:43:00+09:00",
+      "category": "정치·정책",
+      "description": "이석연 전 통합위원장, '盧 사위' 곽상언 후원회장 맡아…\"당론보다 양심\" 데일리안"
+    },
+    {
+      "id": "c4133621a56c07",
+      "title": "현대차·기아, 대형트럭 '레벨4 자율주행' 검증 돌입 - 이코리아",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LU29vRVBUcGlJbnpWOFhKaEVKRVJpTmh5bnlUaXc5bHVJeXBqTVVxNDBhcU44UWI2LTVDRjBNV1paTW5jaFhvN3NMQWFHZG1wa18tRlBXT01CS29uOC1GWElNWmEyc0FHLUJrUUlHUQ?oc=5",
+      "source": "이코리아",
+      "published": "2026-10-20T16:41:24+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 대형트럭 '레벨4 자율주행' 검증 돌입 이코리아"
+    },
+    {
+      "id": "b34e55b78f96be",
+      "title": "현대모비스 주가, 10월 20일 애프터마켓 347,500원 4.92% 하락 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJajJuTDdfcEM0c2cxQzg5RmZmNFowRjBXRTZVZkxEZ2Q0eTNnVGI0TlZsLVdmYzBjLXVteUdyb3ktZkVNUnRzOTNwRDJqSTQ4cjZSYmFndkdTMUNhQXFMWk1ndDhQc1N2WkdyM2l4Wkotdw?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-10-20T16:27:27+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 주가, 10월 20일 애프터마켓 347,500원 4.92% 하락 톱스타뉴스"
+    },
+    {
+      "id": "d36be65e5a434d",
+      "title": "\"이동만 되면 됐는데 이젠 선루프 따져\"… 현대차 인도 판매점 가보니 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdjQwa2QwU1JOdG9aVnduSmhiSmdRcGhEX0tHcXVFWFBKNGUycEtLamtvbUdGRXdrSjA2emdEUHRMWUg5c3FkaTNFa2JaRHdBMjVISjlVdjByWW14NURSYk1uMnhzWnJSOWYweTZfVl9feXJ0UFNKVi1CS044ZERaSVJpa3RYOGVSeHA0SEtNQQ?oc=5",
+      "source": "조선일보",
+      "published": "2026-10-20T16:19:22+09:00",
+      "category": "자동차",
+      "description": "\"이동만 되면 됐는데 이젠 선루프 따져\"… 현대차 인도 판매점 가보니 조선일보",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "인도 자동차 시장에서 소비자들의 선호도가 단순 이동 수단에서 선루프 등 고급 편의사양을 중시하는 방향으로 변화하고 있다. 현대차는 이러한 인도 현지 소비자들의 니즈를 반영한 상품 전략을 통해 시장 점유율을 공고히 하고 있다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "인도 자동차 시장의 성장과 함께 소비자들의 소득 수준 향상 및 고급 사양 선호 현상.",
+        "key_points": [
+          "인도 소비자들의 차량 구매 기준 변화(편의사양 중시)",
+          "현대차 인도 판매점의 현장 분위기 및 소비자 반응",
+          "현지 맞춤형 상품 전략의 중요성 증대"
+        ],
+        "what_to_watch": "인도 시장 내 현대차의 모델별 판매 비중 및 사양 구성 변화.",
+        "fact_check": "인도 현지 시장의 소비 트렌드 변화에 대한 현장 취재 보도임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "2f6f2ec509a0f322",
+      "image_url": ""
+    },
+    {
+      "id": "4bc84521d2aeb8",
+      "title": "영업이익 33.2% 증가 전망에도…금호타이어, 19일 장중 5940원으로 하락 - CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPNS1HVDNYYXJBRERzRFVUc1Z1dGRoQ1d2RjA0TmVFV0prZmtuYUtjbXNYTklFOGtoYkNCYXBScy1ONF9IODhjb25zNjY4SE1nbDJ3TVU1R25vd1NtaVZ3eXFvaVB2bzEy?oc=5",
+      "source": "CBC뉴스",
+      "published": "2026-10-20T16:15:04+09:00",
+      "category": "자동차",
+      "description": "영업이익 33.2% 증가 전망에도…금호타이어, 19일 장중 5940원으로 하락 CBC뉴스"
+    },
+    {
+      "id": "5631b71bfb7c36",
+      "title": "\"4족보행 로봇, 올해 9만대 돌파 전망…이미 중국이 90% 장악\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WcE1oa1RzRkVsb1hSbzYyYTJKdXdNM0FSYS1MdFdEa1YzVktvcGdLZzB1c0lYeXdkSDNOWWVLSC1RY2F1d2pkUGVhQkhsQmdDeFpyRTNsYWZPYzZrSWJZVtIBYEFVX3lxTE5WcE1oa1RzRkVsb1hSbzYyYTJKdXdNM0FSYS1MdFdEa1YzVktvcGdLZzB1c0lYeXdkSDNOWWVLSC1RY2F1d2pkUGVhQkhsQmdDeFpyRTNsYWZPYzZrSWJZVg?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-20T16:13:00+09:00",
+      "category": "관심 키워드",
+      "description": "\"4족보행 로봇, 올해 9만대 돌파 전망…이미 중국이 90% 장악\" 연합뉴스"
+    },
+    {
+      "id": "bf18dd43acc512",
+      "title": "‘국가관광전략회의’ 대통령 소속으로 격상…15개 부처 참여 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sWnJMTjJVSHRYSC1CMEROMlBOamM3alFpVnRpMEVTZkVReHdIdGxqVHluOHhpdnpmdHdNR3M0TGVtajV3WlBLTkVCZ3EzSlJHRUwyQVpQSjlrMW8?oc=5",
+      "source": "경기일보",
+      "published": "2026-10-20T16:09:49+09:00",
+      "category": "정치·정책",
+      "description": "‘국가관광전략회의’ 대통령 소속으로 격상…15개 부처 참여 경기일보"
+    },
+    {
+      "id": "1f94adfb836593",
+      "title": "[거래소 기관] HD현대중공업·한화오션 팔고 현대모비스 담고 삼성전자 SK하이닉스 던졌다 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1KaG9YV0wtbDBvWWdkTHFLbVp0V214Y0lZZjI3bG16V19URExtRE9xS2hEMkZTZi1mWUpMOVVkSTBBSmkySjRlTHFuQTlteW9WRmZwbHZwZ0pXMU1Wb3VMSXNuRGxSUkVUZng0X19UUV9Uald1VXdN0gF3QVVfeXFMTUpob1hXTC1sMG9ZZ2RMcUttWnRXbXhjSVlmMjdsbXpXX1RETG1ET3FLaEQyRlNmLWZZSkw5VWRJMEFKaTJKNGVMcW5BOW15b1ZGZnBsdnBnSlcxTVZvdUxJc25EbFJSRVRmeDRfX1RRX1RqV3VVd00?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-10-20T16:01:15+09:00",
+      "category": "관심 키워드",
+      "description": "[거래소 기관] HD현대중공업·한화오션 팔고 현대모비스 담고 삼성전자 SK하이닉스 던졌다 핀포인트뉴스"
+    },
+    {
+      "id": "bf641e7e09ecb9",
+      "title": "'비위 행위' 체육인 징계 78%, 처리 기한 넘겨… 4년 전 사건도 아직 캐비닛에 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43VDVMUHBHZy1xUnlYMEUzSGpxczBHMlJDd0oxWEVKTnRTUkZOSnduNWZtbTFZcGJZeWxDZV9YMjhOdk1TUGRsa25kSGl0TVZidndlQlA4OGpRSFBkRGdyRWwtOEdtaGVGSnFHYVFn0gFzQVVfeXFMTzg1M0pWdzZkSDV1TDNqSTI4ZVdoMUwzOXZnS3pGT19XZDRNbDJQdmlOaF9FTkl0S3lKLTd1VjI2RGZRMXNEXzRzajhRdUxIZnRzeTJTbzZmNDB1d2Rxd2FCN3hqdHF0c0ppSHFOR1MtY1BVZw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-20T16:00:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "'비위 행위' 체육인 징계 78%, 처리 기한 넘겨… 4년 전 사건도 아직 캐비닛에 한국일보"
+    },
+    {
+      "id": "0e4b855f5abeda",
+      "title": "멕시코 부품 관세 면제에 美 협상 기대감까지…기아, 연말 숨통 트이나 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLVEZwbmVfb0k5ZUJ4MmVvSEZGdlMxX2Q5WFpaMnFqOUdSaUtqdVJNa2VIc3ZsZFhvX2xEVXlPS2JBbklhWktsVWdUTW9NaERGQnRLbA?oc=5",
+      "source": "데일리안",
+      "published": "2026-10-20T15:44:00+09:00",
+      "category": "CKD·물류",
+      "description": "멕시코 부품 관세 면제에 美 협상 기대감까지…기아, 연말 숨통 트이나 데일리안",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "기아가 멕시코 생산 부품에 대한 관세 면제 조치와 미국과의 통상 협상 기대감으로 연말 실적 개선 가능성이 제기되고 있다. 대외 불확실성 완화가 기아의 북미 시장 수익성에 긍정적인 영향을 미칠지 주목된다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "높음",
+      "detail": {
+        "background": "북미 시장 내 관세 정책 변화 및 통상 환경의 불확실성.",
+        "key_points": [
+          "멕시코 생산 부품 관세 면제에 따른 비용 절감 기대",
+          "미국 정부와의 통상 협상 진행 상황 및 전망",
+          "연말 북미 시장 판매 실적에 미칠 영향"
+        ],
+        "what_to_watch": "미국 통상 정책의 구체적인 변화 및 기아의 북미 수출 물량 추이.",
+        "fact_check": "관세 면제 및 협상 기대감에 기반한 시장 분석 보도임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "f69d4c09a4a3a8d0",
+      "image_url": ""
+    },
+    {
+      "id": "032ef6fa09bb5c",
+      "title": "현대모비스 의왕연구소 배터리 연구동 화재…\"인명피해 없이 정상 근무 중\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LeDFkS2Jwa01LcHpKMm9NTHVfdEYyWTI0d3pKeExJVzhOakRUSmRkTkREOHlQMGxKUW1ubHJZZkplT0dBR0RNbUFvQU1aZGtCZzUzbjh4YmFVWU0zOERoMEVMbjlFcFlUb1daMGhuQnduMEZ5c0k3RtIBeEFVX3lxTE1LeDFkS2Jwa01LcHpKMm9NTHVfdEYyWTI0d3pKeExJVzhOakRUSmRkTkREOHlQMGxKUW1ubHJZZkplT0dBR0RNbUFvQU1aZGtCZzUzbjh4YmFVWU0zOERoMEVMbjlFcFlUb1daMGhuQnduMEZ5c0k3Rg?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-20T15:35:29+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 의왕연구소 배터리 연구동 화재…\"인명피해 없이 정상 근무 중\" 뉴시스"
+    },
+    {
+      "id": "1246a76a4e4667",
+      "title": "이석연, '盧 사위' 곽상언 후원회장 맡기로…\"정당 아닌 소신 후원\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xdE1UTXotQ1dESlRqVmEwREZSaWd3cElQQ29nZHJrLVZqRy02SWtlNTM3eGhBWDNTWUlULTJGWUhRZ08tdTA3WnQwc2p6OUU3M0ZtNmV4OEdkcWRKcmswMjFJU3pJNW9iMTltSVBHclpBNlk2OXVrQdIBeEFVX3lxTE8xdE1UTXotQ1dESlRqVmEwREZSaWd3cElQQ29nZHJrLVZqRy02SWtlNTM3eGhBWDNTWUlULTJGWUhRZ08tdTA3WnQwc2p6OUU3M0ZtNmV4OEdkcWRKcmswMjFJU3pJNW9iMTltSVBHclpBNlk2OXVrQQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-20T15:34:09+09:00",
+      "category": "정치·정책",
+      "description": "이석연, '盧 사위' 곽상언 후원회장 맡기로…\"정당 아닌 소신 후원\" 뉴시스"
+    },
+    {
+      "id": "69a511efaeb1fb",
+      "title": "김정은 사망설에 출렁인 증시…외환시장은 차분, 엇갈린 시장 반응 왜? - 뉴스인",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91VFFIeGZMcHNiSWZwbEZJX1dROUd0ZDgwV0RTMFgtRnJhMVRGMTM5N05LaGhDeVBMVG00WE5TVmhTcTc4TFRDY3JLbUxCd09Va2tINU14UkNEbGJNR2haNWtnZEljV3hkdjJV?oc=5",
+      "source": "뉴스인",
+      "published": "2026-10-20T15:32:40+09:00",
+      "category": "경제·금융",
+      "description": "김정은 사망설에 출렁인 증시…외환시장은 차분, 엇갈린 시장 반응 왜? 뉴스인"
+    },
+    {
+      "id": "1eee62f11daab6",
+      "title": "노무현과 싸웠던 이석연, '盧 사위' 곽상언 후원회장 맡는다 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lSEtYLXpEanA2WlQzdGhfQUJCX2p0aEdkdjQxOHV4YXl2NVBPRWVrdnV2ZFJVZTdCN29KckZQMmVBdDN1N2Z4dEwybHVJMWo4WGFZWENla2NTdw?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-20T15:32:02+09:00",
+      "category": "정치·정책",
+      "description": "노무현과 싸웠던 이석연, '盧 사위' 곽상언 후원회장 맡는다 한국경제"
+    },
+    {
+      "id": "d021e5369892a0",
+      "title": "두 번 올린 기준금리, 이번엔 멈추나…채권 전문가 93% '동결' 전망 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tX2xma0UzZk9IZlNTbzVDVDhZREJsa1pfbFB6WF8xekpEZE1zZ3pKYks4dmNteGFlREQ2aW93Wk4zclV4MldRMFhTdThEaUZIckdGSllGUHVZZ9IBVEFVX3lxTE0waVRsYkxkZ3hOeTNlN2RNT0tndDJucS1wOXhhS0tzTXl3Ui1DY2hyaVl5YTllU3Y1d1lqcGdUVl9IeGpDeHo1VWRMbmx0ZGdkRFFlNA?oc=5",
+      "source": "더팩트",
+      "published": "2026-10-20T15:24:29+09:00",
+      "category": "경제·금융",
+      "description": "두 번 올린 기준금리, 이번엔 멈추나…채권 전문가 93% '동결' 전망 더팩트",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "한국은행의 기준금리 결정이 임박한 가운데, 채권 전문가 대다수가 이번 금리 동결을 예상하고 있다. 경기 상황과 물가 지표를 고려한 통화 정책 방향에 시장의 관심이 집중되고 있다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "한국은행의 통화 정책 결정 및 시장 금리 변동성.",
+        "key_points": [
+          "채권 전문가 93%의 기준금리 동결 전망",
+          "이전 두 차례 금리 인상 이후의 정책 기조 변화 가능성",
+          "경기 침체 우려와 물가 안정 사이의 정책적 딜레마"
+        ],
+        "what_to_watch": "한국은행 금융통화위원회의 실제 금리 결정 결과.",
+        "fact_check": "전문가 설문조사를 바탕으로 한 금리 전망 보도임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "273d77de70727216",
+      "image_url": ""
+    },
+    {
+      "id": "05456251974813",
+      "title": "“밤샘 운전 사라진다”… 현대차그룹, 레벨4 트럭 질주 시동 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwdnhlUEpoTG5XN3pURGF5VjBXdExEQ1JjSEIzRmVRMEUwSm5uNUNWdTJaTkZocWdBQkNvXzdSQWxiVXIxdUE?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-20T15:14:29+09:00",
+      "category": "관심 키워드",
+      "description": "“밤샘 운전 사라진다”… 현대차그룹, 레벨4 트럭 질주 시동 매일경제"
+    },
+    {
+      "id": "32d8da8d403675",
+      "title": "이석연, 곽상언 후원회장 맡아…“한국 정치 희망 읽어” - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNQ1dzOFZiTktybmM5V0RUR2pOSU1DRURQM0VMWURFYzh3Zm1DR1pLQURDT2dab1h0WGt5cTJsVmVCeXFFOUNDdmJKam1QSGV6RW0wQW5FanpYMG5pVXFkVjRBTnEydkY3M21OaFliYkRndFdo?oc=5",
+      "source": "한겨레",
+      "published": "2026-10-20T15:06:00+09:00",
+      "category": "정치·정책",
+      "description": "이석연, 곽상언 후원회장 맡아…“한국 정치 희망 읽어” 한겨레"
+    },
+    {
+      "id": "1197e2ebab9c52",
+      "title": "토토사이트 배당 놀이터벳 정보 창을 열고 닫는 기본 조작 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNclVBZHZ1WVdDcHdtak1IQ2NPMGwtTnJEVG0xdnNkSWc1aTdDWFVfQ1NVbjFIY0k2amhPYmNXWFkxRmd1enE0eHAxdDdkbzNpSUZHcGhVZ0V0WmRBbDJXLUJ3b05weXM4MFNqckNHbGxVMm9VNE1qN2xyU1hTMTRHclhxZFNTcGstRU9xOW9nUV8tVU1wWkJvUTljaVhWN3gySUwxVTlNTHotTGxvSUY1ZHRkdEE5RUU?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T14:57:54+09:00",
+      "category": "자동차",
+      "description": "토토사이트 배당 놀이터벳 정보 창을 열고 닫는 기본 조작 Calgary Roughnecks"
+    },
+    {
+      "id": "078f8f8c02370f",
+      "title": "숨 고르는 한은, 갈림길 선 증시…기준금리 결정은 - 대한데일리",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWUcxcllGdjB6STltTWZlejFGSURVYWpNakNFendnVVh6QXZSel92NjNtUW5CWmxjT1QtQ0FrWnN6MVRGczV6S2szeEhQeVF5QmhwdHFXSzVuTHBfdEtqdy1rS1hLUUJsTURZ?oc=5",
+      "source": "대한데일리",
+      "published": "2026-10-20T14:53:57+09:00",
+      "category": "경제·금융",
+      "description": "숨 고르는 한은, 갈림길 선 증시…기준금리 결정은 대한데일리",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "한국은행의 기준금리 결정을 앞두고 금융시장의 관망세가 이어지고 있습니다. 시장은 금리 결정이 증시에 미칠 영향에 주목하며 향후 통화정책 방향을 주시하고 있습니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "한국은행 금융통화위원회의 기준금리 결정이 임박함에 따라 시장의 불확실성이 증대되고 있음.",
+        "key_points": [
+          "한국은행의 기준금리 결정 방향에 대한 시장의 관심 집중",
+          "금리 결정이 국내 증시에 미칠 파급효과 분석 필요"
+        ],
+        "what_to_watch": "금융통화위원회의 실제 금리 결정 내용 및 향후 통화정책 기조",
+        "fact_check": "한국은행의 기준금리 결정은 아직 이루어지지 않은 상태임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "b74d3009357da8d8",
+      "image_url": ""
+    },
+    {
+      "id": "04e761e1a06939",
+      "title": "현대차·기아, 레벨 4 자율주행 트럭 상용화 시동 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tY3Z5Q0dhc1NwOWsxNDlBbTNadkZ5LWY1R0dCWWVNUE9PWERxNV9lckFRRHNvNXdfUXhpZDZ5Tk1VYmJhNXhabg?oc=5",
+      "source": "브레이크뉴스",
+      "published": "2026-10-20T14:53:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 레벨 4 자율주행 트럭 상용화 시동 브레이크뉴스"
+    },
+    {
+      "id": "ea5e5ab186969b",
+      "title": "현대차·기아, 레벨 4 자율주행 트럭 실증...400km 물류 노선 달린다 - 뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sS0lCOFQ4Ti1GMUsyaThuM093RXplTTg0S1JWLWlTNGRNSW05SHZNME5IYlFBWGp4X3VFcnE4bWRQQnltcHJuSkxyVnFzZjA4TWtNc1BwX3VSbVJnQmc?oc=5",
+      "source": "뉴스투데이",
+      "published": "2026-10-20T14:51:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 레벨 4 자율주행 트럭 실증...400km 물류 노선 달린다 뉴스투데이"
+    },
+    {
+      "id": "228da40d565baa",
+      "title": "정부, 우크라이나 대사관 인력 일부 철수 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeF9Vd2VucDE1TVNBc0lxMkFERzZWSTJsWGRvY1RraXMyUzlKSlFGVTFRRjR1MlF5cndRZ1JaSk45OUIwNF8tU0doRjFVTjdkcGVDbG9wRDdCdnd0UE1yMFVib0ktcDZqbXJaU2FsVU9wakhQUUxvTnZ3cDlLV1NtT0ZkM2JETm1JQW1SY284WktYd9IBc0FVX3lxTE5UOUowZTQtS2tIUndQSDFjOTZLVTIwUE44YTRPV0l4blREZk0zbGxJUHA1R2M2QVZTQ0drdjN0U2lMa2h2d2xJYTQwYTFHV2lhcy1JQ1hXeFY3MHJkRkZ4MWVKeVZyMTZlZ3otUFZUWmJHdUU?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-20T14:40:00+09:00",
+      "category": "정치·정책",
+      "description": "정부, 우크라이나 대사관 인력 일부 철수 한국일보"
+    },
+    {
+      "id": "65ee888f06ab75",
+      "title": "재난속보 보려는데 광고가… KBS, 유튜브 긴급뉴스에도 광고 적용 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jT3k0RE9hcEdsX2ZJbEo3SFk2MVZ1YXdwQVZPT1FQWlV3R1RMTUw3bUJYZTlFOXNfdVAxbGlPVmN5bk5EdHdLY1BwNUhrRS1yWXpoWHdnRVoyWGFtTVBTSGVHVGNxaEp0b191UDZ30gFzQVVfeXFMTXg3U3dNQUV0ODFuVVdMcWFzUkFteFZYTXpzV09wMVdxeEh3Y0xPMDVEODhmZUNCcHNhZkEyS01Kd3JoRzlmQ0tQUERqSFJjZi1rMm9rNG1ZY1BGaHc3em9fTk9tU1M3NXhwNDNzT29FYjgzbw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-20T14:40:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "재난속보 보려는데 광고가… KBS, 유튜브 긴급뉴스에도 광고 적용 한국일보"
+    },
+    {
+      "id": "038d883855efd9",
+      "title": "中 태양광 기술 빗장…한화솔루션·OCI는 \"직접 영향 제한적\" - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNVEJ2dVVvc3p4RUlFQVljMWdwbWZ5WlVkNXduemxwZEthZ1dGNkdlSVVXUjZWMEdvUWthZEhST2dXRnNPR2NZNA?oc=5",
+      "source": "아이뉴스24",
+      "published": "2026-10-20T14:39:41+09:00",
+      "category": "자동차",
+      "description": "中 태양광 기술 빗장…한화솔루션·OCI는 \"직접 영향 제한적\" 아이뉴스24"
+    },
+    {
+      "id": "1699e786990f19",
+      "title": "현대모비스 의왕 배터리 연구동 '화재' … 인명피해 없어 - 세이프타임즈",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sTHdpa3oxUHRXTmIyUzQzYnpaaXVOYmxYeEdSY3VNSmdiZ2VsMXVhQU00NEFxdTVVbFQzbE1pMi0zT1U2V2M3X3dVVnNieDBoMThTVlpmZmJyV0FUMXp6S1NzbXdPUVdnOHcxeDEwZ9IBc0FVX3lxTE40dHgwUjhRbi1XYWhwZVp6bW1iUVRyZmVkQ1hRSnJ4eUl2RGdtUWJOQU5fekdhZTRweTRRbDZveEZVNzA0NWxSSmlZSC1majY0aGFJclE5VnJqSzdNclFXOFlzdTI3TFQ2b1h4ZldSUEZHMm8?oc=5",
+      "source": "세이프타임즈",
+      "published": "2026-10-20T14:38:48+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 의왕 배터리 연구동 '화재' … 인명피해 없어 세이프타임즈"
+    },
+    {
+      "id": "a3d279cbae81aa",
+      "title": "해운협회, ‘해양사고 책임체계 개선을 위한 성명서’ 발표 - 해양한국",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tdFZpSUpIWEVLYUphQUVCOEJwcWhWdzA3b002TGpXWlpxbkpOMHBzMFpqVTY2ODd5dVo0T2pqT3JvOUs1WGhOTlBILUdkOFZQVE12ZVBwSE53aU43cTFEXzY0TEVEYVREY1NIVmREOXVqYUpkSEIzU2h3?oc=5",
+      "source": "해양한국",
+      "published": "2026-10-20T14:35:24+09:00",
+      "category": "국내 주요 사건",
+      "description": "해운협회, ‘해양사고 책임체계 개선을 위한 성명서’ 발표 해양한국"
+    },
+    {
+      "id": "9c84aba7bc324f",
+      "title": "채권시장 참여자 93% 10월 금통위서 기준금리 동결 예상 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oSE9nbXJ3azVOTUZEZ0dfV0gzdjNyYUlvS3oyUjc5eUhLYzFzVkpMbUtLVzdRNWJwRmxkaHdzdjRIZDk3eThyNVNUOFpqclZkNk1YYWpOaFbSAVhBVV95cUxOaEhPZ21yd2s1Tk1GRGdHX1dIM3YzcmFJb0t6MlI3OXlIS2Mxc1ZKTG1LS1c3UTVicEZsZGh3c3Y0SGQ5N3k4cjVTVDhaanJWZDZNWGFqTmhW?oc=5",
+      "source": "아주경제",
+      "published": "2026-10-20T14:22:10+09:00",
+      "category": "경제·금융",
+      "description": "채권시장 참여자 93% 10월 금통위서 기준금리 동결 예상 아주경제",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "채권시장 전문가 및 참여자들을 대상으로 한 설문조사 결과, 93%가 10월 금융통화위원회에서 기준금리가 동결될 것으로 전망했습니다. 시장은 물가 안정과 경기 상황을 고려한 한은의 신중한 행보를 예상하고 있습니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "10월 금융통화위원회를 앞두고 시장의 금리 예측치가 수렴하고 있음.",
+        "key_points": [
+          "채권시장 참여자 93%가 10월 기준금리 동결 예상",
+          "시장 내 금리 인하보다는 동결 기조가 우세함"
+        ],
+        "what_to_watch": "실제 금통위 결정과 시장 전망치 간의 괴리 여부",
+        "fact_check": "해당 수치는 채권시장 참여자 대상 설문조사 결과임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "0c6dcd1411758a79",
+      "image_url": ""
+    },
+    {
+      "id": "8e419a65c9532e",
+      "title": "현대차·기아, ‘레벨 4 자율주행’ 대형트럭 상용화…운행 안전성 검증 - 백세시대",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMdjBYVnp4UV9QQlpXNGNNMWNOa1lIUlBmcTZiVVVQeTV4UUpzZ0toTzAwdzlvRGJFcURIdnBhb0xwelZ1NVFHWmRmYUtNeVEwc2xvelNKYk0yanRSOVB2enB1Q2VYX2pVWlhR?oc=5",
+      "source": "백세시대",
+      "published": "2026-10-20T14:20:37+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, ‘레벨 4 자율주행’ 대형트럭 상용화…운행 안전성 검증 백세시대"
+    },
+    {
+      "id": "bd7c5df4861ac9",
+      "title": "여러 게임을 비교할 때 펼쳐둘 대구 토토가 주대 정보 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPajJ5V0xOUGhtOU9xTlVFdFc5c2VNNXBiaFJ5YUw4d2FGSkFFeGk2OVhKUUl2Y3c5bGY1NjhQaS1BS2J0MU1JZGE4dmUwamNJajNRMUJPS2hmbmlBYmNKZ3lXckI1MzNKUU03MGJ4aWRXa05lbFVzN3czNzBSRWFCWE5MUDVwamlKR1RMLXJvS2M5SlV4Q2xMY25mOTB5d3JuNUNDRkloYWJPRXFsQnhDZzFFZGp0WXdockZKT1VlRHp5aFh5YTVCdE9KLVV6VnUwRzQ0ZHBDay0xc1pPOUlkaElxTXlFbzlWVmp2OXJ6ZXdiNl9wMnRRYWFPd3NoQ3RfN2hFbnlSWnhSLWJ4VFd3S3VVeWh5UG1IaERMZllUamU1VF9xS04wTVdMbUVtU29xMlZuRzd3?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T14:15:06+09:00",
+      "category": "자동차",
+      "description": "여러 게임을 비교할 때 펼쳐둘 대구 토토가 주대 정보 Calgary Roughnecks"
+    },
+    {
+      "id": "1131b52b49d0e7",
+      "title": "10월 금통위 '금리 동결' 무게…증시 반등 불씨 될까 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWi10MzRMaG9MV0kwOXpEdjJoWDZDbHlleVZBNE5HdkR0bHZmZEE4V2xMS1I5Zm56b1dsc0g0bnVHWDc2UGhMVTBnQjc2WVdxMWxrMVFhdnZTX3Y4U2t2MjFrXzZCTWhHR1NhLVh3WjdCRldQNF9TVmlDOXdOblFFdEh4UVpjOEl0?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-10-20T14:08:22+09:00",
+      "category": "경제·금융",
+      "description": "10월 금통위 '금리 동결' 무게…증시 반등 불씨 될까 글로벌이코노믹"
+    },
+    {
+      "id": "cfde8e7ded6903",
+      "title": "슬롯 커뮤 수익 : 초보자가 알아야 할 모든 것 - 실용적인 접근법 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOFI2VmFrdl9VdHdEVDBLNi05ZlM4VnkzWlQ5dU1wOEVKMVlfY2FOWm1LNUg4c1ZUaENJN1JiaEZ6QkRWWTc4a3FJMllwbTEyNWdmZ3N1M05TMnNhOF9GNEVrWFRuRklOSG1XVGdnRDVKa2QxS0YyWFROc0FwN0NrdnJ1NnFhN0ZyVXlFRWtuQ1FkcEQ4SFFSbU9hOEJJbXkwQjItQnRVczM4MVlXTXgxT241WTRfVm82bmc3bEtWMTE4dDZsXzd1R2w2Rmp6RE9lbGJHUnMtS1FyMGM?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T14:01:40+09:00",
+      "category": "국내 주요 사건",
+      "description": "슬롯 커뮤 수익 : 초보자가 알아야 할 모든 것 - 실용적인 접근법 Calgary Roughnecks"
+    },
+    {
+      "id": "f832e53660d440",
+      "title": "성일종 “브런슨 발언 부적절…정동영 장관부터 경질해야” - 열린정책뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LS093MGxRaF9GRlpGWDlDMy0tdk5uZHdwTUJSS2NyOUF1bjQ4NWZfNHZDdngzM3RwNGFyNWpCOFdiMEV3Tm9CWG5IVC10OFl4RkFzRy10T0xzMmNBSVZJTk9GNEFucjdXcGNn?oc=5",
+      "source": "열린정책뉴스",
+      "published": "2026-10-20T13:50:25+09:00",
+      "category": "정치·정책",
+      "description": "성일종 “브런슨 발언 부적절…정동영 장관부터 경질해야” 열린정책뉴스"
+    },
+    {
+      "id": "9daeeab2838d58",
+      "title": "美 엑셀리스, 평택 반도체 장비 공장 증설 착공⋯아태 생산거점 확대 - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSTFRzYjMzVXdpQ3RuWGttRWdrcUdJYXMwNVZZYV8wMlVWek9IYkRjSWVJWGRFS2h4dXctRnlVSEprYm5taFplUmV1QQ?oc=5",
+      "source": "아이뉴스24",
+      "published": "2026-10-20T13:44:27+09:00",
+      "category": "자동차",
+      "description": "美 엑셀리스, 평택 반도체 장비 공장 증설 착공⋯아태 생산거점 확대 아이뉴스24"
+    },
+    {
+      "id": "5579f79c46c24a",
+      "title": "35년 차 베테랑 본보 왕태석 기자 , 사진 에세이집 '빛으로 쓴 편지' 출간 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CcEdudW1LLW4wSHNfcHFtSVJZX3ptMHBGWlBXT3YyZmN5bFRBX2ZiVHhVSDdtby1VTXZXakJ5RWxQUnA4TlFRMFdwdDNSSjBCSGIyWGNTejlQaXJpS0JQZHNqd3JLMjFHcS0tLXd30gFzQVVfeXFMTlluaHlDZFc5MXh4OEt2cTIzQnd1Q0N3cmIwYzgwanBnNm4tVDlJVjZTQVBLa2NWM2FXNkFsTENQdW03MmRuREhEZ2ZNWl9SSnNlanFjbHJNcFVhRWVEWjQyX0hmaGJGYnlGME80WDZoMGotYw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-20T13:42:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "35년 차 베테랑 본보 왕태석 기자 , 사진 에세이집 '빛으로 쓴 편지' 출간 한국일보"
+    },
+    {
+      "id": "984547b989f509",
+      "title": "현대모비스, 범퍼 포함 다른 사업부도 추가매각 의혹 불거져 - SR타임스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vUkRPWS0wQ3pLZlJmZ2JFNERHdjAtVGtjQ05tTFAxejJGQVRoNXlBaUZCX0NGZWVCN2hHLTRmajc4QmRvcGQtazI0YVVJT1ljVDNKQzQySV8ySlVMbVdzSnpHVDBGVnZNOGFr0gFrQVVfeXFMTW9SRE9ZLTBDektmUmZnYkU0REd2MC1Ua2NDTm1MUDF6MkZBVGg1eUFpRkJfQ0ZlZUI3aEctNGZqNzhCZG9wZC1rMjRhVUlPWWNUM0pDNDJJXzJKVUxtV3NKekdUMEZWdk04YWs?oc=5",
+      "source": "SR타임스",
+      "published": "2026-10-20T13:37:45+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 범퍼 포함 다른 사업부도 추가매각 의혹 불거져 SR타임스"
+    },
+    {
+      "id": "9f9cfff147cfd7",
+      "title": "Hyundai Motor·Kia to launch a Level 4 autonomous driving demonstration on heavy-duty trucks - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XblZhMlQ4bWtOSW9MRmVONkthVVVmRmdoSUIwcXRnRnVvaFBNRUJxOU9yUV8ydE9WVjQ2SXpHTkZab3R6a3YwSm82cjBkbFM0Z1RrZnBFeklxZ1V1Rnc?oc=5",
+      "source": "경향신문",
+      "published": "2026-10-20T13:18:00+09:00",
+      "category": "관심 키워드",
+      "description": "Hyundai Motor·Kia to launch a Level 4 autonomous driving demonstration on heavy-duty trucks 경향신문"
+    },
+    {
+      "id": "8fbef2e618e39a",
+      "title": "현대차·기아, 레벨4 자율주행 트럭 물류 운송 본격 돌입 - 뉴스N연합",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ZHJVZm1FOWpodVlZd0pEZnhFbVlPRkRRbDlScFF6Q1dSTUp4LTEwSVZraFh3c210SHUxUTBWUWRCWExaamJtS0RR?oc=5",
+      "source": "뉴스N연합",
+      "published": "2026-10-20T13:14:17+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 레벨4 자율주행 트럭 물류 운송 본격 돌입 뉴스N연합",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차와 기아가 레벨4 자율주행 기술을 적용한 트럭을 활용해 실제 물류 운송 사업을 본격적으로 시작합니다. 이는 자율주행 기술의 상용화 단계 진입을 의미하며 물류 효율성 제고가 기대됩니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차그룹이 자율주행 기술 고도화를 통해 물류 분야로 사업 영역을 확장하고 있음.",
+        "key_points": [
+          "현대차·기아 레벨4 자율주행 트럭 물류 운송 개시",
+          "자율주행 기술의 실질적인 상용화 및 물류 현장 적용"
+        ],
+        "what_to_watch": "자율주행 트럭 운송의 안전성 및 물류 효율성 데이터",
+        "fact_check": "레벨4 자율주행은 특정 조건에서 운전자 개입 없이 주행 가능한 수준임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "25bb27213ee31a4f",
+      "image_url": ""
+    },
+    {
+      "id": "44aa82361d6091",
+      "title": "현대차그룹 인도 투자 확대…국내 부품업계도 함께 성장하나 - 교통신문",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yTU9SOVpLX0VjRlhFTkdESG9WSTlzekM3VXUzem1adXBRX29RTjNqVG9nQTQ3VGFQQ1BaaXZFT0g0YVZSSU5aRVloMXh3NHM?oc=5",
+      "source": "교통신문",
+      "published": "2026-10-20T13:07:00+09:00",
+      "category": "자동차",
+      "description": "현대차그룹 인도 투자 확대…국내 부품업계도 함께 성장하나 교통신문"
+    },
+    {
+      "id": "c6bd3dcf08066a",
+      "title": "현대차 의왕연구소 화재 발생... 소방 당국 \"진화 중\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HSXVtcG1OUHlMVTlZektyZkZZblRrRlRIOGFZU0FLUkkwX0RlTElwQVFYWDBRQ0N0MGFjRk4waDNmdnpHVWhsNlhHblF6ang0TVdBQ3ZZN1J5bEtCRVh2RWtyVmxiSWNGenVEZnB30gFzQVVfeXFMTlU3WVoyUHllNUdndFVjYTVmbk9LX1phVGRhUXJFT0ljNVN3MW1scHc3Unh1Wkk0eThBZklzYU4ya2ZpdjFINW54R1BvSE90WEYzMG1iQnhwOHVUdUg4MDRCbzJuR3pYWGM4Q0xqWlBrS0pnWQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-20T13:05:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "현대차 의왕연구소 화재 발생... 소방 당국 \"진화 중\" 한국일보"
+    },
+    {
+      "id": "6db28a1d44a856",
+      "title": "IMF 총재 \"미래대응기금 등 韓재정·통화 정책조합 접근법 적절\" - 국민기자뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pejN5aDRYd0hhaEptekxZZ2hoZTluRURBNnJ2a3FtLUNkU1R1cVpRc2s2czdEZnlzVkJrdUZuS3RCQWdOMlhWSmlnODZNeU14Zmk1LUZxZzhaQnp4RUtSSFA1ekM?oc=5",
+      "source": "국민기자뉴스",
+      "published": "2026-10-20T12:00:00+09:00",
+      "category": "정치·정책",
+      "description": "IMF 총재 \"미래대응기금 등 韓재정·통화 정책조합 접근법 적절\" 국민기자뉴스"
+    },
+    {
+      "id": "346cd648770808",
+      "title": "정의선 현대차그룹 회장, 인도 R&D 거점 점검…\"'세계 최대 인구국' 현지 전략형 차량 개발\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzUG1ha1VmenlKcnd6QWsxZGNZaWVZdTVieTRPcFBqQVFBc01tQ2VQMUJpaW5xY3hsaGxXVEJOS0NmOVQxZGZEVGlubkpWUTJlcFZ4TmdfT1hRd3FoWEtkSm00UXdibk43ZkVWS1p2d2lzVWFTQzc3StIBeEFVX3lxTFAzUG1ha1VmenlKcnd6QWsxZGNZaWVZdTVieTRPcFBqQVFBc01tQ2VQMUJpaW5xY3hsaGxXVEJOS0NmOVQxZGZEVGlubkpWUTJlcFZ4TmdfT1hRd3FoWEtkSm00UXdibk43ZkVWS1p2d2lzVWFTQzc3Sg?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-20T11:37:20+09:00",
+      "category": "자동차",
+      "description": "정의선 현대차그룹 회장, 인도 R&D 거점 점검…\"'세계 최대 인구국' 현지 전략형 차량 개발\" 뉴시스"
+    },
+    {
+      "id": "4f6fbba1a49b7d",
+      "title": "유형은 같아도 규칙을 따로 읽어야 하는 피나클 베팅 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWxmanE1ckxEN2ZBamtTTHI3TTJ5TXNSVTI0Y0RVQ2JFaUNtYVRxcUlRTWVfSlZYcDlMd0RqUlBDUFFjSUo4dHNNOVd6dG53YnVXc25BaDFVUDJ0SnRvaktzM3UtNTZyQkc1aU1WM2g2akRUUU9Zdkk4Y0txVDhUU3NEcWxQWFJSb0lYSlRHa055bEU3blM5UGRHaFFvUFZnNlRGNnc3YU0ybnp6bzl1cHFadw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T11:22:53+09:00",
+      "category": "자동차",
+      "description": "유형은 같아도 규칙을 따로 읽어야 하는 피나클 베팅 Calgary Roughnecks"
+    },
+    {
+      "id": "e54cf8e3d937fa",
+      "title": "보테가 토토 배당 조합의 표시 방향 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaHRYbFlIU0VVWi1wejQ0b2FaXzNYOVVHUVpJcEhNRHF2QXY5d0JDVW9PekJ4Q0ZDb2gwdGVHcXNWalhyMnUzNm9vQVVHU0xHaWZrZUs2a2x5cWZ6clROcFlUbHJoYlItM2lZdGRQYXhDdmNmWWpLVlYzZWI5Q2pKV2VEUUpvLS1nWUZ6eXNlaDVVV1VFZk9yZWFDS2pqcVJ5QVN6QVBETXFNMlREOGc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T10:26:23+09:00",
+      "category": "전동화",
+      "description": "보테가 토토 배당 조합의 표시 방향 Calgary Roughnecks"
+    },
+    {
+      "id": "219e50dbd45c76",
+      "title": "트럼프 유세 나선 美장관들, 정치중립 논란…시민단체 조사 요청 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CLWh3Uy1EQjUxb3BMbTRLNjg4U01CaDVUVjhDU3J1c1YtNmsxUGw3RmoyWS1MQmNpeTIzUWdyVlo5dDZQWGFIT1NfWlBjTFhEV3U4YUd6clNLXy16U2t6bXVUeWhyYzdrekVyLTk3WWVhcHU5MnRuU9IBeEFVX3lxTE9CLWh3Uy1EQjUxb3BMbTRLNjg4U01CaDVUVjhDU3J1c1YtNmsxUGw3RmoyWS1MQmNpeTIzUWdyVlo5dDZQWGFIT1NfWlBjTFhEV3U4YUd6clNLXy16U2t6bXVUeWhyYzdrekVyLTk3WWVhcHU5MnRuUw?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-20T10:12:42+09:00",
+      "category": "정치·정책",
+      "description": "트럼프 유세 나선 美장관들, 정치중립 논란…시민단체 조사 요청 뉴시스"
+    },
+    {
+      "id": "6a0acab18c2df2",
+      "title": "현대차·기아, 인도 점유율 하락에 'CNG 승부수'…SUV 라인업 확대 검토 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04Y0U3M3JyWktVOEZQX1VsNHppaXZ4SU4tcGJIcTBUd1FEUC03cmtka2dUbFlzU0tzLXU2YjlNRlBnS2g1UGdHS0R2MnFiYXJGbXMzVXlzRkpfdWs2UzJhYWVlWQ?oc=5",
+      "source": "더구루",
+      "published": "2026-10-20T09:55:36+09:00",
+      "category": "자동차",
+      "description": "현대차·기아, 인도 점유율 하락에 'CNG 승부수'…SUV 라인업 확대 검토 더구루"
+    },
+    {
+      "id": "b7a620528e629c",
+      "title": "현대차·기아, 레벨4 자율주행 트럭 실증…내년까지 500㎞ 주행 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5LUhvXzVReFo2VmZ0Vkl5MHlycUt6RWl3MDRsRXB1eUtfa2VZLTdiM0VWNUVxRGI5dkFZd1NwcHh0VnBJQ2hvTWJnWUFlcnhvODdMYXlLQkFjSFU?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-20T09:16:36+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 레벨4 자율주행 트럭 실증…내년까지 500㎞ 주행 연합뉴스"
+    },
+    {
+      "id": "e95008eda8f416",
+      "title": "현대차·기아, 레벨4 자율주행 트럭 생태계 구축 위한 실증 진행 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UWHczbUJZOTVOeUFOSWdiSkZVV1pBSEZyYXBNQU1aMUZ6TnptX0dNNXh0Zng2UXlyTS1RbkwxTGpyREZSOWRGLVdxY09iM2NqT1NzdNIBVEFVX3lxTE5UWHczbUJZOTVOeUFOSWdiSkZVV1pBSEZyYXBNQU1aMUZ6TnptX0dNNXh0Zng2UXlyTS1RbkwxTGpyREZSOWRGLVdxY09iM2NqT1NzdA?oc=5",
+      "source": "더팩트",
+      "published": "2026-10-20T09:08:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 레벨4 자율주행 트럭 생태계 구축 위한 실증 진행 더팩트"
+    },
+    {
+      "id": "931d6eef34c387",
+      "title": "“인도 국민차 넘어 1,000만 대 고지로” 현대차, 크레타·엑스터 앞세워 판매 질주[재율 아빠 국산차 업계 소식] - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMGZLdHFsY29lZVU3R2xWLVJwZ19lQTJvQVZOSFVfdHlDYzZlRkFfMFc3Q1hjWUZGV2NDeXllS3ZyQUtzWmFKQjA0NXVNbDlHR0s5eHRDTVpGeXBBbF9Gd3V4ME9rQ1Q3VDJMQkg1YjNzWlFwYlVLOGwxWEwwSHZRZFd6WlRIRGxTeTdocg?oc=5",
+      "source": "Naver Blog",
+      "published": "2026-10-20T07:59:56+09:00",
+      "category": "자동차",
+      "description": "“인도 국민차 넘어 1,000만 대 고지로” 현대차, 크레타·엑스터 앞세워 판매 질주[재율 아빠 국산차 업계 소식] Naver Blog",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차가 인도 시장에서 크레타와 엑스터 등 주요 모델을 앞세워 판매 성장을 이어가며 누적 판매 1,000만 대 달성을 목표로 하고 있다. 인도 내 생산 및 판매 전략을 강화하여 시장 점유율을 확대하려는 움직임이다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "인도는 현대차의 핵심 해외 생산 및 판매 거점 중 하나로, 현지 전략형 모델을 통해 시장 지배력을 높이고 있음.",
+        "key_points": [
+          "인도 시장 내 크레타·엑스터 중심의 판매 호조",
+          "누적 판매 1,000만 대 고지 달성 목표",
+          "인도 시장 내 현대차의 브랜드 입지 강화"
+        ],
+        "what_to_watch": "인도 시장 내 판매량 추이 및 향후 생산 능력 확대 계획",
+        "fact_check": "현대차의 인도 시장 판매 전략 및 주요 모델 성과는 업계의 일반적인 분석 내용임."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "7f15c386a13d517f",
+      "image_url": ""
+    },
+    {
+      "id": "2aaaefa74f78a1",
+      "title": "IMF가 본 내년 환율은 1,402원?…'예측' 아닌 '가정'이었다 - KB Think",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SU1JrbXVGY0xJbVAwdlhIUVMzRUg0c3FEdUQ1Y0NDdFZHOHBoa3JlYm9WTGRheWlidTd6TlhYVWk5aDZHMXllUVNKU0FhWC1aVVJOX2NFTXhhWXNUV2VRSDBhTXpVNjJucWtuQWEyVWtrdw?oc=5",
+      "source": "KB Think",
+      "published": "2026-10-20T07:58:10+09:00",
+      "category": "경제·금융",
+      "description": "IMF가 본 내년 환율은 1,402원?…'예측' 아닌 '가정'이었다 KB Think"
+    },
+    {
+      "id": "5d2a3252e9d3a6",
+      "title": "청년주택드림 청약통장 가입 기준 완화··· 디딤돌대출·버팀목대출 소득기준도 완화 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZDI4Ylhnem45TEZ0V2ZUUEo4LW5QOGhBdE5kY3pBNlpGempGYUN6VVpyeGRJOE9td2Z5c0Rya0NPWk5maXVZaHpQRW0wN1c2cHA5Ql9rM3pPejVPTmFSa0pGa25wX0N6QWhtZE90MXBQb2V6T2lIMWt5ZlNIajlLbW1mQ3JjUWVtcThkLVp3?oc=5",
+      "source": "Naver Blog",
+      "published": "2026-10-20T05:40:17+09:00",
+      "category": "정치·정책",
+      "description": "청년주택드림 청약통장 가입 기준 완화··· 디딤돌대출·버팀목대출 소득기준도 완화 : 네이버 블로그 Naver Blog"
+    },
+    {
+      "id": "a3e7b341f9bcc1",
+      "title": "[르포] \"현대차 진짜 많아요\" 30년간 '14억 인구' 인도 일상 속 깊이 스며든 'H' 엠블럼 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wZUN1NUtNODY2dzVuVjBhOTE3ZXN1YVY0dmN1azRqc2F4cWpxbWxXa3BvUEJaa2NYOEFpZFZydEF6b3VWMnNmTDN6bFhjRTh1THBVMWRFbm1rSWwwMTJoZmhLcEZ3enlPaXhMeEVNT2pRVmUzeXBXatIBeEFVX3lxTE1wZUN1NUtNODY2dzVuVjBhOTE3ZXN1YVY0dmN1azRqc2F4cWpxbWxXa3BvUEJaa2NYOEFpZFZydEF6b3VWMnNmTDN6bFhjRTh1THBVMWRFbm1rSWwwMTJoZmhLcEZ3enlPaXhMeEVNT2pRVmUzeXBXag?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-20T05:00:00+09:00",
+      "category": "자동차",
+      "description": "[르포] \"현대차 진짜 많아요\" 30년간 '14억 인구' 인도 일상 속 깊이 스며든 'H' 엠블럼 뉴시스"
+    },
+    {
+      "id": "2abf976ffa47a1",
+      "title": "\"학교에 피해 주지 마라\"… 전통예고, 성폭행 피해자 측 '2차 가해' 논란 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqNFZLRUNLTzE2WGhvcDdZaHRCSGNScUVMc1VGSTVfOW93MVp2U093T19iUjhwbmktc28xVVN0dEdzWU55bi00bWVyN1N6Z0Z1azVwZERQYzBmSEFtc29pZVR2cmMzZ3Y4STdzR29B0gFzQVVfeXFMTlJTWi16c1MzOG5VVG9jU2VTZ19uZlZsbVZnMktzeXdkY1d4cS1FLVViM2VCT3BvY0otYXRUbmhWMFpQd1pPRWFBVWhuTU93UjVCV1ZNUENDWTB0ejBqREhKQ01xOWF1TkV2X0gydFM5NW9hYw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-20T04:30:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "\"학교에 피해 주지 마라\"… 전통예고, 성폭행 피해자 측 '2차 가해' 논란 한국일보"
+    },
+    {
+      "id": "46da9cb635e37d",
+      "title": "기본 규칙은 어디까지 공통일까? 토토 해킹 비교 해설 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQWNBQkF4cDhMOHB0MnFLcGx4ZHk4VkRHcGc4eW1rYzVNUEFXcTRndlVDeTBfcDEtMEVlTHNzYmwzNEQ1SzdwV3lhTEJYOVk3YXpYVE5ERHloc2k2UU5UZTdhWEx6b09LQU5OUzRzZlZNZkRsVkg3MmplN291UFlQdWRCTDZZaFdhY2t4X25fSjRXMG84Q3BldWJOSHk2X3lhR0lKd3JVMk96SnR1VC1wU0xMMnBzSS1ER3hqZmpNN2xOcXZDcnc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T03:20:11+09:00",
+      "category": "자동차",
+      "description": "기본 규칙은 어디까지 공통일까? 토토 해킹 비교 해설 Calgary Roughnecks"
+    },
+    {
+      "id": "0511bb19909477",
+      "title": "현대차, '모빌리티 플레이그라운드 시즌2' 성료…”차량 중심 소통의 장 마련” - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03aVAtcTB4LVJnT2hhblNrS0NySjN5bkZCREgtcFVqTy1MMlRpdTMyX0JCQS1TLXd5d29FTnBqbVhacncxMWtjLUJSVzQ4SmtTMlM2UTVDbllpWnByckJhWlNXUkI2bVhu?oc=5",
+      "source": "팍스경제TV",
+      "published": "2026-10-19T22:20:31+09:00",
+      "category": "자동차",
+      "description": "현대차, '모빌리티 플레이그라운드 시즌2' 성료…”차량 중심 소통의 장 마련” 팍스경제TV"
+    },
+    {
+      "id": "e5f0248f5e7ad6",
+      "title": "인도에서 직접 물었다…공장 늘린 현대차의 숙제 - SBS Biz",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzb3R6ZXh4Yi1pTDVheC1FRXFtd0dRUUwyRVFQQTR0SXRRdEl0UlhoZlpONVV5SVJwVTBuNVk3VlhtRXR3N2ZIdkJaMkQyenFGVEZN0gFYQVVfeXFMUFZzb3JnMlNXdnFQX2VGbnpFNmdTQjZuT01JbExsbEVZdGRfUGstbHFTa2dnT3ZfVEhxZE5UR2E5eFh5SVRXSDdyRU0tekk3WW1zYjUzYWhVeA?oc=5",
+      "source": "SBS Biz",
+      "published": "2026-10-19T17:53:00+09:00",
+      "category": "자동차",
+      "description": "인도에서 직접 물었다…공장 늘린 현대차의 숙제 SBS Biz"
+    },
+    {
+      "id": "253e47254fe40c",
+      "title": "현대차 인도 1000만대 시대 초읽기…성장 공식은 ‘현지화’, 다음 승부는 ‘수출’ - 쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmcHhNNl9RdTVjLXIwT09CZ1Y4NDRlR1JLYkctYloxeXQtdkNCZkNCYkNpTFg1S1VKb2tTenNUZ1dnR3F0azZ0TlBLT3RWQ0hvSEtmRGZwZzBmUksxNmtRQVZpbw?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-10-19T17:40:06+09:00",
+      "category": "자동차",
+      "description": "현대차 인도 1000만대 시대 초읽기…성장 공식은 ‘현지화’, 다음 승부는 ‘수출’ 쿠키뉴스"
+    },
+    {
+      "id": "f1fc14804c5ade",
+      "title": "Japanese Yen holds steady near 158.00 as BoJ's Ueda says underlying inflation close to target - tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMW5KVzV6TnRNekJYR3JvYmlJMHBia1pHekV4Vm9TUnZoU0ZFWFBwd1dNcEswbHc5ZF9jVGpVV2R3SGl1S3VXRWl3V01sd2R5WmtFUFlWSXd1RjN6VmlwTG0wYUlCTEFrMXJuWHRiQ3JLa1dOcE5LTzB2eW1iR1lyOUx5UkJhZjFuUDdqdHVNQzlNclRZUnN3VG4zSmlDUWNYZjNKVm9xSnlERGpyeGpROEs1ZXdvQTl3cUVvRDRxbzRERnFlRWhXcjRVVG1QUWxtQl9qOFpsMlhwclBaWFFqREtWZXZZRzcyOVBqTmhR?oc=5",
+      "source": "tmgm.com",
+      "published": "2026-10-19T16:43:33+09:00",
+      "category": "경제·금융",
+      "description": "Japanese Yen holds steady near 158.00 as BoJ's Ueda says underlying inflation close to target tmgm.com"
+    },
+    {
+      "id": "487096e9aae697",
+      "title": "인도에서 열어 가는 새로운 30년, 현대차 푸네 신공장 | 저널 | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSExpWTFPVFRBLUprMHc5cU1GdlV4c0dPMXlWbTB4V2VRZ1d2STV4VTZGeGhOM2NDN3JVTnlDODhpZVVQcEJPSzFSdk41cWJWU3NJWVpWNzdFRTlJMHhqbVZGUWd1Ny1hVVlIUldURXFHZW5XbnAxU1pCeGlQZVd0UWNraXVPR2g5OUZlbHlfa1NFVXc?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "2026-10-19T16:30:00+09:00",
+      "category": "자동차",
+      "description": "인도에서 열어 가는 새로운 30년, 현대차 푸네 신공장 | 저널 | 현대자동차그룹 Hyundai Motor Group"
+    },
+    {
+      "id": "ee456c4eccaa0e",
+      "title": "글로벌 시장 잠식하는 중국차…한국차, 반격 페달 밟는다 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RnVKVEl4OTFfRHIyaTltRDQ1UWQ4SUQzSy1EbExLUjlpRWs4Q1Z6bW45ODN4RFI3WklsUTZGU3hzUEZjYkdUZmtudFJObnZMY21ybmxUaklndw?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-19T16:13:04+09:00",
+      "category": "자동차",
+      "description": "글로벌 시장 잠식하는 중국차…한국차, 반격 페달 밟는다 한국경제"
+    },
+    {
+      "id": "7f450c85bae3f8",
+      "title": "美 관세·EU 현지산 ‘압박’…K자동차, ‘글로벌 생산지도’ 다시 그린다 - 직썰",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4Q2pFalEyUXprWEw2ZTdGMzltUjFNOXl5STc4eGFMdUktTEZmQzVLUm96dFJUY09VRG55YzU5T25PVmlTQlM1QTV6Tm83SVRFTzI3ZGNEVnU3WXNVOTJ2dEdNak9LMDBl?oc=5",
+      "source": "직썰",
+      "published": "2026-10-19T16:00:00+09:00",
+      "category": "자동차",
+      "description": "美 관세·EU 현지산 ‘압박’…K자동차, ‘글로벌 생산지도’ 다시 그린다 직썰"
+    },
+    {
+      "id": "7c3a8734785451",
+      "title": "삼성·현대차·LG, 인도 30년 승부··· 현지화 넘어 글로벌 거점으로 - 그린포스트코리아",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04RWNuYm5kV2ExWkhwZ092c3BhVXgwcVZJYzU1cVFLNjJxcFFBU1l2ZlkySmVLZF9kVHBZMmlPTHh0Y1dRNUo3SkJ3NWdnamk5UGFTNVNQZjAzWTdCVHJ2V3dDX25PblRzTmlhRE83cDJaWXpCMlo5UFFB0gF6QVVfeXFMTThFY25ibmRXYTFaSHBnT3ZzcGFVeDBxVkljNTVxUUs2MnFwUUFTWXZmWTJKZUtkX2RUcFkyaU9MeHRjV1E1SjdKQnc1Z2dqaTlQYVM1U1BmMDNZN0JUcnZXd0Nfbk9uVHNOaWFETzdwMlpZekIyWjlQUUE?oc=5",
+      "source": "그린포스트코리아",
+      "published": "2026-10-19T15:34:27+09:00",
+      "category": "자동차",
+      "description": "삼성·현대차·LG, 인도 30년 승부··· 현지화 넘어 글로벌 거점으로 그린포스트코리아"
+    },
+    {
+      "id": "ff233ae81dbf55",
+      "title": "\"산업재해·복합재난 대응\"… 충남 8개 시군·100개 사업장 '맞손' - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51MVBQUFZGYWcybnVuaWQ4V3dXUG41ZHlrdmtaZWo2OVNqRlpzYV9NNHVXUXBhMUZJSnRJLTdvekVESFZWeWQ0ZEFuXzNGTzA0TElPRnlwWU1WdTRtU0ctbjRHYm5nRlZmamJRX3l30gFzQVVfeXFMT3R4T3JPX21vSVl5eGNaX2pnSjFqZV9MQ1ByVXVQbnlkOGV1RWxCYWI3Tl96cmdpT1RiNGNiQ2lHN2k5RG93VUNzR0l4NTl0aVZMTGJyMFdKREo0d1RleThPZkZwcjlOdnRsNFhLZkc3aDYyaw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-19T15:27:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "\"산업재해·복합재난 대응\"… 충남 8개 시군·100개 사업장 '맞손' 한국일보"
+    },
+    {
+      "id": "dbff642d4f15a5",
+      "title": "현대차그룹 정의선 회장, 인도 나렌드라 모디 총리와 면담 - 외교문화뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TaWNMb01fUkFYVm1wN0VhemlsUGxfbUpuMlJxU3V2MGdGSmtLdlV6SklhZVBzc2xIbkV0bTFmZTQ0RVJHYVdZMkxzNFprbjRDS1AyMzBOTWd3Zk1ndEdRYUphT2s?oc=5",
+      "source": "외교문화뉴스",
+      "published": "2026-10-19T14:38:14+09:00",
+      "category": "자동차",
+      "description": "현대차그룹 정의선 회장, 인도 나렌드라 모디 총리와 면담 외교문화뉴스"
+    },
+    {
+      "id": "c5d9eed06748fa",
+      "title": "현대차그룹, 로템으로 방산 일원화…위아는 미래 모빌리티 집중 [종합2보] - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4cVVmenhFb1MySTd5U1BzTC1RY21oc3dQMXNQQUVmeFRUOE5QNWVZUC1TRVQtNGlrb2xWT3lHRkZSd05HRVBfMHV0RC12NG1SYzJGZDNYTFpnaUVNWTNxX3ZDTU5aVUxvaWdTc0Z3?oc=5",
+      "source": "이투데이",
+      "published": "2026-10-19T14:30:00+09:00",
+      "category": "CKD·물류",
+      "description": "현대차그룹, 로템으로 방산 일원화…위아는 미래 모빌리티 집중 [종합2보] 이투데이"
+    },
+    {
+      "id": "79343cc7964cc1",
+      "title": "[주말뉴스 FULL] \"HBM4E부터 zHBM·HBF까지\"…삼성·SK, 'AI 메모리' 신기술 공개 外 9건 - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kZTJrVmVHX2x6b1o1Zk5ka29LN2RJWWxQdmt4c3ZUMVZQQ0VoVkNzd2Q4b0ZwOVZhUHZQTEpRVUlNTWFKVHJBaTlYS1VCTWcwWnNCRG9xM0wwTURlWUloN2NrSFlITmJE?oc=5",
+      "source": "팍스경제TV",
+      "published": "2026-10-19T13:38:39+09:00",
+      "category": "자동차",
+      "description": "[주말뉴스 FULL] \"HBM4E부터 zHBM·HBF까지\"…삼성·SK, 'AI 메모리' 신기술 공개 外 9건 팍스경제TV"
+    },
+    {
+      "id": "1ec8396065b9a8",
+      "title": "현대차그룹, 로템으로 무기사업 일원화…위아는 모빌리티 집중(종합) - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiQzhOSHRZUW5VUHB1WDZuVHI0am5kVUNyZDgwUlYxOVl6UHpRTG9WMUwtMFdnU0RjbTd1WnJzOVdZa3lyNGhYU05vY3dFM3U2N2c?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-10-19T11:54:24+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, 로템으로 무기사업 일원화…위아는 모빌리티 집중(종합) 매일경제 마켓"
+    },
+    {
+      "id": "a8a08ad8f8e11f",
+      "title": "지난달 자동차 시장, 수출·내수 '주춤'...친환경차는 성과 지속 - 생생비즈플러스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCUGFGRHpCOWNSNXlDRUZoOUFiRzlERWVnWnFkLUNfa3hweGxDeGc1d3Fqb3BPUF84UFcxcTFnYWQxWUhPZ1BXbktrdm9UVThmV3VjVURVT1dycFMzb2dYR0o0cVBIR1BSRDRIQg?oc=5",
+      "source": "생생비즈플러스",
+      "published": "2026-10-19T11:21:57+09:00",
+      "category": "자동차",
+      "description": "지난달 자동차 시장, 수출·내수 '주춤'...친환경차는 성과 지속 생생비즈플러스"
+    },
+    {
+      "id": "837d02ed7a2fcd",
+      "title": "이형일 경제부총리 “성장률 전망은 올라가고, 환율은 내려와” - 스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKdmE5OE5ZSlVTNU1qaW1XNFNTMl83Uk1rT0lWNGlMWHp4Ym5SOTRQQWVvUGI5bGx1LWk3RTJjSVRKdUs0VHN5MVpKQmE4Q056UkRCY3NBcFJZZmEyREdhSFNXVDZoaG9HQ2h3dzhZaDlORjg?oc=5",
+      "source": "스트레이트뉴스",
+      "published": "2026-10-19T11:14:36+09:00",
+      "category": "경제·금융",
+      "description": "이형일 경제부총리 “성장률 전망은 올라가고, 환율은 내려와” 스트레이트뉴스"
+    },
+    {
+      "id": "9d8eca7595de3e",
+      "title": "현대차 기아, 직원 아이디어로 미래 모빌리티 키운다 - 포쓰저널",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GQnJuMHhQa09vQnp3QllFXzgwTHM4ZS1Bd3c0RGI5MWR5Q2IwdkdMWEx6SFMxNERHRGlWejFFcm9mNWZyZFFnbEY2NFlkcnRacXRDb3hpQVRRUW1pa3pJd2Zad2c?oc=5",
+      "source": "포쓰저널",
+      "published": "2026-10-19T10:38:23+09:00",
+      "category": "자동차",
+      "description": "현대차 기아, 직원 아이디어로 미래 모빌리티 키운다 포쓰저널"
+    },
+    {
+      "id": "246aa374e13af9",
+      "title": "이형일 “올해 3.4~3.6% 성장 가능…내년부터 경제전망 연 3회 검토” - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vQzFjengzZGdKdm9QY2lpR1pGTTdyVXppX1p4dFd4OEhub0dHNVVqTzhqZG94d3pYNlBnYWxHUTJpWjd0SVpqLWxKeFUzNEtMb1E?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-10-19T10:09:50+09:00",
+      "category": "경제·금융",
+      "description": "이형일 “올해 3.4~3.6% 성장 가능…내년부터 경제전망 연 3회 검토” 매일경제 마켓"
+    },
+    {
+      "id": "e41de6adb78a7d",
+      "title": "현대차, ‘모빌리티 플레이그라운드’ 성료…750명 참여 - FETV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Uc2xhQm5HaF9XdElBRjB4eXllZE82WVptU2hvcDVxcDJIb3BvWGlZSjhlNlMzOU5VTnE5eFlzTXNrTFJ1cVVWdXNUUDh6UGVHZFZKd0oxX2JBd3BEOEJTSjVCMEI1QmZj?oc=5",
+      "source": "FETV",
+      "published": "2026-10-19T10:07:10+09:00",
+      "category": "자동차",
+      "description": "현대차, ‘모빌리티 플레이그라운드’ 성료…750명 참여 FETV"
+    },
+    {
+      "id": "d7e3b571d13b47",
+      "title": "중국차 급성장에…현대차·기아, 유럽서 '작은 차' 승부수 - 한국아이닷컴",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DTDRlTmNTZHJscVVrUzlEMVIyRTRNM0N6bUR0QTVuenpJUGhlZHZuX0d5OU1BOS1SZW05ZzktN0xlcnQtUmt5cUkyMjFEN0NsbGlLV1dtbF9SOEpMdERRa29ENXNWaWNDbDdRNmFDd9IBb0FVX3lxTE9DTDRlTmNTZHJscVVrUzlEMVIyRTRNM0N6bUR0QTVuenpJUGhlZHZuX0d5OU1BOS1SZW05ZzktN0xlcnQtUmt5cUkyMjFEN0NsbGlLV1dtbF9SOEpMdERRa29ENXNWaWNDbDdRNmFDdw?oc=5",
+      "source": "한국아이닷컴",
+      "published": "2026-10-19T10:05:10+09:00",
+      "category": "자동차",
+      "description": "중국차 급성장에…현대차·기아, 유럽서 '작은 차' 승부수 한국아이닷컴"
+    },
+    {
+      "id": "eb042cbd3697a0",
+      "title": "코스피 급락에도 원화 ‘버틴다’...수출 호조에 달러당 1330원대 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zSGc4alVvYjFNSThYd1pIal8wQVlWbnFucUV3MTRPaUxWZlFISlphcDFQSUhaVXVzUVhUZEFONWpPMzVjdFNLV1Q2M18yY0U1VkFxMg?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-19T09:40:13+09:00",
+      "category": "경제·금융",
+      "description": "코스피 급락에도 원화 ‘버틴다’...수출 호조에 달러당 1330원대 매일경제"
+    },
+    {
+      "id": "43a882112d8a1c",
+      "title": "인도에 20조원 투자 결정한 현대차 '승부수' - 한국아이닷컴",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mNEZjWXhHU3IxT3N1eExFRkpsdURnc0cwd0pubTRhZ1BGUnFocEF6QUR6enk4clUzT3YtZGhpQ3pDV0g1OUptSTNMSm1ZcmV6Nno0b2l5UlZQTm45c1Qwd2U4c3NRX2VGdXBmV1NMb9IBb0FVX3lxTE5mNEZjWXhHU3IxT3N1eExFRkpsdURnc0cwd0pubTRhZ1BGUnFocEF6QUR6enk4clUzT3YtZGhpQ3pDV0g1OUptSTNMSm1ZcmV6Nno0b2l5UlZQTm45c1Qwd2U4c3NRX2VGdXBmV1NMbw?oc=5",
+      "source": "한국아이닷컴",
+      "published": "2026-10-19T09:06:51+09:00",
+      "category": "자동차",
+      "description": "인도에 20조원 투자 결정한 현대차 '승부수' 한국아이닷컴"
+    },
+    {
+      "id": "414aad1675b208",
+      "title": "출발증시 1부 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWZhN2JIZGgyZUF3aTJPUjBsdmVTZHpxU29JbUxaekphLWhFa3c1Yk80Y3FMYUVWSjZvMERRQmxOR25sRHZwSTdDczJxRmxjWVExSlRRNVBhd1NmYkI2N0dLVFJHTk11OE1RRGpGUU80NnJ4QTNxcGJvSmRwa3RoWFp0aUZ2SWY4Y09iZURzbjJBNm1QaF9XcWVHbnJleWJpVm9r?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-10-19T08:36:24+09:00",
+      "category": "경제·금융",
+      "description": "출발증시 1부 한국경제TV"
+    },
+    {
+      "id": "5ac3c4aef5f2e1",
+      "title": "[2026 차세대 리더-정치] 김태원 청와대 청년미래비서관 - 시사저널",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2dGtjamF0SkEtMnpzYnQwbHhNUTg0N1hiSmwxNWlkbVBkVzJXZlNUMXNfNXJUOWhsNFZ6T21oMXJldGJtdG56dzZISnFJODVkZVY2Zl9DWGxSa3VZekw1LTUwa1VYcGx1OURjQjVoZURWcEnSAXNBVV95cUxQdnRrY2phdEpBLTJ6c2J0MGx4TVE4NDdYYkpsMTVpZG1QZFcyV2ZTVDFzXzVyVDlobDRWek9taDFyZXRibXRuenc2SEpxSTg1ZGVWNmZfQ1hsUmt1WXpMNS01MGtVWHBsdTlEY0I1aGVEVnBJ?oc=5",
+      "source": "시사저널",
+      "published": "2026-10-19T08:26:39+09:00",
+      "category": "정치·정책",
+      "description": "[2026 차세대 리더-정치] 김태원 청와대 청년미래비서관 시사저널"
+    },
+    {
+      "id": "81811fbc2593d1",
+      "title": "'실용' 내세운 李정부…경제 로드맵·컨트롤타워 부재 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHenBPNHRsTlh4MEhCSGlrVjJxb3lLTG9PdThaRnpuQkV5MU94RmFfRDdHWXc5NWJ2bU1nMjlZTUI3eHZSV2NHbUc1X1Y5dWRIVlpzdFowQmpBelVpTUpVWjdqR3FWUXROWHdXSUItY3DSAXBBVV95cUxQR3pwTzR0bE5YeDBIQkhpa1YycW95S0xvT3U4WkZ6bkJFeTFPeEZhX0Q3R1l3OTVidm1NZzI5WU1CN3h2UldjR21HNV9WOXVkSFZac3RaMEJqQXpVaU1KVVo3akdxVlF0Tlh3V0lCLWNw?oc=5",
+      "source": "머니투데이",
+      "published": "2026-10-19T06:20:00+09:00",
+      "category": "정치·정책",
+      "description": "'실용' 내세운 李정부…경제 로드맵·컨트롤타워 부재 - 머니투데이 머니투데이"
+    },
+    {
+      "id": "f753d1a5a31c44",
+      "title": "정치에 가려진 민생...동력잃은 경제정책 입법 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qUnhmUFJKcE9ESENmRGJOQTZJdFBKQWlVWE9lM2lVMUFSUnNzTnNLbWdzNS1qYjIweUFNRXNlUVNGNXNGZ01LVDJOdTlJNG5BY1hRM0FBTlYxTDdxNWNOX2E2bkZiUGtUeVNJ0gFwQVVfeXFMT0M4bk1WbGFxUDlyZFQwaVNQUDlmV0J5Mmpic2U5bVZrRUZfTkE0SzhVVDBob1FKaWY4Ym54RGhxRTM2X1hqY3VjUDFpdGhHVnVLWkdSNGdPSUpnZXAxTlo1TkQ0MmRseGFGZUtyUV9LTw?oc=5",
+      "source": "머니투데이",
+      "published": "2026-10-19T06:00:00+09:00",
+      "category": "정치·정책",
+      "description": "정치에 가려진 민생...동력잃은 경제정책 입법 - 머니투데이 머니투데이"
+    },
+    {
+      "id": "dc181412c22259",
+      "title": "전기차·PHEV·가솔린 中 '변검술'…韓 '원가혁신' 없인 당한다 - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXJGeUdlU3g3cFowdDF3SEdXS2FGYmkweUVQWVdMc1Zfb1pKU1J0NUd2V2xXa1JkSV9GUUlwLW1SS1E2XzBLY1k3TktxYmVWSnFIeWIwcm5vWmpQcWE4cm5aQ1c1enRLc2d6OU1SOWlBS2VGRjliZ1hzS3BtaVlFTA?oc=5",
+      "source": "이데일리",
+      "published": "2026-10-19T05:00:05+09:00",
+      "category": "자동차",
+      "description": "전기차·PHEV·가솔린 中 '변검술'…韓 '원가혁신' 없인 당한다 이데일리"
+    },
+    {
+      "id": "2e8080bc9ec0f4",
+      "title": "움직이는 배경과 릴 영역을 나눠 보는 경마 분석 앱 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZFVtZDRYdG0wWVVxdFQ4MHVLZ1NFc3I3WnNULTVFZ2o3VVlFYm1OMUhIREE0cHp5R29QVV95WERkUUx4bGItZEVhblp1emdCZUJweXdobWJlUUZjaGVJamYwVzZVV1QzVWRnQ0N5SjFEcU8tVlhYRm5QVW9YZjBrSkNwS3dPbXFQN2pTRlJpZU5fYkRBYld2LXR4ODF3dw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-19T04:13:47+09:00",
+      "category": "경제·금융",
+      "description": "움직이는 배경과 릴 영역을 나눠 보는 경마 분석 앱 Calgary Roughnecks"
+    },
+    {
+      "id": "14f16fcd4f1d59",
+      "title": "처음 보는 기능은 설명부터, 카지노 셔틀버스 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUtxQnlvWjI0RDNCUDVobE0yQWtOYndvNW5YU0Z2VEpKc3N3OGVVUVhCa3BLc1VhV0Nfb1M0SmpZOWN0XzdNUGtzRWRXbEhBNXlwZHZqVG1LSGNGelBoeVVQLUx3eFFpTUlLZUl5YndPY1FLRDlDdlFGcFRPR2dWaDNlYjJodnVqV0FyeGd0dUNkenE3UnFSWERwVUJMTXA5NGZDOTJRdTFmRHA1cERr?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-19T02:43:19+09:00",
+      "category": "전동화",
+      "description": "처음 보는 기능은 설명부터, 카지노 셔틀버스 Calgary Roughnecks"
+    },
+    {
+      "id": "6c0ba175dda440",
+      "title": "\"이젠 선루프 등 편의 사양 중시… 힌두교 축제 때 판매 최대\" - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2hpVUE0c3BhUTdXRkJwVm9pRHBqaWdpRldXYldOWEdVYTlWYzhTNXU3RTdnY1c0YmVvNjUxX2c2Y1lJSG5wVDNBU21mblBkWmw5RWVMbFlpSjhPVmp0Uk9POUwwRFdfVFczaEduOVpuSm8ta2xCeml5cUF1dkx4SE9DT2R5R1hkYVdvTERZSQ?oc=5",
+      "source": "조선일보",
+      "published": "2026-10-19T00:39:40+09:00",
+      "category": "자동차",
+      "description": "\"이젠 선루프 등 편의 사양 중시… 힌두교 축제 때 판매 최대\" 조선일보"
+    },
+    {
+      "id": "c5567249255b43",
+      "title": "기후보험 공급만으론 보장공백 못 메워… ‘위험관리 체계’ 바꿔야 - 한국보험신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1adFphdTBOOEYyT1poMVdLSDRrbVlyMTR3aXQ2ZXBXMnJBV1o1Y1BGZzBWNG84ZTNWVGxpRWk5UE43TzRlMlkxTTdtMjZMZTAzQm1zUFpzREZxdmF4WnRkRmlBdFMzMDVta2I00gFvQVVfeXFMT2E5LUU3RGh3bC1pd3o4X1Nmazh2dURGMnRnbk1rWDRNWkZGeG9XQUU5ZFVFRG9pdy1ZQjJqbUdjLWVPQ09abHJocVZxbmRFNFd6R1ZVdFFOR0dkazFVNlJId1A0TVV6R1ByV2RrQVo0?oc=5",
+      "source": "한국보험신문",
+      "published": "2026-10-19T00:00:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "기후보험 공급만으론 보장공백 못 메워… ‘위험관리 체계’ 바꿔야 한국보험신문"
+    },
+    {
+      "id": "fdcb96ce9dde6c",
+      "title": "낯선 아이콘을 눌러보기 전 읽는 m카지노 도메인 버튼 설명 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKVUFMMVctZ243QXVNZUFQSy1KSlpRQnU3ZlYyTXRHNEJNUTQ0amltanJ1VVhZZGNTdjFnMk9uNXBpMUxuclFrWEFOdE8yS0FtMGhfUV9RUHRNS0I3R1dIdzZ3aDlOX3lo?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-18T18:41:51+09:00",
+      "category": "경제·금융",
+      "description": "낯선 아이콘을 눌러보기 전 읽는 m카지노 도메인 버튼 설명 Calgary Roughnecks"
+    },
+    {
+      "id": "afae6c8368c2df",
+      "title": "다급한 트럼프, 이번엔 현대차 언급... \"조지아에 7500억 투자하기로 했다\" - 부산파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DT3hUS19YdkhZWnUybGljc3hScXJldGhpWFhJYTZKZmFON053cHp4WVotV0JaWTlaWFFBWmIwUE9SUll1eWMxZ2tmV1NRbzNSM2R5cFNDVEpXcEY2?oc=5",
+      "source": "부산파이낸셜뉴스",
+      "published": "2026-10-18T18:41:00+09:00",
+      "category": "자동차",
+      "description": "다급한 트럼프, 이번엔 현대차 언급... \"조지아에 7500억 투자하기로 했다\" 부산파이낸셜뉴스"
     }
   ]
 }
