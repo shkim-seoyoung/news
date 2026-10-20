@@ -14,8 +14,8 @@ KST = ZoneInfo('Asia/Seoul')
 NOW = datetime.datetime.now(KST)
 TODAY = NOW.strftime('%Y-%m-%d')
 QUERIES = {
-    '자동차': ['현대차 기아 모비스 해외 생산', 'global automotive production Hyundai Kia'],
-    'CKD·물류': ['CKD 자동차 부품 수출 물류', 'shipping freight port supply chain'],
+    '자동차': ['현대차 기아 모비스 해외 생산', 'global automotive production Hyundai Kia', '현대자동차 해외공장 생산능력 증설', '현대차 인도 공장 생산 차종', 'Hyundai India plant production capacity'],
+    'CKD·물류': ['CKD 자동차 부품 수출 물류', 'shipping freight port supply chain', '현대차 기아 해외공장 부품 현지조달', '자동차 부품 선적 해상운임 선복'],
     '전동화': ['전기차 배터리 EREV HEV', 'electric vehicle battery industry'],
     '경제·금융': ['한국 경제 금리 환율 증시', 'world economy central bank inflation'],
     '정치·정책': ['한국 정치 정부 정책', 'Trump tariff White House executive order statement'],
@@ -49,7 +49,7 @@ def fetch():
             url = f'https://news.google.com/rss/search?q={quote(term + " when:2d")}&hl=ko&gl=KR&ceid=KR:ko'
             try:
                 feed = feedparser.parse(url, request_headers=HEADERS)
-                for e in feed.entries[:15]:
+                for e in feed.entries[:25]:
                     title = norm(e.get('title', ''))
                     link = e.get('link', '')
                     if not title or not link: continue
@@ -162,7 +162,7 @@ def classify(a):
         return None
     # Exclude clearly low-value coverage from BOTH sections.
     reject = PROMOTION + ('농구','프로농구','경기 프리뷰','연승','연패','카지노',
-        '스포츠','주가,','주가 상승','주가 하락','장중','목표주가','목표가',
+        '스포츠','주가,','주가 상승','주가 하락','장중','목표주가','목표가','부품주','관련주','매수 온기','매수세','주가 강세',
         '시사뒷담','지지율','여론조사','정치판','모빌리티 데이’ 개최')
     if has_any(title, reject):
         return None
@@ -201,6 +201,9 @@ def editorial_score(a):
     body = title + ' ' + a.get('description','').lower()
     score = 0
     if has_any(title, AUTO): score += 12
+    # Concrete overseas production plans take precedence over broad technology trends.
+    if has_any(title, ('해외공장','신공장','생산능력','생산 체계','생산체계','증설','양산','푸네','pune','첸나이','chennai')) and has_any(body, AUTO + ('인도','india')): score += 24
+    if has_any(title, ('로봇','로보틱스','아틀라스','robotics','atlas')) and not has_any(title, ('자동차 생산','부품 생산','공장 가동')): score -= 12
     if has_any(title, OPERATIONS): score += 12
     if has_any(title, LOGISTICS): score += 15
     if has_any(body, POLICY): score += 18
@@ -212,6 +215,11 @@ def editorial_score(a):
 def topic_key(a):
     """Conservatively collapse repeated reports of the same clear event."""
     title = a.get('title','').lower()
+    if (('현대차' in title or '현대자동차' in title or '기아' in title or 'hyundai' in title or 'kia' in title)
+            and ('자율주행' in title or 'autonomous' in title)
+            and ('트럭' in title or '대형트럭' in title or 'truck' in title)
+            and ('실증' in title or '시범' in title or 'test' in title or 'pilot' in title)):
+        return 'hyundai-autonomous-truck-pilot'
     if ('모비스' in title or 'mobis' in title) and ('로봇' in title or '로보틱스' in title or '기술 동맹' in title or '오픈이노베이션' in title) and ('중국' in title or '상하이' in title or '中' in a.get('title','')):
         return 'mobis-china-robotics'
     if ('코스피' in title or '국내 증시' in title) and ('폭락' in title or '급락' in title):
@@ -253,7 +261,15 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
             by_id.setdefault(a['id'], dict(a))
 
     groups = {}
+    # Filter before ranking so older archived items cannot consume daily slots.
+    cutoff = NOW - datetime.timedelta(hours=24)
     for a in by_id.values():
+        try:
+            published_dt = datetime.datetime.fromisoformat(a['published'])
+            if not (cutoff <= published_dt <= NOW):
+                continue
+        except (ValueError, KeyError, TypeError):
+            continue
         section = classify(a)
         if section is None:
             continue
@@ -533,9 +549,11 @@ def main():
             all_saved.setdefault(a['id'], a)
     # Archive first; re-running cannot erase a previously saved AI summary.
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
-    chosen = choose_for_day(articles, list(all_saved.values()))
-    chosen = [a for a in chosen if not irrelevant_work_article(a)]
+    # Exclude exact prior publications before ranking, not after filling slots.
     history = recent_history(14)
+    eligible = [a for a in all_saved.values() if not previously_published(a, history)]
+    chosen = choose_for_day([], eligible)
+    chosen = [a for a in chosen if not irrelevant_work_article(a)]
     # Require a genuinely recent publication, not merely a newly collected RSS hit.
     cutoff = NOW - datetime.timedelta(hours=24)
     def in_window(a):
