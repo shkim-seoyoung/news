@@ -218,7 +218,7 @@ def topic_key(a):
     if (('현대차' in title or '현대자동차' in title or '기아' in title or 'hyundai' in title or 'kia' in title)
             and ('자율주행' in title or 'autonomous' in title)
             and ('트럭' in title or '대형트럭' in title or 'truck' in title)
-            and ('실증' in title or '시범' in title or 'test' in title or 'pilot' in title)):
+            and any(w in title for w in ('실증', '시범', '물류 운송', '물류 노선', '본격 돌입', 'test', 'pilot'))):
         return 'hyundai-autonomous-truck-pilot'
     if ('모비스' in title or 'mobis' in title) and ('로봇' in title or '로보틱스' in title or '기술 동맹' in title or '오픈이노베이션' in title) and ('중국' in title or '상하이' in title or '中' in a.get('title','')):
         return 'mobis-china-robotics'
@@ -230,6 +230,53 @@ def topic_key(a):
         return 'hyundai-india-investment'
     # Same headline distributed with different publisher suffixes.
     return re.sub(r'[^\w가-힣]','',re.sub(r'\s*[-|]\s*[^-|]+$','',title))[:75]
+
+def same_day_issue(a, b):
+    """Conservative same-event matching across differently worded headlines.
+
+    Require a common concrete subject and action; never merge merely because
+    the companies, industry, or broad topic are the same.
+    """
+    from difflib import SequenceMatcher
+    ta = re.sub(r'\s*[-|]\s*[^-|]+$', '', a.get('title', '')).lower()
+    tb = re.sub(r'\s*[-|]\s*[^-|]+$', '', b.get('title', '')).lower()
+    if topic_key(a) == topic_key(b):
+        return True
+    def autonomous_truck(t):
+        return (any(w in t for w in ('현대차', '현대자동차', '기아', 'hyundai', 'kia'))
+                and '자율주행' in t and '트럭' in t
+                and any(w in t for w in ('실증', '실제 물류', '물류 노선', '물류 운송', '시범 운행', '본격 돌입')))
+    if autonomous_truck(ta) and autonomous_truck(tb):
+        return True
+    # A very high headline overlap can identify syndicated rewrites, but
+    # only with shared meaningful words and no conflicting numerical details.
+    tokens = lambda t: set(re.findall(r'[가-힣a-z0-9]{2,}', t)) - {
+        '현대차', '기아', '현대자동차', '자동차', '관련', '사업', '시장', '산업', '올해', '내년'}
+    aa, bb = tokens(ta), tokens(tb)
+    if len(aa & bb) < 3 or min(len(aa), len(bb)) < 4:
+        return False
+    overlap = len(aa & bb) / max(1, min(len(aa), len(bb)))
+    return overlap >= .85 and SequenceMatcher(None, ta, tb).ratio() >= .78
+
+
+def merge_same_day_groups(groups):
+    """Merge only confidently identical issues within the same section."""
+    merged = []
+    for (section, _), members in groups.items():
+        matched = False
+        for entry in merged:
+            if entry['section'] != section:
+                continue
+            # Require every incoming article to match a representative, to
+            # avoid chaining several different stories into one broad topic.
+            if same_day_issue(members[0], entry['members'][0]):
+                entry['members'].extend(members)
+                matched = True
+                break
+        if not matched:
+            merged.append({'section': section, 'members': list(members)})
+    return [((entry['section'], str(i)), entry['members']) for i, entry in enumerate(merged)]
+
 
 def representative_score(a):
     """Prefer a substantive, already summarized report over the first RSS hit."""
@@ -276,7 +323,7 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
         groups.setdefault((section, topic_key(a)), []).append(a)
 
     ranked_groups = []
-    for (section, _), members in groups.items():
+    for (section, _), members in merge_same_day_groups(groups):
         # Multiple Google News URLs can point to the exact same published
         # story. Keep one per normalized publisher+headline before grouping.
         unique_members = {}
