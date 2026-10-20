@@ -1,9 +1,65 @@
 {
   "date": "2026-10-20",
-  "updated_at": "2026-10-20T07:17:24.653694+09:00",
-  "article_count": 5,
+  "updated_at": "2026-10-20T12:18:30.859153+09:00",
+  "article_count": 7,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "5c40113731c263",
+      "title": "현대차·기아, 레벨 4 자율주행 대형트럭 물류 실증 나선다 - 상용차매거진",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45d2phWl9jN0hYcmlsRXhlYnBucFNlVXBleHhFNHQ1WXZGUGtjTzgwZ2FOd20tREhUY284OHBWTHpOS2RST01jdFNNSm15WGdya0xVS3JEV0lleGdHVndBcmRidGZfdHc?oc=5",
+      "source": "상용차매거진",
+      "published": "2026-10-20T09:14:42+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 레벨 4 자율주행 대형트럭 물류 실증 나선다 상용차매거진",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차와 기아가 레벨 4 자율주행 기술이 적용된 대형 트럭을 활용해 실제 물류 노선에서 실증 사업을 진행한다. 이번 실증은 자율주행 기술의 상용화 가능성을 검증하고 물류 효율성을 높이기 위한 목적으로 추진된다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차·기아는 자율주행 기술 고도화를 위해 승용차뿐만 아니라 상용차 분야에서도 실증 연구를 지속해왔다.",
+        "key_points": [
+          "현대차·기아, 레벨 4 자율주행 대형 트럭 실증 착수",
+          "실제 물류 노선에 투입하여 기술 신뢰성 및 운영 효율성 검증"
+        ],
+        "what_to_watch": "실증 사업을 통해 확보된 데이터가 향후 자율주행 트럭의 양산 및 상용화 시점에 미칠 영향",
+        "fact_check": "현대차·기아의 레벨 4 자율주행 트럭 실증 사업 추진 사실 확인"
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "36a50e7fe46c490d",
+      "image_url": ""
+    },
+    {
+      "id": "0d14db81fae6ca",
+      "title": "현대차·기아, 레벨4 자율주행 트럭으로 실제 물류 노선 실증 - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcjhXRV9tQUc2SVUydFhzZ25pakVHaU1teVE0ajh6cTRXczlLbmdxSUtsRE5GVzBqM05zYTZMMWZ6eXpaT0RrazZ0SUE3SmlfLWpPbk1OMTRUSEdYV3pnVzVmZmhtaVU?oc=5",
+      "source": "팍스경제TV",
+      "published": "2026-10-20T09:03:01+09:00",
+      "category": "자동차",
+      "description": "현대차·기아, 레벨4 자율주행 트럭으로 실제 물류 노선 실증 팍스경제TV",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차와 기아가 레벨 4 자율주행 대형 트럭을 이용한 실제 물류 노선 실증 사업을 진행한다. 이는 자율주행 기술의 실도로 운행 능력을 검증하기 위한 단계이다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차·기아의 자율주행 상용차 기술 개발 및 실증 프로젝트의 일환임.",
+        "key_points": [
+          "현대차·기아, 레벨 4 자율주행 트럭 실도로 실증",
+          "실제 물류 노선 활용을 통한 기술 검증"
+        ],
+        "what_to_watch": "실증 결과에 따른 자율주행 상용차 기술의 고도화 및 향후 사업 확장 계획",
+        "fact_check": "기존 보도된 현대차·기아의 자율주행 트럭 실증 사업과 동일한 내용임"
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "44f9cb400adc2bef",
+      "image_url": ""
+    },
     {
       "id": "cc2c9507ca8d25",
       "title": "현대차, 아틀라스 양산 준비 가속…RX팀 신설로 로봇사업 강화 - 글로벌이코노믹",
