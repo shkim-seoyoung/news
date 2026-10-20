@@ -1071,6 +1071,12 @@
       "section": "산업·업무",
       "related_articles": [
         {
+          "title": "현대차·기아, 레벨4 자율주행 트럭 물류 운송 본격 돌입 - 뉴스N연합",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ZHJVZm1FOWpodVlZd0pEZnhFbVlPRkRRbDlScFF6Q1dSTUp4LTEwSVZraFh3c210SHUxUTBWUWRCWExaamJtS0RR?oc=5",
+          "source": "뉴스N연합",
+          "published": "2026-10-20T13:14:17+09:00"
+        },
+        {
           "title": "현대차·기아, 레벨4 자율주행 트럭으로 실제 물류 노선 실증 - 팍스경제TV",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NcjhXRV9tQUc2SVUydFhzZ25pakVHaU1teVE0ajh6cTRXczlLbmdxSUtsRE5GVzBqM05zYTZMMWZ6eXpaT0RrazZ0SUE3SmlfLWpPbk1OMTRUSEdYV3pnVzVmZmhtaVU?oc=5",
           "source": "팍스경제TV",
@@ -1083,23 +1089,23 @@
           "published": "2026-10-20T14:51:00+09:00"
         }
       ],
-      "summary": "현대차·기아가 레벨 4 자율주행 기술을 적용한 대형 트럭을 활용해 실제 물류 노선 실증 사업에 착수한다. 이번 실증은 약 400km에 달하는 구간에서 진행되며, 자율주행 기술의 상용화 가능성을 검증하는 데 목적이 있다.",
+      "summary": "현대차·기아가 레벨 4 자율주행 대형트럭을 활용한 실제 물류 노선 실증 사업에 본격적으로 돌입했습니다. 이번 실증은 약 400km에 달하는 물류 노선에서 진행되며 자율주행 기술의 상용화 가능성을 검증합니다.",
       "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
+      "importance": "높음",
       "detail": {
-        "background": "현대차·기아는 자율주행 기술 고도화를 위해 승용차뿐만 아니라 상용차 부문에서도 실도로 주행 테스트를 확대하고 있음.",
+        "background": "현대차·기아의 자율주행 기술 고도화 및 상용차 부문 물류 효율화 전략",
         "key_points": [
-          "레벨 4 자율주행 대형 트럭 실증 사업 추진",
-          "약 400km 물류 노선에서 실제 주행 테스트 진행",
+          "레벨 4 자율주행 대형트럭 실증 사업 본격화",
+          "약 400km 실제 물류 노선 운행",
           "자율주행 기술의 물류 현장 적용성 검증"
         ],
-        "what_to_watch": "실증 사업을 통해 확보된 데이터가 향후 자율주행 트럭의 양산 및 상용화 시점에 미칠 영향",
-        "fact_check": "현대차·기아의 레벨 4 자율주행 트럭 실증 사업은 공식 보도된 내용임."
+        "what_to_watch": "실증 사업을 통한 자율주행 트럭의 안전성 데이터 확보 및 향후 상용화 시점",
+        "fact_check": "현대차·기아의 레벨 4 자율주행 트럭 실증 노선은 400km 규모로 확인됨"
       },
-      "new_information": "",
+      "new_information": "레벨 4 자율주행 대형트럭을 이용한 400km 구간 실제 물류 노선 실증 착수",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "54639862ac0ffc79",
+      "integration_signature": "b11c177a30ef72af",
       "image_url": "",
       "original_summary": "현대차와 기아가 레벨 4 자율주행 기술이 적용된 대형 트럭을 활용해 실제 물류 노선에서 실증 사업을 진행한다. 이번 실증은 자율주행 기술의 상용화 가능성을 검증하고 물류 효율성을 높이기 위한 목적으로 추진된다.",
       "original_detail": {
@@ -2304,6 +2310,141 @@
       "published": "2026-10-18T18:41:00+09:00",
       "category": "자동차",
       "description": "다급한 트럼프, 이번엔 현대차 언급... \"조지아에 7500억 투자하기로 했다\" 부산파이낸셜뉴스"
+    },
+    {
+      "id": "5a8a05d8f80bee",
+      "title": "현대차·기아, 레벨4 자율주행 대형트럭 실증…실제 물류 노선서 검증 - 파이낸셜신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nc2k1WkRPVlB0X2RkX3lXamp1by0xcmdET2xrQ0M5VENVNC01a1E5QUlKMGxRblU0UUo2a2gwdkcybkV6X0Z0WXVXeVVSSzFsb3Bma3JGNGFKbnBwWlNjMlRyeEFjWWlSdTNV?oc=5",
+      "source": "파이낸셜신문",
+      "published": "2026-10-20T18:06:59+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 레벨4 자율주행 대형트럭 실증…실제 물류 노선서 검증 파이낸셜신문"
+    },
+    {
+      "id": "963b724b945efe",
+      "title": "(중톱) “밤샘 운전 사라진다”… 현대차그룹, 레벨4 트럭 질주 시동 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwdnhlUEpoTG5XN3pURGF5VjBXdExEQ1JjSEIzRmVRMEUwSm5uNUNWdTJaTkZocWdBQkNvXzdSQWxiVXIxdUE?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-20T16:37:00+09:00",
+      "category": "관심 키워드",
+      "description": "(중톱) “밤샘 운전 사라진다”… 현대차그룹, 레벨4 트럭 질주 시동 매일경제"
+    },
+    {
+      "id": "55f058c71e3dd6",
+      "title": "[마감분석] 현대모비스, 4%대 하락하며 34만8000원에 마감 : 기업주식정보 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3by1hWUtFaGRjdExuaDdzbjU0enVhMm1qOHdGeHRpb19qTzdFV3pQcHF1clp0cE5CWmdtT3pWSm5EMEU1VUdFMnFHZw?oc=5",
+      "source": "재경일보",
+      "published": "2026-10-20T15:48:57+09:00",
+      "category": "관심 키워드",
+      "description": "[마감분석] 현대모비스, 4%대 하락하며 34만8000원에 마감 : 기업주식정보 재경일보"
+    },
+    {
+      "id": "35dcf6d389a181",
+      "title": "두 번 올린 기준금리, 이번엔 멈추나…채권 전문가 93% '동결' 전망 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0waVRsYkxkZ3hOeTNlN2RNT0tndDJucS1wOXhhS0tzTXl3Ui1DY2hyaVl5YTllU3Y1d1lqcGdUVl9IeGpDeHo1VWRMbmx0ZGdkRFFlNNIBVEFVX3lxTE0waVRsYkxkZ3hOeTNlN2RNT0tndDJucS1wOXhhS0tzTXl3Ui1DY2hyaVl5YTllU3Y1d1lqcGdUVl9IeGpDeHo1VWRMbmx0ZGdkRFFlNA?oc=5",
+      "source": "더팩트",
+      "published": "2026-10-20T15:24:00+09:00",
+      "category": "경제·금융",
+      "description": "두 번 올린 기준금리, 이번엔 멈추나…채권 전문가 93% '동결' 전망 더팩트"
+    },
+    {
+      "id": "89270129448024",
+      "title": "현대모비스 의왕연구소 배터리 연구동서 화재…1시간 30분 만에 진화 - 쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WWXR6VzlGdURJN2Eyb2RBdG4tRnc2ak1QTk80Uk1abU9Kd1ZKdE9UWFhBbHpXVlFRVWlnSFFYNm4wOGhuSGVhdkZQV0ZZNEZXd19kaHN1MlBIeW1rczI4NE12aw?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-10-20T14:45:29+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 의왕연구소 배터리 연구동서 화재…1시간 30분 만에 진화 쿠키뉴스"
+    },
+    {
+      "id": "7e594b96dd8e46",
+      "title": "화면 크기에 따라 메뉴가 이동하는지 보는 국내암호화폐거래소리스트 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMjVleE9Cc2luczVZb0c0cFkyNjM5SGhrZ0t2RHNHcUtGS0tWa2ZKS1ZIdHY0YnZJVC1aTGpjOG0yVF9fUi0tRHlaN0E3bkxEOHd0MHNuTi1SNVVBdGtZRC1ZYjgwbnAzMXlkZUJYWEF5WEtxY2tqMDBLbWV3OS1xZUxhVVVZcHYtODV0dFllVDFYRlJyWUZkWi1FMzFvS0cxaXJwcXByOER5UnUzcFJ1VkdDWmk1NklBVGNiMVZzTmtCczhjcDB2dlFLMmRURzZPdzAtaXJmZmZtV2hCS2ZUSw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T12:53:55+09:00",
+      "category": "자동차",
+      "description": "화면 크기에 따라 메뉴가 이동하는지 보는 국내암호화폐거래소리스트 Calgary Roughnecks"
+    },
+    {
+      "id": "c2b94156873fc7",
+      "title": "배당표에 없는 심벌이 보이면? 안드로이드 오디오 포커스 설정 기능 확인 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOeG9rSzlLSHd6Q04xOUQ0T3RIa0VDM1hLVm10aWZZV3FFVDV0ZmZWdGpldmlVRVlRQTF0b1NkeER0SXc5SW8wSTd1aENxVFktaW1nYnJocTNuaF9sOTNRS0dPQWFmLTVTaVVzR2lVNUhpZFB2d3ZzMjFBS1JTczlZLXdoNlVJRmxqdlFkdjRUZTdDZlhrLXltNjI2Y2gwdHRpOTBOeHo2anladXgtUTRUbjJfVVdYS05Vbm55Mk1Xa2ZXRHYtZi1ZaEFwOEVMalhKcUZ1UEg3LWVDYnM0VmlQSXl0N0VlQ2RDNU5MTTVxSndwaU80R3lSYkFyOA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T12:42:52+09:00",
+      "category": "관심 키워드",
+      "description": "배당표에 없는 심벌이 보이면? 안드로이드 오디오 포커스 설정 기능 확인 Calgary Roughnecks"
+    },
+    {
+      "id": "422507adbaf1af",
+      "title": "10월 금통위 D-2…채권전문가 93% “기준금리 동결 전망” - 글로벌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ENGZPUDdPNGdOcEpyeEtkc19fSkRaRVZ0VkV3dmlGd1o1QjljM3p2SXEzVGJHM2d1c2pWOXBHLVJBZFRJM1R5NEFJTDZkTXB0a2VfeUpEXzlrR1NNUnZlbnN4anJpRlNGV1ZBOE9jakXSAXBBVV95cUxNRDRmT1A3TzRnTnBKcnhLZHNfX0pEWkVWdFZFd3ZpRndaNUI5YzN6dklxM1RiRzNndXNqVjlwRy1SQWRUSTNUeTRBSUw2ZE1wdGtlX3lKRF85a0dTTVJ2ZW5zeGpyaUZTRldWQThPY2pF?oc=5",
+      "source": "글로벌경제신문",
+      "published": "2026-10-20T11:32:36+09:00",
+      "category": "경제·금융",
+      "description": "10월 금통위 D-2…채권전문가 93% “기준금리 동결 전망” 글로벌경제신문"
+    },
+    {
+      "id": "f910ddff607540",
+      "title": "채권 전문가 93% \"10월 금통위, 기준금리 동결 전망\" - 프라임경제",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KdlRwOXFRVjVOd0lvSElMVTFFOFljSzZoTU5yd1plSGRDSlVwdHptVXBpcll3MnQyNk5JTGFwSXNyS2lGdGhiOHQta214QWRONUNCNWtyNk9JOHBKY3NzdE5pbk1pdi1RZjRpbWhpUnpHQQ?oc=5",
+      "source": "프라임경제",
+      "published": "2026-10-20T10:29:42+09:00",
+      "category": "경제·금융",
+      "description": "채권 전문가 93% \"10월 금통위, 기준금리 동결 전망\" 프라임경제"
+    },
+    {
+      "id": "c391b45134602a",
+      "title": "현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02R3N3OVI1blVsME9Id1FHZXRYNUliVFhzdE5IZTBOVXhiQ2lFdXJjakxQSzBueGVBNHU2VVpBV2c1ajZ4cUxlNmVyQ0F3aEtFQkJZYWhrbm10TDN3eU9Xb9IBYEFVX3lxTE02R3N3OVI1blVsME9Id1FHZXRYNUliVFhzdE5IZTBOVXhiQ2lFdXJjakxQSzBueGVBNHU2VVpBV2c1ajZ4cUxlNmVyQ0F3aEtFQkJZYWhrbm10TDN3eU9Xbw?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-20T09:12:35+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진 연합뉴스"
+    },
+    {
+      "id": "871be3d858ce90",
+      "title": "기본 규칙에서 보너스 규칙으로 넘어가는 토토 재판 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU2ptN3JRYlNSVFRsUVVwMGtuNlBxRW9INm1KQm9MeTBtRHVFS095TUpNaWhKbXg0N0JpdDZZRkxvQ2RYTVFWanpKYzlSYU54MHVuRWtnOTE1clh5RFBlM3cyLTNRWG0xTnpWYUJRb0hSZjBSRC1Tenc1OTl2czhkNnNkZFRHM1dWZHNhSUdmS1otV09keTU2ZzZTUHdtTHFnOHg1Y0FtWDlaLWR4?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T07:52:16+09:00",
+      "category": "자동차",
+      "description": "기본 규칙에서 보너스 규칙으로 넘어가는 토토 재판 Calgary Roughnecks"
+    },
+    {
+      "id": "b4e90de433248e",
+      "title": "규칙 확인에 필요한 버튼은 어디에? 토토 가상 계좌 반환 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQVWJVVXE1cTlXX2ZYcW5fUUFUbEl0VEZWT0M3UnZBamk5Z1QzR3F3U3JrRzd0cjFlb1NJaUMwZGhpZW9BRmpzWkdxcFpkbGt5MHVRLTR2cHloekczNU9jYmxfRGhEdVUwR3ZiaHN0aVo0WXFad1BGNEJDZ29rMXpTLTBwVUJxWjNEWGhNV1hNSElvTzNTaldKZERrRWJnRjlVTEdLVVYtQWRScllTS0JhazRCeUtjajY1b3dXZC1UUmV0RGYxN0d1UDR1czdiREE4N3NlR0taVlRkZWVKUEdWYXNadktDQkg2VXI2S19aYmpZYjNsdE1jRXNTQWNLcFFjRFE?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T07:28:02+09:00",
+      "category": "경제·금융",
+      "description": "규칙 확인에 필요한 버튼은 어디에? 토토 가상 계좌 반환 Calgary Roughnecks"
+    },
+    {
+      "id": "b383bc55dedd46",
+      "title": "\"물타기할 돈도 없어\" 폭락장에 비명 터졌다...국정지지율도 '부담' - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03djRzWFdab1VWQjR3QUV5QlhCb3N6T0ZMODlEd0tnZ2QtNm41cUJaalVnX1h2dlEzY3JWdGRkNjJjZFRmNFBWNzR2bEZDMTlmU3NRNGRnU2VBU0NLeGd6WGZZNVNkZE1YMEhnUDlMTnlVUdIBckFVX3lxTE03djRzWFdab1VWQjR3QUV5QlhCb3N6T0ZMODlEd0tnZ2QtNm41cUJaalVnX1h2dlEzY3JWdGRkNjJjZFRmNFBWNzR2bEZDMTlmU3NRNGRnU2VBU0NLeGd6WGZZNVNkZE1YMEhnUDlMTnlVUQ?oc=5",
+      "source": "머니투데이",
+      "published": "2026-10-20T06:30:00+09:00",
+      "category": "정치·정책",
+      "description": "\"물타기할 돈도 없어\" 폭락장에 비명 터졌다...국정지지율도 '부담' - 머니투데이 머니투데이"
+    },
+    {
+      "id": "200700612b4360",
+      "title": "[금통위폴] 전문가 전원 \"한은, 10월 금리 동결 예상… 11월 인상 유력\" - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2d0WkdzTGdFMzRyUi01Mk9QaGhfOHlKd3RjNDVNQ25NeXZkcHlqWWNuWE9hUDVaaU9JNWplRk1hNENLYVlmcnB3bHE0QnNLcGJITXQ2Vk9wSGoxSkVKcW0yUVcyM3U0QlFsaFlfNDNMNHRGaVVFaFhVSUJPcGJFNzdINUNmZw?oc=5",
+      "source": "Chosunbiz",
+      "published": "2026-10-20T06:04:03+09:00",
+      "category": "경제·금융",
+      "description": "[금통위폴] 전문가 전원 \"한은, 10월 금리 동결 예상… 11월 인상 유력\" Chosunbiz"
+    },
+    {
+      "id": "6ff8ed05fe628f",
+      "title": "[10월 4주차] 환율(FX) 전망 - KB Think",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nYVhRNVlPZ2pJcUs3M3JUaUdBNzZQTlRrcFVHdHA4d2oybXJIMjBVeWVfN1ViWUVJZDBNaUx4VDhLMTB5aU5hQkdNTEpTRW1wZ1RzeHRPR3lVeFZfZWxQMUtaNEphVFdmTUQyUA?oc=5",
+      "source": "KB Think",
+      "published": "2026-10-19T12:43:00+09:00",
+      "category": "경제·금융",
+      "description": "[10월 4주차] 환율(FX) 전망 KB Think"
     }
   ]
 }
