@@ -1,9 +1,38 @@
 {
   "date": "2026-10-21",
-  "updated_at": "2026-10-21T13:14:03.490026+09:00",
-  "article_count": 5,
+  "updated_at": "2026-10-21T13:25:48.139391+09:00",
+  "article_count": 6,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "739543a810b4d5",
+      "title": "현대모비스 6위 수성·현대트랜시스 27위 도약⋯ 中 폭주·유럽 침체 속 ‘K-부품’ 선방 - 브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaNG83SVo1SmE2SjAzMGlDd0NmZG5BeTQ4Q01aZm5tU2FiQ0Y2TzVYMEdQcGlPVFZweTRoN3Vic1BpQWVlYnhIZmR4dnpTd1I5Wm1nNDJPMjlyQQ?oc=5",
+      "source": "브릿지경제",
+      "published": "2026-10-21T12:20:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 6위 수성·현대트랜시스 27위 도약⋯ 中 폭주·유럽 침체 속 ‘K-부품’ 선방 브릿지경제",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 글로벌 자동차 부품 기업 순위 6위를 유지하며 안정적인 입지를 확보했습니다. 현대트랜시스는 27위로 순위가 상승하며 글로벌 시장에서 K-부품의 경쟁력을 입증했습니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "글로벌 자동차 시장의 변화 속에서 국내 주요 부품사들의 순위 변동 및 경쟁력 분석",
+        "key_points": [
+          "현대모비스 글로벌 부품사 순위 6위 수성",
+          "현대트랜시스 글로벌 순위 27위로 도약",
+          "중국 기업의 성장과 유럽 시장 침체 속에서도 국내 부품사 선방"
+        ],
+        "what_to_watch": "글로벌 자동차 부품 시장 내 국내 기업들의 점유율 추이 및 기술 경쟁력 강화 여부",
+        "fact_check": "해당 순위는 글로벌 자동차 부품사 매출액 기준 순위로 보임"
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a0a125635aa095d2",
+      "image_url": ""
+    },
     {
       "id": "e60f8dc1ba1664",
       "title": "현대모비스, 세계 부품사 순위 3년 연속 6위…中 CATL은 3위로 - 대한경제",
