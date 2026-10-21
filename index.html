@@ -111,7 +111,7 @@ function thumbnail(a){
 function articleLink(a){const link=el('a','','원문 기사 보기 ↗');try{const u=new URL(a.url);if(['https:','http:'].includes(u.protocol)){link.href=u.href;link.target='_blank';link.rel='noopener noreferrer'}}catch{}return link}
 function generalRow(a){
  const card=el('article','card general-row'),head=el('div','news-head'),copy=el('div','news-head-text'),meta=el('div','meta');
- meta.append(el('span',a.importance==='높음'?'tag high':'tag',a.importance||'보통'),el('span','',a.source||'출처 미상'));
+ meta.append(el('span',a.importance==='높음'?'tag high':'tag',a.importance||'보통'),el('span','tag',a.news_collection_route||'일반 뉴스 수집'),el('span','',a.source||'출처 미상'));
  if(a.published)meta.append(el('span','',String(a.published).slice(0,10)));
  copy.append(meta,el('h3','',a.title));const img=thumbnail(a);if(img)head.append(img);head.append(copy);card.append(head,scrapButton(a),articleLink(a));return card;
 }
@@ -159,14 +159,14 @@ function render(){
 }
 async function loadPopular(){const date=$('date').value;if(!date)return;try{popularData=await json('data/popular/'+encodeURIComponent(date)+'.json')}catch{popularData=null}if(selectedSection==='네이버 인기')renderPopular();else if(selectedSection==='')render()}
 function renderPopular(){
- const base=(historyResults||current)?.articles||[],collected=base.filter(a=>a.section!=='산업·업무'),popular=historyResults?[]:(popularData?.articles||[]);
+ const base=(historyResults||current)?.articles||[],collected=base.filter(a=>a.section!=='산업·업무'),popular=historyResults?(historyResults.popular_articles||[]):(popularData?.articles||[]);
  const seen=new Set(collected.map(a=>(a.url||'').split('?')[0].replace(/\/$/,'').toLowerCase()).filter(Boolean));
- const extras=popular.filter(a=>{const key=(a.url||'').split('?')[0].replace(/\/$/,'').toLowerCase();if(key&&seen.has(key))return false;if(key)seen.add(key);return true});
- const all=[...collected,...extras],q=$('search').value.trim().toLowerCase(),cat=$('category').value;
+ const extras=popular.filter(a=>{const key=(a.url||'').split('?')[0].replace(/\/$/,'').toLowerCase();if(key&&seen.has(key))return false;if(key)seen.add(key);return true}).map(a=>({...a,news_collection_route:'네이버 인기 뉴스'}));
+ const all=[...collected.map(a=>({...a,news_collection_route:a.news_collection_route||'일반 뉴스 수집'})),...extras],q=$('search').value.trim().toLowerCase(),cat=$('category').value;
  const list=all.filter(a=>(!cat||a.category===cat)&&(!q||[a.title,a.source].join(' ').toLowerCase().includes(q)));
  const priority={'높음':3,'보통':2,'낮음':1},time=a=>{const n=Date.parse(a.published||'');return Number.isFinite(n)?n:0},mode=$('sort').value;list.sort((a,b)=>mode==='importance'?(priority[b.importance]||0)-(priority[a.importance]||0)||time(b)-time(a):mode==='oldest'?time(a)-time(b):time(b)-time(a));
  $('cards').replaceChildren();$('cards').classList.add('general-list');$('headline').textContent=historyResults?historyRangeLabel()+' 일반 뉴스 검색 결과':($('date').value||'오늘')+' 일반 뉴스';$('updated').textContent=historyResults?'조회 기간: '+historyRangeLabel()+' · 저장된 기사 검색 결과':current?.updated_at?'최종 수집: '+new Date(current.updated_at).toLocaleString('ko-KR',{timeZone:'Asia/Seoul'}):'저장된 일반 뉴스';
- $('notice').textContent=historyResults?'':(popularData?.note||'');$('count').textContent=list.length;$('work').textContent='—';
+ $('notice').textContent=historyResults?'네이버 인기 뉴스 수집분도 포함합니다. 수집 경로는 기사 제목 위에 표시됩니다.':(popularData?.note||'');$('count').textContent=list.length;$('work').textContent='—';
  if(!list.length){$('cards').append(el('div','empty',all.length?'조건에 맞는 기사가 없습니다.':'해당 날짜의 일반 뉴스가 아직 없습니다.'));return}
  for(const a of list)$('cards').append(generalRow(a));
 }
@@ -262,12 +262,12 @@ $('historyForm').addEventListener('submit',async e=>{
  const dates=archiveDates.filter(d=>(!start||d>=start)&&d<=end).sort().reverse();
  if(!dates.length){status.textContent='선택한 기간에 보관된 뉴스가 없습니다.';return}
  btn.disabled=true;status.textContent=dates.length+'일치 뉴스 데이터를 검색 중입니다…';
- const collected=[];let next=0,failed=0;
- const workers=Array.from({length:Math.min(5,dates.length)},async()=>{while(next<dates.length){const d=dates[next++];try{const result=await json('data/'+encodeURIComponent(d)+'.json');for(const a of result.articles||[]){if(!term||[a.title,a.summary,a.impact,a.source,a.category,a.description].join(' ').toLocaleLowerCase().includes(term))collected.push({...a,archive_date:d})}}catch{failed++}}});
+ const collected=[],popularCollected=[];let next=0,failed=0,popularFailed=0;
+ const workers=Array.from({length:Math.min(5,dates.length)},async()=>{while(next<dates.length){const d=dates[next++];const matches=a=>!term||[a.title,a.summary,a.impact,a.source,a.category,a.description].join(' ').toLocaleLowerCase().includes(term);try{const result=await json('data/'+encodeURIComponent(d)+'.json');for(const a of result.articles||[]){if(matches(a))collected.push({...a,archive_date:d})}}catch{failed++}try{const result=await json('data/popular/'+encodeURIComponent(d)+'.json');for(const a of result.articles||[]){if(matches(a))popularCollected.push({...a,archive_date:d,news_collection_route:'네이버 인기 뉴스'})}}catch{popularFailed++}}});
  await Promise.all(workers);if(token!==historyRun)return;
- btn.disabled=false;historyRange={start,end};historyResults={articles:collected,ai_enabled:true};
+ btn.disabled=false;historyRange={start,end};historyResults={articles:collected,popular_articles:popularCollected,ai_enabled:true};
  $('search').value='';render();
- status.textContent=dates.length+'일 중 '+(dates.length-failed)+'일 검색 완료 · 검색어 '+(term?'「'+$('historyQuery').value.trim()+'」':'전체')+' · '+collected.length+'건 발견'+(failed?' · '+failed+'일 데이터 로드 실패':'')+' (상단 탭·분야·정렬로 추가 필터링 가능)';
+ status.textContent=dates.length+'일 중 '+(dates.length-failed)+'일 검색 완료 · 검색어 '+(term?'「'+$('historyQuery').value.trim()+'」':'전체')+' · '+(collected.length+popularCollected.length)+'건 발견 (네이버 수집 포함, 중복 제외 전)'+(failed?' · '+failed+'일 데이터 로드 실패':'')+' (상단 탭·분야·정렬로 추가 필터링 가능)';
 });
 
 // 공유 키워드: Supabase의 공개 REST API 사용. 비밀 서비스 키는 절대 브라우저에 넣지 않습니다.
