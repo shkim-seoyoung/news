@@ -121,6 +121,7 @@ function workCard(a){
  const more=el('button','readmore','상세 분석 보기 →');more.addEventListener('click',()=>showDetail(a));card.addEventListener('click',e=>{if(!e.target.closest('a,button'))showDetail(a)});card.append(more,scrapButton(a),articleLink(a));return card;
 }
 function render(){
+ if(selectedSection==='스크랩'){renderScraps();return}
  if(selectedSection==='네이버 인기'){renderPopular();return}
  const data=historyResults||current,base=data?.articles||[],popular=historyResults?[]:(popularData?.articles||[]);
  const seen=new Set(base.map(a=>(a.url||'').split('?')[0].replace(/\/$/,'').toLowerCase()).filter(Boolean));
