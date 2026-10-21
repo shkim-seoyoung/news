@@ -1,9 +1,65 @@
 {
   "date": "2026-10-21",
-  "updated_at": "2026-10-21T07:17:40.118973+09:00",
+  "updated_at": "2026-10-21T12:19:33.170572+09:00",
   "article_count": 5,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "e60f8dc1ba1664",
+      "title": "현대모비스, 세계 부품사 순위 3년 연속 6위…中 CATL은 3위로 - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82WmNwb1Z4V2MtaVBoaTJyT1AwdmpfVGlOZ0laa2U2SV9KSGcxNmJGN1czWWZQYmVrU0RZSnZrSWNRUzZvc2FydGlNYlpwOG45aFRBRTNSc3VnZ011M3ItOTNieVNRbkE0R05XeG9CdXFRRk0?oc=5",
+      "source": "대한경제",
+      "published": "2026-10-21T11:00:43+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 세계 부품사 순위 3년 연속 6위…中 CATL은 3위로 대한경제",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 글로벌 자동차 부품사 순위에서 3년 연속 6위를 기록했습니다. 중국의 CATL은 3위로 순위가 상승하며 상위권 부품사로서의 입지를 강화했습니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "글로벌 자동차 부품 업계의 매출 및 시장 점유율을 기준으로 한 순위 발표.",
+        "key_points": [
+          "현대모비스 3년 연속 세계 6위 유지",
+          "중국 CATL 3위 기록"
+        ],
+        "what_to_watch": "글로벌 부품사들의 전동화 및 자율주행 기술 경쟁력 변화.",
+        "fact_check": "해당 순위는 관련 기관의 연례 보고서에 근거함."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "d00cedf8e1fda5fa",
+      "image_url": ""
+    },
+    {
+      "id": "c55857f14b2080",
+      "title": "현대차, 인도 30년의 신뢰 위에 미래를 세우다… 푸네 신공장으로 새로운 도약 - 위클리피플 인물지식가이드저널",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EY2FpXzlEcDdDZ0FUX2JLX3RpYjFZNlBHWWxQNHZIeUlWa0k2Z0FHejc3Z1d5bl9pMWtLTmZpNmU3RS1HT2taUHZzNm9ZVFExQnRDZVFiMEsyQQ?oc=5",
+      "source": "위클리피플 인물지식가이드저널",
+      "published": "2026-10-21T10:00:44+09:00",
+      "category": "자동차",
+      "description": "현대차, 인도 30년의 신뢰 위에 미래를 세우다… 푸네 신공장으로 새로운 도약 위클리피플 인물지식가이드저널",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대자동차가 인도 진출 30주년을 맞아 푸네 신공장을 중심으로 새로운 도약을 준비하고 있습니다. 현지 시장에서의 신뢰를 바탕으로 미래 모빌리티 전략을 강화할 계획입니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "현대자동차의 인도 시장 진출 30주년 및 푸네 공장 가동을 통한 생산 능력 확대.",
+        "key_points": [
+          "인도 진출 30주년 기념",
+          "푸네 신공장을 통한 생산 거점 확대"
+        ],
+        "what_to_watch": "푸네 공장의 본격 가동에 따른 인도 내 생산 물량 및 시장 점유율 변화.",
+        "fact_check": "현대차의 인도 사업 전략 및 푸네 공장 관련 공식 발표 내용."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "fa2e75c7bb99a9b3",
+      "image_url": ""
+    },
     {
       "id": "67239cb6440615",
       "title": "정의선 현대차 회장, 올해 지구 7바퀴 돌았다...글로벌 생산거점 챙기고 미래사업 협력 '광폭 행보' - 소비자가 만드는 신문",
@@ -41,11 +97,33 @@
       "category": "관심 키워드",
       "description": "현대모비스, 자동차부품 전시회 'IZB 2026' 참가...핵심기술 선보여 노동일보",
       "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대모비스가 자동차 부품 전시회인 'IZB 2026'에 참가하여 자사의 핵심 기술을 선보였습니다. 이번 전시를 통해 글로벌 시장에서 현대모비스의 기술력을 알리고 고객사와의 접점을 확대하고 있습니다.",
+      "related_articles": [
+        {
+          "title": "현대모비스, 자동차부품 전시회 'IZB 2026' 참가...핵심기술 선보여 - press24(프레스24)",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jMlpjRlJ6aXdyY2lad3VpOExpSEtuRzRxQVlGNEJoMW9aYkd4a0tCRmZkeFlQNjNsbHB4ZEJKMFluX2lUR04wSEVBVU1zclJnU2dFeVNFdzVBVjF3TG5uNkJuUGkzcHRsYnNN?oc=5",
+          "source": "press24(프레스24)",
+          "published": "2026-10-20T15:18:00+09:00"
+        }
+      ],
+      "summary": "현대모비스가 자동차 부품 전시회 'IZB 2026'에 참가하여 자사의 핵심 기술을 선보였습니다. 이번 전시를 통해 글로벌 시장에서의 기술 경쟁력을 홍보하고 협력 기회를 모색합니다.",
       "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
       "detail": {
+        "background": "IZB(International Suppliers Fair)는 독일 볼프스부르크에서 열리는 주요 자동차 부품 전시회임.",
+        "key_points": [
+          "IZB 2026 전시회 참가",
+          "현대모비스 핵심 기술 전시"
+        ],
+        "what_to_watch": "전시회 이후 글로벌 완성차 업체들과의 신규 수주 및 협력 논의 진전 여부.",
+        "fact_check": "현대모비스의 IZB 2026 참가 사실 확인."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a692bb082c413f72",
+      "image_url": "",
+      "original_summary": "현대모비스가 자동차 부품 전시회인 'IZB 2026'에 참가하여 자사의 핵심 기술을 선보였습니다. 이번 전시를 통해 글로벌 시장에서 현대모비스의 기술력을 알리고 고객사와의 접점을 확대하고 있습니다.",
+      "original_detail": {
         "background": "자동차 부품 산업의 최신 기술 트렌드 공유 및 글로벌 영업 활동",
         "key_points": [
           "IZB 2026 전시회 참가",
@@ -53,12 +131,7 @@
         ],
         "what_to_watch": "전시회 이후 신규 수주 및 기술 협력 성과",
         "fact_check": "IZB 2026 전시회 참가 사실 확인"
-      },
-      "new_information": "",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "74c8e9fd94b01739",
-      "image_url": ""
+      }
     },
     {
       "id": "1f938acd25c5c6",
@@ -86,61 +159,6 @@
       "ai_summary": true,
       "integrated_summary": true,
       "integration_signature": "11bed7446f54e204",
-      "image_url": ""
-    },
-    {
-      "id": "422507adbaf1af",
-      "title": "10월 금통위 D-2…채권전문가 93% “기준금리 동결 전망” - 글로벌경제신문",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ENGZPUDdPNGdOcEpyeEtkc19fSkRaRVZ0VkV3dmlGd1o1QjljM3p2SXEzVGJHM2d1c2pWOXBHLVJBZFRJM1R5NEFJTDZkTXB0a2VfeUpEXzlrR1NNUnZlbnN4anJpRlNGV1ZBOE9jakXSAXBBVV95cUxNRDRmT1A3TzRnTnBKcnhLZHNfX0pEWkVWdFZFd3ZpRndaNUI5YzN6dklxM1RiRzNndXNqVjlwRy1SQWRUSTNUeTRBSUw2ZE1wdGtlX3lKRF85a0dTTVJ2ZW5zeGpyaUZTRldWQThPY2pF?oc=5",
-      "source": "글로벌경제신문",
-      "published": "2026-10-20T11:32:36+09:00",
-      "category": "경제·금융",
-      "description": "10월 금통위 D-2…채권전문가 93% “기준금리 동결 전망” 글로벌경제신문",
-      "section": "일반 뉴스",
-      "related_articles": [],
-      "summary": "10월 금융통화위원회를 앞두고 채권 전문가 93%가 기준금리 동결을 전망했습니다. 시장은 금통위의 결정과 향후 통화정책 방향에 주목하고 있습니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "높음",
-      "detail": {
-        "background": "10월 금융통화위원회 개최를 앞두고 시장의 금리 정책 전망 조사.",
-        "key_points": [
-          "채권 전문가 93% 기준금리 동결 예상",
-          "10월 금통위 개최 D-2 시점의 시장 컨센서스"
-        ],
-        "what_to_watch": "실제 금통위 결정 내용 및 향후 금리 인하 시점",
-        "fact_check": "채권 전문가 대상 설문조사 결과 기반"
-      },
-      "new_information": "",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "e5bb2c729f9e8fa5",
-      "image_url": ""
-    },
-    {
-      "id": "f910ddff607540",
-      "title": "채권 전문가 93% \"10월 금통위, 기준금리 동결 전망\" - 프라임경제",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KdlRwOXFRVjVOd0lvSElMVTFFOFljSzZoTU5yd1plSGRDSlVwdHptVXBpcll3MnQyNk5JTGFwSXNyS2lGdGhiOHQta214QWRONUNCNWtyNk9JOHBKY3NzdE5pbk1pdi1RZjRpbWhpUnpHQQ?oc=5",
-      "source": "프라임경제",
-      "published": "2026-10-20T10:29:42+09:00",
-      "category": "경제·금융",
-      "description": "채권 전문가 93% \"10월 금통위, 기준금리 동결 전망\" 프라임경제",
-      "section": "일반 뉴스",
-      "related_articles": [],
-      "summary": "10월 금융통화위원회에서 기준금리가 동결될 것이라는 전망이 우세합니다. 채권 전문가 93%가 동결을 예상하고 있습니다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "detail": {
-        "background": "10월 금통위 기준금리 결정에 대한 시장 전망.",
-        "key_points": [
-          "채권 전문가 93% 기준금리 동결 전망"
-        ],
-        "what_to_watch": "금통위의 최종 결정 및 통화정책 방향성",
-        "fact_check": "동일 사건에 대한 반복 보도임"
-      },
-      "new_information": "",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "d431c4f0b8fcbe4d",
       "image_url": ""
     }
   ]

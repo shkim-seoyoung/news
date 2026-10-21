@@ -533,11 +533,33 @@
       "category": "관심 키워드",
       "description": "현대모비스, 자동차부품 전시회 'IZB 2026' 참가...핵심기술 선보여 노동일보",
       "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대모비스가 자동차 부품 전시회인 'IZB 2026'에 참가하여 자사의 핵심 기술을 선보였습니다. 이번 전시를 통해 글로벌 시장에서 현대모비스의 기술력을 알리고 고객사와의 접점을 확대하고 있습니다.",
+      "related_articles": [
+        {
+          "title": "현대모비스, 자동차부품 전시회 'IZB 2026' 참가...핵심기술 선보여 - press24(프레스24)",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jMlpjRlJ6aXdyY2lad3VpOExpSEtuRzRxQVlGNEJoMW9aYkd4a0tCRmZkeFlQNjNsbHB4ZEJKMFluX2lUR04wSEVBVU1zclJnU2dFeVNFdzVBVjF3TG5uNkJuUGkzcHRsYnNN?oc=5",
+          "source": "press24(프레스24)",
+          "published": "2026-10-20T15:18:00+09:00"
+        }
+      ],
+      "summary": "현대모비스가 자동차 부품 전시회 'IZB 2026'에 참가하여 자사의 핵심 기술을 선보였습니다. 이번 전시를 통해 글로벌 시장에서의 기술 경쟁력을 홍보하고 협력 기회를 모색합니다.",
       "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
       "detail": {
+        "background": "IZB(International Suppliers Fair)는 독일 볼프스부르크에서 열리는 주요 자동차 부품 전시회임.",
+        "key_points": [
+          "IZB 2026 전시회 참가",
+          "현대모비스 핵심 기술 전시"
+        ],
+        "what_to_watch": "전시회 이후 글로벌 완성차 업체들과의 신규 수주 및 협력 논의 진전 여부.",
+        "fact_check": "현대모비스의 IZB 2026 참가 사실 확인."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a692bb082c413f72",
+      "image_url": "",
+      "original_summary": "현대모비스가 자동차 부품 전시회인 'IZB 2026'에 참가하여 자사의 핵심 기술을 선보였습니다. 이번 전시를 통해 글로벌 시장에서 현대모비스의 기술력을 알리고 고객사와의 접점을 확대하고 있습니다.",
+      "original_detail": {
         "background": "자동차 부품 산업의 최신 기술 트렌드 공유 및 글로벌 영업 활동",
         "key_points": [
           "IZB 2026 전시회 참가",
@@ -545,12 +567,7 @@
         ],
         "what_to_watch": "전시회 이후 신규 수주 및 기술 협력 성과",
         "fact_check": "IZB 2026 전시회 참가 사실 확인"
-      },
-      "new_information": "",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "74c8e9fd94b01739",
-      "image_url": ""
+      }
     },
     {
       "id": "32d8da8d403675",
@@ -1597,6 +1614,530 @@
       "published": "2026-10-19T07:43:23+09:00",
       "category": "전동화",
       "description": "재접속하면 같은 화면이 나오나요? 슬롯 머신 사이트 뱃 무브 Calgary Roughnecks"
+    },
+    {
+      "id": "9940df7d55f5f3",
+      "title": "산청군실버합창단, 34명 단원의 하모니로 실버페스티벌 금상 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45TUM1LXBZN1JJQ0M3UnNzWjZsa2k4NUI3MzN1STZaaV9ranVvLUNVZGVuekZCVVhCS3Vmc1JxRS1kWC1wLTZoaW9TVll6MmJFRE95UWQ4YUg5OUlm?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-21T11:37:13+09:00",
+      "category": "국내 주요 사건",
+      "description": "산청군실버합창단, 34명 단원의 하모니로 실버페스티벌 금상 아시아뉴스통신"
+    },
+    {
+      "id": "e394cd18b3954c",
+      "title": "“주가는 출렁이고, 금리는 불안하다”…한국 경제 어디로 가나 - 용인신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LUDV2aFQxQUg5X2tra1VWaV8wM2JBcUxHb0xCNEJCYldlYkpuQ1d1S3g2eWl1bjN6eGdreE5mMUF6dTVGN09Lbk1OeGNKQTRfZTlTS0FtaFgtN0F4cVROYUpQR2Q?oc=5",
+      "source": "용인신문",
+      "published": "2026-10-21T11:23:16+09:00",
+      "category": "경제·금융",
+      "description": "“주가는 출렁이고, 금리는 불안하다”…한국 경제 어디로 가나 용인신문"
+    },
+    {
+      "id": "e60f8dc1ba1664",
+      "title": "현대모비스, 세계 부품사 순위 3년 연속 6위…中 CATL은 3위로 - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82WmNwb1Z4V2MtaVBoaTJyT1AwdmpfVGlOZ0laa2U2SV9KSGcxNmJGN1czWWZQYmVrU0RZSnZrSWNRUzZvc2FydGlNYlpwOG45aFRBRTNSc3VnZ011M3ItOTNieVNRbkE0R05XeG9CdXFRRk0?oc=5",
+      "source": "대한경제",
+      "published": "2026-10-21T11:00:43+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 세계 부품사 순위 3년 연속 6위…中 CATL은 3위로 대한경제",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 글로벌 자동차 부품사 순위에서 3년 연속 6위를 기록했습니다. 중국의 CATL은 3위로 순위가 상승하며 상위권 부품사로서의 입지를 강화했습니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "글로벌 자동차 부품 업계의 매출 및 시장 점유율을 기준으로 한 순위 발표.",
+        "key_points": [
+          "현대모비스 3년 연속 세계 6위 유지",
+          "중국 CATL 3위 기록"
+        ],
+        "what_to_watch": "글로벌 부품사들의 전동화 및 자율주행 기술 경쟁력 변화.",
+        "fact_check": "해당 순위는 관련 기관의 연례 보고서에 근거함."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "d00cedf8e1fda5fa",
+      "image_url": ""
+    },
+    {
+      "id": "d6a9dad8b13b3c",
+      "title": "나는 CATL, 뛰는 아이신…현대모비스는? - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BVFFtaUs0SE5JcTFoWElNQWo1SllTX0FrbnZTdHNWYkczNnBEM3E2dFRDRmJGbW9tVWFlUm12U2NnMHRla2Q0WlcyeEo0cE5BbTJpZlh3?oc=5",
+      "source": "지디넷코리아",
+      "published": "2026-10-21T11:00:01+09:00",
+      "category": "관심 키워드",
+      "description": "나는 CATL, 뛰는 아이신…현대모비스는? 지디넷코리아"
+    },
+    {
+      "id": "4155ad035e3459",
+      "title": "울산경제자유구역청, '2026 대한민국 미래모빌리티엑스포' 참가 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpOTVEeWtHMXQwYWpZQkROWUUzcGdfcDVydndHMWxuNWxld1NvWmFmWVJaLU9hM0szQUtMT2ZSbG1fdjVCQXp0Z3ZWNGJwNXNLb2d4WUZIQy1rUHNy?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-21T10:29:15+09:00",
+      "category": "국내 주요 사건",
+      "description": "울산경제자유구역청, '2026 대한민국 미래모빌리티엑스포' 참가 아시아뉴스통신"
+    },
+    {
+      "id": "9e183707fa329c",
+      "title": "강원특별자치도, 산불 복합 재난 대비 실전 대응훈련 실시 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iQ3BlME55bFVnOXpmLUlWcFNOQVZ1VVV5MUpwQlgyVDRHUTloN2hCcGkzZjJrTjR1NzF5MmtIS01qemZrdkxFNVlYQjEtZ1dXUTFZR3NfRmkyc01Z?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-21T10:16:59+09:00",
+      "category": "국내 주요 사건",
+      "description": "강원특별자치도, 산불 복합 재난 대비 실전 대응훈련 실시 아시아뉴스통신"
+    },
+    {
+      "id": "c55857f14b2080",
+      "title": "현대차, 인도 30년의 신뢰 위에 미래를 세우다… 푸네 신공장으로 새로운 도약 - 위클리피플 인물지식가이드저널",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EY2FpXzlEcDdDZ0FUX2JLX3RpYjFZNlBHWWxQNHZIeUlWa0k2Z0FHejc3Z1d5bl9pMWtLTmZpNmU3RS1HT2taUHZzNm9ZVFExQnRDZVFiMEsyQQ?oc=5",
+      "source": "위클리피플 인물지식가이드저널",
+      "published": "2026-10-21T10:00:44+09:00",
+      "category": "자동차",
+      "description": "현대차, 인도 30년의 신뢰 위에 미래를 세우다… 푸네 신공장으로 새로운 도약 위클리피플 인물지식가이드저널",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대자동차가 인도 진출 30주년을 맞아 푸네 신공장을 중심으로 새로운 도약을 준비하고 있습니다. 현지 시장에서의 신뢰를 바탕으로 미래 모빌리티 전략을 강화할 계획입니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "현대자동차의 인도 시장 진출 30주년 및 푸네 공장 가동을 통한 생산 능력 확대.",
+        "key_points": [
+          "인도 진출 30주년 기념",
+          "푸네 신공장을 통한 생산 거점 확대"
+        ],
+        "what_to_watch": "푸네 공장의 본격 가동에 따른 인도 내 생산 물량 및 시장 점유율 변화.",
+        "fact_check": "현대차의 인도 사업 전략 및 푸네 공장 관련 공식 발표 내용."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "fa2e75c7bb99a9b3",
+      "image_url": ""
+    },
+    {
+      "id": "d49c3be16298f2",
+      "title": "현대모비스 주가 하락 중 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BR2V0SndvdktVSGV2a1hFRUs2Q1Z3d20yTmNfc2ZyQ0NyWnAyRzFyMWRsSkkzT3pNNjVsNGRnMkVKRUs5eHl4MDVmUXVhdFBWcHNjMG9KLU56c3h5?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-21T09:39:08+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 주가 하락 중 아시아뉴스통신"
+    },
+    {
+      "id": "2e59f3a4de23af",
+      "title": "[위클리오늘] 주택 공급 ‘전격전’ 이재명 정부…월세 급등·청년 지방 기피 넘을까 - 위클리오늘",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBocXpTXzZwUzMwbHYyZlNWNDhoVWwzZEphQkFBS0tkQTlYNl9CQ1ZaZjBBa096dExRM0p6bHpKdDFLREhLczdrdVFyUVJzb01PZXR1ejJoQmZMYnNieUFxSExFaHlXaDI0SXA5SXp3?oc=5",
+      "source": "위클리오늘",
+      "published": "2026-10-21T09:15:26+09:00",
+      "category": "정치·정책",
+      "description": "[위클리오늘] 주택 공급 ‘전격전’ 이재명 정부…월세 급등·청년 지방 기피 넘을까 위클리오늘"
+    },
+    {
+      "id": "3c57380a5dd1aa",
+      "title": "대전 서구, 10월 30일 재난대응 안전한국훈련 실시 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpelNNekYzMmtmbGhjR09KNnd6RjEwcUxyeG1nVzFnRUZTSWxUclZEX0pYMV9wUkMtS0tab19yQVFlekF6dEtNTkN6cUIzOV9YRGJyMkZxRkE4LXRq?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-21T09:06:33+09:00",
+      "category": "국내 주요 사건",
+      "description": "대전 서구, 10월 30일 재난대응 안전한국훈련 실시 아시아뉴스통신"
+    },
+    {
+      "id": "e16a29ffbc0d51",
+      "title": "\"韓銀 금리 멈춘다\"…채권 전문가 93% ‘동결’ 베팅 - 경제타임스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91dlMtVHJOQ3dTNGFLZlBpN3A0Skh6NGktSk94WFlJUzM0cUxBblhhcGE4QUEwSUhsejJkRnZWNVAzdmRSZWo3RlV5MDg0eC03aUc0OVJLc2s?oc=5",
+      "source": "경제타임스",
+      "published": "2026-10-21T09:01:51+09:00",
+      "category": "경제·금융",
+      "description": "\"韓銀 금리 멈춘다\"…채권 전문가 93% ‘동결’ 베팅 경제타임스"
+    },
+    {
+      "id": "3f853bb8135c04",
+      "title": "‘이란 대통령 앞 히잡 거부’ CNN 간판 앵커, 43년 만에 하차 - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41SndzOU1QZmFNWlJzSGx2T1pQNzlheFJEYXBGcl9YX25nVFpWcEl1MXZBNV9QTFMwQnJBNjRzYldTTWpIRUdFNW5DNlNwLVZhdWfSAVNBVV95cUxNNjdkazhtUmU4T0I0S18tYWxMWEZRbnZ5N0JReXBWeVRtTHpNay1xZEFSb0VWMGx1VGZfeTh1NmVYaHJ0NlpNbjNsUHFkVEhzZ0QzVQ?oc=5",
+      "source": "서울경제",
+      "published": "2026-10-21T08:43:24+09:00",
+      "category": "국제·외교",
+      "description": "‘이란 대통령 앞 히잡 거부’ CNN 간판 앵커, 43년 만에 하차 서울경제"
+    },
+    {
+      "id": "8a3c83e71ba7f7",
+      "title": "위험회피에 채권 심리 '반등'…11월 BMSI 99.1, 9.4포인트↑ - 한국아이닷컴",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6VXdraFhZVjkyTldQM3E3ZFU4eWtfeW1NcmJUUjN5QXgtVTA3THRqZHh3T1VLUDVRY2dQQUZyNlVPTkctOHVOdlIzWlJIWElSZi0tYWJrS1p5aWF2ZS14RWc5S2lRdmdSOG9R0gFvQVVfeXFMTW9va1RhUU82Zm9yU2JlZi1uNjRRanR4WmxHLTRHOVgyVmItcHdYNlpDUXh4WlMxN1YzZDV5dEdhc1J4Y0ItNHFwdXNSSEtZdDJmMlZDZHJJMU5RZ0hKaHRVUC03a0YybHM0LVVEdVFJ?oc=5",
+      "source": "한국아이닷컴",
+      "published": "2026-10-21T08:38:28+09:00",
+      "category": "경제·금융",
+      "description": "위험회피에 채권 심리 '반등'…11월 BMSI 99.1, 9.4포인트↑ 한국아이닷컴"
+    },
+    {
+      "id": "db7154f566cd25",
+      "title": "코스피 하루 만에 3.73% 급락…환율은 1320원대로, 금융시장 '엇갈린 신호' - 지이코노미",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSM3RucjM3MDhmODl1SlhnVHpDVVpPeUlacXBjZkpEdlJPWFZWaERDeXJmMG90ZTJWNGtGTFJIQ0tacmNwZm5JRnY5SzZCbHpCRGpaTFY1SE1sUS1GeHVwMzkxMjc?oc=5",
+      "source": "지이코노미",
+      "published": "2026-10-21T08:16:17+09:00",
+      "category": "경제·금융",
+      "description": "코스피 하루 만에 3.73% 급락…환율은 1320원대로, 금융시장 '엇갈린 신호' 지이코노미"
+    },
+    {
+      "id": "6669fce1194c20",
+      "title": "[경제놀이터 이보라 컬럼][자녀 경제역량편] 미국 금리가 오르는데 왜 우리나라가 걱정할까요? - 캐어유 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtVEFFdkkxZ1lUSzRBWm96UlJvSXQ5cjg5QTV0QmEtQUF4UVV4YUlYSm5ISlMtbHRzSGNmaU50cThUUTVnRXBQTTBsanJieFdvMVZnUThwRDJNX25POGgtLUk5MU9hVzBPeGpMUFZR?oc=5",
+      "source": "캐어유 뉴스",
+      "published": "2026-10-21T08:00:00+09:00",
+      "category": "경제·금융",
+      "description": "[경제놀이터 이보라 컬럼][자녀 경제역량편] 미국 금리가 오르는데 왜 우리나라가 걱정할까요? 캐어유 뉴스"
+    },
+    {
+      "id": "1ab6d331d97878",
+      "title": "현대모비스 최근 5거래일 주가 33만1500~36만9500원 - 비건뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PaFhOOWt2YVZTMmIyQ3d3aE9JT2ExeVRIZjFVT01aVFFvX2laalZ6VDNWV1NxNzFjdDMzTWNCLWxDd0cwbXRYTUJYcXhMa0lSNjlKTlZNcnRyZjBuWkxaVzZ2emowdw?oc=5",
+      "source": "비건뉴스",
+      "published": "2026-10-21T07:57:26+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 최근 5거래일 주가 33만1500~36만9500원 비건뉴스"
+    },
+    {
+      "id": "e573e554759bb7",
+      "title": "화재·모비스 자회사 매각 반발·임협까지…현대차그룹 덮친 리스크 - 쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tRjFvZUluWUd0V3VIVWFVVjVhcmJ3TFZHTU1EN1VESjRqNVkxeFUtbUZDRF9rWVh6S3EyUm5raWZ4eUVEZ3ZTLXFFbUR0Xy15c1Z2NW80X0FHeHlFMUcxcXRkZw?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-10-21T07:54:37+09:00",
+      "category": "자동차",
+      "description": "화재·모비스 자회사 매각 반발·임협까지…현대차그룹 덮친 리스크 쿠키뉴스"
+    },
+    {
+      "id": "58c8677a0859cc",
+      "title": "김성범 의원 \"한국마사회 제주 이전 반드시 필요\"…정부·제주도 실무협의 촉구 - 제주뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4za01nODBaWW1wR2h5YjlRMkt1ckNrTFZTNkhweWctaXF0amlmTU1vbE5QQk1OdnFTeHRfU1Z4R3pPZmg2VWpjUzBmb1Y3eU5qbmdsVXg5YTZ5NmVvUDhYWThZaXJOc2poWGfSAW5BVV95cUxOblBjV2F3TzlXc05CWmxXQUNLSFpBU0p5Y0J4VjczYTBvWW5XZ05ZOGRlWWRlT3M2dDZMOXh4bDR2T1k0RzVTbkhXWkxfRjJqS01ncFRxdnF4TUdKV0dpOWEtRWRvZ0NZc01iSW03QQ?oc=5",
+      "source": "제주뉴스",
+      "published": "2026-10-21T07:43:37+09:00",
+      "category": "정치·정책",
+      "description": "김성범 의원 \"한국마사회 제주 이전 반드시 필요\"…정부·제주도 실무협의 촉구 제주뉴스"
+    },
+    {
+      "id": "b25905d625a5f5",
+      "title": "이달희 의원 “의사과학자 양성 예산 16.7% 삭감…정부 국정과제 역행” 지적 - 웹플러스뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JeG90Qk81SkhHdzJENEFPWlZPNFpVOXNKVi0yd0pWcU81SXgtU0lrNmFDbTJURm5DbzlPaWVSWm9FZHhRaG5senNtVUxsZUgtQ016eHhUcEJVdHRuOUMyNGo2NS00ajFwNzNF?oc=5",
+      "source": "웹플러스뉴스",
+      "published": "2026-10-21T07:43:20+09:00",
+      "category": "정치·정책",
+      "description": "이달희 의원 “의사과학자 양성 예산 16.7% 삭감…정부 국정과제 역행” 지적 웹플러스뉴스"
+    },
+    {
+      "id": "77fc365eb6404d",
+      "title": "[오늘의 주요일정] 정치·정부 (21일, 수) - Queen 이코노미퀸",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xTVFDUVVsbV9seGJ4NWNRbWszRjJkaktEZU1VWjdmblBBc0tTaERwZkt2WnpUUFpOME54TTV4dDY0ZzRnempvYjh1X2VHenJ0WGVRTUY3WnZXcF9uNkZRUWlKZldCVlFIQWc?oc=5",
+      "source": "Queen 이코노미퀸",
+      "published": "2026-10-21T06:50:37+09:00",
+      "category": "정치·정책",
+      "description": "[오늘의 주요일정] 정치·정부 (21일, 수) Queen 이코노미퀸"
+    },
+    {
+      "id": "2b7806616c7f69",
+      "title": "\"전작권 조기 전환 땐… 李엔 정치적 승리, 한미동맹은 약화 위험\" - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2ZlTjNsUmM4V1k5U05yR1RGLWJqYVBLLTZ6VUtTV2JndHZJNWc5X3c1UHNJUVpPQm1lQVF4U0VzNDQ3QmJRWU1NNTB0UGIydWJpNGhOUkszeEVmQU14bXdhdFluLW5uS1VlYkdDSjFiRGh5V1BOWFAtbjJ6enVMWmQ3TWpNenNKUUFqeVdTRnVEQQ?oc=5",
+      "source": "조선일보",
+      "published": "2026-10-21T00:49:00+09:00",
+      "category": "정치·정책",
+      "description": "\"전작권 조기 전환 땐… 李엔 정치적 승리, 한미동맹은 약화 위험\" 조선일보"
+    },
+    {
+      "id": "26a1b8be8efa50",
+      "title": "한 번에 이해되지 않는 표현을 풀어 쓴 중국 바카라 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSFBWLVFaNW5nWmhaOXFLVmpaSVZQUjZVWV80Mjk0NjF5NTBtSXltdFVvZFRGUlk1UEFTQzRmTHBYZFBQcFEwMzhJaF9Xbm1IVDVRRXlCWjZSdmkyZ0RyUGl3d1o2Mlo2b3RvR2ZlY0hjaHRCbGUxRjAtZ255M2lIVzBycEhncnU4U2tDTmhpdGZJcnNvOWFR?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-21T00:45:46+09:00",
+      "category": "자동차",
+      "description": "한 번에 이해되지 않는 표현을 풀어 쓴 중국 바카라 Calgary Roughnecks"
+    },
+    {
+      "id": "b3d991412bad20",
+      "title": "현대차·기아, 레벨4 자율주행 트럭 실증 추진…실제 물류노선서 검증 - IT타임스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tbzI1c2VPbWF0RXhzRkd4dTVDNllYNkhUVGtzTXh1NlM2OEVDaXptclFIZHpxbmJCNjVHWHJRNHNPS0Ffb3Rmb1BOSDFLd1E4dF9hNEhZRG1sQV9VcEpEaTlUZmliMVBQ?oc=5",
+      "source": "IT타임스",
+      "published": "2026-10-20T22:34:46+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·기아, 레벨4 자율주행 트럭 실증 추진…실제 물류노선서 검증 IT타임스"
+    },
+    {
+      "id": "ee78674253ae03",
+      "title": "처음엔 낯선 심벌도 읽히는 미국 원주민 카지노 화면 설명 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNVk5NGllZk43OFY3UmY5LWhNTGlTM1Q4dXNlYnJlSXQ4Um5hVkU3MUkzQlpmSjVKTmkzYndTdFpnMnAyajlxVk1oT2Z2VmE5MXBrakxWclk3cG4xbnV6YmFsVldVSVZoOWtTVnhVUWpFNWh5WmliNkdIa1pJdzc5djZRRm5XeENWR1B3MWlXYjRndkJ5T3Y3YUVVcVFoWW4xNERFQy1FdlJWcGo2bGQtWXhjM0x3TGZQdUNENEMyZGhPd2dmelFj?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T21:54:39+09:00",
+      "category": "국제·외교",
+      "description": "처음엔 낯선 심벌도 읽히는 미국 원주민 카지노 화면 설명 Calgary Roughnecks"
+    },
+    {
+      "id": "9ba7e52e1dcbba",
+      "title": "새로 접한 게임을 이해하는 출발점, 도박 시작 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamxrYUk3NC0zbnA0OGwyVDJCOGZGU1I3Q0tBS0s0S0xHTnozRmJZU3hrRk5hY0lzUHlPUVFFUWVsbWVnRU1QWFRVRzNnOE0wc0kxTTlNbGpzWC1heHVyVl85R0lNa0drd1FmUHJ1Q05laHZNQzFJdTlFNloyVGRoa015Rnlmd1YwZ2J6bVh2ejVESnZKMUhGenNTTG9GRlpvaU94QnduNnFkMk0xTFVLSGJaTQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T18:43:05+09:00",
+      "category": "관심 키워드",
+      "description": "새로 접한 게임을 이해하는 출발점, 도박 시작 Calgary Roughnecks"
+    },
+    {
+      "id": "a66a956ae52b2c",
+      "title": "현대모비스 의왕연구소 화재… 1시간 30만에 진화, 인명 피해 없어 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55d1Y1YnFRaXV5LU92UC1TclBZcGRiVElKSU8zVWRIMW1PZTFrUzdkUDFvaXZCdXBYVWFxZkZpV1B0bzAyVzJEQ05JLVY5MFpOSVJ2UnhyYzdEWjNoZ2s4SGVDQ21Vb2VGakNENVJmYWVDZ1pM0gF0QVVfeXFMTnl3VjVicVFpdXktT3ZQLVNyUFlwZGJUSUpJTzNVZEgxbU9lMWtTN2RQMW9pdkJ1cFhVYXFmRmlXUHRvMDJXMkRDTkktVjkwWk5JUnZSeHJjN0RaM2hnazhIZUNDbVVvZUZqQ0Q1UmZhZUNnWkw?oc=5",
+      "source": "IT조선",
+      "published": "2026-10-20T17:59:36+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 의왕연구소 화재… 1시간 30만에 진화, 인명 피해 없어 IT조선"
+    },
+    {
+      "id": "65b46f11251f4d",
+      "title": "서울서 멀수록 더 지원받는다…정부, 지방우대지수 도입 - 전북일보 인터넷신문",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zMlZLN1FpWk40X1VJT0U2c2J0SEdwLXpVcXBZYS1JYW5DbmVKbUk3cGFXYTVZQ1BWNFRlblpMYVZvZTFSOFNRaFU5bm1GcVhjUmdZMNIBWEFVX3lxTFBDeWg3czBHdTVBaW93Y05SVkVzSzczcVNHaEFaVjBDcTRKaUp6SG1ENHBweWdNSTZ5ODRjVTZVMWwzZE5WMEgwYVcwWi1oRWJvN1dIM2k5OHM?oc=5",
+      "source": "전북일보 인터넷신문",
+      "published": "2026-10-20T17:30:52+09:00",
+      "category": "정치·정책",
+      "description": "서울서 멀수록 더 지원받는다…정부, 지방우대지수 도입 전북일보 인터넷신문"
+    },
+    {
+      "id": "ff47451e3f5822",
+      "title": "이전 결과가 다음 결과를 보장하나요? 경마 코리아컵 2024 일정 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaHZfM2tOaHRHcmJOeUJkazhuQ2hVSk9ZUGNqTVViVjk0Q1AyNDE1SUozTXhpVS1aRGxhMTNYZzk0YmdGZTJnR3VJdEJpUDBlUHBsZmJaR29tVGFaekxTakNzaG13cnk3blYwcnNXelVGT3hidTdNR1BoMmd3RWFUYWpHTnRwQXpHM1FNVU5HMVo0b3BxaFhWQkNCYlNBUDREMXRseXpYNXhXY0JDTFVIOVB1Ylpib0lKT29ueDg5YnJJZzlkeG5HVTlnM2Y?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T17:27:57+09:00",
+      "category": "전동화",
+      "description": "이전 결과가 다음 결과를 보장하나요? 경마 코리아컵 2024 일정 Calgary Roughnecks"
+    },
+    {
+      "id": "6c4e242e603f73",
+      "title": "게임 테마와 기능은 어떻게 연결될까? 파워볼 자판기 뜻 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUnVKZDFJZEQ3bURrWHlaa2dQRDNSVkpweWdLYmFEUGU3WkN6RXN6M19VUkg5bGRpcEdiZWFJRHIwWk1tYlNHRnJ1bVdpMVB4cG5yMkYtMlJ3aXl5ejdzU1dnbF95bWNNMWpfRmdDUzRRd09TM1pVMW1IV2NaNVppYVprR0FkREl2M0RLZC1PLWd2N3V6NVNoRA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T17:13:57+09:00",
+      "category": "국제·외교",
+      "description": "게임 테마와 기능은 어떻게 연결될까? 파워볼 자판기 뜻 Calgary Roughnecks"
+    },
+    {
+      "id": "4675ed49abf053",
+      "title": "숫자 표시의 단위를 읽는 포키게임하기 화면 가이드 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTzFEQ2FUQTdheVMtNHZHNHVEVGtGZVpjNmtqSW9iMVJ2dEZ6RHBSWEtpOVJ1R2FKSnVFRlFLd2RhRFdWMTZLY1hSZ2pEUXJsZEN5Q3VobnpqenEyUzFoaU5DVVd2WDBjMmJ4b1U5NEdzMThycFA5Z1ZDZWxTbm0xSzVxRVZTNFBEc1B2RDRHd0M3cFBiVXZaaXVhNm9WUzdkRjBYZW1pRF9sNnVFWXEwT0s4N2M1Zlk0dmYzX2JZQ1FZVE9qUnBSZDEyMExPNjIyZ3lpTDdwWGhzNjN0ZnJlX25JclpqbnU4NnFia2prV3JGNG9tTmc2ZDl6LWpJTHc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T15:52:10+09:00",
+      "category": "전동화",
+      "description": "숫자 표시의 단위를 읽는 포키게임하기 화면 가이드 Calgary Roughnecks"
+    },
+    {
+      "id": "07e1f566a8a963",
+      "title": "현대모비스, 자동차부품 전시회 'IZB 2026' 참가...핵심기술 선보여 - press24(프레스24)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jMlpjRlJ6aXdyY2lad3VpOExpSEtuRzRxQVlGNEJoMW9aYkd4a0tCRmZkeFlQNjNsbHB4ZEJKMFluX2lUR04wSEVBVU1zclJnU2dFeVNFdzVBVjF3TG5uNkJuUGkzcHRsYnNN?oc=5",
+      "source": "press24(프레스24)",
+      "published": "2026-10-20T15:18:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 자동차부품 전시회 'IZB 2026' 참가...핵심기술 선보여 press24(프레스24)"
+    },
+    {
+      "id": "1197e2ebab9c52",
+      "title": "토토사이트 배당 놀이터벳 정보 창을 열고 닫는 기본 조작 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNclVBZHZ1WVdDcHdtak1IQ2NPMGwtTnJEVG0xdnNkSWc1aTdDWFVfQ1NVbjFIY0k2amhPYmNXWFkxRmd1enE0eHAxdDdkbzNpSUZHcGhVZ0V0WmRBbDJXLUJ3b05weXM4MFNqckNHbGxVMm9VNE1qN2xyU1hTMTRHclhxZFNTcGstRU9xOW9nUV8tVU1wWkJvUTljaVhWN3gySUwxVTlNTHotTGxvSUY1ZHRkdEE5RUU?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T14:57:54+09:00",
+      "category": "자동차",
+      "description": "토토사이트 배당 놀이터벳 정보 창을 열고 닫는 기본 조작 Calgary Roughnecks"
+    },
+    {
+      "id": "228da40d565baa",
+      "title": "정부, 우크라이나 대사관 인력 일부 철수 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeF9Vd2VucDE1TVNBc0lxMkFERzZWSTJsWGRvY1RraXMyUzlKSlFGVTFRRjR1MlF5cndRZ1JaSk45OUIwNF8tU0doRjFVTjdkcGVDbG9wRDdCdnd0UE1yMFVib0ktcDZqbXJaU2FsVU9wakhQUUxvTnZ3cDlLV1NtT0ZkM2JETm1JQW1SY284WktYd9IBc0FVX3lxTE5UOUowZTQtS2tIUndQSDFjOTZLVTIwUE44YTRPV0l4blREZk0zbGxJUHA1R2M2QVZTQ0drdjN0U2lMa2h2d2xJYTQwYTFHV2lhcy1JQ1hXeFY3MHJkRkZ4MWVKeVZyMTZlZ3otUFZUWmJHdUU?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-20T14:40:00+09:00",
+      "category": "정치·정책",
+      "description": "정부, 우크라이나 대사관 인력 일부 철수 한국일보"
+    },
+    {
+      "id": "751f3496b8989a",
+      "title": "한국해운협회, 해양사고 책임체계 개선위한 성명서 발표 - 쉬핑뉴스넷",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XN0xEOUlpRFg5VjJuQVlEVk5YNUYwUm1CZG1JYzMzWnRWWTZ2aHpUZko3ZFB1aFpNUmxEakJPLV9kbDBKNmQyc041WDZjWWs3MGNPb09RbUw1VmowZFljTkt5X1Q1ckM0bjIyWGZsRldsbzQ?oc=5",
+      "source": "쉬핑뉴스넷",
+      "published": "2026-10-20T14:18:37+09:00",
+      "category": "국내 주요 사건",
+      "description": "한국해운협회, 해양사고 책임체계 개선위한 성명서 발표 쉬핑뉴스넷"
+    },
+    {
+      "id": "1fd792c8efd31f",
+      "title": "소리와 움직임을 조절하는 엘소드 캐릭터 슬롯 최대 환경 설정 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTk10UENPYnFVam1VU25NSWV6MkRITTZQMEdzenY0N0gwNkZwU2YwWWN0eGQxRm9hRGI5ZGJHTmxPNVd5aXVvdDktY2hjeURUWk5VYTJRRUJ5Y1VhdXVRbEdINDlSQ1lvbElQN1dVSUc2TVBKZUJSM1VEcVRjbm4xOGFnVjlKZXVpVU11VUxKOXM5T2lVak41SkEyNEs4SGJya3F2a1ptWWhjeWxHZ1J4Zl8tcW82YndrTTJ3RVRqNnBBeWltbXFkNVpwTnAzekZBdE9ZYw?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T14:15:14+09:00",
+      "category": "자동차",
+      "description": "소리와 움직임을 조절하는 엘소드 캐릭터 슬롯 최대 환경 설정 Calgary Roughnecks"
+    },
+    {
+      "id": "bd7c5df4861ac9",
+      "title": "여러 게임을 비교할 때 펼쳐둘 대구 토토가 주대 정보 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPajJ5V0xOUGhtOU9xTlVFdFc5c2VNNXBiaFJ5YUw4d2FGSkFFeGk2OVhKUUl2Y3c5bGY1NjhQaS1BS2J0MU1JZGE4dmUwamNJajNRMUJPS2hmbmlBYmNKZ3lXckI1MzNKUU03MGJ4aWRXa05lbFVzN3czNzBSRWFCWE5MUDVwamlKR1RMLXJvS2M5SlV4Q2xMY25mOTB5d3JuNUNDRkloYWJPRXFsQnhDZzFFZGp0WXdockZKT1VlRHp5aFh5YTVCdE9KLVV6VnUwRzQ0ZHBDay0xc1pPOUlkaElxTXlFbzlWVmp2OXJ6ZXdiNl9wMnRRYWFPd3NoQ3RfN2hFbnlSWnhSLWJ4VFd3S3VVeWh5UG1IaERMZllUamU1VF9xS04wTVdMbUVtU29xMlZuRzd3?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T14:15:06+09:00",
+      "category": "CKD·물류",
+      "description": "여러 게임을 비교할 때 펼쳐둘 대구 토토가 주대 정보 Calgary Roughnecks"
+    },
+    {
+      "id": "cfde8e7ded6903",
+      "title": "슬롯 커뮤 수익 : 초보자가 알아야 할 모든 것 - 실용적인 접근법 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOFI2VmFrdl9VdHdEVDBLNi05ZlM4VnkzWlQ5dU1wOEVKMVlfY2FOWm1LNUg4c1ZUaENJN1JiaEZ6QkRWWTc4a3FJMllwbTEyNWdmZ3N1M05TMnNhOF9GNEVrWFRuRklOSG1XVGdnRDVKa2QxS0YyWFROc0FwN0NrdnJ1NnFhN0ZyVXlFRWtuQ1FkcEQ4SFFSbU9hOEJJbXkwQjItQnRVczM4MVlXTXgxT241WTRfVm82bmc3bEtWMTE4dDZsXzd1R2w2Rmp6RE9lbGJHUnMtS1FyMGM?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T14:01:40+09:00",
+      "category": "국내 주요 사건",
+      "description": "슬롯 커뮤 수익 : 초보자가 알아야 할 모든 것 - 실용적인 접근법 Calgary Roughnecks"
+    },
+    {
+      "id": "f5520868194501",
+      "title": "현대모비스, 범퍼 포함 다른 사업부도 추가매각 의혹 불거져 - SR타임스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80RjNvWDVvMlItVE0zNnFITjJFS1hCdExFV2N4dG1SMjBKVVdwc1pZY2dQT0l3eE5Qak9iLVNuRUdiNXgwcHRrUGdZaXBSbmQ1MWtSZkhPSWRQSmJFWXRkbncyd181QjTSAWtBVV95cUxNb1JET1ktMEN6S2ZSZmdiRTRER3YwLVRrY0NObUxQMXoyRkFUaDV5QWlGQl9DRmVlQjdoRy00Zmo3OEJkb3BkLWsyNGFVSU9ZY1QzSkM0MklfMkpVTG1Xc0p6R1QwRlZ2TThhaw?oc=5",
+      "source": "SR타임스",
+      "published": "2026-10-20T13:33:08+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 범퍼 포함 다른 사업부도 추가매각 의혹 불거져 SR타임스"
+    },
+    {
+      "id": "42b3b0bc212d24",
+      "title": "포커 ante 게임 유형을 구분하는 기준 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaElvVUFPM21FbG5VMW5LcWY3aDlKWU5PZnJHTGpwclBRcmlRSjItNXY1dERma0duRUhFSXRRaE5VdWExcTBsRGp1RlhNV29ScGZvWV9ZcnRIb2VJXzNoamZacjhvZjZOdlZPOGhxemFJWG9GazVGUnljS0VIVkJ3eXlmMVBLZDVpRkFTWkZXVmdqS1MzaWxSTA?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T11:53:22+09:00",
+      "category": "국제·외교",
+      "description": "포커 ante 게임 유형을 구분하는 기준 Calgary Roughnecks"
+    },
+    {
+      "id": "558a6ae04997f3",
+      "title": "“작년 광진 아파트 팔아 16억 시세차익” 추미애 답변은? - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKeU9JeXBOV2MyLXdqZzhXZzQ1SzlqYURlSEx5alJNU3JZZk9DLW5PX1VBMnB5SW04UDRwa2p5ZlNzRVBSdkNsVTFoM1p2Q1hQ?oc=5",
+      "source": "문화일보",
+      "published": "2026-10-20T11:49:14+09:00",
+      "category": "정치·정책",
+      "description": "“작년 광진 아파트 팔아 16억 시세차익” 추미애 답변은? 문화일보"
+    },
+    {
+      "id": "e54cf8e3d937fa",
+      "title": "보테가 토토 배당 조합의 표시 방향 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaHRYbFlIU0VVWi1wejQ0b2FaXzNYOVVHUVpJcEhNRHF2QXY5d0JDVW9PekJ4Q0ZDb2gwdGVHcXNWalhyMnUzNm9vQVVHU0xHaWZrZUs2a2x5cWZ6clROcFlUbHJoYlItM2lZdGRQYXhDdmNmWWpLVlYzZWI5Q2pKV2VEUUpvLS1nWUZ6eXNlaDVVV1VFZk9yZWFDS2pqcVJ5QVN6QVBETXFNMlREOGc?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T10:26:23+09:00",
+      "category": "전동화",
+      "description": "보테가 토토 배당 조합의 표시 방향 Calgary Roughnecks"
+    },
+    {
+      "id": "64606b797c6af4",
+      "title": "기본 기능과 선택 기능을 나눠 읽는 사설토토 끊는법 - Calgary Roughnecks",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYzlOazUyd1VyLUhmM1dZM0M0dWl1ZUxJUExUS1VEQjJSczN4MWEtWVFuazgyUzJKeE4wXzRCVXVPS1RNMmk3a2xQajVyYVhyN2tVOW5aUmhTMTV2ZzQ3NDNGQWdyWlM0SHlSVXF5OUNQTDBGNXluMzFOeF9qeEpiVlBSS0lkdlhuMlZnWUdqbUo0STZ5U0g3S1RjQldNd0h6?oc=5",
+      "source": "Calgary Roughnecks",
+      "published": "2026-10-20T09:26:20+09:00",
+      "category": "자동차",
+      "description": "기본 기능과 선택 기능을 나눠 읽는 사설토토 끊는법 Calgary Roughnecks"
+    },
+    {
+      "id": "f30628ec4b41ca",
+      "title": "정치 과잉에 멈춘 민생·경제 입법 동력 : 정책.지표 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjQnpIb3BIMFBBb3hrVGFSY3U3U19UYjhUXzdSdTFJX0tqN012ajR0ZUJWcklYZDk2V0R1NG1kLTB4ODZnTDJTd2V4UQ?oc=5",
+      "source": "재경일보",
+      "published": "2026-10-20T08:39:00+09:00",
+      "category": "정치·정책",
+      "description": "정치 과잉에 멈춘 민생·경제 입법 동력 : 정책.지표 재경일보"
+    },
+    {
+      "id": "0404c80b5aa0fa",
+      "title": "국내증시, 미국 반도체 반등에 숨통…외국인 복귀가 관건 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ENUtsMkdwU0MtU1poLWxQOWhXRHdWSnlmYnluX1NPYk95V2N6ZnMyMHJkNEViRVFtWnN0dDdCZlE2SEo0R2VRckU4OW5UNC1yVURMcmFHV0dPSV8yY3lZVFRYc2RkaDlzOEtGSEJQaXJzQQ?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-10-20T07:37:31+09:00",
+      "category": "경제·금융",
+      "description": "국내증시, 미국 반도체 반등에 숨통…외국인 복귀가 관건 톱스타뉴스"
+    },
+    {
+      "id": "09bd5ba57c37b6",
+      "title": "현대차, '모빌리티 플레이그라운드 시즌2' 성료…”차량 중심 소통의 장 마련” - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lVEV5OWppS2dZYmtfSDVRckZUalUzR1JYUzN6a1hYM1hONGFreXQ4V2JKX1IxSU15NnBxUGZUTmdjM2wtNUZkRG5kbFJoNnVieFl4R2g0Z09QV1Z3U2lyNFN6NDZHQk0?oc=5",
+      "source": "팍스경제TV",
+      "published": "2026-10-19T22:20:31+09:00",
+      "category": "자동차",
+      "description": "현대차, '모빌리티 플레이그라운드 시즌2' 성료…”차량 중심 소통의 장 마련” 팍스경제TV"
+    },
+    {
+      "id": "dd3385ddc14ee5",
+      "title": "한강버스 리베이트 의혹…\"은폐\" vs \"정치공세\" - news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV1BaRlJJM0ZseGItZlE3UGpoTmt1bnh0VXdWT1VlczV1Zmk3MmpqRUVHU2RwWTlQT0s1aE5BMF82X0JVUmhyb3J6V1dsdWRuUkZLOXJ5dnYwZHc0OVhNLTNtYmEtOUg0NmM1Y0MxV29JUzdqR1ZaczlBZWlucnBtTGdWVEFZUQ?oc=5",
+      "source": "news.sbs.co.kr",
+      "published": "2026-10-19T21:07:21+09:00",
+      "category": "정치·정책",
+      "description": "한강버스 리베이트 의혹…\"은폐\" vs \"정치공세\" news.sbs.co.kr"
+    },
+    {
+      "id": "e1701219181b81",
+      "title": "이 대통령 “주식시장 정상화 대책 마련”…\"전작권 반드시 조기 환수\" - 포쓰저널",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0UU9PQXZLQzQxTUdwWEJyMzJVT3o0bi0yRkk0ZVhDRjZUYnNqaFhzOTVMbUx0ellMeWJUSXhDaGFmREdWNTNMRy16dlpoUGlnYUlDTkdRZXdJTzhGdTZsY2xuR0Q?oc=5",
+      "source": "포쓰저널",
+      "published": "2026-10-19T18:44:27+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령 “주식시장 정상화 대책 마련”…\"전작권 반드시 조기 환수\" 포쓰저널"
+    },
+    {
+      "id": "fa3d572bc632c9",
+      "title": "\"올 성장률 3.4∼3.6%…잠재성장률 반등 임박\" - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ROFluWUpFWDRSR1FjVU5pLVNjQXgzdVZ1amJlc3A1X01ibUZGS1JkVDFaaE1OaENqamotSEswdVV4NXJZUVdPai1ON0g4OTFPTjAycTAzU0hHUQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-19T18:17:16+09:00",
+      "category": "경제·금융",
+      "description": "\"올 성장률 3.4∼3.6%…잠재성장률 반등 임박\" 한국경제"
+    },
+    {
+      "id": "c9f3e8513539ca",
+      "title": "김여정 \"李정부 반공화국 대결책동, 尹정부 훨씬 능가\"...대남 확성기 방송 검토 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMm8xTEZJblU3N0ZkOEd4bExWVnZ1Q1FKcTJJdkhsbEJicTZNUTAtVXBWTVRpODhMX3lqR0NXMkEzaHBQNnZ6enhCaWhvRmhvbi1pV1l1VG0xWXgzX1RKeXBVMXBWdGdLZWwySGdlQkQ4Y3ROemFFY212bmhnV2VnZXZ1RjAxcUJMczJ5SNIBc0FVX3lxTE9ybjJFM0Q1RkppYkJ1S1EtR3pENUtaRmdjTm1jamRCeHRtSTc3N2J4WGxLM3ctaWRvSi1WTUNTdGJBR1EtZF92OXJQcjRRcEU1cTEwUFh4M2F5alYxdWtXNjR6VkdZVjBkVFNxektjSC11dFU?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-19T18:17:00+09:00",
+      "category": "정치·정책",
+      "description": "김여정 \"李정부 반공화국 대결책동, 尹정부 훨씬 능가\"...대남 확성기 방송 검토 한국일보"
+    },
+    {
+      "id": "7accdb13efd04c",
+      "title": "이 대통령 \"부동산 투자 세금 없다시피... 정상적으로 하자\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wNWFHRGtFejBqclVHbERUemhJQlIweGthM0ZETzNhZHZXTTRyUWhudjBMS1cybFgwdEtSWXIzUGVWa0hCU051dXB2YjNLWU9JSElqWUxmYWIzRHZsMEFEWXFXeWpLblVsVFNBWmxaekduZ1XSAXNBVV95cUxPMDVhR0RrRXowanJVR2xEVHpoSUJSMHhrYTNGRE8zYWR2V000clFobnYwTEtXMmxYMHRLUllyM1BlVmtIQlNOdXVwdmIzS1lPSUhJallMZmFiM0R2bDBBRFlxV3lqS25VbFRTQVpsWnpHbmdV?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-19T17:32:00+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령 \"부동산 투자 세금 없다시피... 정상적으로 하자\" 한국일보"
+    },
+    {
+      "id": "332eddadf595ed",
+      "title": "장동혁 \"李정부, 청년들 극우로 내몰아...프랑스 청년 투쟁 결코 남의 일 아냐\" - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9acmdyQngyYlFTSWk3NlpHVE54OUtUdkpya3VhVno0d1oyUGdrRDJFd051YnV3N19hUXBHYTZkUjRUNG4xdnpaS1U1b3VxTEljMnc3TEhGakVaU2JJ?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-10-19T16:45:00+09:00",
+      "category": "정치·정책",
+      "description": "장동혁 \"李정부, 청년들 극우로 내몰아...프랑스 청년 투쟁 결코 남의 일 아냐\" 뉴스핌"
+    },
+    {
+      "id": "dd094199a14ecb",
+      "title": "'수능, 출제의 비밀' 유재명 \"악역 많이 했지만 거절 고민했다\"… 이유는? - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xelF0elFyWDB5YTFscXRNX19Jcm8zWlBGUS1fZE40VmZiTEtUREJVd3BycFdKaW5OaHpIXzZ4Y3hCNFpUejJMWXlDQ3BnWDFYR3J5YjBwQnBVRUNhODdKd0xQaFBQT3NJNElNaW130gFzQVVfeXFMT0JGQm1mLTBjRWdXVFRpZExDUU1NZVB5eGJOeXBkTl9mWWEzeDhyb2Zyc0pDWmxQYlozeVdrWUt2SXJobjFvMU9XaVdLaFhVXzBUZkpMUm8zYkV4aGU1a0cweUUxbkV0WmdNck1yQTJrYU53OA?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-19T16:39:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "'수능, 출제의 비밀' 유재명 \"악역 많이 했지만 거절 고민했다\"… 이유는? 한국일보"
+    },
+    {
+      "id": "0cfaa8550d72da",
+      "title": "'쇼츠 정치'에 갇힌 국감…정쟁에 묻힌 정부 견제 - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWlYY0dKY2FOT194aFA4b1BwbzFOTWpBQjhfa2xHNDdPR2hpRnVUWmI0WXpVWExJbnQ0bk5HWjYzeUNWQmUxTHc0NTk1VS12ek16WTd4cFhmNnBKalJYN3VWSFBwZGhjeGNWcWhBdlpvQnREYlc5QTVEUmZSa1Z1OQ?oc=5",
+      "source": "이데일리",
+      "published": "2026-10-19T16:11:56+09:00",
+      "category": "정치·정책",
+      "description": "'쇼츠 정치'에 갇힌 국감…정쟁에 묻힌 정부 견제 이데일리"
+    },
+    {
+      "id": "84d16723be729b",
+      "title": "트럼프 대통령은 러시아를 제재 대상에서 제외한 결정을 옹호하며 우크라이나 대통령을 비판했다. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWtEQVhMRkRfNTc0X1N2SVVlSlNDeDNETGRUcTk2a2RlVG5XbW5tak5LbU1GSjBtbEEtSnVWTlhXVmtlU0dYZHJjTXVrak5TRW1Ba3M5aWtmUV9xb3FETjJkSUVXMnNiM2FwOERZdHBHZHU4cFRmeVV0RmNoaVFIYnd2S1JYN2hJNGlDTXpWSWFtVnFEb3p4aVR6U3RhdkhtakNTSw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-10-19T15:44:14+09:00",
+      "category": "국제·외교",
+      "description": "트럼프 대통령은 러시아를 제재 대상에서 제외한 결정을 옹호하며 우크라이나 대통령을 비판했다. Vietnam.vn"
     }
   ]
 }
