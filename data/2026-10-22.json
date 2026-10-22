@@ -1,9 +1,121 @@
 {
   "date": "2026-10-22",
-  "updated_at": "2026-10-22T07:16:47.663858+09:00",
-  "article_count": 9,
+  "updated_at": "2026-10-22T12:18:50.857274+09:00",
+  "article_count": 13,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "c86726df5f4078",
+      "title": "이규석 현대모비스 사장 “차량용 시스템반도체, 미래 위한 투자” - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Eb2RyUWRNS0FkQ0YzSGRiNXN6VktXSlFzblNIRjB4UmFYQy1TSUtJWDBLZFlIemtUN3U2NlpsU3I2YjY0c29BbmRUNjdHWE5pWXljN1hHbw?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-10-22T11:20:15+09:00",
+      "category": "자동차",
+      "description": "이규석 현대모비스 사장 “차량용 시스템반도체, 미래 위한 투자” 헤럴드경제",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "이규석 현대모비스 사장이 차량용 시스템반도체 분야에 대한 투자를 미래 경쟁력 확보를 위한 핵심 과제로 강조했다. 전동화 및 자율주행 기술 고도화를 위해 반도체 내재화와 공급망 안정화에 집중하겠다는 의지로 풀이된다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "현대모비스는 전동화 부품 및 자율주행 솔루션 공급을 위해 차량용 반도체 기술 확보에 주력하고 있음.",
+        "key_points": [
+          "이규석 현대모비스 사장, 차량용 시스템반도체 투자 의지 표명",
+          "미래 모빌리티 기술 경쟁력 강화를 위한 전략적 행보"
+        ],
+        "what_to_watch": "향후 차량용 반도체 관련 구체적인 투자 규모 및 기술 협력 파트너십 발표 여부.",
+        "fact_check": "이규석 사장의 발언을 바탕으로 작성되었으며, 구체적인 투자 계획은 공개되지 않음."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "0ea366ad31babd27",
+      "image_url": ""
+    },
+    {
+      "id": "5834c45cadde74",
+      "title": "한은, 기준금리 3.00% 동결…연내 추가 인상 여부 주목 - 한국아이닷컴",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CWWtfaDE2ZEc4RFJibzZYZ1pCR2lQSkxjal9IaFF0Yk1UVXpJcUIwSEZEMEFZNzV5emxlbHBTNkMzcjVvMmxLUzJLWUt4blBCU0xiemE3aWJZZjZmcnM3U19pU0F2M294a25V0gFvQVVfeXFMTlNrQkVmNU9zYk56UnQ1U2ZRWWExcG9kZXBaSkZxM1NrYnE1XzRVM1pNNWRCby0xQ2x2TmNua2RhZi1NZElpc2Yzd1RoV2x2bGRpOGEzSGtyWFRDbS1jS0dhQkNmYnZWWkR0dG9SOVk0?oc=5",
+      "source": "한국아이닷컴",
+      "published": "2026-10-22T10:40:04+09:00",
+      "category": "경제·금융",
+      "description": "한은, 기준금리 3.00% 동결…연내 추가 인상 여부 주목 한국아이닷컴",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "한국은행이 기준금리를 연 3.00%로 동결했다. 시장에서는 이번 동결을 숨 고르기로 평가하며, 향후 연내 추가 인상 가능성에 주목하고 있다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "높음",
+      "detail": {
+        "background": "물가 상승 압력과 경기 침체 우려 사이에서 한국은행의 통화정책 방향이 시장의 주요 관심사임.",
+        "key_points": [
+          "한국은행 기준금리 연 3.00% 동결 결정",
+          "연내 추가 인상 여부에 대한 시장의 불확실성 지속"
+        ],
+        "what_to_watch": "한국은행의 향후 통화정책 결정 회의 및 금리 인상 기조 유지 여부.",
+        "fact_check": "한국은행의 공식 금리 결정 사항을 기반으로 함."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "e27e7b05ef472fdf",
+      "image_url": ""
+    },
+    {
+      "id": "8d9bc22e6136c4",
+      "title": "두 차례 연속 올린 한은, 숨 고르기… 기준금리 연 3.0% 동결 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91Q2M5OVpkZlN6TGZQTkxnUnN6WHI4WmdHdlpJLVZ3Z2gtN0M5b3ZWSnVCX2owT2FIUGx0dFZMOW50b1M3NER6S0E1bEJlVExKRnJIVmFNaWh1MWRkc19zT3RiSE52TlMxQmEwQVd30gFzQVVfeXFMTWVNc3p3TTFLVDNvRWVIZnZibV91YTJHeF9ZRU13MGI0T29FajNyWlc4SzFaV1JwUFh2MXgxUkZ1WjBnRFR5Q1NUVTYtazV4WFFqVjJYbmpmVl9qbDF1NEZORVZkajhIRFBFVlM0ZmlMMlVSaw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-22T09:50:00+09:00",
+      "category": "경제·금융",
+      "description": "두 차례 연속 올린 한은, 숨 고르기… 기준금리 연 3.0% 동결 한국일보",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "한국은행이 기준금리를 연 3.0%로 동결하며 연속 인상 기조를 잠시 멈췄다. 시장은 이를 금리 인상 사이클의 일시적 정체로 해석하고 있다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
+      "detail": {
+        "background": "한국은행의 기준금리 결정에 관한 동일 사건 보도임.",
+        "key_points": [
+          "기준금리 연 3.0% 동결",
+          "연속 인상 후 숨 고르기 국면 진입"
+        ],
+        "what_to_watch": "향후 금리 결정에 영향을 미칠 국내외 경제 지표 변화.",
+        "fact_check": "5834c45cadde74와 동일한 사건을 다루고 있음."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "d7e9e22ef3aa7636",
+      "image_url": ""
+    },
+    {
+      "id": "bcf28b39c7bbd1",
+      "title": "현대차 캐스퍼, 위탁공장 파업에 공급 영향 관심…회사 측 \"생산 차질 없어\" - MTN 머니투데이방송",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OQzRWSkp4Y1BUcXRkVHJmOTBZY1RESFhyRC1zTnViUTIxTi1VREpWLW5vaGZtSGFqVTgxYkl1ZUFvdHJkVko1Nmt6WHVHNmVWRGhCVGVfWnB2OHRHU3dZ?oc=5",
+      "source": "MTN 머니투데이방송",
+      "published": "2026-10-22T07:00:30+09:00",
+      "category": "자동차",
+      "description": "현대차 캐스퍼, 위탁공장 파업에 공급 영향 관심…회사 측 \"생산 차질 없어\" MTN 머니투데이방송",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차 캐스퍼 위탁 생산 공장의 파업으로 인해 공급 차질 우려가 제기되었으나, 현대차 측은 현재 생산에 차질이 없다는 입장을 밝혔다. 향후 파업 장기화 여부가 공급망 안정성에 변수가 될 전망이다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "높음",
+      "detail": {
+        "background": "캐스퍼 위탁 생산 공장의 노사 갈등 및 파업 이슈가 발생함.",
+        "key_points": [
+          "캐스퍼 위탁 공장 파업 발생",
+          "현대차 측, 현재 생산 차질 없음 공식 입장 표명"
+        ],
+        "what_to_watch": "위탁 공장 파업의 지속 여부 및 실제 출고 지연 발생 가능성.",
+        "fact_check": "현대차 측의 공식 입장을 인용함."
+      },
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "f09d7f187c475c04",
+      "image_url": ""
+    },
     {
       "id": "9fcea2c381ad0b",
       "title": "현대모비스 \"국산 세탁기·TV 반도체, 차량용 전환…로봇으로 확대\" - 뉴스1",
@@ -126,16 +238,23 @@
       "description": "현대모비스 사장 \"車 반도체, 멀리 보는 투자…자율주행·SDV 대비\" 뉴스1",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
-      "impact": "AI 분석 대기 중",
+      "summary": "이규석 현대모비스 사장이 차량용 반도체 분야에 대한 장기적인 투자를 강조하며 자율주행 및 SDV(소프트웨어 중심 자동차) 전환에 대비하겠다는 의지를 밝혔다. 단기적인 수익보다는 미래 경쟁력 확보를 위한 공급망 생태계 구축에 집중하겠다는 전략이다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "background": "자동차 산업의 전동화 및 자율주행 전환에 따라 핵심 부품인 차량용 반도체의 중요성이 커지고 있음.",
+        "key_points": [
+          "현대모비스, 미래 모빌리티 대응을 위한 반도체 투자 강화",
+          "단기 실적보다 공급망 생존과 자립을 우선순위로 설정"
+        ],
+        "what_to_watch": "향후 구체적인 반도체 개발 로드맵 및 협력사 생태계 구축 현황",
+        "fact_check": "현대모비스 경영진이 직접 차량용 반도체 투자 의지를 표명함"
       },
-      "image_url": ""
+      "image_url": "",
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "ab57649182d1b319"
     },
     {
       "id": "cac8bd070ebfd1",
@@ -147,10 +266,22 @@
       "description": "이규석 현대모비스 사장 “車반도체 2029년 양산…눈앞 수익보다 미래 투자” 헤럴드경제",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "이규석 현대모비스 사장이 2029년 차량용 반도체 양산을 목표로 미래 투자를 강화하겠다는 계획을 밝혔다. 단기적인 수익성보다는 중장기적인 기술 경쟁력 확보와 미래 모빌리티 시장 선점에 집중하겠다는 의지로 풀이된다.",
-      "impact": "차량용 반도체 내재화 및 공급망 안정화에 따른 CKD 부품 구성 및 물류 전략 변화 가능성 존재",
+      "summary": "이규석 현대모비스 사장이 차량용 반도체 2029년 양산 계획을 공식화했다. 눈앞의 수익보다는 미래를 위한 선제적 투자가 필수적임을 강조하며 기술 자립 의지를 드러냈다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "높음",
       "detail": {
+        "background": "차량용 반도체 공급망 안정화가 완성차 업체의 핵심 과제로 부상함.",
+        "key_points": [
+          "이규석 사장, 2029년 차량용 반도체 양산 목표 제시",
+          "미래 모빌리티 시장 선점을 위한 장기 투자 전략"
+        ],
+        "what_to_watch": "2029년 양산 목표 달성을 위한 기술 개발 및 생산 인프라 확보 과정",
+        "fact_check": "현대모비스 사장이 2029년 양산 목표를 직접 언급함"
+      },
+      "ai_summary": true,
+      "image_url": "",
+      "original_summary": "이규석 현대모비스 사장이 2029년 차량용 반도체 양산을 목표로 미래 투자를 강화하겠다는 계획을 밝혔다. 단기적인 수익성보다는 중장기적인 기술 경쟁력 확보와 미래 모빌리티 시장 선점에 집중하겠다는 의지로 풀이된다.",
+      "original_detail": {
         "background": "현대모비스는 전동화 및 자율주행 기술 고도화를 위해 핵심 부품의 기술 자립도를 높이는 전략을 추진 중이다. 이번 발표는 글로벌 공급망 리스크에 대응하고 미래차 핵심 부품인 반도체 분야의 주도권을 확보하기 위한 경영 방침의 일환이다.",
         "key_points": [
           "2029년 차량용 반도체 양산 목표 설정",
@@ -160,8 +291,9 @@
         "what_to_watch": "반도체 양산을 위한 구체적인 투자 규모 및 생산 시설 구축 계획",
         "fact_check": "제공된 정보는 기사 제목과 발췌문에 기반하며, 구체적인 반도체 종류나 투자 금액 등 상세 수치는 확인되지 않음"
       },
-      "ai_summary": true,
-      "image_url": ""
+      "new_information": "차량용 반도체 2029년 양산 계획 확인",
+      "integrated_summary": true,
+      "integration_signature": "8f45dc04ed043d22"
     },
     {
       "id": "e51e041396b50a",
@@ -173,10 +305,22 @@
       "description": "\"단기 실적보다 공급망 생존\"…현대모비스, 車반도체 생태계 선제 베팅 www.ebn.co.kr",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대모비스가 단기적인 실적보다는 미래 자동차 반도체 공급망의 안정성을 확보하기 위해 생태계 조성에 선제적인 투자를 단행하고 있다. 이는 글로벌 공급망 불확실성에 대비하여 핵심 부품의 자립도를 높이고 안정적인 CKD 공급 체계를 구축하려는 전략으로 풀이된다.",
-      "impact": "차량용 반도체 수급 안정화는 CKD 부품 패키징 및 수출 물량의 적기 공급에 긍정적인 영향을 미칠 것으로 예상됨.",
-      "importance": "높음",
+      "summary": "현대모비스가 단기 실적보다는 공급망 생존을 위해 차량용 반도체 생태계에 선제적인 투자를 단행하고 있다. 미래 모빌리티 시장에서의 경쟁력 확보를 위한 전략적 행보로 풀이된다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
+      "importance": "보통",
       "detail": {
+        "background": "글로벌 공급망 불안정에 대응하기 위한 현대모비스의 전략적 판단.",
+        "key_points": [
+          "공급망 생존을 위한 반도체 생태계 선제적 투자",
+          "단기 실적보다 미래 가치 중심의 경영 전략"
+        ],
+        "what_to_watch": "반도체 내재화 및 공급망 다변화 성과",
+        "fact_check": "현대모비스의 반도체 투자 기조가 지속적으로 확인됨"
+      },
+      "ai_summary": true,
+      "image_url": "",
+      "original_summary": "현대모비스가 단기적인 실적보다는 미래 자동차 반도체 공급망의 안정성을 확보하기 위해 생태계 조성에 선제적인 투자를 단행하고 있다. 이는 글로벌 공급망 불확실성에 대비하여 핵심 부품의 자립도를 높이고 안정적인 CKD 공급 체계를 구축하려는 전략으로 풀이된다.",
+      "original_detail": {
         "background": "자동차 산업 내 전동화 및 자율주행 기술 고도화로 인해 차량용 반도체의 중요성이 급격히 증대되고 있음. 현대모비스는 공급망 리스크를 최소화하기 위해 반도체 생태계 내에서의 영향력을 강화하는 방향으로 사업 전략을 수정함.",
         "key_points": [
           "단기 실적보다 공급망 생존을 우선시하는 전략적 투자",
@@ -186,8 +330,9 @@
         "what_to_watch": "현대모비스의 구체적인 반도체 투자 규모 및 협력사 생태계 구축 로드맵 발표 여부",
         "fact_check": "제공된 RSS 정보는 제목과 발췌문으로 구성되어 있으며, 구체적인 투자 금액이나 시점 등 상세 수치는 확인되지 않음."
       },
-      "ai_summary": true,
-      "image_url": ""
+      "new_information": "",
+      "integrated_summary": true,
+      "integration_signature": "b1637614e1125986"
     },
     {
       "id": "444664a09b71d0",
@@ -199,10 +344,22 @@
       "description": "[심층분석] 현대모비스, 차량용 반도체 13종 국산화 착수…2029년 실차 적용이 공급망 자립 시험대 뉴스밸류",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대모비스가 차량용 반도체 13종의 국산화 개발에 착수했습니다. 2029년 실차 적용을 목표로 하고 있으며, 이는 국내 자동차 공급망 자립도를 평가하는 중요한 시험대가 될 전망입니다.",
-      "impact": "차량용 반도체 국산화 성공 시 CKD 부품 구성의 안정성 확보 및 수입 의존도 감소에 따른 물류·공급망 최적화 가능",
+      "summary": "현대모비스가 차량용 반도체 13종의 국산화 개발에 착수했다. 2029년 실차 적용을 목표로 하고 있으며, 이는 현대모비스의 공급망 자립 역량을 시험하는 중요한 계기가 될 전망이다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "높음",
       "detail": {
+        "background": "차량용 반도체 국산화는 현대차그룹의 공급망 안정화 전략의 핵심 과제임.",
+        "key_points": [
+          "차량용 반도체 13종 국산화 프로젝트 추진",
+          "2029년 실차 적용을 통한 공급망 자립 시험대 마련"
+        ],
+        "what_to_watch": "국산화 대상 13종 반도체의 기술적 완성도 및 양산 적용 시점",
+        "fact_check": "13종 국산화 및 2029년 실차 적용 계획이 구체적으로 보도됨"
+      },
+      "ai_summary": true,
+      "image_url": "",
+      "original_summary": "현대모비스가 차량용 반도체 13종의 국산화 개발에 착수했습니다. 2029년 실차 적용을 목표로 하고 있으며, 이는 국내 자동차 공급망 자립도를 평가하는 중요한 시험대가 될 전망입니다.",
+      "original_detail": {
         "background": "글로벌 공급망 불안정에 대비해 현대모비스는 핵심 전장 부품의 내재화를 추진하고 있습니다. 이번 국산화 프로젝트는 2029년 실차 적용을 목표로 기술 자립을 가속화하려는 전략의 일환입니다.",
         "key_points": [
           "차량용 반도체 13종 국산화 개발 착수",
@@ -212,8 +369,9 @@
         "what_to_watch": "국산화 개발 진행 상황 및 2029년 실차 적용을 위한 단계별 로드맵 발표",
         "fact_check": "제공된 RSS 정보 외 구체적인 반도체 종류나 투자 규모 등은 확인되지 않음"
       },
-      "ai_summary": true,
-      "image_url": ""
+      "new_information": "차량용 반도체 13종 국산화 개발 착수 및 2029년 실차 적용 목표",
+      "integrated_summary": true,
+      "integration_signature": "bd67772babe38a28"
     },
     {
       "id": "08a54b7bf47e38",
@@ -225,16 +383,23 @@
       "description": "수출비중 넓히는 中…현대차·기아, 글로벌 거점 수성 전략은 한양경제",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
-      "impact": "AI 분석 대기 중",
+      "summary": "중국 자동차 기업들의 수출 비중이 확대됨에 따라 현대차와 기아의 글로벌 시장 점유율 수성 전략이 중요해지고 있습니다. 현대차와 기아는 현지 생산 거점 강화와 경쟁력 확보를 통해 대응책을 마련하고 있습니다.",
+      "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "보통",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "background": "중국 자동차 제조사들이 가격 경쟁력을 앞세워 글로벌 시장에서 수출 물량을 빠르게 늘리며 현대차·기아의 주요 시장을 위협하고 있습니다.",
+        "key_points": [
+          "중국 자동차 업계의 글로벌 수출 비중 확대 추세",
+          "현대차·기아의 글로벌 생산 및 판매 거점 수성 전략 필요성 증대"
+        ],
+        "what_to_watch": "중국 브랜드의 해외 시장 점유율 변화 및 현대차·기아의 대응 전략 구체화 여부",
+        "fact_check": "중국 자동차 수출 확대가 현대차·기아의 글로벌 점유율에 미치는 영향에 대한 분석 기사임"
       },
-      "image_url": ""
+      "image_url": "",
+      "new_information": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "54be92a3c69f6013"
     }
   ]
 }
