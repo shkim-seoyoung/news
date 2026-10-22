@@ -100,11 +100,10 @@ def summarize(items):
         prompt = ("너는 CKD 자동차 수출포장 및 국내외 주요 뉴스 브리핑 편집자다. "
           "입력은 RSS 기사 제목·발췌문·날짜·링크일 뿐 기사 전문이 아니다. "
           "제공되지 않은 사실·수치·발언을 절대 지어내지 말고 불확실성은 명시한다. "
-          "입력된 모든 기사 각각에 대해 반드시 하나의 결과를 반환하라. 기사를 선정하거나 생략하지 마라. "
+          "입력된 모든 기사 각각에 대해 반드시 하나의 결과를 반환하라. 기사를 선정하거나 생략하지 마라. " + WORK_PERSPECTIVE_RULES + 
           "정책은 발언/제안/검토/확정 시행을 구분한다. 정치인의 비판이나 주장은 사실로 단정하지 않고 발언 주체를 명시한다. 현재 정부를 과거 정부로 표현하지 말고, 시점이 확인되지 않은 과거 사례를 임의로 추가하지 마라. "
           "인명·정부명·한자 약칭을 추측해서 풀어 쓰지 마라. 李정부는 이명박 정부가 아니며, 불확실하면 원문 표기를 유지한다. "
-          "각 기사마다 id, summary(한국어 2~3문장), impact(CKD 관련성이 없으면 "
-          "'직접적인 업무 영향 확인되지 않음'), importance('높음' 또는 '보통'), "
+          "각 기사마다 id, summary(한국어 2~3문장), impact(업무 관점), importance('높음' 또는 '보통'), "
           "detail 객체(background: 근거 기반 2~3문장, key_points: 주요 내용 문자열 배열 2~4개, "
           "what_to_watch: 확인할 후속 발표, fact_check: RSS 정보 한계)를 작성한다. "
           "JSON 객체 {\"articles\":[...]}만 출력하며 입력에 없는 id는 생성하지 않는다. "
@@ -212,6 +211,21 @@ def editorial_score(a):
     if a.get('importance') == '높음': score += 2
     return score
 
+ANALYSIS_VERSION = 'work-perspective-v2-20261022'
+
+WORK_PERSPECTIVE_RULES = (
+    "업무 영향이라는 표현 대신 업무 관점을 작성한다. 확정된 사실과 조건부 가능성을 엄격히 구분한다. "
+    "뉴스에서 확인된 변화가 생산·판매·현지화·부품 조달·발주·포장·선적·통관·운송 리드타임·현지 재고·생산 투입에 "
+    "어떤 연쇄 영향을 줄 수 있는지, 해당하는 연결고리만 선택해 2~3문장으로 설명한다. "
+    "예: 해외공장 증산은 부품 수요를 늘릴 수 있지만 현지화가 확대되면 한국발 CKD는 감소할 수도 있다. "
+    "판매 둔화→감산 결정 여부→CKD 발주 변화, 항만 적체/운하 제한→항로·선복·리드타임 변화→현지 재고 및 긴급 선적 가능성, "
+    "관세 변화→완성차/부품별 적용 여부→생산·조달 전략 변화 등 양방향 영향을 검토한다. "
+    "직접 영향이 확인되지 않아도 합리적인 조건부 영향과 확인 사항을 제시하되, 관련성이 희박하면 억지로 연결하지 말고 짧게 표시한다. "
+    "생산량 증가율을 CKD 물량 증가율로 치환하거나 회사 이름만으로 특정 발주 변화를 단정하지 않는다. "
+    "근거 없는 숫자·실제 항로·현지화율·공급 품목을 만들지 않는다. "
+    "impact 필드는 기존 사이트 호환을 위해 유지하되 그 내용은 업무 관점으로 작성한다. "
+)
+
 def topic_key(a):
     """Conservatively collapse repeated reports of the same clear event."""
     title = a.get('title','').lower()
@@ -220,6 +234,8 @@ def topic_key(a):
             and ('트럭' in title or '대형트럭' in title or 'truck' in title)
             and any(w in title for w in ('실증', '시범', '물류 운송', '물류 노선', '본격 돌입', 'test', 'pilot'))):
         return 'hyundai-autonomous-truck-pilot'
+    if ('모비스' in title or 'mobis' in title) and ('반도체' in title or 'semiconductor' in title or '차량용 칩' in title) and any(w in title for w in ('국산화', '국내', '개발', '양산', '공급망', '투자', 'localization', 'chip')):
+        return 'mobis-vehicle-semiconductor-localization'
     if ('모비스' in title or 'mobis' in title) and ('로봇' in title or '로보틱스' in title or '기술 동맹' in title or '오픈이노베이션' in title) and ('중국' in title or '상하이' in title or '中' in a.get('title','')):
         return 'mobis-china-robotics'
     if ('코스피' in title or '국내 증시' in title) and ('폭락' in title or '급락' in title):
@@ -341,12 +357,12 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
         representative['group_members'] = [
             {'id': a.get('id'), 'title': a.get('title', ''), 'description': a.get('description', ''),
              'source': a.get('source', ''), 'published': a.get('published', ''), 'url': a.get('url', '')}
-            for a in members[:4]
+            for a in members[:10]
         ]
         representative['related_articles'] = [
             {'title': a.get('title', ''), 'url': a.get('url', ''),
              'source': a.get('source', ''), 'published': a.get('published', '')}
-            for a in members[1:4] if a.get('url')
+            for a in members[1:10] if a.get('url')
         ]
         ranked_groups.append((editorial_score(representative), representative_score(representative), representative))
 
@@ -405,7 +421,7 @@ def ai_editorial_review(items, history):
             payload.append({
                 'id': a['id'], 'current': [
                     {'title': m.get('title'), 'description': m.get('description'), 'source': m.get('source')}
-                    for m in related[:4]
+                    for m in related[:10]
                 ] or [{'title': a.get('title'), 'description': a.get('description')}],
                 'previous': [
                     {'date': h['date'], 'title': h['article'].get('title'),
@@ -419,12 +435,13 @@ def ai_editorial_review(items, history):
                   "명확하게 없을 때만 status='repeat'로 분류하라. 이전 기사와의 동일성 또는 새 사실 유무가 "
                   "불명확하면 status='keep'으로 보수적으로 유지하라. 이전 기사가 없는 경우 무조건 keep. "
                   "같은 날 관련 기사들에서 확인되는 정보를 종합하되 RSS에 없는 사실을 만들지 마라. "
+                  + WORK_PERSPECTIVE_RULES +
                   "기사 제목만 다르다는 이유로 새로운 사실이라고 판단하지 마라. 정치인의 비판·주장은 사실로 단정하지 말고 발언 주체를 명시하라. 현재 정부를 과거 정부로 서술하거나 근거 없는 과거 정책 사례를 만들지 마라. "
                   "정치인·정부명·한자 약칭을 추측해서 풀어 쓰지 마라. 특히 李정부를 이명박 정부로 해석하지 말고, 불확실하면 원문 표기를 유지하라. "
                   "각 id마다 status(keep/repeat), summary(한국어 2~3문장), "
                   "new_information(전일 대비 추가/변경 내용, 없으면 빈 문자열), "
-                  "impact(발주·선적·포장·통관·해외생산에 관한 명시적 근거가 없는 경우 반드시 '직접적인 업무 영향 확인되지 않음'으로 작성. 기업명만으로 CKD 물량 변화나 직접 영향을 추정하지 마라), "
-                  "importance(높음/보통), detail 객체(background, key_points 배열 2~4개, "
+                  "impact(업무 관점: 사실에 근거한 조건부 파급경로와 확인할 사항 2~3문장), "
+                  "importance(높음/보통), source_comparison(관련 보도 간 확인 가능한 추가 정보·관점 차이. 차이가 없으면 빈 문자열), detail 객체(background, key_points 배열 2~4개, "
                   "what_to_watch, fact_check)를 포함하라. 전일 기록이 없는 경우 new_information은 빈 문자열. "
                   "JSON 객체 {\"articles\":[...]}만 출력. 입력: " + json.dumps(payload, ensure_ascii=False))
         try:
@@ -457,6 +474,7 @@ def ai_editorial_review(items, history):
             if isinstance(x.get('detail'), dict):
                 b['detail'] = x['detail']
             b['new_information'] = norm(x.get('new_information', ''))
+            b['source_comparison'] = norm(x.get('source_comparison', ''))
             previous = same_issue_prior(a, history)
             if previous and b['new_information']:
                 b['follow_up'] = {'date': previous[0]['date'],
@@ -474,7 +492,7 @@ def integration_signature(a, history):
     members = a.get('group_members') or []
     previous = same_issue_prior(a, history)
     # Stable across repeated runs and changes only if input evidence changes.
-    content = {'current': sorted([(m.get('id'), m.get('title'), m.get('description')) for m in members]),
+    content = {'analysis_version': ANALYSIS_VERSION, 'current': sorted([(m.get('id'), m.get('title'), m.get('description')) for m in members]),
                'previous': sorted([(h['date'], h['article'].get('id'), h['article'].get('summary')) for h in previous])}
     return hashlib.sha1(json.dumps(content, ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
 
@@ -620,6 +638,7 @@ def main():
         if cached.get('integrated_summary') and cached.get('integration_signature') == sig:
             saved = dict(cached)
             saved['related_articles'] = a.get('related_articles', [])
+            saved['source_comparison'] = cached.get('source_comparison', '')
             saved['section'] = a.get('section', saved.get('section'))
             merged.append(correct_known_name_error(saved))
         else:
