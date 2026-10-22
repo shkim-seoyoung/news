@@ -1,9 +1,106 @@
 {
   "date": "2026-10-22",
-  "updated_at": "2026-10-22T18:57:02.016070+09:00",
-  "article_count": 6,
+  "updated_at": "2026-10-22T19:16:37.591000+09:00",
+  "article_count": 7,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "daf8a52e2558d3",
+      "title": "[리포트] 현대모비스가 꺼낸 '韓, 車반도체 원팀'…'개발·검증·양산' 연결 생태계 구축 - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nVUhmZHNnOUhyai0zRzBUcWZreWxvc2ZkTTFRVWFNNC1YVi1oZkhWRHAwUWw0TWtsalQ5enhJbGVZTThpR0VMa3VtN2lyUlVUOEdEb2VhNDhwZjc5TmpUc3N6WVhVaG8?oc=5",
+      "source": "팍스경제TV",
+      "published": "2026-10-22T18:24:52+09:00",
+      "category": "관심 키워드",
+      "description": "[리포트] 현대모비스가 꺼낸 '韓, 車반도체 원팀'…'개발·검증·양산' 연결 생태계 구축 팍스경제TV",
+      "section": "산업·업무",
+      "related_articles": [
+        {
+          "title": "“차량용 반도체 개발부터 양산까지”..현대모비스, ‘전주기 생태계’ 구축 - 데일리카",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9adEh5UmZHSk1BSGlsSWJyckVIZXJ6Tjk4Q1pucGN0ZjhrWTd4eE9qWEw0dzM2M1RBMlpmbEptcm5rVjVaUUhNTUg1R3Y3bGMyU1FHY096NVZ2SDdpcW9DVTZORW1RNXNKdmFoclFqUzlpRFJWc2c?oc=5",
+          "source": "데일리카",
+          "published": "2026-10-22T03:27:22+09:00"
+        },
+        {
+          "title": "현대모비스, 차량용 반도체 전주기 협력 확대 개발·검증·양산 연결 - 오토레이싱",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByQ09zeDhsWmJXb2Z0SlRZTFItdTFYTndTRW80WHpUS1hSaS1vSThCN1VNbV9zSVdfNi1mTG1xLXFLZ0Fmejl3YjZmb25Idjh6bkJQVkNJUlVxZWlqRjlWNjVqZFlOSlYyN0MxSDBoWQ?oc=5",
+          "source": "오토레이싱",
+          "published": "2026-10-22T08:21:15+09:00"
+        },
+        {
+          "title": "글로벌테크놀로지, 현대모비스 협력 결실…차량용 반도체 첫 양산 - 브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41N0tTbWRuSGxYSjVXYzRuMEc2a09idzN3SlpEWWd5T1gzVUkzUllsaUcwelZORGtDaGJkXzdUaktZbmNFYVBEdFkwSFAtNnJ0VnZycXVaaTJtdw?oc=5",
+          "source": "브릿지경제",
+          "published": "2026-10-22T14:06:00+09:00"
+        },
+        {
+          "title": "현대모비스, 국산 車반도체 13종 개발…2029년 양산차 탑재 - 매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zSGRHZmlvUTd2V19VZUtYSGJvSy12eW1WNXd5cGpyOWhxR3ZINlRSUnpXN24wUERHZWhYLW8ybFhrbkRpeGx0TnI3TmRWV0cySXJDdV9va2dOSFNkRnZISHFsZkc?oc=5",
+          "source": "매일일보",
+          "published": "2026-10-21T21:12:14+09:00"
+        },
+        {
+          "title": "현대모비스, K-車반도체 2029년 양산…13종 만든다 - 헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOZU03UFBadU9Bb0xaV24tZ3h3RFhrX3daM3EyRWFpU3lfM3o1Vk8zbHBFNTNfbjBoU2dOS0NabWhCbFlubm1pRnVKa2hsLTNySFJVX2t3?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-10-22T11:19:40+09:00"
+        },
+        {
+          "title": "현대모비스, 차량용 반도체 협력 생태계 확대 - https://www.autoelectronics.co.kr/",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Bb2lhcmVrS3hCRW5IeFNodmdRRnNhV2pjRDBwTVJCdzVvNGZWdkZMQURFc21EQnhGRnpFSWhxc1NsV09qR1dMLU5iVk9JTnMyQ1RhZXVEVGdmX29vT1V1N3lISE1rbHd2RFdaR0xub215WUNL?oc=5",
+          "source": "https://www.autoelectronics.co.kr/",
+          "published": "2026-10-22T08:59:56+09:00"
+        },
+        {
+          "title": "현대모비스, 국내 차량용 반도체 경쟁력 강화…생태계 구축 '잰걸음' - 백세시대",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YeGdIR29Bem8wYWJDZjRYMzdLeTlGYzU5V1hxNU1lazQ5R19JVXpGZ2MwNkFqZHJVZE5tSnY4UTVTOGMxb3VlbmQ0NmU3SllXTm9CYmRJc05tc1VEUU1yRVVGZkxWRVVTODhF?oc=5",
+          "source": "백세시대",
+          "published": "2026-10-22T14:29:06+09:00"
+        },
+        {
+          "title": "현대모비스 “K-전장반도체 원팀 구축”…전주기 협력체계 속도전 - IT비즈뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8teFRocjJCdTRZS3dKMG9vN1hncWs5OFZJMFZPN2lrcGdpYlR2aHhWdW5XUVdtd21mbmYyUGxEZFEzN1BoaV8yMmVJTTJhanFrWlB3YzRNQ011RVk5Wi1RSHpsWENhODhVRU1RZw?oc=5",
+          "source": "IT비즈뉴스",
+          "published": "2026-10-22T09:00:00+09:00"
+        },
+        {
+          "title": "\"車 반도체 국산화\" 현대모비스, 공조 시동 - 머니투데이 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vQlNvTW9zX1NMajJfeVB5X2FoN3pzcG0xRng4SmdwMU9wQUMyVVBUa0FuVklQdExsR2M2TDR2OE53Y29WdWo0enpUTVRjOG5BckpoUXB2YThGWURpbXdUQVY3cFloLURIMFhLT9IBckFVX3lxTE5QU2FGQ0Q0MkZSSXA1YkpjNnRlRmVIbkhydm8wLVBVR2twRHUwLTI2SElvT1RiX1pwUllRbGJ0anJQYm9lY2xiSFQySmdYT0tXTDd1a0VybWNMNGJ5eTNfWC01d0U2c0dnR2hsQmlyTGdHdw?oc=5",
+          "source": "머니투데이",
+          "published": "2026-10-22T03:50:00+09:00"
+        },
+        {
+          "title": "현대모비스, 차량용 반도체 생태계 전주기 협력체계 구축 - 중앙뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yME9kRmlwZGZULWExOVdVU2dNT3duV1J1NzNPcV9uUl9CQjRBN2EtYUtPWkZ1VXozbm1vRll1ZG1FM3B4U3hLNlZ2S2IzS195UVNoVGVncnRYTHEyYnpfd2pZSWdRdThBZHY40gFvQVVfeXFMT3NYbXNzbkVHbDNWeUdyMXRsenJDc0JiMWVXa2ZuS0VaY1BzQm9JM0VWNEJwY0JHVnFtYlB2aWs3OU12NFZ2aWRBTzBGZTV0R19TdGFaXzNEN0FsQlJKUlUzX3FSNDl3dVhQLXVOS0hB?oc=5",
+          "source": "중앙뉴스",
+          "published": "2026-10-22T10:51:25+09:00"
+        },
+        {
+          "title": "현대모비스, 차량용 반도체 국산화 성과 이르면 2029년 현대·기아차에 본격 탑재 - 조선일보",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84eDdpMjFDYU9VUVpfaE5EOWJNZ2hxLXBfVVFMMS1nTHh1cGtjTGYzaFlYUmtJRVZiZXdIUkx0U1lwUGxCZWJvX2pqY29kZHZCeXc2WDZUOHVzbXZGTVRSdjZOLUJrTHM4UHZjRzUyNlhpbk5LLUREaW5GY3VuRkE?oc=5",
+          "source": "조선일보",
+          "published": "2026-10-22T00:33:00+09:00"
+        }
+      ],
+      "summary": "현대모비스가 국내 차량용 반도체 생태계 강화를 위해 개발부터 검증, 양산까지 아우르는 전주기 협력 체계를 구축한다. 글로벌테크놀로지와의 협력을 통해 첫 양산 성과를 냈으며, 2029년까지 국산 차량용 반도체 13종을 개발해 양산차에 탑재할 계획이다.",
+      "impact": "차량용 반도체의 국산화율이 높아질 경우, 향후 해외 의존도 감소에 따른 부품 조달 리드타임 단축 및 공급망 안정화 효과가 기대된다. 다만, 신규 반도체 도입에 따른 초기 품질 검증 과정에서 생산 라인 투입 시점의 변동 가능성을 모니터링해야 한다.",
+      "importance": "높음",
+      "detail": {
+        "background": "차량용 반도체 공급망의 안정성을 확보하고 국내 기술 경쟁력을 높이기 위한 현대모비스의 전략적 행보.",
+        "key_points": [
+          "개발·검증·양산 연결하는 전주기 생태계 구축",
+          "글로벌테크놀로지 협력으로 반도체 첫 양산 성공",
+          "2029년까지 국산 차량용 반도체 13종 개발 및 탑재 목표"
+        ],
+        "what_to_watch": "국산 반도체의 실제 양산차 적용 범위 확대 여부 및 공급 안정성 확보 속도.",
+        "fact_check": "2029년 양산차 탑재 목표 및 13종 개발 계획은 현대모비스의 공식 발표 내용임."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "4d4bd1b652c5bd1c",
+      "image_url": ""
+    },
     {
       "id": "b06c95a083977d",
       "title": "현대차 주춤·기아 질주, 3분기 실적 엇갈릴 듯 - 동행미디어 시대",
@@ -14,15 +111,81 @@
       "description": "현대차 주춤·기아 질주, 3분기 실적 엇갈릴 듯 동행미디어 시대",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
-      "impact": "AI 분석 대기 중",
+      "summary": "현대차와 기아의 3분기 실적 전망이 엇갈리고 있다. 현대차는 다소 주춤한 흐름을 보이는 반면, 기아는 견조한 실적을 이어갈 것으로 예상된다.",
+      "impact": "브랜드별 실적 차이는 향후 생산 및 마케팅 전략의 우선순위 조정으로 이어질 수 있다. 기아의 판매 호조가 지속될 경우 부품 발주 물량 증가 및 생산 라인 가동률 최적화가 필요할 수 있다.",
       "importance": "보통",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "background": "분기별 실적 발표를 앞두고 시장에서 제기되는 현대차와 기아의 실적 차별화 전망.",
+        "key_points": [
+          "현대차 실적 성장세 둔화 가능성",
+          "기아의 견조한 실적 유지 전망"
+        ],
+        "what_to_watch": "실제 3분기 실적 발표 시 브랜드별 영업이익률 및 판매량 변화.",
+        "fact_check": "실적 전망은 시장 분석에 기반한 것으로 실제 수치는 발표 시 확인 필요."
       },
+      "image_url": "",
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "8b381b83205fe0d5"
+    },
+    {
+      "id": "f47b76d3d19d88",
+      "title": "10월 기준금리 매파적 동결…잠시 쉬어간뒤 11월부터 인상 사이클 재진입 [경제 ISSUE +] - 자투리경제",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94dkNlRlN6MlJkblU5QlFpd3kzNmdrRVFOY05laEp2U0NjZE5rSXZSWk92bGZCQTlLT2N0VmtidnRxRnJXSWpjZXI4WXRYMUtMQks2ZEZuZUVGZlJRQk50ekdzTEZBdw?oc=5",
+      "source": "자투리경제",
+      "published": "2026-10-22T16:38:17+09:00",
+      "category": "경제·금융",
+      "description": "10월 기준금리 매파적 동결…잠시 쉬어간뒤 11월부터 인상 사이클 재진입 [경제 ISSUE +] 자투리경제",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "10월 기준금리가 매파적 기조 속에서 동결되었다. 시장에서는 향후 금리 인상 사이클 재진입 가능성을 주시하고 있다.",
+      "impact": "금리 동결 및 향후 인상 가능성은 기업의 금융 비용 부담과 직결된다. 고금리 기조가 유지될 경우 완성차 할부 금융 금리 상승으로 인한 판매 수요 위축 가능성을 검토해야 한다.",
+      "importance": "보통",
+      "detail": {
+        "background": "통화 당국의 금리 결정이 경제 전반에 미치는 영향과 향후 정책 방향성.",
+        "key_points": [
+          "10월 기준금리 동결",
+          "매파적 기조 유지 및 향후 인상 가능성 시사"
+        ],
+        "what_to_watch": "실제 금리 인상 시점 및 소비자 구매 심리 변화.",
+        "fact_check": "기준금리 결정은 한국은행 금융통화위원회 발표에 근거함."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "826cd243a6aa196c",
+      "image_url": ""
+    },
+    {
+      "id": "c968ba73000ef8",
+      "title": "기준금리 3.00% 동결… 원·달러 환율 1323원대 - 뉴스클레임",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mVVVxVi1WZVJETWREUHZCbGdHRVh3SVgtRk9hdFEyaU1XNzYxbUxhRURudkxIYmJSWl9uVmRtUEZuLWdPY09mdU9sLXpaNzkwejFKRmJwS0NNRFUzdGxma3hZVmlZbDRMbWVnRzZYUGLSAXRBVV95cUxOYmN6MTdxSXZjNnVTVk1mMkdzUEo2aXMtSFZ6dld5dHQ5TXN5bTBuaUZGMVN5dlBuaTE3SWd1cElYUjRSdjF1N0hDVFZBR2FuMW1uS2FpeWdELV9oN09laEk4OE5EMTdVWW1JLVB1N19oY1NxMA?oc=5",
+      "source": "뉴스클레임",
+      "published": "2026-10-22T13:42:43+09:00",
+      "category": "경제·금융",
+      "description": "기준금리 3.00% 동결… 원·달러 환율 1323원대 뉴스클레임",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "기준금리가 3.00%로 동결된 가운데 원·달러 환율은 1323원대를 기록했다.",
+      "impact": "환율 변동은 수입 부품 조달 비용 및 수출 완성차의 가격 경쟁력에 직접적인 영향을 미친다. 환율 상승 시 수입 부품의 원가 부담이 증가할 수 있으므로 환헤지 전략 및 조달처 다변화 검토가 필요하다.",
+      "importance": "보통",
+      "detail": {
+        "background": "금리 결정과 환율 시장의 연동성.",
+        "key_points": [
+          "기준금리 3.00% 동결",
+          "원·달러 환율 1323원대 형성"
+        ],
+        "what_to_watch": "환율 변동성에 따른 수입 부품 조달 원가 변화.",
+        "fact_check": "환율 수치는 시장가 기준이며 변동성이 큼."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "eb1741f02c3b6ec9",
       "image_url": ""
     },
     {
@@ -54,27 +217,6 @@
       "image_url": ""
     },
     {
-      "id": "31bb04aab0ae3b",
-      "title": "한은, 두 번 올리고 숨 골랐다…기준금리 3.00% 동결, 시장은 11월 3.25% 인상에 무게 - 녹색경제신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOTzlCcHpTU09FMlYyY1R4QlBpZGd4QngxYTNRRVRCQWVKa2JXMlRFd1FHclk4b1NWSERTR3BUUWRSZkxvREhFcDlnS3pIdHllb3dqd2lNZEt1a05ReG90eDFaX1g1Tm8?oc=5",
-      "source": "녹색경제신문",
-      "published": "2026-10-22T10:42:59+09:00",
-      "category": "경제·금융",
-      "description": "한은, 두 번 올리고 숨 골랐다…기준금리 3.00% 동결, 시장은 11월 3.25% 인상에 무게 녹색경제신문",
-      "section": "일반 뉴스",
-      "related_articles": [],
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
-      "impact": "",
-      "importance": "보통",
-      "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
-      },
-      "image_url": ""
-    },
-    {
       "id": "5834c45cadde74",
       "title": "한은, 기준금리 3.00% 동결…연내 추가 인상 여부 주목 - 한국아이닷컴",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CWWtfaDE2ZEc4RFJibzZYZ1pCR2lQSkxjal9IaFF0Yk1UVXpJcUIwSEZEMEFZNzV5emxlbHBTNkMzcjVvMmxLUzJLWUt4blBCU0xiemE3aWJZZjZmcnM3U19pU0F2M294a25V0gFvQVVfeXFMTlNrQkVmNU9zYk56UnQ1U2ZRWWExcG9kZXBaSkZxM1NrYnE1XzRVM1pNNWRCby0xQ2x2TmNua2RhZi1NZElpc2Yzd1RoV2x2bGRpOGEzSGtyWFRDbS1jS0dhQkNmYnZWWkR0dG9SOVk0?oc=5",
@@ -83,7 +225,32 @@
       "category": "경제·금융",
       "description": "한은, 기준금리 3.00% 동결…연내 추가 인상 여부 주목 한국아이닷컴",
       "section": "일반 뉴스",
-      "related_articles": [],
+      "related_articles": [
+        {
+          "title": "두 차례 연속 올린 한은, 숨 고르기… 기준금리 연 3.0% 동결 - 한국일보",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91Q2M5OVpkZlN6TGZQTkxnUnN6WHI4WmdHdlpJLVZ3Z2gtN0M5b3ZWSnVCX2owT2FIUGx0dFZMOW50b1M3NER6S0E1bEJlVExKRnJIVmFNaWh1MWRkc19zT3RiSE52TlMxQmEwQVd30gFzQVVfeXFMTWVNc3p3TTFLVDNvRWVIZnZibV91YTJHeF9ZRU13MGI0T29FajNyWlc4SzFaV1JwUFh2MXgxUkZ1WjBnRFR5Q1NUVTYtazV4WFFqVjJYbmpmVl9qbDF1NEZORVZkajhIRFBFVlM0ZmlMMlVSaw?oc=5",
+          "source": "한국일보",
+          "published": "2026-10-22T09:50:00+09:00"
+        },
+        {
+          "title": "한은, 두 번 올리고 숨 골랐다…기준금리 3.00% 동결, 시장은 11월 3.25% 인상에 무게 - 녹색경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOTzlCcHpTU09FMlYyY1R4QlBpZGd4QngxYTNRRVRCQWVKa2JXMlRFd1FHclk4b1NWSERTR3BUUWRSZkxvREhFcDlnS3pIdHllb3dqd2lNZEt1a05ReG90eDFaX1g1Tm8?oc=5",
+          "source": "녹색경제신문",
+          "published": "2026-10-22T10:42:59+09:00"
+        },
+        {
+          "title": "한은, 기준금리 3.00% 동결...\"긴축 기조 유지\" - 뷰어스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01eGl1VTdqY21OdTcxTmNRS2ZpTVZYMkJaaWhPd2JkeGYxOU9HSnRpUVNmOGpBUm8xT3lfVEZ0NHI4cHVaNG9tN1RPbFBDQkFZZlZjWGR5NUo?oc=5",
+          "source": "뷰어스",
+          "published": "2026-10-22T14:36:18+09:00"
+        },
+        {
+          "title": "[이슈앤피플] 한국은행 기준금리 동결…신현송 총재 발언의 의미는? - 매일경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xSHlwMkhTa2dtZkZvdUZwSVI1Tk03OEhwNFJTdDk4OERWLXFhX19pSXdlbXZXX1pXb09EcU1rZncxR2pBaE1IbU1vTF9YUlhNelpvS2MxODJlM0ZFemZlMFlWZ3JpT2F0?oc=5",
+          "source": "매일경제TV",
+          "published": "2026-10-22T16:29:00+09:00"
+        }
+      ],
       "summary": "한국은행이 기준금리를 연 3.00%로 동결했다. 시장에서는 이번 동결을 숨 고르기로 평가하며, 향후 연내 추가 인상 가능성에 주목하고 있다.",
       "impact": "직접적인 업무 영향 확인되지 않음",
       "importance": "높음",
@@ -100,34 +267,6 @@
       "ai_summary": true,
       "integrated_summary": true,
       "integration_signature": "e27e7b05ef472fdf",
-      "image_url": ""
-    },
-    {
-      "id": "8d9bc22e6136c4",
-      "title": "두 차례 연속 올린 한은, 숨 고르기… 기준금리 연 3.0% 동결 - 한국일보",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91Q2M5OVpkZlN6TGZQTkxnUnN6WHI4WmdHdlpJLVZ3Z2gtN0M5b3ZWSnVCX2owT2FIUGx0dFZMOW50b1M3NER6S0E1bEJlVExKRnJIVmFNaWh1MWRkc19zT3RiSE52TlMxQmEwQVd30gFzQVVfeXFMTWVNc3p3TTFLVDNvRWVIZnZibV91YTJHeF9ZRU13MGI0T29FajNyWlc4SzFaV1JwUFh2MXgxUkZ1WjBnRFR5Q1NUVTYtazV4WFFqVjJYbmpmVl9qbDF1NEZORVZkajhIRFBFVlM0ZmlMMlVSaw?oc=5",
-      "source": "한국일보",
-      "published": "2026-10-22T09:50:00+09:00",
-      "category": "경제·금융",
-      "description": "두 차례 연속 올린 한은, 숨 고르기… 기준금리 연 3.0% 동결 한국일보",
-      "section": "일반 뉴스",
-      "related_articles": [],
-      "summary": "한국은행이 기준금리를 연 3.0%로 동결하며 연속 인상 기조를 잠시 멈췄다. 시장은 이를 금리 인상 사이클의 일시적 정체로 해석하고 있다.",
-      "impact": "직접적인 업무 영향 확인되지 않음",
-      "importance": "보통",
-      "detail": {
-        "background": "한국은행의 기준금리 결정에 관한 동일 사건 보도임.",
-        "key_points": [
-          "기준금리 연 3.0% 동결",
-          "연속 인상 후 숨 고르기 국면 진입"
-        ],
-        "what_to_watch": "향후 금리 결정에 영향을 미칠 국내외 경제 지표 변화.",
-        "fact_check": "5834c45cadde74와 동일한 사건을 다루고 있음."
-      },
-      "new_information": "",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "d7e9e22ef3aa7636",
       "image_url": ""
     },
     {
