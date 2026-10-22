@@ -159,6 +159,8 @@ def classify(a):
     body = title + ' ' + desc
     if irrelevant_work_article(a):
         return None
+    if event_anchor(a) == 'mobis-semiconductor-ecosystem':
+        return '산업·업무'
     # Exclude clearly low-value coverage from BOTH sections.
     reject = PROMOTION + ('농구','프로농구','경기 프리뷰','연승','연패','카지노',
         '스포츠','주가,','주가 상승','주가 하락','장중','목표주가','목표가','부품주','관련주','매수 온기','매수세','주가 강세',
@@ -211,7 +213,7 @@ def editorial_score(a):
     if a.get('importance') == '높음': score += 2
     return score
 
-ANALYSIS_VERSION = 'work-perspective-v2-20261022'
+ANALYSIS_VERSION = 'event-groups-v3-20261022'
 
 WORK_PERSPECTIVE_RULES = (
     "업무 영향이라는 표현 대신 업무 관점을 작성한다. 확정된 사실과 조건부 가능성을 엄격히 구분한다. "
@@ -226,8 +228,29 @@ WORK_PERSPECTIVE_RULES = (
     "impact 필드는 기존 사이트 호환을 위해 유지하되 그 내용은 업무 관점으로 작성한다. "
 )
 
+def event_anchor(a):
+    """Identify a concrete announcement, not just a shared industry keyword."""
+    title = a.get('title', '').lower()
+    compact = re.sub(r'\s+', '', title)
+    mobis = any(w in compact for w in ('현대모비스', '모비스', 'hyundaimobis', 'mobis'))
+    semiconductor = any(w in compact for w in ('반도체', '車반도체', '차반도체', 'semiconductor'))
+    event_words = ('국산', '개발', '협력', '동맹', '원팀', '생태계', '전주기', '53개', '13종', '2029', '29년', 'ask', '상용화', '팹리스', '전환', '사업화', '생산우선', '국내생산')
+    if mobis and semiconductor and any(w in compact for w in event_words):
+        # A specific product/vehicle rollout is a different event.
+        if any(w in compact for w in ('ev3', '부분변경', 'led칩', 'led반도체')):
+            return None
+        return 'mobis-semiconductor-ecosystem'
+    # General news: rate decision is one event, even across different wording.
+    if any(w in compact for w in ('한국은행', '한은', 'bankofkorea')) and '기준금리' in compact and any(w in compact for w in ('동결', '유지', '결정')):
+        return 'bok-base-rate-decision'
+    return None
+
+
 def topic_key(a):
     """Conservatively collapse repeated reports of the same clear event."""
+    anchor = event_anchor(a)
+    if anchor:
+        return 'event:' + anchor
     title = a.get('title','').lower()
     if (('현대차' in title or '현대자동차' in title or '기아' in title or 'hyundai' in title or 'kia' in title)
             and ('자율주행' in title or 'autonomous' in title)
@@ -315,8 +338,8 @@ def representative_score(a):
 def choose_for_day(articles, existing, work_limit=12, general_limit=3):
     """Select issue representatives; retain up to three source links per issue.
 
-    Existing article summaries are never rewritten. Related items remain in
-    the archive, and the public payload gets a small related_articles array.
+    Group source articles before selecting a representative; retain links to
+    the underlying reporting in the published JSON.
     """
     by_id = {a['id']: dict(a) for a in existing if a.get('id')}
     for a in articles:
@@ -336,7 +359,11 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
         section = classify(a)
         if section is None:
             continue
-        groups.setdefault((section, topic_key(a)), []).append(a)
+        # A single event may arrive through different RSS categories.
+        # Anchor-based grouping preserves the work-news classification.
+        anchor = event_anchor(a)
+        group_section = '산업·업무' if anchor and anchor.startswith('mobis-') else section
+        groups.setdefault((group_section, topic_key(a)), []).append(a)
 
     ranked_groups = []
     for (section, _), members in merge_same_day_groups(groups):
@@ -357,12 +384,12 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
         representative['group_members'] = [
             {'id': a.get('id'), 'title': a.get('title', ''), 'description': a.get('description', ''),
              'source': a.get('source', ''), 'published': a.get('published', ''), 'url': a.get('url', '')}
-            for a in members[:10]
+            for a in members[:30]
         ]
         representative['related_articles'] = [
             {'title': a.get('title', ''), 'url': a.get('url', ''),
              'source': a.get('source', ''), 'published': a.get('published', '')}
-            for a in members[1:10] if a.get('url')
+            for a in members[1:30] if a.get('url')
         ]
         ranked_groups.append((editorial_score(representative), representative_score(representative), representative))
 
@@ -614,10 +641,10 @@ def main():
             all_saved.setdefault(a['id'], a)
     # Archive first; re-running cannot erase a previously saved AI summary.
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
-    # Exclude exact prior publications before ranking, not after filling slots.
+    # Group ALL current sources first: excluding previously published URLs here
+    # would silently remove valuable related reporting from each event.
     history = recent_history(14)
-    eligible = [a for a in all_saved.values() if not previously_published(a, history)]
-    chosen = choose_for_day([], eligible)
+    chosen = choose_for_day([], list(all_saved.values()))
     chosen = [a for a in chosen if not irrelevant_work_article(a)]
     # Require a genuinely recent publication, not merely a newly collected RSS hit.
     cutoff = NOW - datetime.timedelta(hours=24)
@@ -626,10 +653,14 @@ def main():
         except (ValueError, KeyError, TypeError): return False
     # Strict publication window: never revive old stories just because today's
     # digest contained them. Same-issue follow-ups are reviewed separately.
-    chosen = [a for a in chosen if in_window(a)
-              and not previously_published(a, history)]
+    chosen = [a for a in chosen if in_window(a)]
+    # Skip an event only if every source in the group was already published
+    # and there is no new reporting. A repeated representative may still
+    # carry newly collected related links and must not be discarded.
+    chosen = [a for a in chosen if any(
+        not previously_published(m, history) for m in a.get('group_members', [a]))]
     old_map = all_saved
-    # Reuse previous integrated summary unless today's sources or 7-day comparison changed.
+    # Reuse integrated analysis only when the event's evidence signature matches.
     review_needed, merged = [], []
     for a in chosen:
         sig = integration_signature(a, history)
