@@ -20,16 +20,25 @@
       "description": "30년 공들인 인도 시장 ‘흔들’… 현대차, 20조원·현지화로 맞불 IT조선",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
-      "impact": "AI 분석 대기 중",
-      "importance": "보통",
+      "summary": "현대차가 인도 시장 내 경쟁 심화에 대응하기 위해 20조 원 규모의 투자와 현지화 전략을 강화한다. 시장 점유율 방어와 미래 모빌리티 시장 선점을 위한 대규모 자본 투입 및 현지 생산 체계 고도화가 핵심이다.",
+      "impact": "대규모 투자를 통한 현지 생산 능력 확대는 인도 내 부품 조달 수요를 증가시킬 수 있다. 인도 현지화율 제고에 따른 한국발 CKD 수출 구조 변화와 현지 공급망 내 국내 협력사들의 동반 진출 가능성을 검토해야 한다.",
+      "importance": "높음",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "background": "인도 자동차 시장의 성장과 글로벌 완성차 업체 간의 점유율 경쟁 심화.",
+        "key_points": [
+          "현대차, 인도 시장에 20조 원 규모 투자 단행",
+          "현지화 전략 강화를 통한 시장 점유율 방어",
+          "인도 생산 거점의 미래 모빌리티 생산 기지화"
+        ],
+        "what_to_watch": "투자 집행에 따른 인도 현지 생산량 변화 및 현지 부품 공급망 구축 현황.",
+        "fact_check": "현대차의 인도 투자 규모 및 전략 방향성 확인."
       },
-      "image_url": ""
+      "image_url": "",
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "2aa150296ad912c6"
     },
     {
       "id": "fb947e3da2dbda",
@@ -1661,6 +1670,342 @@
       "published": "2026-10-21T08:14:12+09:00",
       "category": "경제·금융",
       "description": "[환율 전망] 증시 조정에도 역외 달러 매도 추세는 지속 KB Think"
+    },
+    {
+      "id": "c607b937f862eb",
+      "title": "[정국인터뷰] 김성태② \"이재명 정부, 정치 실종으로 국정 난맥…측근 인사에서 벗어나야\" - 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40WjI0U2dXcjNYTmE5WU8yNjlnaXRGbnlpcmtHUlhpeHlyamx3QUhZdXJYeWF5Skk2RVNVU1RyWDd2eWFoVWJEMXl3OC1UaHlOR3JsaFQxeDRvN1BPYVFtOTFiS0MyT3ZUano2Znh3?oc=5",
+      "source": "폴리뉴스 Polinews",
+      "published": "2026-10-23T11:08:11+09:00",
+      "category": "정치·정책",
+      "description": "[정국인터뷰] 김성태② \"이재명 정부, 정치 실종으로 국정 난맥…측근 인사에서 벗어나야\" 폴리뉴스 Polinews"
+    },
+    {
+      "id": "b53978ed223d36",
+      "title": "조현 \"韓, 유엔 직면한 과제 응답할 때…연대 가치 발휘해야\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82bm5QVHpsQVA2MGo4a3lzWGNrcHlXN0w5TVZqTzIybGtZR1dBODZSSjRXQ0haaUk4Sk9EdnNzc0ZCX1c3UnlGUVFHZE1vSG5uRTl4VUtTY3ZGdC1FMW9mZk41SGg1bGV0V3Nta1A1TzZ4YVhxQXRwVNIBeEFVX3lxTE82bm5QVHpsQVA2MGo4a3lzWGNrcHlXN0w5TVZqTzIybGtZR1dBODZSSjRXQ0haaUk4Sk9EdnNzc0ZCX1c3UnlGUVFHZE1vSG5uRTl4VUtTY3ZGdC1FMW9mZk41SGg1bGV0V3Nta1A1TzZ4YVhxQXRwVA?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-23T11:08:04+09:00",
+      "category": "국제·외교",
+      "description": "조현 \"韓, 유엔 직면한 과제 응답할 때…연대 가치 발휘해야\" 뉴시스"
+    },
+    {
+      "id": "7829a6f67674c1",
+      "title": "\"국민 살림살이 좋아질 것\" 20%...향후 1년간 한국 경제 좋아질 것 27%에 불과 [한국갤럽] - 중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQWTZPV0JSVVRyb3Z1YUFZWTZVZEFOcVE4MTBlMndCRWFCT2twMUZNbHpENWdBVWxsZUpIZk0zOXdMVUhjbkhMdXZpVnk5YmJucVhsLU13VGwzQi1LSE5qNlIxczhSSHo0Um1fa1dWX3lWWGxDTkExeXRXQ3dsVjRtM2ZOcllTY2I0R3dsUDhMNTB0WmRnVEhiTGt0RDg3RGtUREtKVzBORHFEam45ZzdfTmtaaXVjcmlKOW5NVmswWkQ2aGRTcXZHa3JDODlXWHd5dVpBZzQwUW5fVE9jSERXN1A4dWpSMGdQU2J1MmZsakNEY1BOY1RNdUhtNzAtbUhQdlAyNGhEMXRuTWwxUVlhMkhaelQwMEhrNFJnNU1WVjlTa20zY1JaVUlKX0tlQlgtc0dzcW9MQzh5TmVvTkNUbWtyTVE2aE5GeWg5WkNZWXB5MW5NMTRTTi11V2Q1Ul9ieWxfTnZ0MmlCYjRiWkhtdVFNVEFyMVVhUzQ1SzNOaFo2b0xLNGNIOTZaX3cySTA?oc=5",
+      "source": "중앙신문",
+      "published": "2026-10-23T10:57:34+09:00",
+      "category": "정치·정책",
+      "description": "\"국민 살림살이 좋아질 것\" 20%...향후 1년간 한국 경제 좋아질 것 27%에 불과 [한국갤럽] 중앙신문"
+    },
+    {
+      "id": "aee950e181563f",
+      "title": "李대통령 지지율 40%…7주 만에 40%대 회복 [한국갤럽] - 중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GVTBGaWRXMzdIU2xBMGpFMWllZklKQnc5bGhLWjNHN0t3czlFSnBUdGlGWjBXUnByME5QXzU3Mklzd3JRYkMxOS1YR0hIV0F0elhySlZn?oc=5",
+      "source": "중앙일보",
+      "published": "2026-10-23T10:48:48+09:00",
+      "category": "정치·정책",
+      "description": "李대통령 지지율 40%…7주 만에 40%대 회복 [한국갤럽] 중앙일보"
+    },
+    {
+      "id": "0ad0e097985546",
+      "title": "정부 ‘코스피 8000’ 띄우기… “세계 어느 나라도 안 해” - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ3pFVFNmMGtiTnQ0cFpBVXl3RHd2Q3ZVTW12NkFEMEwxb1c2eVJrMnV3QnQ5OV9tRGxvS2VkcUEtdU1OLVZQZXhEY1R1SmxibExaZHBDVVlFWGlWNU1UWFZmaDNKWW81S3huc3NEZ1B2eTA4UWZ1QkxjVWQ4MC10Q3YzN19Rdw?oc=5",
+      "source": "조선일보",
+      "published": "2026-10-23T09:56:00+09:00",
+      "category": "정치·정책",
+      "description": "정부 ‘코스피 8000’ 띄우기… “세계 어느 나라도 안 해” 조선일보"
+    },
+    {
+      "id": "d97fc8da3311b1",
+      "title": "현대모비스 주가 하락 중 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sTmpJTXlfbGo4TVM3OWlJMHdRSTRoTnExSUJPcnFOUTZUWDRSdjdQMENwWHRqaHBfVGRnMml0QkJRTjdhN0tIcDdnd291aVpRaVhZMm9YcTRoZ29I?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-23T09:40:48+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 주가 하락 중 아시아뉴스통신"
+    },
+    {
+      "id": "38039eef7df0d0",
+      "title": "[KBL] LG, 현대모비스 잡고 3연패 탈출..마레이 역대 한 경기 최다 34리바운드 - 한강타임즈",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DN3BwSGtsLTljajMtNHlWMk9ZcmxZVktoRW1VZU5ZMVNxM1Vra25hQVJ4SXVSRzd5RDAxT0pud29qOFprM2tNYTY4dlhTOUUxcUxKaVRFdjR6UkVpM0xOZVRKR0JpWGpmQ2g0?oc=5",
+      "source": "한강타임즈",
+      "published": "2026-10-23T09:26:37+09:00",
+      "category": "관심 키워드",
+      "description": "[KBL] LG, 현대모비스 잡고 3연패 탈출..마레이 역대 한 경기 최다 34리바운드 한강타임즈"
+    },
+    {
+      "id": "aee5d8f0beb8fb",
+      "title": "모두가 미쳐갈 때, 평범함을 지키는 사람이 천재다 - 최보식의언론",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TMHRrcU5mQWhYWHM3MHhfajJJMEl2Q0dhVHo0Q0lKeVB0NUM3Nm9hUW1QLUo0Sk0xZk9TSEc4Y0htNFd3a0JQdEpXQ21IN2lKbUNkYU51QkVOM1M0T2lTdWpJR0d2SkYt0gFoQVVfeXFMTVMwdGtxTmZBaFhYczcweF9qMkkwSXZDR2FUejRDSUp5UHQ1Qzc2b2FRbVAtSjRKTTFmT1NIRzhjSG00V3drQlB0SldDbUg3aUptQ2RhTnVCRU4zUzRPaVN1aklHR3ZKRi0?oc=5",
+      "source": "최보식의언론",
+      "published": "2026-10-23T09:17:46+09:00",
+      "category": "정치·정책",
+      "description": "모두가 미쳐갈 때, 평범함을 지키는 사람이 천재다 최보식의언론"
+    },
+    {
+      "id": "a5287d94f8585d",
+      "title": "[미르의 글로벌 레이더]인팩, 美오번 자동차부품 공장 개소…현대차·기아 현지 공급 기반 확대 - 미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1R0NMdlZfc3lXUkxwVGlxVG5WOS1NaDdRX2hIOUJ6b2RJUGREb25fNzZwRGxUZXRqY0JtU3drUzNSM3ZCdEFBXzRnbDI3ZnRmZmpKTtIBWEFVX3lxTE91cnJtcWhmYTJHczA5VzJ6RDk4TUhxZTI3V1REX0tUUUVPaW43YV9pbTVQLUl6T1RaT2lBbkhUV1Q0ZzVxMUVsenVrOVpmNGpfbDZZTkpGUUY?oc=5",
+      "source": "미디어펜",
+      "published": "2026-10-23T09:01:58+09:00",
+      "category": "자동차",
+      "description": "[미르의 글로벌 레이더]인팩, 美오번 자동차부품 공장 개소…현대차·기아 현지 공급 기반 확대 미디어펜",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "자동차 부품업체 인팩이 미국 앨라배마주 오번에 신규 공장을 개소하며 현대차·기아의 현지 생산 거점 대응력을 강화했다. 이번 공장 가동을 통해 북미 시장 내 부품 공급망을 안정화하고 현지화 전략을 가속화할 전망이다.",
+      "impact": "현지 공장 가동은 한국발 CKD 물량의 점진적 감소 요인이 될 수 있으나, 현지 조달 부품의 품질 안정화가 선행되어야 한다. 향후 현지 생산 부품의 공급 비중 변화에 따른 국내 부품사들의 수출 물량 변동 여부를 모니터링해야 한다.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차·기아의 북미 생산 확대에 따른 협력사들의 동반 진출 및 현지 공급망 구축 사례.",
+        "key_points": [
+          "인팩, 미국 오번 자동차부품 공장 신규 개소",
+          "현대차·기아 북미 현지 공급 기반 확대",
+          "북미 시장 내 부품 현지화 전략 강화"
+        ],
+        "what_to_watch": "현지 공장의 양산 안정화 속도 및 현대차·기아 북미 공장으로의 부품 공급 비중 확대 여부.",
+        "fact_check": "인팩의 미국 오번 공장 개소 사실 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "1b958c69f1373af8",
+      "image_url": ""
+    },
+    {
+      "id": "3dd96be87662c8",
+      "title": "안정환 고백 \"끊었던 담배 피우고 눈물도 흘렸다…우리나라에 이런 일이\"(인터뷰①)[용형 200회] - SPOTV NEWS",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fZTV1aEtnQ0hoZy10XzZETFpIMm9KdVhYMURuQ2ZlMV9CZzdTNndIaGhUTkV6YnNPVEl3VGlENmd3Z0JHSzN0a2U5TkZYR3A4b2t1N3JYZzlTS3NCR2o1NXhwR0dGa1FXSVE2VWNTanc?oc=5",
+      "source": "SPOTV NEWS",
+      "published": "2026-10-23T09:00:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "안정환 고백 \"끊었던 담배 피우고 눈물도 흘렸다…우리나라에 이런 일이\"(인터뷰①)[용형 200회] SPOTV NEWS"
+    },
+    {
+      "id": "3bb3975b0f17ad",
+      "title": "국감 막판, 이재명 정부 정책 검증대…재정 퍼주기·부동산 실정·사이버 안보 도마 - 독립신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1ek11c0syLU5TQlE2Mm5CZ3dBNVhOSWZLWXZ4YWNSUlBQaDhaS1VCbjZqVUkyZVNVeGFZaWpENlR1LW50RmRldm1KMmNsaEwzbVdCQ1p6ZXpscnh1ZUY1WkpWdV9OUWpMbUFv?oc=5",
+      "source": "독립신문",
+      "published": "2026-10-23T08:52:28+09:00",
+      "category": "정치·정책",
+      "description": "국감 막판, 이재명 정부 정책 검증대…재정 퍼주기·부동산 실정·사이버 안보 도마 독립신문"
+    },
+    {
+      "id": "a15b91df5dc62f",
+      "title": "“한국서도 몽골 대표하는 인재로”… 한국항공대, 수키 수흐볼드 주한 몽골대사 초청 ‘준법·안전’ 캠페인 성황 - 스마트경제",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54TF9nY002TmtFV01ITEw3a3JaNWtfQzdqUnZ4V3dTcm1RdC1JbVFCS2FabkZFdzVlaVpibWs2NEZYMm41cnpFcmh0SzVRY2QyUkM2eDdNU3hlYzBQamdQV0Nrc2oxUHZlc0VmVElvdnk?oc=5",
+      "source": "스마트경제",
+      "published": "2026-10-23T08:35:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "“한국서도 몽골 대표하는 인재로”… 한국항공대, 수키 수흐볼드 주한 몽골대사 초청 ‘준법·안전’ 캠페인 성황 스마트경제"
+    },
+    {
+      "id": "723905638f6074",
+      "title": "“We cannot sell more cars because we are short on batteries” says Tesla···Is it an opportunity or a burden for K-batteries - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWmFFS05xMGN6TE5VQ2lwSXluZFAyYW5LUjliUXlvYS1aWElaU2kzS05BVEZwVEt4OUpVNXJ6NGJ3MDBqSWx2ampSSEYwUG1RU0s5OE5XVERkQmpOZ2lsSFhkZWdKbzBUa21LQWwxMjlOdUF4RlJRX3dWZDgwY3RNeWpzdkJhUDA1SWppSjRub05SOXY0LXpYbXlZbGpsOVB3b1pBeGpkempubWtlbnZKQw?oc=5",
+      "source": "경향신문",
+      "published": "2026-10-23T08:28:00+09:00",
+      "category": "전동화",
+      "description": "“We cannot sell more cars because we are short on batteries” says Tesla···Is it an opportunity or a burden for K-batteries 경향신문"
+    },
+    {
+      "id": "38e7735082f91b",
+      "title": "보령시, 국회의원 정책간담회 개최 - 글로벌뉴스통신GNA",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHbDR2MElNbkFzREJmSW1pei1vNlhqam5UWmJDaVlGODlUU3ZNTlRiOHZCVG9zODIwTHZDMlVQVmVWVEl0bWQzc05LOUUwS0ZvZXBOY2JKQWxoYWVSSEoxVW0xc0o4OGF6dmF1am9aVWcyYU9p?oc=5",
+      "source": "글로벌뉴스통신GNA",
+      "published": "2026-10-23T08:21:26+09:00",
+      "category": "정치·정책",
+      "description": "보령시, 국회의원 정책간담회 개최 글로벌뉴스통신GNA"
+    },
+    {
+      "id": "a949e0b0fdc9ef",
+      "title": "이 대통령, \"국민이 체감할 수 있는 시그니처 정책 중요\" - 자유방송",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zSm14cUlhN2NfS205YUFpT1hmSWR3UGJKQWExdWdSOTQ3cjFPMndwNl9tQm1EeTh3VzhJQjFOV0dxd3ZYRXpSVzF2RzlwbnNhREFYNHktbmJsWGtmYl9PWjdmcFZlQQ?oc=5",
+      "source": "자유방송",
+      "published": "2026-10-23T08:06:10+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령, \"국민이 체감할 수 있는 시그니처 정책 중요\" 자유방송"
+    },
+    {
+      "id": "f4e32475ed5d1f",
+      "title": "현대차·정부, 차량용 반도체 국산화 시동…첫 탑재보다 어려운 ‘양산의 벽’ - 이지경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DWUdfVEJBUUtxZ0NWMXdlTEVBdHVOV3VXSmpHQ2NwZ092V1hCamNLQnNmODFRVlowMU9PODNQS3gtZGlXVVo0WkVtTkxZaEZ0YUJXS1d5MVFKcnF2Q2Q1bG1wS25iUUdRSlRTRkJB?oc=5",
+      "source": "이지경제",
+      "published": "2026-10-23T07:30:00+09:00",
+      "category": "자동차",
+      "description": "현대차·정부, 차량용 반도체 국산화 시동…첫 탑재보다 어려운 ‘양산의 벽’ 이지경제"
+    },
+    {
+      "id": "8d3bb379d84361",
+      "title": "[정치人터뷰] 국민의힘 김태규 의원 “李대통령 재판 재개 시 임기 끝날 수 있어” - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GdV9tWkdfUy10UUJISHpuZ19qOUhTel8tUTRPbUNoTUpEOHZraTNQdjRPdVlrdS0tVmlNd19SU0kwUDNlRE5mOWNYRzVKYkdRQVhwcXdyVmV4cDVyb1M5U3VIb3dNZ0M4T3c?oc=5",
+      "source": "천지일보",
+      "published": "2026-10-23T07:00:00+09:00",
+      "category": "정치·정책",
+      "description": "[정치人터뷰] 국민의힘 김태규 의원 “李대통령 재판 재개 시 임기 끝날 수 있어” 천지일보"
+    },
+    {
+      "id": "112fdd63f12087",
+      "title": "[오늘의 국감] 국감 막판, 미래대응기금·부동산 정책 격돌…PHP 해킹 대응도 도마 - 뉴시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hRXVQdk5qb3RLd0FiNFBmTEtEbDJaQTF4VFFFd0hZdG1US1F3Z3lHeVB5ZHlMWTBSRUtDMW4tMDJqc29BemlOYnlrLUpUclJaRHJBbGVnclhndjFOUHB3aklTN0VMZHlqQXNJ?oc=5",
+      "source": "뉴시안",
+      "published": "2026-10-23T06:47:05+09:00",
+      "category": "정치·정책",
+      "description": "[오늘의 국감] 국감 막판, 미래대응기금·부동산 정책 격돌…PHP 해킹 대응도 도마 뉴시안"
+    },
+    {
+      "id": "149b19bc208a80",
+      "title": "박희승 의원 “SAF 혼합의무 2030년 목표 연내 확정해야”…원료 해외 유출 대책 촉구 - 투데이안",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIVXNkU0JSMjdxb1ZNS2dJT1JDZFhkMW1SVkpMMEgtT2NYZTBqbXc0U3M1SXdLNXJFSjlVQS1mUXRVWHNXM1dZNGt0ck9PLTBkMHF1dkdmbkh6dVMyZWJmTXhMUm51cEdaOVE?oc=5",
+      "source": "투데이안",
+      "published": "2026-10-23T06:23:48+09:00",
+      "category": "정치·정책",
+      "description": "박희승 의원 “SAF 혼합의무 2030년 목표 연내 확정해야”…원료 해외 유출 대책 촉구 투데이안"
+    },
+    {
+      "id": "ec5a83488a6014",
+      "title": "[사진] 울산 현대모비스 선수들, 아쉬운 패배 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HVU54UE1EcFo0X0tHbkZXWk5QQ1dTWHdPQ1F1M3lmWHpEQTdZTXRkRHJqejl0RmNleHZTWHVzOHAxYkM0bEY5MUVvOHVHYWlpVzZHZWQzT3JzN0N5N0NoeFU0YnV6cmFScFHSAW9BVV95cUxObzJHUUxvekc2QTdPc3JkSnpoUFc5MF9vNzBsaG15VEdfMURuYXRjWFlvRkg3VkZDSFduZmNJdmlZdTMtUUR2UXlKUm5wbVFrWGMxWDdhV1BmaXZGV1FJU3V0clJZYzUwT080MTRpdUE?oc=5",
+      "source": "머니투데이",
+      "published": "2026-10-22T21:07:00+09:00",
+      "category": "관심 키워드",
+      "description": "[사진] 울산 현대모비스 선수들, 아쉬운 패배 - 머니투데이 머니투데이"
+    },
+    {
+      "id": "9b4e07bc05408b",
+      "title": "[단독] 코스피 급락에 '패닉'…개미들 14조 들고 몰려간 곳 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1WFJ0MDhzWWNSVTVKOVVrMWN4bGFLNEViQWdyYlM4Sm1UWWlPRDA5eHE0UlR0dlZ0SHo3Q2tzNmp1dFNkNEpycktvRWpzeG15V282RkRPZnFqQQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-22T17:53:37+09:00",
+      "category": "경제·금융",
+      "description": "[단독] 코스피 급락에 '패닉'…개미들 14조 들고 몰려간 곳 한국경제"
+    },
+    {
+      "id": "1ea723bb7e9cf5",
+      "title": "'3.52% 급락' 코스피, 5,500선 '후퇴'…원·달러 환율은 연저점 경신 - 청년일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPV3JCMzZVeHAyYzRtNFZzdEdIMTFmenc5T2hQTVUwTVNfVWFnb19weEFiQnB0US03dVk4YnEzeWNSODVzTlk1Vy1aT3YwNWx6cHF2dFJzaVlzb2NaZ1ZUNzdoanNfX0E?oc=5",
+      "source": "청년일보",
+      "published": "2026-10-22T17:52:23+09:00",
+      "category": "경제·금융",
+      "description": "'3.52% 급락' 코스피, 5,500선 '후퇴'…원·달러 환율은 연저점 경신 청년일보"
+    },
+    {
+      "id": "8ec3b538099ea8",
+      "title": "‘서울 월세 평균 71만원’ 한 달 새 30%나 뛴 곳은 어디? - 네이버페이 머니스토리",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1taGpqbmRqRUdPcXpaUWFZdm9mRFQ4eVBWeDlXNjJEYkZaY0Q0Ni01bEdqUVV4NGtsbjVkZ3haZGZreV9TY21WaDFQVnA0bTVOSm9FZzNzaGs?oc=5",
+      "source": "네이버페이 머니스토리",
+      "published": "2026-10-22T17:36:08+09:00",
+      "category": "경제·금융",
+      "description": "‘서울 월세 평균 71만원’ 한 달 새 30%나 뛴 곳은 어디? 네이버페이 머니스토리"
+    },
+    {
+      "id": "1ffa0a55ac4f53",
+      "title": "코스피, 美 증시 상승·한은 금리 동결에도 '5600선 붕괴'…코스닥 3.62%↓ - 프라임경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xZ2tHNC1wT0RzREZGTDMzNnFnbXhwWWZHSks1ZmJDSm5lUWlETHVFQWYtY0dLZG1MTzN4Uzc1OHVzc2RKWjZqdEtzSFpMa0wzWUV0VWx6S1JFc3VQdnhrWVBGN3J1djZiNDlYZA?oc=5",
+      "source": "프라임경제",
+      "published": "2026-10-22T16:17:39+09:00",
+      "category": "경제·금융",
+      "description": "코스피, 美 증시 상승·한은 금리 동결에도 '5600선 붕괴'…코스닥 3.62%↓ 프라임경제"
+    },
+    {
+      "id": "5ddd46e07452be",
+      "title": "[증시 레이더] 코스피 ↓ 5,533.77⋯반도체 급락에 하루 만에 상승분 반납 - 포커스온경제",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41U1ZVWU11bDNfSmltS2VaSXF1NmNud0RnTTduMmcyZ29ra1I0d0tjV3FHX0VDM0hneE0tOUJRbzUtZEJwWlNSR2p0WVZYR1Q0c2ZtQ3oyczBzZXVqY2c?oc=5",
+      "source": "포커스온경제",
+      "published": "2026-10-22T15:59:10+09:00",
+      "category": "경제·금융",
+      "description": "[증시 레이더] 코스피 ↓ 5,533.77⋯반도체 급락에 하루 만에 상승분 반납 포커스온경제"
+    },
+    {
+      "id": "0a15c561ded263",
+      "title": "[일문일답] 한은 총재 \"환율, 예측가능성 중요…주가, 실물경제에 영향\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkRHlVbms3Y0lfbmJSZ0gzYi1NeWJiUU5ON2JXRnlRSVl5d1VVRWtsa3doT2FaVDdtQ0RVbU5rQk02QnpZYkt3dkhSOHYyUURMWDBEX0dJRDQ3TnZSNVRxcNIBYEFVX3lxTFBkRHlVbms3Y0lfbmJSZ0gzYi1NeWJiUU5ON2JXRnlRSVl5d1VVRWtsa3doT2FaVDdtQ0RVbU5rQk02QnpZYkt3dkhSOHYyUURMWDBEX0dJRDQ3TnZSNVRxcA?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-22T15:46:03+09:00",
+      "category": "경제·금융",
+      "description": "[일문일답] 한은 총재 \"환율, 예측가능성 중요…주가, 실물경제에 영향\" 연합뉴스"
+    },
+    {
+      "id": "90dfc2438e9b7f",
+      "title": "신현송, '호미질의 결실'로 선제대응 자평…환율 하락은 양극화 해소 효과도 | - 연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YQ0NKVjdQZkQ2TUluVm80NmRhVHo3bUJiNldKWGM4dVhIRk1qbi1kTmdyQ3RvdmFtaDJlNHM1anlhQTVRWTBiN05GTEd3a05xQ2QxVkx4Wmo4RU1fdktDRjVOZ2NmWDI5TnowQUFDMmxKQm5X?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-10-22T15:39:27+09:00",
+      "category": "경제·금융",
+      "description": "신현송, '호미질의 결실'로 선제대응 자평…환율 하락은 양극화 해소 효과도 | 연합인포맥스"
+    },
+    {
+      "id": "436ed2a69bb545",
+      "title": "기준금리 인상 멈춘 한국은행…긴축 속도 조절 | - 세상을 바꾸는 시민언론 민들레",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tV3VyR1ZrdDdCUkk2MXo5cFBEZEFfS3Q1TWRQQ3VPbWtFV1hncHlSQ2thendaR2hiMGpQRDRFRHVoT1Q1UmFQQlU5Ul93WEhVaHhnbUNJbFJsNlp3OFo3X2lqU2RHNEhDWWlmSkozeXo?oc=5",
+      "source": "세상을 바꾸는 시민언론 민들레",
+      "published": "2026-10-22T13:46:33+09:00",
+      "category": "경제·금융",
+      "description": "기준금리 인상 멈춘 한국은행…긴축 속도 조절 | 세상을 바꾸는 시민언론 민들레"
+    },
+    {
+      "id": "18b43dc3f059f9",
+      "title": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은? - 네이버페이 머니스토리",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tVG51ZUwybHpPWGpjLWVNNEY1dmZVa0V5bGh1UkZYNTJRZ01Na2xnOGZzbC1kUVh3OTJsNTRrZXNUVmptbHZJOXNwZlJJVmRXQWt0VmRSdElVQQ?oc=5",
+      "source": "네이버페이 머니스토리",
+      "published": "2026-10-22T12:09:24+09:00",
+      "category": "경제·금융",
+      "description": "기준금리 올리던 한은, 이번엔 3.00% 동결…그 배경은? 네이버페이 머니스토리"
+    },
+    {
+      "id": "3289b65fc98895",
+      "title": "경기연구원, 보편적 안전권 실현 위한 정책 11건 제안…경기도 선제 시행 강조 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uVmIwU0EtSjg4dkFmSjRDQjRxTUVnZnBJcjVRUDJfQkNWa2F1X1VVYmNfWkMtT2xxMmpsSVkwU2ZvaXo1eWttcV9KUEVGejcxazllbWl2aDhnZDF0?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-22T11:18:06+09:00",
+      "category": "국내 주요 사건",
+      "description": "경기연구원, 보편적 안전권 실현 위한 정책 11건 제안…경기도 선제 시행 강조 아시아뉴스통신"
+    },
+    {
+      "id": "21f0100bb2ca90",
+      "title": "한국은행, 기준금리 3.00% 동결…다음달 추가 인상 가능성 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQVY2T01rMUN2bHZnMTNWU0JleDRSYXhvWVptWndMNU5DcERDR2hXbHlIbnMtd3REU2pIWTYyeXVMbEJiWTdZUDV4M3l4U19jZ2N1aDE3Y096QQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-22T09:59:25+09:00",
+      "category": "경제·금융",
+      "description": "한국은행, 기준금리 3.00% 동결…다음달 추가 인상 가능성 한국경제"
+    },
+    {
+      "id": "789772e568ce0d",
+      "title": "한은, 물가·집값 경계 속 기준금리 동결…긴축 속도조절(종합) - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KQkNZNnZqWnFRMS1XcU1yR2IzX0N5SU5sdE1nRXY5eEZ3TXQtMi1xOEY5OEFicjZROVZRTXNVRWQ2THN0eHRDMDZvaTFEbVZZc3pST05pN2R2eEXSAWBBVV95cUxQQk42QzZWeW5wMnhVck15c19kU3NYYnhLeTA5OS1KNHBoMXpYZHU1SEJ2S2k2MU41R2lWVVNCUnFEdFV6eTFFNUg2QzVGRkxtc2dYN3B0QnpHMFZ0VnhQbEs?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-22T09:51:04+09:00",
+      "category": "경제·금융",
+      "description": "한은, 물가·집값 경계 속 기준금리 동결…긴축 속도조절(종합) 연합뉴스"
+    },
+    {
+      "id": "1b8df0743327ad",
+      "title": "오리온 카스타드, 해외서 더 잘 팔린다…3개국 생산라인 증설 - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EczlTaFhDX2wtd2ZvRGozd1ZRWmUwakM1SXAwVTY2SmtYdEdvSEEzdnlXNExRS0VWaEpOc3pNcnZoUV9EVmpLOEZzTWJQVjNmS01OOFJjTmdDMEdhSW93SkdUQ05mX3ZHbFVPNkVlb2puRGhC?oc=5",
+      "source": "이투데이",
+      "published": "2026-10-22T09:38:00+09:00",
+      "category": "자동차",
+      "description": "오리온 카스타드, 해외서 더 잘 팔린다…3개국 생산라인 증설 이투데이"
+    },
+    {
+      "id": "2d9ccb044c5f99",
+      "title": "[데스크 시각] K자동차, 건투를 빈다 - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUxJUWlyWXRxWlZyZ3UtekY0MkpEVjlGcXB4WFVsU2FERHc1OWtCSnFGQWtyVXg5R2ptdVpiNl9aNDYzeV9fWGE1WkhHdGJJMmt1WDdPOE00czJSVEl2UXFjbUVkbkVzX0JuZFgySnNrWmk2YW9QTUJuVW1JVDdRaDNNWFpGbUswY3RlMDV5amk2ejgyQkwtSUNR?oc=5",
+      "source": "서울신문",
+      "published": "2026-10-22T00:46:11+09:00",
+      "category": "CKD·물류",
+      "description": "[데스크 시각] K자동차, 건투를 빈다 서울신문"
+    },
+    {
+      "id": "2fcc345309e087",
+      "title": "현대모비스, 차량용 반도체 13종 개발 착수...9종 적용 차종 선정 - 글로벌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4cDlpS010SkhOd0VzUkl6a3FDTVZrRHJPaFRmZ216Q2dwVTJnb3kwNVJHSkRmT2NqYmFPdXFTZGZmZk1yNVpxLTVBVmhsM0ZPbW92V19hRGdtUWg3MFVNSnBxMFEyWWpMbTFxWg?oc=5",
+      "source": "글로벌경제신문",
+      "published": "2026-10-21T17:38:06+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 차량용 반도체 13종 개발 착수...9종 적용 차종 선정 글로벌경제신문"
     }
   ]
 }
