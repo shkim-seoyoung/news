@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-24",
+  "updated_at": "2026-10-24T07:17:54.839168+09:00",
+  "article_count": 6,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "7d39ebad63ff45",
+      "title": "[경제pick] 금리 묶이고 증시 폭락···반도체 호황에도 엇갈리는 체감경기 - 글로벌E",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11MjF1bTNnekY2RGNQeFd1c2J2c1IwaEUtbnpqbFhSSFRXNk5kTmZJZEY0NkFBVWVELWQ0aFY1LTkxNE10N1JrMzZWdTVkbVlJaDdjVS1fYmRFdmpyRUN1T1ZFcU91NzdtWk13UG5rNNIBb0FVX3lxTE11MjF1bTNnekY2RGNQeFd1c2J2c1IwaEUtbnpqbFhSSFRXNk5kTmZJZEY0NkFBVWVELWQ0aFY1LTkxNE10N1JrMzZWdTVkbVlJaDdjVS1fYmRFdmpyRUN1T1ZFcU91NzdtWk13UG5rNA?oc=5",
+      "source": "글로벌E",
+      "published": "2026-10-23T19:06:27+09:00",
+      "category": "경제·금융",
+      "description": "[경제pick] 금리 묶이고 증시 폭락···반도체 호황에도 엇갈리는 체감경기 글로벌E",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "반도체 부문의 호황에도 불구하고 고금리 기조 유지와 증시 급락으로 인해 국내 체감경기가 엇갈리고 있다. 수출 중심의 반도체 산업과 내수 중심의 일반 제조업 간의 경기 온도 차가 심화되는 양상이다.",
+      "impact": "반도체 호황은 관련 부품 및 장비의 물동량을 유지시키나, 내수 부진에 따른 소비 위축은 완성차 및 일반 소비재의 생산 계획 조정 가능성을 시사한다. 향후 금리 정책 변화에 따른 내수 소비 심리 회복 여부를 모니터링할 필요가 있다.",
+      "importance": "보통",
+      "detail": {
+        "background": "고금리 장기화와 글로벌 증시 변동성이 국내 실물 경제에 미치는 영향 분석",
+        "key_points": [
+          "반도체 수출 호조와 내수 경기 침체의 괴리 확대",
+          "고금리 기조가 기업 투자 및 가계 소비에 미치는 부정적 영향",
+          "증시 폭락에 따른 자산 효과 감소와 경기 불확실성 증대"
+        ],
+        "what_to_watch": "금리 결정 및 주요 수출 지표의 향후 추이",
+        "fact_check": "반도체 부문 실적과 내수 경기 지표 간의 상관관계 확인"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "89d06f6281e20bf0",
+      "image_url": ""
+    },
+    {
+      "id": "aef6015eb854df",
+      "title": "현대차·기아 글로벌 생산망 확대…국내 자동차 산업 지형 변화 - 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96WkNpdFpSdFR1OEp0T1RoTnBaUjRwOVVaazVZZi0zTHRwWVhTM3dtSm5UVi1MUDVmRUk2WTdycmhwUWRkNmRuTW1Mdlk5cFg2d0w3c2RQbjI4TjUyUW0wQS1ycnZfM25lZW02WmFn?oc=5",
+      "source": "폴리뉴스 Polinews",
+      "published": "2026-10-23T18:47:30+09:00",
+      "category": "자동차",
+      "description": "현대차·기아 글로벌 생산망 확대…국내 자동차 산업 지형 변화 폴리뉴스 Polinews",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차·기아가 글로벌 생산 거점을 확대함에 따라 국내 자동차 산업의 생산 및 공급망 지형이 변화하고 있다. 해외 현지 생산 비중 확대는 국내 수출 물량과 부품 조달 구조에 장기적인 영향을 미칠 전망이다.",
+      "impact": "해외 생산 거점 확대는 현지 부품 조달 비중을 높여 한국발 CKD 수출 물량에 변동을 줄 수 있다. 국내 생산 기지의 역할 변화에 따른 부품 공급망 재편 및 물류 경로 최적화 여부를 검토해야 한다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차·기아의 글로벌 생산 전략 변화와 국내 산업 생태계 영향",
+        "key_points": [
+          "글로벌 생산망 확대에 따른 국내 생산 비중 변화",
+          "해외 현지화 전략이 국내 부품 협력사에 미치는 영향",
+          "자동차 산업 공급망의 구조적 변화 가능성"
+        ],
+        "what_to_watch": "해외 공장별 생산량 변화 및 국내 부품 수출 추이",
+        "fact_check": "글로벌 생산 거점 확대 계획의 구체적 내용 확인"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "1096903ffa461948",
+      "image_url": ""
+    },
+    {
+      "id": "837d46556dae96",
+      "title": "현대모비스 32만6500원…전동화·부품 수익성 점검 - 잡포스트",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zZTY1RG5sRlkxajdZRG1NLWIxTnR1ZWxpczdPdjI2N0tCMnB3NHl5eDVzZFgxMGtlM3hPdUlBOUkxVm1HS240TkFfa1B1MmxmenlpZ3pncTMyNG5YRlVNZk56dkc2eUF2UWIwbHdYYWdRQdIBckFVX3lxTE4zZTY1RG5sRlkxajdZRG1NLWIxTnR1ZWxpczdPdjI2N0tCMnB3NHl5eDVzZFgxMGtlM3hPdUlBOUkxVm1HS240TkFfa1B1MmxmenlpZ3pncTMyNG5YRlVNZk56dkc2eUF2UWIwbHdYYWdRQQ?oc=5",
+      "source": "잡포스트",
+      "published": "2026-10-23T15:21:50+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 32만6500원…전동화·부품 수익성 점검 잡포스트",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 전동화 부문과 핵심 부품 사업의 수익성을 점검하며 사업 구조를 재편하고 있다. 전동화 전환 과정에서의 비용 효율화와 부품 수익성 개선이 주요 과제로 부상했다.",
+      "impact": "전동화 부품의 수익성 개선 노력은 향후 부품 단가 및 공급 전략에 영향을 줄 수 있다. 생산 효율화에 따른 부품 조달 리드타임 변화와 전동화 관련 부품의 공급 안정성을 확인할 필요가 있다.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대모비스의 전동화 전환 및 부품 사업 수익성 관리",
+        "key_points": [
+          "전동화 부문 수익성 확보를 위한 전략 점검",
+          "핵심 부품 사업의 효율성 제고 방안",
+          "사업 구조 변화에 따른 공급망 관리 방향"
+        ],
+        "what_to_watch": "전동화 부품 매출 비중 및 수익성 지표",
+        "fact_check": "전동화 및 핵심 부품 사업부별 실적 현황"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "ddbef2fe575eff91",
+      "image_url": ""
+    },
+    {
+      "id": "0c54dc48cb876d",
+      "title": "현대모비스, 사업 양극화 고민…호실적에도 모듈·핵심부품 '악화일로' - 한국아이닷컴",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RY2pZOUd1eUFGMXRKc29meDRUek55VkNYV1Q4djdGZDBmNU9IWTA0X1JZc2RaYWFpaEtvWDRYQmhyd0U4U080TkppM2JlM01FZ2NyQmlGQ1p4Nm9xdXhVNXJrZ0hCZ3d1c2JKQk16ONIBb0FVX3lxTE9RY2pZOUd1eUFGMXRKc29meDRUek55VkNYV1Q4djdGZDBmNU9IWTA0X1JZc2RaYWFpaEtvWDRYQmhyd0U4U080TkppM2JlM01FZ2NyQmlGQ1p4Nm9xdXhVNXJrZ0hCZ3d1c2JKQk16OA?oc=5",
+      "source": "한국아이닷컴",
+      "published": "2026-10-23T14:30:39+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 사업 양극화 고민…호실적에도 모듈·핵심부품 '악화일로' 한국아이닷컴",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 전체적인 호실적에도 불구하고 모듈 및 핵심 부품 사업부의 수익성 악화로 고민하고 있다. 사업 부문별 실적 양극화가 심화되면서 수익성 개선을 위한 사업 구조 조정이 요구되는 상황이다.",
+      "impact": "모듈 및 핵심 부품의 수익성 악화는 부품 발주 및 조달 전략의 재검토로 이어질 수 있다. 생산 원가 절감을 위한 공급망 최적화와 물류비용 절감 노력이 병행될 것으로 예상된다.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대모비스의 사업 부문별 실적 양극화 현상",
+        "key_points": [
+          "전체 실적과 모듈·핵심 부품 사업부 간의 실적 괴리",
+          "수익성 악화 원인 분석 및 대응 전략",
+          "사업 구조 개선을 위한 향후 방향성"
+        ],
+        "what_to_watch": "모듈 및 핵심 부품 사업부의 수익성 회복 여부",
+        "fact_check": "사업 부문별 영업이익률 추이"
+      },
+      "new_information": "",
+      "source_comparison": "837d46556dae96 기사와 동일한 현대모비스의 사업 수익성 문제를 다루고 있으나, 본 기사는 모듈 및 핵심 부품 사업의 구체적인 수익성 악화를 강조함.",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "f3ed2a0844475a46",
+      "image_url": ""
+    },
+    {
+      "id": "0407f6b067d6ad",
+      "title": "현대차그룹, 차량용 반도체 국산화 속도…국내 기업과 공급망 구축 - 더퍼블릭",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBscjBYNy11R1dsb3c2bWp6eHNSQ0ZSalVLZk82bVVPOVdNZ19yRFpTOHpfWE9NVFRSeGdoTkN6eFZHZnRfLWhiaUhrTkIxY1ZaNmxKUjFaMzZld3Q3cHVQS01YRFJBcXdEaVBkUkxIa9IBb0FVX3lxTFBscjBYNy11R1dsb3c2bWp6eHNSQ0ZSalVLZk82bVVPOVdNZ19yRFpTOHpfWE9NVFRSeGdoTkN6eFZHZnRfLWhiaUhrTkIxY1ZaNmxKUjFaMzZld3Q3cHVQS01YRFJBcXdEaVBkUkxIaw?oc=5",
+      "source": "더퍼블릭",
+      "published": "2026-10-23T14:06:20+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, 차량용 반도체 국산화 속도…국내 기업과 공급망 구축 더퍼블릭",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차그룹이 차량용 반도체 공급망 안정화를 위해 국내 기업들과 협력을 강화하며 국산화에 속도를 내고 있다. 외부 의존도를 낮추고 국내 생태계를 구축하여 안정적인 부품 조달 체계를 마련하려는 전략이다.",
+      "impact": "차량용 반도체의 국산화 비중이 확대될 경우, 해외 수입 의존도가 낮아져 글로벌 공급망 리스크에 따른 생산 차질 가능성이 줄어들 수 있다. 향후 국내 협력사의 부품 공급 물량 변화와 반도체 수급 안정화에 따른 생산 계획의 유연성을 확인할 필요가 있다.",
+      "importance": "보통",
+      "detail": {
+        "background": "글로벌 차량용 반도체 공급망 불안정에 대응하기 위한 현대차그룹의 내재화 및 국산화 전략",
+        "key_points": [
+          "차량용 반도체 국산화 추진 가속화",
+          "국내 기업 중심의 공급망 구축",
+          "공급망 안정성 확보를 통한 생산 리스크 완화"
+        ],
+        "what_to_watch": "국산화 대상 반도체의 구체적인 품목 및 양산 시점, 국내 협력사와의 공급 계약 규모",
+        "fact_check": "현대차그룹의 반도체 국산화 전략은 장기적인 공급망 내재화 정책의 일환임"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "2e1d845d7a88540a",
+      "image_url": ""
+    },
+    {
+      "id": "1cdea89c75d36b",
+      "title": "현대모비스, 멕시코 '축구장 3개 규모' EV 배터리 물류센터 가동 - 한국신용신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hV1NJS1ctWHFaMWdTQVU3OEY2M0ZvRzJBWmprYWdBamp0aGJHWnBLMWVLRU1lOEhSUjg1ekEwRmw3RzJMM21fTTR0UFF6SWdOZ3J3UTBCOXVNcER1VzYwN3B1QXlrWE5FRTlj?oc=5",
+      "source": "한국신용신문",
+      "published": "2026-10-23T12:26:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 멕시코 '축구장 3개 규모' EV 배터리 물류센터 가동 한국신용신문",
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 멕시코에 축구장 3개 규모의 전기차(EV) 배터리 물류센터를 가동하며 북미 시장 대응력을 높였다. 이번 물류센터는 현지 생산 거점에 배터리 부품을 적기에 공급하기 위한 핵심 거점으로 활용될 예정이다.",
+      "impact": "현지 물류 거점 확보는 북미 지역 전기차 생산 라인에 대한 부품 공급 리드타임을 단축하고 재고 관리 효율성을 높일 수 있다. 향후 멕시코 현지 생산 물량 확대에 따른 부품 조달 최적화 및 물류 비용 절감 효과를 모니터링해야 한다.",
+      "importance": "높음",
+      "detail": {
+        "background": "북미 전기차 시장 확대에 따른 현대모비스의 현지 물류 인프라 확충",
+        "key_points": [
+          "멕시코 내 대규모 EV 배터리 물류센터 가동",
+          "북미 생산 거점 대상 부품 공급 효율화",
+          "전기차 전용 부품 공급망 강화"
+        ],
+        "what_to_watch": "물류센터 가동에 따른 북미 지역 부품 공급 리드타임 변화 및 현지 재고 운영 효율성",
+        "fact_check": "현대모비스의 멕시코 물류센터는 북미 전기차 생산 지원을 위한 전략적 거점임"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "be81220ea2102075",
+      "image_url": ""
+    }
+  ]
+}
