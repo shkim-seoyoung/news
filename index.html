@@ -100,6 +100,10 @@
 .calendar-footer{margin-top:10px;color:#718096;font-size:11px;text-align:center}
 @media(max-width:680px){.history-date-range{display:flex;flex-wrap:wrap;width:100%}.history-date-range .calendar-trigger{flex:1;min-width:110px}.history-date-range label[for=historyEnd]{display:inline}}
 
+/* v7: widen the sort selector only while the scrap tab is active. */
+@media(min-width:681px){.controls #sort.scrap-sort-wide{width:162px;flex:0 0 162px}}
+@media(max-width:680px){.controls #sort.scrap-sort-wide{font-size:12px;padding-left:6px;padding-right:4px}}
+
 /* Integrated reports and work perspective (compatible with older JSON). */
 .related-badge{background:#e8f2ff;color:#21568c;font-weight:700}
 .comparison-text{white-space:pre-line;background:#f4f7fb;border-left:3px solid #7da4d0;border-radius:5px;padding:12px 14px}
@@ -118,7 +122,13 @@ function generalRow(a){
  const card=el('article','card general-row'),head=el('div','news-head'),copy=el('div','news-head-text'),meta=el('div','meta');
  meta.append(el('span',a.importance==='높음'?'tag high':'tag',a.importance||'보통'),el('span','tag',a.news_collection_route||'일반 뉴스 수집'),el('span','',a.source||'출처 미상'));
  if(a.published)meta.append(el('span','',String(a.published).slice(0,10)));
- copy.append(meta,el('h3','',a.title));const img=thumbnail(a);if(img)head.append(img);head.append(copy);card.append(head,scrapButton(a),articleLink(a));return card;
+ const title=el('h3','',a.title);copy.append(meta,title);const img=thumbnail(a);if(img)head.append(img);head.append(copy);
+ // General-news feeds usually have no AI detail; open the source directly.
+ const openOriginal=()=>{try{const u=new URL(a.url);if(['http:','https:'].includes(u.protocol))window.open(u.href,'_blank','noopener,noreferrer')}catch{}};
+ card.style.cursor='pointer';card.setAttribute('role','link');card.setAttribute('tabindex','0');card.setAttribute('aria-label',a.title+' 원문 기사 열기');
+ card.addEventListener('click',e=>{if(!e.target.closest('a,button'))openOriginal()});
+ card.addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&!e.target.closest('a,button')){e.preventDefault();openOriginal()}});
+ card.append(head,scrapButton(a),articleLink(a));return card;
 }
 function workCategory(a){
  const c=String(a.category||'').toLowerCase(),t=String(a.title||'').toLowerCase();
@@ -164,7 +174,7 @@ function workCard(a){
 }
 function historyRangeLabel(){if(!historyRange)return '지난';return historyRange.start===historyRange.end?historyRange.start:historyRange.start+' ~ '+historyRange.end}
 let newsSortPreference='latest';
-function configureSortForSection(){const select=$('sort');const isScrap=selectedSection==='스크랩';if(isScrap){newsSortPreference=select.value;select.replaceChildren();for(const [value,label] of [['latest','등록순 (최신순)'],['published','기사 최신순'],['oldest','등록순 (오래된순)']]){const option=document.createElement('option');option.value=value;option.textContent=label;select.append(option)}select.value='latest';select.setAttribute('aria-label','스크랩 정렬')}else{select.replaceChildren();for(const [value,label] of [['latest','최신순'],['importance','중요도순'],['oldest','오래된순']]){const option=document.createElement('option');option.value=value;option.textContent=label;select.append(option)}select.value=newsSortPreference;select.setAttribute('aria-label','뉴스 정렬')}}
+function configureSortForSection(){const select=$('sort');const isScrap=selectedSection==='스크랩';select.classList.toggle('scrap-sort-wide',isScrap);if(isScrap){newsSortPreference=select.value;select.replaceChildren();for(const [value,label] of [['latest','등록순 (최신순)'],['published','기사 최신순'],['oldest','등록순 (오래된순)']]){const option=document.createElement('option');option.value=value;option.textContent=label;select.append(option)}select.value='latest';select.setAttribute('aria-label','스크랩 정렬')}else{select.replaceChildren();for(const [value,label] of [['latest','최신순'],['importance','중요도순'],['oldest','오래된순']]){const option=document.createElement('option');option.value=value;option.textContent=label;select.append(option)}select.value=newsSortPreference;select.setAttribute('aria-label','뉴스 정렬')}}
 function updateSectionControls(){const isScrap=selectedSection==='스크랩';$('date').hidden=isScrap;$('historyPanel').hidden=isScrap;if(isScrap){$('historyPanel').open=false;}}
 function render(){
  if(selectedSection==='스크랩'){renderScraps();return}
