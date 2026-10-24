@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-25",
+  "updated_at": "2026-10-25T07:12:33.496568+09:00",
+  "article_count": 1,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "79400ec4e16293",
+      "title": "한반도 전쟁 다룬 게임, 정치권 관심·국감 논의로 확산 - 대전일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2bHhhbkFYb0tCOHV2SC1qSzZodnFIM3RaRGRjYkZCRDRzVEdaNEFLcE14cUxxMlplVHBPT1pOTm9sV1AtT2toTmNERVlCb0JuOVpOWG55RXlFUTNxYWhpeFd5c3YzemV5a0hpUFM2UdIBc0FVX3lxTFBHOUJWNDZlbURhWnU4NDROUUdxOUxROTNuS1JrN3BDQXdKa00wZ1pjM254NWxXN2VDRnNPR0xocmU0VTRUVF9KaUdpdm9ickhPSWNDZm12eEZGVFBkUEE0YlF2dGpZWDZUaEdmdEVTekt4RWM?oc=5",
+      "source": "대전일보",
+      "published": "2026-10-24T23:25:00+09:00",
+      "category": "정치·정책",
+      "description": "한반도 전쟁 다룬 게임, 정치권 관심·국감 논의로 확산 대전일보",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "한반도 전쟁을 소재로 한 게임이 정치권의 주목을 받으며 국정감사 의제로 논의될 가능성이 제기되었습니다. 게임 내 설정과 현실의 안보 상황이 맞물리면서 관련 논의가 확산되는 추세입니다.",
+      "impact": "게임 콘텐츠의 정치적·사회적 이슈화는 관련 기업의 대외 리스크 관리 및 규제 환경 변화로 이어질 수 있습니다. 향후 국감 논의 결과에 따라 게임물 등급 분류 기준이나 관련 산업 정책에 대한 모니터링이 필요합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "한반도 전쟁을 다룬 특정 게임의 내용이 정치권에서 언급되며 안보 및 사회적 파급력에 대한 논의가 시작됨.",
+        "key_points": [
+          "한반도 전쟁 소재 게임에 대한 정치권의 관심 증대",
+          "국정감사 등 공식적인 의제화 가능성 제기",
+          "게임 콘텐츠의 사회적 영향력에 대한 논란 확산"
+        ],
+        "what_to_watch": "국정감사에서 해당 게임 관련 질의가 실제 이루어지는지 여부와 이에 따른 게임 산업 규제 논의의 향방.",
+        "fact_check": "정치권의 관심이 실제 국감 의제로 채택되었는지, 특정 게임의 명칭과 구체적인 논란 내용 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "8c71aadbf1e300b7",
+      "image_url": ""
+    }
+  ]
+}
