@@ -1,9 +1,39 @@
 {
   "date": "2026-10-25",
-  "updated_at": "2026-10-25T07:12:33.496568+09:00",
-  "article_count": 1,
+  "updated_at": "2026-10-25T12:17:24.386165+09:00",
+  "article_count": 2,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "2df2ade55db42b",
+      "title": "국감 막판까지 여야 충돌 예고… 820조원대 예산 전쟁 돌입 - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yV1pYSXJtVVJnTW90MUZIUVJUcHdoMFF3M1I3NDY0TC1ESUo5b0dDVWRYYmdyRWpIUVVCOFBHeWlPdmliWjZfXzUxdU1nM2Y5LWRoV2o5WGFMelV5Um1aZTFyVGVSVjJyOWc?oc=5",
+      "source": "천지일보",
+      "published": "2026-10-25T09:00:00+09:00",
+      "category": "정치·정책",
+      "description": "국감 막판까지 여야 충돌 예고… 820조원대 예산 전쟁 돌입 천지일보",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "국정감사가 막바지에 다다른 가운데, 여야가 820조 원 규모의 내년도 예산안 심사를 앞두고 정면충돌을 예고하고 있습니다. 예산안 처리 과정에서 정부 정책 기조와 주요 사업 예산을 둘러싼 여야 간의 대립이 격화될 것으로 보입니다.",
+      "impact": "예산안 심사 결과에 따라 정부 주도의 산업 지원 정책이나 인프라 투자 예산이 변동될 수 있습니다. 관련 업계는 예산 확정 시점에 맞춰 정책 변화가 생산 및 물류 지원 사업에 미칠 영향을 모니터링해야 합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "국정감사 종료 후 본격적인 예산안 심사 국면으로 전환되는 정치적 상황.",
+        "key_points": [
+          "국정감사 막판 여야 대립 지속",
+          "820조 원 규모의 내년도 예산안 심사 착수",
+          "예산안 처리를 둘러싼 여야 간 강대강 대치 예상"
+        ],
+        "what_to_watch": "예산안 심사 과정에서의 주요 쟁점 사업 예산 삭감 또는 증액 여부.",
+        "fact_check": "820조 원 규모의 예산안은 정부가 제출한 내년도 예산안 총지출 규모를 의미함."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "65f2c82ff891e369",
+      "image_url": ""
+    },
     {
       "id": "79400ec4e16293",
       "title": "한반도 전쟁 다룬 게임, 정치권 관심·국감 논의로 확산 - 대전일보",

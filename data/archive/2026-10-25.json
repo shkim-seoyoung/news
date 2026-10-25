@@ -1020,6 +1020,297 @@
       "published": "2026-10-23T07:30:00+09:00",
       "category": "자동차",
       "description": "안방 좁다…완성차, ‘해외 영토 확장’ 나섰다 [글로벌 車 엑소더스 ①] 시사오늘"
+    },
+    {
+      "id": "1add9379d932d4",
+      "title": "여행경보 국가서 한국인 사건사고 급증...중국에서 최다 - YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VZlk2UDhVcjAwcnBQVDhla2RDX0ZEUmRhZEtLQ01YNlhLVE4tOGQ4MFZFUVhJWXdfZ2NfSnFXZ0NRa1lYdnZ2SDFRUjlVR004NUduUXd4QkJFRUt4dVE?oc=5",
+      "source": "YTN",
+      "published": "2026-10-25T11:13:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "여행경보 국가서 한국인 사건사고 급증...중국에서 최다 YTN"
+    },
+    {
+      "id": "332091d13f463c",
+      "title": "美국채 손실에 환차손까지... 환헤지에 갈린 ETF 성적 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjcmNQZXl1VWNVRC1nX2tSVzVUZG40QnNyUkpRVVBUVzlrMkljN0pqaUNTZUk5WTB5WFNDSlUxRmpBWUxLUG1GS04yOUJLcXNrVDUzOVpVSXI3bFdNRXQ3M1Juc3g?oc=5",
+      "source": "매일일보",
+      "published": "2026-10-25T10:00:00+09:00",
+      "category": "경제·금융",
+      "description": "美국채 손실에 환차손까지... 환헤지에 갈린 ETF 성적 매일일보"
+    },
+    {
+      "id": "8a7176c0ef9e42",
+      "title": "종반 향하는 국정감사, 조희대·김현지 막판 공방 예고 - 충남일보",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhNlhUQWhDd3lvQ2JDS2xBaWRIOGpkMlNtbkplRk81aGNneTctdEdtWEN0OUplMzdiRWVxQXNIaFdxNDFlTEkwOEZfZGxLcnZoa05TYUhDdWhUcEtpVENvS2hmV3pSZUMwclNDLWYwS0R0dw?oc=5",
+      "source": "충남일보",
+      "published": "2026-10-25T09:50:28+09:00",
+      "category": "정치·정책",
+      "description": "종반 향하는 국정감사, 조희대·김현지 막판 공방 예고 충남일보"
+    },
+    {
+      "id": "7893e24b0eb129",
+      "title": "아르헨티나 파타고니아, 빙하호 범람·산사태 주의…트레킹 안전 당부 - 뉴스트래블",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RREhVU1hMUnBpN1l1anJNTXRoSWFlRmlfMXZrQ21VN1FscnFiUnBwd3dHazBLckI1S1k0LVhfeV8yNkd6V05fdjJyQ2dOSDNvNGFNaWR2NDBoenJ2ZEtLS0wyV1ZBdw?oc=5",
+      "source": "뉴스트래블",
+      "published": "2026-10-25T09:02:24+09:00",
+      "category": "국내 주요 사건",
+      "description": "아르헨티나 파타고니아, 빙하호 범람·산사태 주의…트레킹 안전 당부 뉴스트래블"
+    },
+    {
+      "id": "2df2ade55db42b",
+      "title": "국감 막판까지 여야 충돌 예고… 820조원대 예산 전쟁 돌입 - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yV1pYSXJtVVJnTW90MUZIUVJUcHdoMFF3M1I3NDY0TC1ESUo5b0dDVWRYYmdyRWpIUVVCOFBHeWlPdmliWjZfXzUxdU1nM2Y5LWRoV2o5WGFMelV5Um1aZTFyVGVSVjJyOWc?oc=5",
+      "source": "천지일보",
+      "published": "2026-10-25T09:00:00+09:00",
+      "category": "정치·정책",
+      "description": "국감 막판까지 여야 충돌 예고… 820조원대 예산 전쟁 돌입 천지일보",
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "국정감사가 막바지에 다다른 가운데, 여야가 820조 원 규모의 내년도 예산안 심사를 앞두고 정면충돌을 예고하고 있습니다. 예산안 처리 과정에서 정부 정책 기조와 주요 사업 예산을 둘러싼 여야 간의 대립이 격화될 것으로 보입니다.",
+      "impact": "예산안 심사 결과에 따라 정부 주도의 산업 지원 정책이나 인프라 투자 예산이 변동될 수 있습니다. 관련 업계는 예산 확정 시점에 맞춰 정책 변화가 생산 및 물류 지원 사업에 미칠 영향을 모니터링해야 합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "국정감사 종료 후 본격적인 예산안 심사 국면으로 전환되는 정치적 상황.",
+        "key_points": [
+          "국정감사 막판 여야 대립 지속",
+          "820조 원 규모의 내년도 예산안 심사 착수",
+          "예산안 처리를 둘러싼 여야 간 강대강 대치 예상"
+        ],
+        "what_to_watch": "예산안 심사 과정에서의 주요 쟁점 사업 예산 삭감 또는 증액 여부.",
+        "fact_check": "820조 원 규모의 예산안은 정부가 제출한 내년도 예산안 총지출 규모를 의미함."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "65f2c82ff891e369",
+      "image_url": ""
+    },
+    {
+      "id": "57a52c4537a71e",
+      "title": "무죄 다음날 '당 통합' 꺼낸 오세훈 시장…정치 보폭 달라져 - 연합뉴스 한민족센터",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1ckZCZU5vaXRLRV8zNDJyTnlvWjlFd3JUeVV3TXZ6aWhhSDVqSVBMUTh5OEZtVjYyOG1ycG8yT08yaXQ3elppRFhlaDBkZTVJamd0X0ZBQjZlOGd3bUlvU2xUenE1bFkxd0YtYzdyYlVwR1JG?oc=5",
+      "source": "연합뉴스 한민족센터",
+      "published": "2026-10-25T08:58:26+09:00",
+      "category": "정치·정책",
+      "description": "무죄 다음날 '당 통합' 꺼낸 오세훈 시장…정치 보폭 달라져 연합뉴스 한민족센터"
+    },
+    {
+      "id": "95df25e3a6be94",
+      "title": "[양준서의 정조준] ‘똥별’ 비난당한 김병주의 쇼츠 정치…대통령 국방특보 자격 있나 - 펜앤마이크",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VVFRlRzJTTXFQclNMNEozUUhoenVISENQcVFjN0xnS3U2YzlPMi04TTR3eHNzNXQ4T0tRUXo5ZFVoZmFUdlpDZG03X3VFWHM1SDg4Z2VmRC1qS1A1eHhRLWNuUG5VT0FxVmk40gFvQVVfeXFMTV9CR2FreWc2Ull0MEloNEZEeS1LRTBXZGtnby1iWVdfSjM1d0VTYnNqbkhtOWM2MVVTTXpOQldlZkVJMWpTZ0xqMlpEVmlBb1g0SnpFMkF0NEZQQ29LbkpCcTR4N2RYbnpmY1FUSmxv?oc=5",
+      "source": "펜앤마이크",
+      "published": "2026-10-25T08:19:33+09:00",
+      "category": "정치·정책",
+      "description": "[양준서의 정조준] ‘똥별’ 비난당한 김병주의 쇼츠 정치…대통령 국방특보 자격 있나 펜앤마이크"
+    },
+    {
+      "id": "57492b1d44806c",
+      "title": "말레이 \"구글 지도앱 웨이즈, 공직자 사용 금지 유지\" - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80b0FqcXJHend5OE0weHZGWWpGZmR5RE5GY2Jjd1FUVXhvY0pKczg1UFVicm5ZR1lsLWZmbjY5WTU0VEVQTWRTaUNaSVlaZDRzQms5ZVJn?oc=5",
+      "source": "지디넷코리아",
+      "published": "2026-10-25T08:04:47+09:00",
+      "category": "정치·정책",
+      "description": "말레이 \"구글 지도앱 웨이즈, 공직자 사용 금지 유지\" 지디넷코리아"
+    },
+    {
+      "id": "20a01a2fb1e7dd",
+      "title": "오세훈 무죄, 축배는 누가 들어야 하나 - 일요시사",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uMmNfMDd5NVhOUm5senFzQmhvY1hlUzljOUN0ZzhSaTZ3Z1J6Yk5vNlcxSWVKYUZ4bkxtdFpzWkxKeUQ3aVpXVjB2UklqcEl0UXItdEx5LTczYXdybTFOTzJn?oc=5",
+      "source": "일요시사",
+      "published": "2026-10-25T08:00:45+09:00",
+      "category": "정치·정책",
+      "description": "오세훈 무죄, 축배는 누가 들어야 하나 일요시사"
+    },
+    {
+      "id": "6f7b0575514958",
+      "title": "여행경보 10개국 한국인 사건사고 1년새 48%↑…납치감금 2배로 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ieXo5SEVTdndMU3lndWF3YTJuNl9qbFM0YW51Sk8yMXFlajVNRG1YVEJteUdyV2ZQQVo2U3BlTnFKblNUQTVpTlUtQlBqUERLc0FBVGZJdUlqQWZHSmI1SNIBYEFVX3lxTE9ieXo5SEVTdndMU3lndWF3YTJuNl9qbFM0YW51Sk8yMXFlajVNRG1YVEJteUdyV2ZQQVo2U3BlTnFKblNUQTVpTlUtQlBqUERLc0FBVGZJdUlqQWZHSmI1SA?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-25T08:00:15+09:00",
+      "category": "국내 주요 사건",
+      "description": "여행경보 10개국 한국인 사건사고 1년새 48%↑…납치감금 2배로 연합뉴스"
+    },
+    {
+      "id": "1dca0a25e553f8",
+      "title": "[수비수의 시선] 현대모비스가 느낀 것, 한호빈만 삼성의 시작점이 아니다 - 바스켓코리아",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FRjkzdHhFX2R2QVlVTzBZcE1rUmpMTUxhelB0TjZnRDNjMG1ybEQ1TEROekpxUWhOODBKamlMcC1GU3dEa2tVMVNMRjBaSDdlYnJXaXZQMU91Y3VnRXdFUVg3NkF1NWRfaU9rc0ZUUmRsS3BvOXpZ?oc=5",
+      "source": "바스켓코리아",
+      "published": "2026-10-25T07:55:31+09:00",
+      "category": "관심 키워드",
+      "description": "[수비수의 시선] 현대모비스가 느낀 것, 한호빈만 삼성의 시작점이 아니다 바스켓코리아"
+    },
+    {
+      "id": "25227ea5b54f92",
+      "title": "오세훈 서울시장, 2심 무죄 다음 날 외부 일정 소화 : 정치 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aQkZ5LTRnWGF5Wk1yODljOHByRmJ3UXZHb3JOSVhpQlpMYUo0NUxjdnYwTk4zWmNaRXlyeC1WbFhra214UU9Qa2pVQQ?oc=5",
+      "source": "재경일보",
+      "published": "2026-10-25T07:19:00+09:00",
+      "category": "정치·정책",
+      "description": "오세훈 서울시장, 2심 무죄 다음 날 외부 일정 소화 : 정치 재경일보"
+    },
+    {
+      "id": "d57cc401dfd708",
+      "title": "트럼프 발언 속 코스피 5500선 복귀… 고유가·레버리지 진통 속 길목 찾기 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0ybjAySWNrVzNndmJHNkhWTklZQ09IVlB0ZUx6dzBJRVdDWHo4U1hKdmsxM0I4WEFNZVJHal91T0ozQQ?oc=5",
+      "source": "브레이크뉴스",
+      "published": "2026-10-25T07:10:52+09:00",
+      "category": "경제·금융",
+      "description": "트럼프 발언 속 코스피 5500선 복귀… 고유가·레버리지 진통 속 길목 찾기 브레이크뉴스"
+    },
+    {
+      "id": "0aeda3af6246b1",
+      "title": "[머니톡스] '호미질'의 미학…파국을 막는 정공법 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBReUR1ZXBpa3ZkRkQ2a2F0OXd4RXgtVVMzYkdTZGFtX25vNXFFUElzQ0dPZ3RMOW9uRW1SN0lCOGZiWFJvWmNYdzgwZnlERmR4TFV2ZXh1NEN0b1BZTC1nTdIBYEFVX3lxTFBReUR1ZXBpa3ZkRkQ2a2F0OXd4RXgtVVMzYkdTZGFtX25vNXFFUElzQ0dPZ3RMOW9uRW1SN0lCOGZiWFJvWmNYdzgwZnlERmR4TFV2ZXh1NEN0b1BZTC1nTQ?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-25T07:07:00+09:00",
+      "category": "경제·금융",
+      "description": "[머니톡스] '호미질'의 미학…파국을 막는 정공법 연합뉴스"
+    },
+    {
+      "id": "8e02df17452198",
+      "title": "외국인 40조 팔아도 원화 '나홀로 강세'…환율 내년 1250원 전망까지 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wMHJMYVZ6Q0N5cGNzNW5PbVdOQjEzU3dPd2ZlaDAyUGpGaWxXYjQ2eGVvWDQzYnRaaktuVlZ1aF9EVXBIUks0NVpfS1JOZXFBanBGR3dBaG9CUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-10-25T07:05:43+09:00",
+      "category": "경제·금융",
+      "description": "외국인 40조 팔아도 원화 '나홀로 강세'…환율 내년 1250원 전망까지 파이낸셜뉴스"
+    },
+    {
+      "id": "1623abdcca56c6",
+      "title": "서울 삼성, 설마 했던 개막 7연승···프로농구 판도는 이미 뒤집혔다 - 스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVQUdQWkJIdGRWV2RMYkZaUjhRbGQzTnZham9UUm1TdWk1MldEeF84b0Y3SEl0T2FmRF9wQ1g4eTJQR3dhMTRJdGptckY1SmRMd3VoTUlsUEVMbnAxRWp4WHJyTdIBY0FVX3lxTFBVQUdQWkJIdGRWV2RMYkZaUjhRbGQzTnZham9UUm1TdWk1MldEeF84b0Y3SEl0T2FmRF9wQ1g4eTJQR3dhMTRJdGptckY1SmRMd3VoTUlsUEVMbnAxRWp4WHJyTQ?oc=5",
+      "source": "스포츠경향",
+      "published": "2026-10-25T06:43:00+09:00",
+      "category": "관심 키워드",
+      "description": "서울 삼성, 설마 했던 개막 7연승···프로농구 판도는 이미 뒤집혔다 스포츠경향"
+    },
+    {
+      "id": "c27c63905610d5",
+      "title": "\"이런 적은 처음\"…1300원대 환율과 금리 변수에 증시 흔들리나 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jRGlUMkl6cFJKa0N4NW9jVWFZQkZkcm1MbGd1eUtZNnc2N3hOQlpLME1YWGhzVl9Bd1NzRGZvM0QwOVpzcjZXYWZ3M2J1YWhMMS1nTktrRXZZYTk5RnBOR9IBeEFVX3lxTE9PSm54S0JjbWdiZnFXLXF1bzdkZUJKYWNLQzhWVVJBemtjWlIxdC1rWmgzMTNwQUxQelVnQnBfVVRBb0JTUXJKaDdGbU9xOGowVG9YV0U0MlhnUHBxbGpMWkVTYzZ1NktEYS1mTlI4ZTFuSnpYM0pjRQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-25T01:02:00+09:00",
+      "category": "경제·금융",
+      "description": "\"이런 적은 처음\"…1300원대 환율과 금리 변수에 증시 흔들리나 뉴시스"
+    },
+    {
+      "id": "4906d37cbac177",
+      "title": "‘아시아쿼터 퍼즐 완성’ 현대모비스, 필리핀 가드 아바디아노 영입…선수단 구성 마무리 - 점프볼",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZMEU3UGFlVm9zXzJ4WE85UmE3X01Tc3NDLU9KNzU1clNZOEQtaUNkQVlVX0tFWWNPSFJVemtINEpuVE9TNFJSNE1kcnVVazlock5uOHYwY2wtcDNtdHBkWGFZcDFqbDNVTnQ1TTJGRjdZUG9XMXE4?oc=5",
+      "source": "점프볼",
+      "published": "2026-10-25T00:28:57+09:00",
+      "category": "관심 키워드",
+      "description": "‘아시아쿼터 퍼즐 완성’ 현대모비스, 필리핀 가드 아바디아노 영입…선수단 구성 마무리 점프볼"
+    },
+    {
+      "id": "4198cf03ea3f05",
+      "title": "[경기 후] 김상식 삼성 감독, “이겼지만...” … 양동근 현대모비스 감독, “(다리우스) 베즐리 혼자 쉽지 않다” - 바스켓코리아",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KeHlmSEFxY0xTdWM1c2hxRnU5RC1YSHJ3VDRPVXU0UU1kZ21ubXI4TlhxbUE0Nks4Z1czLThEcFBNSnhDRFBuT0RwbklnVWkzbFFGUWs0ZFktWlUyQ09JSnY2UjFpbmtITURkQl9MbFpWQ3FqY19PSQ?oc=5",
+      "source": "바스켓코리아",
+      "published": "2026-10-24T20:14:45+09:00",
+      "category": "관심 키워드",
+      "description": "[경기 후] 김상식 삼성 감독, “이겼지만...” … 양동근 현대모비스 감독, “(다리우스) 베즐리 혼자 쉽지 않다” 바스켓코리아"
+    },
+    {
+      "id": "de917a33c64945",
+      "title": "[화보] 현대모비스와 삼성 경기 화보 (삼성 91-71 현대모비스) - 점프볼",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QUTA2Q0lrSENTdWhseHZWM2ZhUTRXRkFFZ3Q2d0g2MkhaWmhCUExJSWxqdnBFSjllVzhWLTZkRnhxZWdwNXpEN2FmNkxOQklaenlmS2ktTDVmaUNuQzhoc2VxWUtnLXpqM0xrVmN5bzNZOEhv?oc=5",
+      "source": "점프볼",
+      "published": "2026-10-24T19:57:12+09:00",
+      "category": "관심 키워드",
+      "description": "[화보] 현대모비스와 삼성 경기 화보 (삼성 91-71 현대모비스) 점프볼"
+    },
+    {
+      "id": "85fa2e7211c96b",
+      "title": "‘팀 최초 개막 7연승 질주’ 삼성, 프림 빠진 현대모비스 제압 - 점프볼",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5dFp2d3RoUVlFbTBELTBUa0NmQ2puanJZcGNkdTI2NVM1VTZjS2FFc0dyNkFxRXRzSGJkWHhIaVFiX0hzeE5IYUstUzVIUG9MZjZqSnIyQnB3Ri1xazhHOWdDT01iZUhJX0xWV25HZFg?oc=5",
+      "source": "점프볼",
+      "published": "2026-10-24T18:20:01+09:00",
+      "category": "관심 키워드",
+      "description": "‘팀 최초 개막 7연승 질주’ 삼성, 프림 빠진 현대모비스 제압 점프볼"
+    },
+    {
+      "id": "749216cc08ca64",
+      "title": "임이자 의원, “국회 시야 밖 ‘숨은 정책자금’ 113조원, 사각지대 해소해야” - 세명일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IRlBqUHBPR0dHWVdzcFlEdkVVdXJTR1RpQzVuY1lyajJrcXd6YmNoNk9jdDEwTVFqaFl3eVptNjlQUHJmWjNManM0ZHQyd2FGMHBwM0EwSG5NbU5CWm1wSzEyWDdRdEJhblJEWE1Nd0g?oc=5",
+      "source": "세명일보",
+      "published": "2026-10-24T16:45:00+09:00",
+      "category": "정치·정책",
+      "description": "임이자 의원, “국회 시야 밖 ‘숨은 정책자금’ 113조원, 사각지대 해소해야” 세명일보"
+    },
+    {
+      "id": "b6d49faef7c4b5",
+      "title": "오세훈 “총선 앞두고 단합해야… 정부 부동산 정책은 마이동풍” - www.dt.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pQzBacjVNYldYYm1aeVhSYVl6Z3haSkMzZDFEYjU1Tk1oTWtLLVdid2RxM0pwWFRpUC14R2RHWUkwdUV1NEVGOUpLZVhadw?oc=5",
+      "source": "www.dt.co.kr",
+      "published": "2026-10-24T15:42:30+09:00",
+      "category": "정치·정책",
+      "description": "오세훈 “총선 앞두고 단합해야… 정부 부동산 정책은 마이동풍” www.dt.co.kr"
+    },
+    {
+      "id": "468d6bc29cf4c3",
+      "title": "출발증시 1부 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcXBuTzdtQXRJZ0d1UHZZdUFsTG14dFVLOTM1QzV1U0JMa2xXR3VvWm15Y1Z0aFVHb3hDaWpSRFgwTUpSdkk4QWI2dTV2YzVlLVF4YXg0a0pPSHlZRWtudUhTOUNUdFZVN01vaVJyTTN2dlZaUXI4ZkFfTHNXNXFSNWtuME55OE53Q1JySGNMZnNEZnBHN2Nha1kzbjFEVzRvUjg0?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-10-24T15:12:05+09:00",
+      "category": "경제·금융",
+      "description": "출발증시 1부 한국경제TV"
+    },
+    {
+      "id": "be1fb5eeebc602",
+      "title": "수출 호황이 되레 금리 발목 잡나…내년 '수요발 인플레' 경계 - www.ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82OFJab1ZYbkVxamw4QlNfSlVMZWFha0NoOGs4ZFdnY2VWcThkbklMSS1rb0FhVlcyeTYtOVVpREgwVVV1dmRpSzY5ZzZhYzdTa1hFQXZKcFNlMmJnaVBHWnJIaXV4a3F2?oc=5",
+      "source": "www.ebn.co.kr",
+      "published": "2026-10-24T13:34:29+09:00",
+      "category": "경제·금융",
+      "description": "수출 호황이 되레 금리 발목 잡나…내년 '수요발 인플레' 경계 www.ebn.co.kr"
+    },
+    {
+      "id": "c751a95a8bc3f5",
+      "title": "“美 증시, IT 버블 때보다 심한 거품… 비중 줄여라” - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13VF91enFJRzFDSDVSWXp3RjdNOWZjdTVieXlxa21hTElobENFMWFqS19fcU0tTW5iYWc4a1VwT0FwMnRjcURUeXdRZGl0VGpIRE5TN3FXSXF4UV8xbnV3Qm1lRXo1cE94Z1ZRZmEyQ3EyS0hlcmfSAWZBVV95cUxPSFpYVm1SQkZYZ2ctUmU3emROcVdFYVNxXzc4MWtQdXNhZjZVVEhjNUt1a1BxTFFKc2d2Y1c0OGl6MEVvalBkX2pZWTgtcHFhQkJRQ3hsZTlGS1JhSHBrQUQyTVNWNWc?oc=5",
+      "source": "동아일보",
+      "published": "2026-10-24T08:09:00+09:00",
+      "category": "경제·금융",
+      "description": "“美 증시, IT 버블 때보다 심한 거품… 비중 줄여라” 동아일보"
+    },
+    {
+      "id": "c0ec9bc11dfdd1",
+      "title": "3회 연속 금리 인상에 부담느낀 신 총재…‘매파본색’은 계속된다 [BOK WATCHER] - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUV25oLTNUYU9nR19BUTRCNWNUOUFjVUtfZVhwVjl3b3lFb0dDSXFFQTNwNEV1czN5ZEtuZm1TRUVJWUJUbC1oaG5YMFpKR0paR1E?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-10-23T20:30:33+09:00",
+      "category": "경제·금융",
+      "description": "3회 연속 금리 인상에 부담느낀 신 총재…‘매파본색’은 계속된다 [BOK WATCHER] 매일경제 마켓"
+    },
+    {
+      "id": "6ae498dbb7ed86",
+      "title": "고비 넘긴 '오세훈표 정책'…재건축·강북 전성시대 속도 낼듯 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XQURZZ2RDOVczNmxIR3BHdnUzN1F2dXlnVmdidFZiNjdyZlVvQ1U2dWM5bEczbTlEY2VMNFJueVV3ZXFJM1ozdlVwb0xaQlNMVHdRV3E0RllFT1hSV0ZNa9IBYEFVX3lxTE9XQURZZ2RDOVczNmxIR3BHdnUzN1F2dXlnVmdidFZiNjdyZlVvQ1U2dWM5bEczbTlEY2VMNFJueVV3ZXFJM1ozdlVwb0xaQlNMVHdRV3E0RllFT1hSV0ZNaw?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-23T16:21:58+09:00",
+      "category": "정치·정책",
+      "description": "고비 넘긴 '오세훈표 정책'…재건축·강북 전성시대 속도 낼듯 연합뉴스"
+    },
+    {
+      "id": "04ebc99e3a5b2d",
+      "title": "“미국 주식으로 벌긴 벌었는데”…환율에 수익 깎인 서학개미 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEWkRRaEdlY2lydnFsQnpucjhkQ0ZBc2JPeXR3U19FUEVFQTVHSEJvWW9WZ29Rdko4bjdrcUs4YnZmMG52aE5xUGRzbUZhUDJ6S0E?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-23T16:05:09+09:00",
+      "category": "경제·금융",
+      "description": "“미국 주식으로 벌긴 벌었는데”…환율에 수익 깎인 서학개미 매일경제"
+    },
+    {
+      "id": "e7a7c42d87b9c3",
+      "title": "현대모비스, 매수청구권 부담에 램프사업 매각 '경고등'…사업 재편 첫걸음부터 좌초 우려 - 필드뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12QXNSWkpuaDYzMldfeUMyYTZidHE5X2dIRHFzM2JZek12M3k1STFRUm9pNXJFdHFLeFREYTlRbHNWRG1yR1ZHWDI1NGNaNW9rXzNtbHZONG5HZFZMZnhmbXZES3E2dFp0S3fSAWxBVV95cUxNb1FpZmRxUXJ5dEZrNUMxQjB2VjlzQ1ZsOWZ0Y015eHF2azVaRXFJQXd2THFKYlF4bHVsWkdhM2UyVE9Tb0hNWHhjX1h4UEF3UlI2eUFwZ2NwWGt0NDFEMnJXS0pzUF9GZ1RDNE8?oc=5",
+      "source": "필드뉴스",
+      "published": "2026-10-23T15:39:51+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 매수청구권 부담에 램프사업 매각 '경고등'…사업 재편 첫걸음부터 좌초 우려 필드뉴스"
     }
   ]
 }
