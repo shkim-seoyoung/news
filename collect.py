@@ -22,6 +22,90 @@ QUERIES = {
     '국제·외교': ['세계 국제 외교 분쟁 주요 뉴스', 'world diplomacy geopolitics breaking news'],
     '국내 주요 사건': ['한국 주요 사건 사회 재난', '대한민국 주요 사건 사고'],
 }
+# Priority markets served by the packing team (Beijing/Jiangsu separately).
+MARKET_SEARCHES = [
+ ('India', 'Hyundai Kia Mobis India Chennai Pune production supplier', 'en', 'IN'),
+ ('USA', 'Hyundai Kia Mobis US Georgia Alabama production parts tariff', 'en', 'US'),
+ ('Mexico', 'Hyundai Kia Mobis Mexico plant parts supply production', 'es', 'MX'),
+ ('Brazil', 'Hyundai Kia Mobis Brasil fábrica produção fornecedores', 'pt-BR', 'BR'),
+ ('China Beijing', '北京现代 现代摩比斯 工厂 生产 零部件', 'zh-CN', 'CN'),
+ ('China Jiangsu', '江苏 现代摩比斯 工厂 生产 零部件', 'zh-CN', 'CN'),
+]
+MARKET_TERMS = {
+ '인도': ('인도','india','chennai','첸나이','pune','푸네'),
+ '미국': ('미국','usa','u.s.','georgia','조지아','alabama','앨라배마','savannah','사바나'),
+ '멕시코': ('멕시코','mexico','méxico','몬테레이','monterrey'),
+ '브라질': ('브라질','brazil','brasil','piracicaba','피라시카바'),
+ '중국·북경': ('북경','베이징','beijing','北京'),
+ '중국·강소': ('강소','장쑤','jiangsu','江苏'),
+}
+FOLLOWUP_WORDS = ('발표','확정','착공','가동','양산','증설','감산','중단','변경','확대','축소','투자','관세','조달','생산','계약','launch','start','production','capacity','investment','tariff','supply','plan','update')
+STOP_TERMS = {'현대차','현대자동차','기아','모비스','현대모비스','자동차','부품','관련','산업','사업','시장','뉴스','올해','내년','전망','the','and','for','with','hyundai','kia','mobis','motor','auto','news','india','미국','인도','중국','멕시코','브라질'}
+
+def shared_scraps(limit=80):
+    """Read shared scrap records; failure never stops regular news collection."""
+    url=os.environ.get('SUPABASE_URL','').rstrip('/')
+    key=os.environ.get('SUPABASE_ANON_KEY','')
+    if not url or not key: return []
+    try:
+        r=requests.get(url+'/rest/v1/news_scraps', params={
+            'select':'article_key,article_data,created_at', 'order':'created_at.desc', 'limit':str(limit)},
+            headers={'apikey':key,'Authorization':'Bearer '+key}, timeout=20)
+        r.raise_for_status()
+        return [x for x in r.json() if isinstance(x.get('article_data'),dict)]
+    except Exception as ex:
+        print('Shared scraps unavailable:',str(ex)[:180]);return []
+
+def title_terms(title):
+    title=re.sub(r'\s+[-|]\s+[^-|]+$', '', (title or '').lower())
+    return [w for w in re.findall(r'[가-힣a-zA-Z]{2,}|[a-zA-Z]+[0-9]+|[0-9]+[a-zA-Z]+',title)
+            if w not in STOP_TERMS and len(w)>=2][:12]
+
+def scrap_queries(scraps, max_queries=12):
+    """Use specific title entities; never search generic 'automotive news'."""
+    queries=[];seen=set()
+    for x in scraps:
+        a=x['article_data'];words=title_terms(a.get('title',''))
+        if len(words)<2:continue
+        query=' '.join(words[:5]);key=query.lower()
+        if key in seen:continue
+        seen.add(key);queries.append(query)
+        if len(queries)>=max_queries:break
+    return queries
+
+def scrap_relationship(a,scraps):
+    """Conservative, explainable matching based on event anchors or title entities."""
+    at=set(title_terms(a.get('title','')))
+    if len(at)<2:return None
+    best=None;best_score=0
+    for x in scraps:
+        old=x['article_data']
+        if a.get('url') and a['url']==old.get('url'):continue
+        if a.get('id') and a['id']==old.get('id'):continue
+        bt=set(title_terms(old.get('title','')))
+        shared=at & bt
+        if len(shared)<2:continue
+        overlap=len(shared)/max(1,min(len(at),len(bt)))
+        if overlap<0.5:continue
+        same_event=bool(event_anchor(a) and event_anchor(a)==event_anchor(old))
+        # A near-identical reprint is related coverage, not a verified update.
+        old_pub=old.get('published','')
+        new_pub=a.get('published','')
+        newer=bool(old_pub and new_pub and new_pub[:10]>old_pub[:10])
+        if same_event and newer: relation='후속보도'
+        elif newer and overlap>=0.78 and len(shared)>=3 and any(w in (a.get('title','').lower()) for w in FOLLOWUP_WORDS):relation='후속보도'
+        else:relation='관련'
+        score=overlap+(0.5 if same_event else 0)
+        if score>best_score:
+            best_score=score
+            best={'type':relation,'title':old.get('title',''),'url':old.get('url',''),
+                  'scrapped_at':x.get('created_at','')}
+    return best
+
+def market_tags(a):
+    t=(a.get('title','')+' '+a.get('description','')).lower()
+    return [name for name,terms in MARKET_TERMS.items() if any(w in t for w in terms)]
+
 def shared_keywords():
     url=os.environ.get('SUPABASE_URL','').rstrip('/')
     key=os.environ.get('SUPABASE_ANON_KEY','')
@@ -44,9 +128,13 @@ def norm(s):
 
 def fetch():
     articles = []
-    for category, terms in {**QUERIES, '관심 키워드':shared_keywords()}.items():
-        for term in terms:
-            url = f'https://news.google.com/rss/search?q={quote(term + " when:2d")}&hl=ko&gl=KR&ceid=KR:ko'
+    scraps=shared_scraps()
+    sources=[(cat,term,'ko','KR') for cat,terms in {**QUERIES,'관심 키워드':shared_keywords()}.items() for term in terms]
+    sources += [('해외·'+region,query,lang,country) for region,query,lang,country in MARKET_SEARCHES]
+    sources += [('스크랩 추적',query,'ko','KR') for query in scrap_queries(scraps)]
+    for category, term, lang, country in sources:
+            ceid=country+':'+lang
+            url = f'https://news.google.com/rss/search?q={quote(term + " when:2d")}&hl={lang}&gl={country}&ceid={ceid}'
             try:
                 feed = feedparser.parse(url, request_headers=HEADERS)
                 for e in feed.entries[:25]:
@@ -179,6 +267,8 @@ def classify(a):
         return '산업·업무'
     if has_any(body, POLICY):
         return '산업·업무'
+    if a.get('category','').startswith('해외·') and (has_any(body, AUTO) and has_any(body, OPERATIONS + LOGISTICS) or (has_any(body, ('现代摩比斯','现代汽车','北京现代','mobis','hyundai','kia')) and has_any(body, ('生产','工厂','零部件','供应','产能','生产计划','produção','fábrica','peças','fornecedores','producción','planta','proveedores')))):
+        return '산업·업무'
     if has_any(title, AUTO) and has_any(body, OPERATIONS + LOGISTICS):
         return '산업·업무'
     if has_any(title, LOGISTICS) and has_any(body, ('운임','선복','선적','지연','중단','혼잡','파업','비용','인상','급등','규제','차질','freight','shipping','delay','disruption','congestion','strike','rates')):
@@ -211,6 +301,8 @@ def editorial_score(a):
     if has_any(title, MAJOR): score += 18
     if a.get('category') == '관심 키워드': score += 2
     if a.get('importance') == '높음': score += 2
+    if a.get('priority_markets'): score += min(15,8+3*len(a['priority_markets']))
+    if a.get('scrap_relation'): score += 22 if a['scrap_relation']['type']=='후속보도' else 12
     return score
 
 ANALYSIS_VERSION = 'event-groups-v3-20261022'
@@ -381,6 +473,9 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
         members.sort(key=lambda a: (representative_score(a), a.get('published', '')), reverse=True)
         representative = dict(members[0])
         representative['section'] = section
+        relation_member=next((m for m in members if m.get('scrap_relation')),None)
+        if relation_member:representative['scrap_relation']=relation_member['scrap_relation']
+        representative['priority_markets']=sorted(set(t for m in members for t in m.get('priority_markets',[])))
         representative['group_members'] = [
             {'id': a.get('id'), 'title': a.get('title', ''), 'description': a.get('description', ''),
              'source': a.get('source', ''), 'published': a.get('published', ''), 'url': a.get('url', '')}
@@ -615,6 +710,11 @@ def extract_article_image(url):
 
 def main():
     articles = fetch()
+    scraps=shared_scraps()
+    for a in articles:
+        a['priority_markets']=market_tags(a)
+        relation=scrap_relationship(a,scraps)
+        if relation: a['scrap_relation']=relation
     if not articles:
         print('No new RSS entries; rechecking saved articles.')
     path = DATA / f'{TODAY}.json'
@@ -639,6 +739,11 @@ def main():
     for a in articles:
         if a.get('id'):
             all_saved.setdefault(a['id'], a)
+    for a in all_saved.values():
+        a['priority_markets']=market_tags(a)
+        relation=scrap_relationship(a,scraps)
+        if relation:a['scrap_relation']=relation
+        else:a.pop('scrap_relation',None)
     # Archive first; re-running cannot erase a previously saved AI summary.
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
     # Group ALL current sources first: excluding previously published URLs here
@@ -669,6 +774,9 @@ def main():
         if cached.get('integrated_summary') and cached.get('integration_signature') == sig:
             saved = dict(cached)
             saved['related_articles'] = a.get('related_articles', [])
+            saved['priority_markets'] = a.get('priority_markets', [])
+            if a.get('scrap_relation'):saved['scrap_relation']=a['scrap_relation']
+            else:saved.pop('scrap_relation',None)
             saved['source_comparison'] = cached.get('source_comparison', '')
             saved['section'] = a.get('section', saved.get('section'))
             merged.append(correct_known_name_error(saved))

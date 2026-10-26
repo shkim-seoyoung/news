@@ -76,6 +76,7 @@
 /* shared bookmarks and compact date selector */
 #historyPanel[hidden],.controls #date[hidden]{display:none!important}
 .ai-note{background:#edf4ff;color:#405775;border:1px solid #dbe7f7;border-radius:10px;padding:11px 14px;font-size:12px;line-height:1.65;margin:10px 0 14px}
+.scrap-related-tag{background:#fff3d6;color:#875000;border:1px solid #f3d68b}.scrap-relation-box{padding:12px 14px;background:#fff9ec;border:1px solid #f0dfa9;border-radius:10px;margin:12px 0;display:grid;gap:6px;font-size:13px}.scrap-relation-box a{color:#1b5ba6}
 .scrap-button{border:1px solid #cbd8e8;background:white;color:#365477;border-radius:9px;padding:9px 12px;font-weight:700;cursor:pointer;margin-right:8px}
 .scrap-button.saved{background:#e8f1ff;border-color:#91b5e5;color:#1858aa}
 .scrap-button:disabled{opacity:.6;cursor:wait}
@@ -152,6 +153,8 @@ function relatedSources(a){
  return rows;
 }
 function relatedCount(a){return Math.max(0,relatedSources(a).length-1)}
+function scrapRelationBadge(a){const r=a.scrap_relation;if(!r||!r.type)return null;return el('span','tag scrap-related-tag',r.type==='후속보도'?'🔖 스크랩 후속보도':'🔖 스크랩 관련')}
+function appendScrapRelation(body,a){const r=a.scrap_relation;if(!r||!r.title)return;const box=el('div','scrap-relation-box');box.append(el('strong','',r.type==='후속보도'?'🔖 스크랩 후속보도':'🔖 스크랩 관련'),el('div','', '연결된 스크랩: '+r.title));if(r.url){try{const u=new URL(r.url);if(['http:','https:'].includes(u.protocol)){const link=el('a','','기존 스크랩 기사 보기 ↗');link.href=u.href;link.target='_blank';link.rel='noopener noreferrer';box.append(link)}}catch{}}body.append(box)}
 function relatedBadge(a){const n=relatedCount(a);return n?el('span','tag related-badge','통합 보도 '+(n+1)+'건'):null}
 function appendRelatedSources(body,a){
  const sources=relatedSources(a);if(sources.length<2)return;
@@ -168,7 +171,7 @@ function appendComparison(body,a){
 function workCard(a){
  const card=el('article','card work-card'),head=el('div','news-head'),copy=el('div','news-head-text'),meta=el('div','meta');
  meta.append(el('span','tag',workCategory(a)),el('span',a.importance==='높음'?'tag high':'tag',a.importance||'보통'),el('span','',a.source||'출처 미상'),el('span','',a.published?new Date(a.published).toLocaleDateString('ko-KR',{timeZone:'Asia/Seoul'}):''));
- const badge=relatedBadge(a);if(badge)meta.append(badge);copy.append(meta,el('h3','',a.title));const img=thumbnail(a);if(img)head.append(img);head.append(copy);card.append(head,el('p','',a.summary||'요약 없음'));
+ const badge=relatedBadge(a);if(badge)meta.append(badge);const sb=scrapRelationBadge(a);if(sb)meta.append(sb);copy.append(meta,el('h3','',a.title));const img=thumbnail(a);if(img)head.append(img);head.append(copy);card.append(head,el('p','',a.summary||'요약 없음'));
  const impact=el('p','impact');impact.append(el('strong','','업무 관점  '),document.createTextNode(safe(a.impact||'별도 분석 없음')));card.append(impact);
  card.addEventListener('click',e=>{if(!e.target.closest('a,button'))showDetail(a)});card.append(scrapButton(a),articleLink(a));return card;
 }
@@ -208,7 +211,7 @@ function renderPopular(){
  if(!list.length){$('cards').append(el('div','empty',all.length?'조건에 맞는 기사가 없습니다.':'해당 날짜의 일반 뉴스가 아직 없습니다.'));return}
  for(const a of list)$('cards').append(generalRow(a));
 }
-function showDetail(a){let body=$('detailBody');body.replaceChildren();let meta=el('div','meta');meta.append(el('span','tag',a.section||'산업·업무'),el('span','tag',a.category),el('span','',a.source||''));const badge=relatedBadge(a);if(badge)meta.append(badge);body.append(meta,el('h2','',a.title));let d=a.detail||{};for(const [head,val] of [['핵심 요약',a.summary],...(a.follow_up?[['이전 보도 ('+a.follow_up.date+')',a.follow_up.title+' — '+a.follow_up.summary],['이번 보도에서 달라진 점',a.new_information]]:[]),['배경 및 주요 내용',d.background||a.summary],['주요 포인트',(d.key_points||[]).map((x,i)=>(i+1)+'. '+x).join('\n')],...(a.section==='산업·업무'?[['업무 관점',a.impact]]:[]),['향후 확인할 사항',d.what_to_watch||'관련 공식 발표 및 후속 보도 확인'],['정보 확인 범위',d.fact_check||'제공된 기사 정보에 근거한 요약입니다.']]){if(!val)continue;body.append(el('h3','',head),el('p',head==='정보 확인 범위'?'fact':'',val))}let link=el('a','','기사 원문 보기 ↗');try{let u=new URL(a.url);if(['http:','https:'].includes(u.protocol)){link.href=u.href;link.target='_blank';link.rel='noopener noreferrer'}}catch{}appendComparison(body,a);body.append(link);appendRelatedSources(body,a);body.append(el('div','', '스크랩: '));body.append(scrapButton(a));$('detailOverlay').hidden=false;document.body.style.overflow='hidden'}
+function showDetail(a){let body=$('detailBody');body.replaceChildren();let meta=el('div','meta');meta.append(el('span','tag',a.section||'산업·업무'),el('span','tag',a.category),el('span','',a.source||''));const badge=relatedBadge(a);if(badge)meta.append(badge);const sb=scrapRelationBadge(a);if(sb)meta.append(sb);body.append(meta,el('h2','',a.title));appendScrapRelation(body,a);let d=a.detail||{};for(const [head,val] of [['핵심 요약',a.summary],...(a.follow_up?[['이전 보도 ('+a.follow_up.date+')',a.follow_up.title+' — '+a.follow_up.summary],['이번 보도에서 달라진 점',a.new_information]]:[]),['배경 및 주요 내용',d.background||a.summary],['주요 포인트',(d.key_points||[]).map((x,i)=>(i+1)+'. '+x).join('\n')],...(a.section==='산업·업무'?[['업무 관점',a.impact]]:[]),['향후 확인할 사항',d.what_to_watch||'관련 공식 발표 및 후속 보도 확인'],['정보 확인 범위',d.fact_check||'제공된 기사 정보에 근거한 요약입니다.']]){if(!val)continue;body.append(el('h3','',head),el('p',head==='정보 확인 범위'?'fact':'',val))}let link=el('a','','기사 원문 보기 ↗');try{let u=new URL(a.url);if(['http:','https:'].includes(u.protocol)){link.href=u.href;link.target='_blank';link.rel='noopener noreferrer'}}catch{}appendComparison(body,a);body.append(link);appendRelatedSources(body,a);body.append(el('div','', '스크랩: '));body.append(scrapButton(a));$('detailOverlay').hidden=false;document.body.style.overflow='hidden'}
 function closeDetail(){$('detailOverlay').hidden=true;document.body.style.overflow=''}
 $('closeDetail').addEventListener('click',closeDetail);$('detailOverlay').addEventListener('click',e=>{if(e.target===$('detailOverlay'))closeDetail()});document.addEventListener('keydown',e=>{if(e.key==='Escape')closeDetail()});document.querySelectorAll('[data-section]').forEach(b=>b.addEventListener('click',()=>{const wasScrap=selectedSection==='스크랩';if(!wasScrap)newsSortPreference=$('sort').value;selectedSection=b.dataset.section;if(wasScrap||selectedSection==='스크랩')configureSortForSection();document.querySelectorAll('[data-section]').forEach(x=>x.classList.toggle('active',x===b));$('category').value='';$('category').hidden=selectedSection==='네이버 인기'||selectedSection==='스크랩';updateSectionControls();if(selectedSection==='네이버 인기')loadPopular();else render()}));
 async function loadDate(date){historyRun++;historyResults=null;historyRange=null;$('historyStatus').textContent='';try{current=await json('data/'+encodeURIComponent(date)+'.json');await loadPopular();render()}catch(e){current=null;render();$('notice').textContent='해당 날짜 데이터를 불러오지 못했습니다.'}}
