@@ -8,7 +8,8 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "2026-10-26T07:05:01+09:00",
       "category": "경제·금융",
-      "description": "10/26 [뉴욕증시 마감브리핑] 네이버 프리미엄콘텐츠"
+      "description": "10/26 [뉴욕증시 마감브리핑] 네이버 프리미엄콘텐츠",
+      "priority_markets": []
     },
     {
       "id": "00ef7503f20d94",
@@ -37,7 +38,8 @@
         "fact_check": "본 기사는 현대모비스의 AS 부품 이익과 투자 집행의 상관관계를 다루고 있으며, 구체적인 CKD 물량 변화나 특정 포장·선적 관련 수치는 언급되지 않았습니다."
       },
       "ai_summary": true,
-      "image_url": ""
+      "image_url": "",
+      "priority_markets": []
     },
     {
       "id": "a21dcd15e64237",
@@ -46,7 +48,10 @@
       "source": "뉴스톱",
       "published": "2026-10-26T06:40:00+09:00",
       "category": "경제·금융",
-      "description": "[원빌딩 시선] 미국 경제가 흔들린다면 국내 부동산 시나리오별 대응책 뉴스톱"
+      "description": "[원빌딩 시선] 미국 경제가 흔들린다면 국내 부동산 시나리오별 대응책 뉴스톱",
+      "priority_markets": [
+        "미국"
+      ]
     },
     {
       "id": "6b29a936a2146b",
@@ -55,7 +60,8 @@
       "source": "Queen 이코노미퀸",
       "published": "2026-10-26T06:23:48+09:00",
       "category": "정치·정책",
-      "description": "[오늘의 주요일정] 정치·정부 (26일, 월) Queen 이코노미퀸"
+      "description": "[오늘의 주요일정] 정치·정부 (26일, 월) Queen 이코노미퀸",
+      "priority_markets": []
     },
     {
       "id": "80f0b47e6afa1e",
@@ -64,7 +70,8 @@
       "source": "소비자가 만드는 신문",
       "published": "2026-10-26T06:11:00+09:00",
       "category": "자동차",
-      "description": "현대차그룹 CEO 경영성적 희비…이보룡·이규석 '우등생', 호세 무뇨스·이용배 '울상' 소비자가 만드는 신문"
+      "description": "현대차그룹 CEO 경영성적 희비…이보룡·이규석 '우등생', 호세 무뇨스·이용배 '울상' 소비자가 만드는 신문",
+      "priority_markets": []
     },
     {
       "id": "26988d2fd6605b",
@@ -73,7 +80,8 @@
       "source": "아시아투데이",
       "published": "2026-10-26T06:00:44+09:00",
       "category": "국내 주요 사건",
-      "description": "[특파원 시선] 日언론, 국내선 얌전 해외선 용감…韓언론은? 아시아투데이"
+      "description": "[특파원 시선] 日언론, 국내선 얌전 해외선 용감…韓언론은? 아시아투데이",
+      "priority_markets": []
     },
     {
       "id": "48a9a694eb6ba5",
@@ -82,7 +90,8 @@
       "source": "오늘경제",
       "published": "2026-10-26T06:00:00+09:00",
       "category": "국내 주요 사건",
-      "description": "[단독] LS일렉트릭, 정부부터 개인까지 소송만 30여건…'사방이 적' 오늘경제"
+      "description": "[단독] LS일렉트릭, 정부부터 개인까지 소송만 30여건…'사방이 적' 오늘경제",
+      "priority_markets": []
     },
     {
       "id": "946c5cbd855a50",
@@ -91,7 +100,8 @@
       "source": "이투데이",
       "published": "2026-10-26T05:00:00+09:00",
       "category": "자동차",
-      "description": "반도체 세제 혜택서도 밀린 K-자동차...해외 탈출 가속화 [韓 자동차 생태계 빨간불 上②] 이투데이"
+      "description": "반도체 세제 혜택서도 밀린 K-자동차...해외 탈출 가속화 [韓 자동차 생태계 빨간불 上②] 이투데이",
+      "priority_markets": []
     },
     {
       "id": "3a5cda867d45d3",
@@ -100,7 +110,10 @@
       "source": "동행미디어 시대",
       "published": "2026-10-26T05:00:00+09:00",
       "category": "자동차",
-      "description": "[시대광장/김화진] 인도로 가자 동행미디어 시대"
+      "description": "[시대광장/김화진] 인도로 가자 동행미디어 시대",
+      "priority_markets": [
+        "인도"
+      ]
     },
     {
       "id": "d00c7b8900c997",
@@ -109,7 +122,8 @@
       "source": "뉴시스",
       "published": "2026-10-26T05:00:00+09:00",
       "category": "정치·정책",
-      "description": "무죄 판결 후 정치 보폭 넓히는 오세훈…\"국힘, 분열보다 단합·통합\" 뉴시스"
+      "description": "무죄 판결 후 정치 보폭 넓히는 오세훈…\"국힘, 분열보다 단합·통합\" 뉴시스",
+      "priority_markets": []
     },
     {
       "id": "5ad13496315b41",
@@ -121,16 +135,22 @@
       "description": "현대모비스, R&D 투자 첫 2조원 돌파…미래차 기술 경쟁력 강화 [혁신경영] 이투데이",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
-      "impact": "AI 분석 대기 중",
+      "summary": "현대모비스가 미래차 기술 경쟁력 강화를 위해 R&D 투자를 2조 원 이상으로 확대했습니다. 이는 전동화 및 자율주행 등 차세대 모빌리티 부품 개발에 집중하겠다는 전략으로 풀이됩니다.",
+      "impact": "R&D 투자 확대는 향후 신규 모듈 및 전동화 부품의 설계 변경이나 사양 고도화로 이어질 수 있습니다. 이는 CKD 포장 설계의 변경이나 신규 부품 조달 체계 수립 등 공급망 운영 방식에 장기적인 변화를 초래할 가능성이 있습니다.",
       "importance": "보통",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "background": "현대모비스가 미래차 기술 확보를 위해 연간 R&D 투자액 2조 원 시대를 열었습니다. 전동화와 전장 부품 중심의 기술 고도화가 핵심입니다.",
+        "key_points": [
+          "R&D 투자액 사상 첫 2조 원 돌파",
+          "미래차 기술 경쟁력 강화 전략 추진",
+          "전동화 및 자율주행 부품 개발 가속화"
+        ],
+        "what_to_watch": "신규 개발 부품의 양산 적용 시점 및 기존 CKD 공급 품목과의 사양 호환성 여부",
+        "fact_check": "RSS 발췌문 기반으로 작성되었으며, 구체적인 투자 세부 항목은 확인되지 않음"
       },
-      "image_url": ""
+      "image_url": "",
+      "priority_markets": [],
+      "ai_summary": true
     },
     {
       "id": "c9d3d03c0fd8fd",
@@ -139,7 +159,8 @@
       "source": "한국일보",
       "published": "2026-10-26T04:30:00+09:00",
       "category": "정치·정책",
-      "description": "南에는 '장벽' 쌓고 中에는 '새 다리' 놓은 北...이 대통령 대북·외교 정책, 고립세 한국일보"
+      "description": "南에는 '장벽' 쌓고 中에는 '새 다리' 놓은 北...이 대통령 대북·외교 정책, 고립세 한국일보",
+      "priority_markets": []
     },
     {
       "id": "5115f658e544b3",
@@ -148,7 +169,8 @@
       "source": "조선일보",
       "published": "2026-10-26T00:20:00+09:00",
       "category": "정치·정책",
-      "description": "[사설] \"주가 지수가 국정 목표인 나라는 세계 어디에도 없다\" 조선일보"
+      "description": "[사설] \"주가 지수가 국정 목표인 나라는 세계 어디에도 없다\" 조선일보",
+      "priority_markets": []
     },
     {
       "id": "fc3789adcda103",
@@ -160,16 +182,26 @@
       "description": "한방은 없었다…'쇼츠 국감' 논란 속 막 내리는 국정감사, 이제는 예산전쟁 https://www.sisaworld.kr/",
       "section": "일반 뉴스",
       "related_articles": [],
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
-      "impact": "",
+      "summary": "2024년 국정감사가 별다른 결정적 성과 없이 마무리되며, 정치권의 관심이 예산안 심사로 이동하고 있습니다. '쇼츠 국감'이라는 비판과 함께 정책적 실효성에 대한 논란이 제기되었습니다.",
+      "impact": "국회 예산 심사 과정에서 산업 관련 예산의 증액 또는 삭감 여부가 기업의 투자 환경에 영향을 줄 수 있습니다. 향후 예산안 처리 과정에서 주요 산업 지원 정책의 변화를 모니터링할 필요가 있습니다.",
       "importance": "보통",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "background": "국정감사가 종료되고 본격적인 예산 정국으로 진입하는 상황입니다.",
+        "key_points": [
+          "국정감사 성과 부재 및 쇼츠 국감 논란",
+          "정치권의 초점이 예산안 심사로 전환",
+          "예산 정국에서의 여야 대치 가능성"
+        ],
+        "what_to_watch": "예산안 심사 과정에서의 산업별 예산 배정 변화",
+        "fact_check": "국정감사 종료 후 예산 심사 일정 확인 필요"
       },
-      "image_url": ""
+      "image_url": "",
+      "priority_markets": [],
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "09a8e211a8ef1087"
     },
     {
       "id": "db83f9fe561e37",
@@ -178,7 +210,8 @@
       "source": "YTN",
       "published": "2026-10-25T23:18:00+09:00",
       "category": "국내 주요 사건",
-      "description": "여행경보 국가 한국인 사건 사고 48%↑...중국에서 최다 YTN"
+      "description": "여행경보 국가 한국인 사건 사고 48%↑...중국에서 최다 YTN",
+      "priority_markets": []
     },
     {
       "id": "1ec56d4251e7fb",
@@ -187,7 +220,8 @@
       "source": "https://www.sisaworld.kr/",
       "published": "2026-10-25T22:07:34+09:00",
       "category": "정치·정책",
-      "description": "YS의 오른팔 떠나자 보수·진보 한자리에…최형우 빈소에 모인 한국 정치 https://www.sisaworld.kr/"
+      "description": "YS의 오른팔 떠나자 보수·진보 한자리에…최형우 빈소에 모인 한국 정치 https://www.sisaworld.kr/",
+      "priority_markets": []
     },
     {
       "id": "039ca701c7e93f",
@@ -196,7 +230,8 @@
       "source": "데일리25",
       "published": "2026-10-25T21:30:19+09:00",
       "category": "경제·금융",
-      "description": "이번 주, 무엇이 남았나 ｜ 2026년 10월 19일~25일 데일리25"
+      "description": "이번 주, 무엇이 남았나 ｜ 2026년 10월 19일~25일 데일리25",
+      "priority_markets": []
     },
     {
       "id": "50a80f2f94e629",
@@ -205,7 +240,8 @@
       "source": "경향신문",
       "published": "2026-10-25T21:13:00+09:00",
       "category": "전동화",
-      "description": "They are inexpensive, too··· easing parking woes and adding romance, the ‘cute cars’ weaving through the alleys of Europe 경향신문"
+      "description": "They are inexpensive, too··· easing parking woes and adding romance, the ‘cute cars’ weaving through the alleys of Europe 경향신문",
+      "priority_markets": []
     },
     {
       "id": "56a67b840d8d01",
@@ -214,7 +250,8 @@
       "source": "거제신문",
       "published": "2026-10-25T20:53:25+09:00",
       "category": "정치·정책",
-      "description": "[데스크 칼럼] ‘YS의 오른팔’ 최형우의 별세, 한국 정치의 협치 부를 수 있나 거제신문"
+      "description": "[데스크 칼럼] ‘YS의 오른팔’ 최형우의 별세, 한국 정치의 협치 부를 수 있나 거제신문",
+      "priority_markets": []
     },
     {
       "id": "49369829a9032e",
@@ -223,7 +260,8 @@
       "source": "헤럴드경제",
       "published": "2026-10-25T19:40:00+09:00",
       "category": "경제·금융",
-      "description": "[증시 예보] 결국 열쇠는 ‘삼전닉스’…28·29일이 진짜 중요한 이유 헤럴드경제"
+      "description": "[증시 예보] 결국 열쇠는 ‘삼전닉스’…28·29일이 진짜 중요한 이유 헤럴드경제",
+      "priority_markets": []
     },
     {
       "id": "1b3594d3d3c591",
@@ -232,7 +270,10 @@
       "source": "코리아포스트 한글판",
       "published": "2026-10-25T19:37:52+09:00",
       "category": "자동차",
-      "description": "트럼프, 아우디 조지아 투자 발표…미국 첫 생산공장 추진 코리아포스트 한글판"
+      "description": "트럼프, 아우디 조지아 투자 발표…미국 첫 생산공장 추진 코리아포스트 한글판",
+      "priority_markets": [
+        "미국"
+      ]
     },
     {
       "id": "e1fdf31cef34da",
@@ -241,7 +282,8 @@
       "source": "Vietnam.vn",
       "published": "2026-10-25T19:04:27+09:00",
       "category": "정치·정책",
-      "description": "정부의 주요 분야 인재 유치 및 활용 실행 계획. Vietnam.vn"
+      "description": "정부의 주요 분야 인재 유치 및 활용 실행 계획. Vietnam.vn",
+      "priority_markets": []
     },
     {
       "id": "5182bf569fc14e",
@@ -250,7 +292,8 @@
       "source": "한국경제",
       "published": "2026-10-25T18:42:59+09:00",
       "category": "정치·정책",
-      "description": "與, 부동산·주식 세제개편 정부안 손질하나 한국경제"
+      "description": "與, 부동산·주식 세제개편 정부안 손질하나 한국경제",
+      "priority_markets": []
     },
     {
       "id": "b5756bb6a0b59e",
@@ -259,7 +302,8 @@
       "source": "이데일리",
       "published": "2026-10-25T18:29:55+09:00",
       "category": "자동차",
-      "description": "솔리다임發 복잡해진 대기업 투자 셈법…해외 자회사 전략 시험대 이데일리"
+      "description": "솔리다임發 복잡해진 대기업 투자 셈법…해외 자회사 전략 시험대 이데일리",
+      "priority_markets": []
     },
     {
       "id": "ec505b94af74d5",
@@ -268,7 +312,8 @@
       "source": "충청매일",
       "published": "2026-10-25T18:20:07+09:00",
       "category": "정치·정책",
-      "description": "충북 산업 기반 활용 신규사업 발굴 등 논의 충청매일"
+      "description": "충북 산업 기반 활용 신규사업 발굴 등 논의 충청매일",
+      "priority_markets": []
     },
     {
       "id": "1499ff506da319",
@@ -277,7 +322,8 @@
       "source": "국민기자뉴스",
       "published": "2026-10-25T18:00:00+09:00",
       "category": "정치·정책",
-      "description": "임이자 의원, “국회 시야 밖 ‘숨은 정책자금’ 113조원, 사각지대 해소해야” 국민기자뉴스"
+      "description": "임이자 의원, “국회 시야 밖 ‘숨은 정책자금’ 113조원, 사각지대 해소해야” 국민기자뉴스",
+      "priority_markets": []
     },
     {
       "id": "45c27a2b297589",
@@ -286,7 +332,8 @@
       "source": "이투데이",
       "published": "2026-10-25T17:10:00+09:00",
       "category": "정치·정책",
-      "description": "‘쇼츠’에 밀린 정책검증…막바지 국감, 조희대·청와대서 마지막 격돌 이투데이"
+      "description": "‘쇼츠’에 밀린 정책검증…막바지 국감, 조희대·청와대서 마지막 격돌 이투데이",
+      "priority_markets": []
     },
     {
       "id": "41301f8e1f4d6a",
@@ -295,7 +342,8 @@
       "source": "매일경제",
       "published": "2026-10-25T17:05:17+09:00",
       "category": "자동차",
-      "description": "해외 IPO 막힐라 … 현대차·LG·두산 '난처' 매일경제"
+      "description": "해외 IPO 막힐라 … 현대차·LG·두산 '난처' 매일경제",
+      "priority_markets": []
     },
     {
       "id": "75e2c41893fdf8",
@@ -304,7 +352,8 @@
       "source": "한스경제",
       "published": "2026-10-25T16:58:27+09:00",
       "category": "경제·금융",
-      "description": "외국인 40조원 순매도에도 환율은 '뒷걸음'…원화의 '역주행' 한스경제"
+      "description": "외국인 40조원 순매도에도 환율은 '뒷걸음'…원화의 '역주행' 한스경제",
+      "priority_markets": []
     },
     {
       "id": "d691b636680641",
@@ -313,7 +362,8 @@
       "source": "뉴시스",
       "published": "2026-10-25T16:32:24+09:00",
       "category": "정치·정책",
-      "description": "장동혁, 'YS 오른팔' 故최형우 조문…\"고인 뜻 받들어 좋은 정치 하겠다\" 뉴시스"
+      "description": "장동혁, 'YS 오른팔' 故최형우 조문…\"고인 뜻 받들어 좋은 정치 하겠다\" 뉴시스",
+      "priority_markets": []
     },
     {
       "id": "f1cfc2a5441829",
@@ -322,7 +372,8 @@
       "source": "전자신문",
       "published": "2026-10-25T16:00:00+09:00",
       "category": "국내 주요 사건",
-      "description": "[ET시론]치안산업의 미래, 한국치안산업진흥협회와 함께 세계시장으로 전자신문"
+      "description": "[ET시론]치안산업의 미래, 한국치안산업진흥협회와 함께 세계시장으로 전자신문",
+      "priority_markets": []
     },
     {
       "id": "0ee95af4f480dc",
@@ -334,16 +385,26 @@
       "description": "솔리다임 IPO 중단에…현대차, BD 상장 추진 셈법 복잡 아주경제",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
-      "impact": "AI 분석 대기 중",
-      "importance": "보통",
+      "summary": "솔리다임의 IPO 중단 결정이 현대차그룹의 BD(배터리 사업 등) 상장 추진 전략에 영향을 미치고 있습니다. 시장 상황 변화에 따른 기업공개 전략의 재검토가 필요한 시점입니다.",
+      "impact": "자본시장 환경 변화는 기업의 자금 조달 계획 및 투자 전략에 직접적인 영향을 미칩니다. 상장 추진 일정의 지연이나 변경 가능성을 고려하여 관련 사업부의 자금 운용 및 투자 집행 계획을 점검해야 합니다.",
+      "importance": "높음",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "background": "솔리다임의 IPO 중단이 시장 전반의 상장 분위기에 미치는 영향 분석",
+        "key_points": [
+          "솔리다임 IPO 중단에 따른 시장 심리 위축",
+          "현대차그룹의 BD 상장 추진 전략 수정 가능성",
+          "기업공개 환경 변화에 따른 자금 조달 전략 재검토"
+        ],
+        "what_to_watch": "현대차그룹의 향후 상장 추진 일정 및 시장 대응 전략",
+        "fact_check": "솔리다임 IPO 중단 사유 및 현대차그룹의 공식 입장 확인"
       },
-      "image_url": ""
+      "image_url": "",
+      "priority_markets": [],
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "6f3b0d4a76516ed8"
     },
     {
       "id": "caa817e381bca1",
@@ -352,7 +413,8 @@
       "source": "경북매일",
       "published": "2026-10-25T15:31:00+09:00",
       "category": "정치·정책",
-      "description": "경북도 ‘2026년 한국정부학회 추계 학술 대회’ 개최 경북매일"
+      "description": "경북도 ‘2026년 한국정부학회 추계 학술 대회’ 개최 경북매일",
+      "priority_markets": []
     },
     {
       "id": "d8cd097c25a63b",
@@ -361,7 +423,8 @@
       "source": "뉴스경남",
       "published": "2026-10-25T15:18:00+09:00",
       "category": "국내 주요 사건",
-      "description": "여행경보 10개국 한국인 사건·사고 급증…1년새 48% ↑ 뉴스경남"
+      "description": "여행경보 10개국 한국인 사건·사고 급증…1년새 48% ↑ 뉴스경남",
+      "priority_markets": []
     },
     {
       "id": "6bc82d65e48583",
@@ -391,7 +454,8 @@
       "ai_summary": true,
       "integrated_summary": true,
       "integration_signature": "3f26d84a0601647e",
-      "image_url": ""
+      "image_url": "",
+      "priority_markets": []
     },
     {
       "id": "7e4809a7314839",
@@ -400,7 +464,8 @@
       "source": "경북신문",
       "published": "2026-10-25T14:17:41+09:00",
       "category": "경제·금융",
-      "description": "[시론] 한국은행의 '호미질', 파국을 막는 정공법 경북신문"
+      "description": "[시론] 한국은행의 '호미질', 파국을 막는 정공법 경북신문",
+      "priority_markets": []
     },
     {
       "id": "2a6543866452f5",
@@ -409,7 +474,8 @@
       "source": "뉴스와이어",
       "published": "2026-10-25T14:10:00+09:00",
       "category": "CKD·물류",
-      "description": "Saudi Maritime & Logistics Congress Highlights Maritime Sector Integration and Opportunities for Trade and Investment Growth in the Kingdom 뉴스와이어"
+      "description": "Saudi Maritime & Logistics Congress Highlights Maritime Sector Integration and Opportunities for Trade and Investment Growth in the Kingdom 뉴스와이어",
+      "priority_markets": []
     },
     {
       "id": "20dc0bfbe33e70",
@@ -418,7 +484,8 @@
       "source": "뉴데일리",
       "published": "2026-10-25T13:44:00+09:00",
       "category": "정치·정책",
-      "description": "국힘, 김정은 방중에 \"북중러 밀착하는데 李정부는 뭐했나\" 뉴데일리"
+      "description": "국힘, 김정은 방중에 \"북중러 밀착하는데 李정부는 뭐했나\" 뉴데일리",
+      "priority_markets": []
     },
     {
       "id": "ae18272e25b13b",
@@ -427,7 +494,8 @@
       "source": "한국연예스포츠신문",
       "published": "2026-10-25T13:40:25+09:00",
       "category": "관심 키워드",
-      "description": "삼성, 현대모비스 꺾고 첫 개막 7연승…역대 최다까지 1승 남았다 한국연예스포츠신문"
+      "description": "삼성, 현대모비스 꺾고 첫 개막 7연승…역대 최다까지 1승 남았다 한국연예스포츠신문",
+      "priority_markets": []
     },
     {
       "id": "d1dea1cc913294",
@@ -436,7 +504,8 @@
       "source": "매일경제",
       "published": "2026-10-25T13:28:44+09:00",
       "category": "정치·정책",
-      "description": "“국민의힘 단합·통합돼야”…무죄 선고후 정치 보폭 넓히는 오세훈 매일경제"
+      "description": "“국민의힘 단합·통합돼야”…무죄 선고후 정치 보폭 넓히는 오세훈 매일경제",
+      "priority_markets": []
     },
     {
       "id": "027908018af438",
@@ -445,7 +514,8 @@
       "source": "조선일보",
       "published": "2026-10-25T13:28:00+09:00",
       "category": "관심 키워드",
-      "description": "구단 역사상 최초 개막 7연승. 삼성 미라클 진두지휘 김상식 감독 \"PO 6강 생각? 지금은 1도 없다\" 조선일보"
+      "description": "구단 역사상 최초 개막 7연승. 삼성 미라클 진두지휘 김상식 감독 \"PO 6강 생각? 지금은 1도 없다\" 조선일보",
+      "priority_markets": []
     },
     {
       "id": "bf2544773747a1",
@@ -454,7 +524,10 @@
       "source": "Vietnam.vn",
       "published": "2026-10-25T13:26:00+09:00",
       "category": "국제·외교",
-      "description": "우크라이나 분쟁에서 미국 영부인의 소프트 파워 외교. Vietnam.vn"
+      "description": "우크라이나 분쟁에서 미국 영부인의 소프트 파워 외교. Vietnam.vn",
+      "priority_markets": [
+        "미국"
+      ]
     },
     {
       "id": "a528c36d78af81",
@@ -463,7 +536,8 @@
       "source": "KB Think",
       "published": "2026-10-25T13:00:01+09:00",
       "category": "경제·금융",
-      "description": "[외환-주간] 5주 연속 내린 달러-원, FOMC·경제지표 '시험대' KB Think"
+      "description": "[외환-주간] 5주 연속 내린 달러-원, FOMC·경제지표 '시험대' KB Think",
+      "priority_markets": []
     },
     {
       "id": "a0286820103fe2",
@@ -493,7 +567,8 @@
       "ai_summary": true,
       "integrated_summary": true,
       "integration_signature": "534e172ee956b215",
-      "image_url": ""
+      "image_url": "",
+      "priority_markets": []
     },
     {
       "id": "014bd60d61eb97",
@@ -502,7 +577,8 @@
       "source": "네이버 프리미엄콘텐츠",
       "published": "2026-10-25T11:25:00+09:00",
       "category": "경제·금융",
-      "description": "[주간 브리핑] 2026년 10월 4주차 : 한은 금리 동결과 유가 103달러 돌파 속 코스피 5,550선 극적 방어 네이버 프리미엄콘텐츠"
+      "description": "[주간 브리핑] 2026년 10월 4주차 : 한은 금리 동결과 유가 103달러 돌파 속 코스피 5,550선 극적 방어 네이버 프리미엄콘텐츠",
+      "priority_markets": []
     },
     {
       "id": "fb947e3da2dbda",
@@ -511,7 +587,8 @@
       "source": "한국경제TV",
       "published": "2026-10-25T11:22:51+09:00",
       "category": "경제·금융",
-      "description": "카나리아 리포트 | 이용 가이드 한국경제TV"
+      "description": "카나리아 리포트 | 이용 가이드 한국경제TV",
+      "priority_markets": []
     },
     {
       "id": "41920a7c104b64",
@@ -520,7 +597,8 @@
       "source": "진일보 | 전남일보",
       "published": "2026-10-25T11:17:27+09:00",
       "category": "정치·정책",
-      "description": "오세훈, 2심 무죄 후 정치 행보 확대…국민의힘 통합 강조 진일보 | 전남일보"
+      "description": "오세훈, 2심 무죄 후 정치 행보 확대…국민의힘 통합 강조 진일보 | 전남일보",
+      "priority_markets": []
     },
     {
       "id": "1add9379d932d4",
@@ -529,7 +607,8 @@
       "source": "YTN",
       "published": "2026-10-25T11:13:00+09:00",
       "category": "국내 주요 사건",
-      "description": "여행경보 국가서 한국인 사건사고 급증...중국에서 최다 YTN"
+      "description": "여행경보 국가서 한국인 사건사고 급증...중국에서 최다 YTN",
+      "priority_markets": []
     },
     {
       "id": "80817b0005d802",
@@ -538,7 +617,8 @@
       "source": "머니투데이",
       "published": "2026-10-25T09:45:28+09:00",
       "category": "관심 키워드",
-      "description": "'에이스가 없다=에이스가 너무 많다' 그래서 더 무서운 삼성의 7연승 - 머니투데이 머니투데이"
+      "description": "'에이스가 없다=에이스가 너무 많다' 그래서 더 무서운 삼성의 7연승 - 머니투데이 머니투데이",
+      "priority_markets": []
     },
     {
       "id": "7893e24b0eb129",
@@ -547,7 +627,8 @@
       "source": "뉴스트래블",
       "published": "2026-10-25T09:02:24+09:00",
       "category": "국내 주요 사건",
-      "description": "아르헨티나 파타고니아, 빙하호 범람·산사태 주의…트레킹 안전 당부 뉴스트래블"
+      "description": "아르헨티나 파타고니아, 빙하호 범람·산사태 주의…트레킹 안전 당부 뉴스트래블",
+      "priority_markets": []
     },
     {
       "id": "a2e31cbe318ce6",
@@ -556,7 +637,8 @@
       "source": "오피니언뉴스",
       "published": "2026-10-25T09:00:00+09:00",
       "category": "경제·금융",
-      "description": "[이번주 환율] 1320원대까지 내려온 환율…수출 호조·네고 물량에 추가 하락 전망 오피니언뉴스"
+      "description": "[이번주 환율] 1320원대까지 내려온 환율…수출 호조·네고 물량에 추가 하락 전망 오피니언뉴스",
+      "priority_markets": []
     },
     {
       "id": "2df2ade55db42b",
@@ -565,7 +647,8 @@
       "source": "천지일보",
       "published": "2026-10-25T09:00:00+09:00",
       "category": "정치·정책",
-      "description": "국감 막판까지 여야 충돌 예고… 820조원대 예산 전쟁 돌입 천지일보"
+      "description": "국감 막판까지 여야 충돌 예고… 820조원대 예산 전쟁 돌입 천지일보",
+      "priority_markets": []
     },
     {
       "id": "d8253fd1af4a19",
@@ -574,7 +657,8 @@
       "source": "연합뉴스",
       "published": "2026-10-25T08:58:26+09:00",
       "category": "정치·정책",
-      "description": "무죄 다음날 '당 통합' 꺼낸 오세훈 시장…정치 보폭 달라져 연합뉴스"
+      "description": "무죄 다음날 '당 통합' 꺼낸 오세훈 시장…정치 보폭 달라져 연합뉴스",
+      "priority_markets": []
     },
     {
       "id": "42a2a3035ea8ee",
@@ -583,7 +667,8 @@
       "source": "연합뉴스",
       "published": "2026-10-25T08:00:15+09:00",
       "category": "국내 주요 사건",
-      "description": "여행경보 10개국 한국인 사건사고 1년새 48%↑…납치감금 2배로 연합뉴스"
+      "description": "여행경보 10개국 한국인 사건사고 1년새 48%↑…납치감금 2배로 연합뉴스",
+      "priority_markets": []
     },
     {
       "id": "1dca0a25e553f8",
@@ -592,7 +677,8 @@
       "source": "바스켓코리아",
       "published": "2026-10-25T07:55:31+09:00",
       "category": "관심 키워드",
-      "description": "[수비수의 시선] 현대모비스가 느낀 것, 한호빈만 삼성의 시작점이 아니다 바스켓코리아"
+      "description": "[수비수의 시선] 현대모비스가 느낀 것, 한호빈만 삼성의 시작점이 아니다 바스켓코리아",
+      "priority_markets": []
     },
     {
       "id": "0aeda3af6246b1",
@@ -601,7 +687,8 @@
       "source": "연합뉴스",
       "published": "2026-10-25T07:07:00+09:00",
       "category": "경제·금융",
-      "description": "[머니톡스] '호미질'의 미학…파국을 막는 정공법 연합뉴스"
+      "description": "[머니톡스] '호미질'의 미학…파국을 막는 정공법 연합뉴스",
+      "priority_markets": []
     },
     {
       "id": "8e02df17452198",
@@ -610,7 +697,8 @@
       "source": "파이낸셜뉴스",
       "published": "2026-10-25T07:05:43+09:00",
       "category": "경제·금융",
-      "description": "외국인 40조 팔아도 원화 '나홀로 강세'…환율 내년 1250원 전망까지 파이낸셜뉴스"
+      "description": "외국인 40조 팔아도 원화 '나홀로 강세'…환율 내년 1250원 전망까지 파이낸셜뉴스",
+      "priority_markets": []
     },
     {
       "id": "b52f50a030da87",
@@ -619,7 +707,8 @@
       "source": "이데일리",
       "published": "2026-10-25T07:00:04+09:00",
       "category": "경제·금융",
-      "description": "1320원대로 내려온 환율, FOMC·고유가에 하락세 꺾이나[주간외환전망] 이데일리"
+      "description": "1320원대로 내려온 환율, FOMC·고유가에 하락세 꺾이나[주간외환전망] 이데일리",
+      "priority_markets": []
     },
     {
       "id": "64283b1c84a7e1",
@@ -628,7 +717,8 @@
       "source": "라이센스뉴스",
       "published": "2026-10-25T06:00:00+09:00",
       "category": "경제·금융",
-      "description": "외국인은 주식 팔고 수출은 달러 벌고…환율 공식은 옛말? 라이센스뉴스"
+      "description": "외국인은 주식 팔고 수출은 달러 벌고…환율 공식은 옛말? 라이센스뉴스",
+      "priority_markets": []
     },
     {
       "id": "ffc949b1b0fff7",
@@ -637,7 +727,8 @@
       "source": "뉴시스",
       "published": "2026-10-25T01:02:00+09:00",
       "category": "경제·금융",
-      "description": "\"이런 적은 처음\"…1300원대 환율과 금리 변수에 증시 흔들리나 뉴시스"
+      "description": "\"이런 적은 처음\"…1300원대 환율과 금리 변수에 증시 흔들리나 뉴시스",
+      "priority_markets": []
     },
     {
       "id": "4906d37cbac177",
@@ -646,7 +737,8 @@
       "source": "점프볼",
       "published": "2026-10-25T00:28:57+09:00",
       "category": "관심 키워드",
-      "description": "‘아시아쿼터 퍼즐 완성’ 현대모비스, 필리핀 가드 아바디아노 영입…선수단 구성 마무리 점프볼"
+      "description": "‘아시아쿼터 퍼즐 완성’ 현대모비스, 필리핀 가드 아바디아노 영입…선수단 구성 마무리 점프볼",
+      "priority_markets": []
     },
     {
       "id": "f1ec765d6fdddf",
@@ -655,7 +747,8 @@
       "source": "머니투데이",
       "published": "2026-10-25T00:20:00+09:00",
       "category": "관심 키워드",
-      "description": "'미쳤다' 승승승승승승승, 5시즌 연속 꼴찌팀의 대반전...삼성 창단 최초 개막 7연승, KBL 역대 최다 기록 -1승 - 머니투데이 머니투데이"
+      "description": "'미쳤다' 승승승승승승승, 5시즌 연속 꼴찌팀의 대반전...삼성 창단 최초 개막 7연승, KBL 역대 최다 기록 -1승 - 머니투데이 머니투데이",
+      "priority_markets": []
     },
     {
       "id": "0183cf8f197a12",
@@ -664,7 +757,8 @@
       "source": "YTN",
       "published": "2026-10-24T23:02:00+09:00",
       "category": "정치·정책",
-      "description": "정책 뒷전, '쇼츠 정치' 경쟁 된 국감...갈등 부추겨 YTN"
+      "description": "정책 뒷전, '쇼츠 정치' 경쟁 된 국감...갈등 부추겨 YTN",
+      "priority_markets": []
     },
     {
       "id": "0622642f2396b2",
@@ -673,7 +767,8 @@
       "source": "m.maniareport.com",
       "published": "2026-10-24T22:38:03+09:00",
       "category": "관심 키워드",
-      "description": "'만년 꼴찌'의 환골탈태...삼성, 현대모비스 91-71 대파하고 개막 7연승 m.maniareport.com"
+      "description": "'만년 꼴찌'의 환골탈태...삼성, 현대모비스 91-71 대파하고 개막 7연승 m.maniareport.com",
+      "priority_markets": []
     },
     {
       "id": "afa09a37635270",
@@ -682,7 +777,8 @@
       "source": "더브리프뉴스",
       "published": "2026-10-24T21:58:26+09:00",
       "category": "경제·금융",
-      "description": "IMF 한국 경제성장률 3.3% 상승 전망, 수출은 신기록 증시는 출렁… '방향타' 잡는 한국경제 더브리프뉴스"
+      "description": "IMF 한국 경제성장률 3.3% 상승 전망, 수출은 신기록 증시는 출렁… '방향타' 잡는 한국경제 더브리프뉴스",
+      "priority_markets": []
     },
     {
       "id": "afa0554fe00e1b",
@@ -691,7 +787,8 @@
       "source": "뉴스핌",
       "published": "2026-10-24T20:57:00+09:00",
       "category": "관심 키워드",
-      "description": "[프로농구] '지는 법 잊은' 삼성 '7연승', 현대모비스 91-71 제압…소노 버저비터 극적승 뉴스핌"
+      "description": "[프로농구] '지는 법 잊은' 삼성 '7연승', 현대모비스 91-71 제압…소노 버저비터 극적승 뉴스핌",
+      "priority_markets": []
     },
     {
       "id": "87cf5dca6533fe",
@@ -700,7 +797,8 @@
       "source": "머니투데이",
       "published": "2026-10-24T20:23:07+09:00",
       "category": "관심 키워드",
-      "description": "삼성 아무도 못 막는다! '창단 최초' 개막 7연승 폭발... KBL 역대 기록까지 1승 남았다 - 머니투데이 머니투데이"
+      "description": "삼성 아무도 못 막는다! '창단 최초' 개막 7연승 폭발... KBL 역대 기록까지 1승 남았다 - 머니투데이 머니투데이",
+      "priority_markets": []
     },
     {
       "id": "f0c403202bb54c",
@@ -709,7 +807,8 @@
       "source": "바스켓코리아",
       "published": "2026-10-24T20:14:45+09:00",
       "category": "관심 키워드",
-      "description": "[경기 후] 김상식 삼성 감독, “이겼지만...” … 양동근 현대모비스 감독, “(다리우스) 베즐리 혼자 쉽지 않다” 바스켓코리아"
+      "description": "[경기 후] 김상식 삼성 감독, “이겼지만...” … 양동근 현대모비스 감독, “(다리우스) 베즐리 혼자 쉽지 않다” 바스켓코리아",
+      "priority_markets": []
     },
     {
       "id": "f8bdd3584f100c",
@@ -718,7 +817,8 @@
       "source": "한국일보",
       "published": "2026-10-24T20:09:00+09:00",
       "category": "국내 주요 사건",
-      "description": "아시안패러게임 폐막... 한국, 금 29개로 종합 5위 한국일보"
+      "description": "아시안패러게임 폐막... 한국, 금 29개로 종합 5위 한국일보",
+      "priority_markets": []
     },
     {
       "id": "de917a33c64945",
@@ -727,7 +827,8 @@
       "source": "점프볼",
       "published": "2026-10-24T19:57:12+09:00",
       "category": "관심 키워드",
-      "description": "[화보] 현대모비스와 삼성 경기 화보 (삼성 91-71 현대모비스) 점프볼"
+      "description": "[화보] 현대모비스와 삼성 경기 화보 (삼성 91-71 현대모비스) 점프볼",
+      "priority_markets": []
     },
     {
       "id": "87e8f58ecb0b2e",
@@ -736,7 +837,8 @@
       "source": "점프볼",
       "published": "2026-10-24T19:50:15+09:00",
       "category": "관심 키워드",
-      "description": "[포토] 하이파이브 하는 현대모비스 서명진과 박무빈 점프볼"
+      "description": "[포토] 하이파이브 하는 현대모비스 서명진과 박무빈 점프볼",
+      "priority_markets": []
     },
     {
       "id": "8593f8948a5139",
@@ -745,7 +847,8 @@
       "source": "점프볼",
       "published": "2026-10-24T19:45:13+09:00",
       "category": "관심 키워드",
-      "description": "[포토] 현대모비스 제리 아바디아노 ′패턴 지시′ 점프볼"
+      "description": "[포토] 현대모비스 제리 아바디아노 ′패턴 지시′ 점프볼",
+      "priority_markets": []
     },
     {
       "id": "6d29f7eedcf0ea",
@@ -754,7 +857,8 @@
       "source": "동아일보",
       "published": "2026-10-24T19:37:51+09:00",
       "category": "관심 키워드",
-      "description": "프로농구 삼성, 창단 최다 개막 7연승…현대모비스 완파 동아일보"
+      "description": "프로농구 삼성, 창단 최다 개막 7연승…현대모비스 완파 동아일보",
+      "priority_markets": []
     },
     {
       "id": "d49cf075f90189",
@@ -763,7 +867,8 @@
       "source": "한스경제",
       "published": "2026-10-24T19:33:11+09:00",
       "category": "관심 키워드",
-      "description": "프로농구 삼성, 현대모비스 꺾고 구단 최다 개막 7연승 한스경제"
+      "description": "프로농구 삼성, 현대모비스 꺾고 구단 최다 개막 7연승 한스경제",
+      "priority_markets": []
     },
     {
       "id": "7463fe312f8ff4",
@@ -772,7 +877,8 @@
       "source": "스페셜타임스",
       "published": "2026-10-24T18:53:53+09:00",
       "category": "관심 키워드",
-      "description": "삼성, 창단 최다 개막 7연승…현대모비스에 20점 차 완승 스페셜타임스"
+      "description": "삼성, 창단 최다 개막 7연승…현대모비스에 20점 차 완승 스페셜타임스",
+      "priority_markets": []
     },
     {
       "id": "3a97a5f032b36f",
@@ -781,7 +887,8 @@
       "source": "뉴시스",
       "published": "2026-10-24T18:43:05+09:00",
       "category": "관심 키워드",
-      "description": "프로농구 SK, 2연승…삼성은 모비스 꺾고 첫 개막 7연승(종합) 뉴시스"
+      "description": "프로농구 SK, 2연승…삼성은 모비스 꺾고 첫 개막 7연승(종합) 뉴시스",
+      "priority_markets": []
     },
     {
       "id": "5db80153924d6f",
@@ -790,7 +897,8 @@
       "source": "바스켓코리아",
       "published": "2026-10-24T18:30:37+09:00",
       "category": "관심 키워드",
-      "description": "외인 1명 잃은 현대모비스, 에너지 점점 잃은 이우석 바스켓코리아"
+      "description": "외인 1명 잃은 현대모비스, 에너지 점점 잃은 이우석 바스켓코리아",
+      "priority_markets": []
     },
     {
       "id": "e88f3fc66a58a3",
@@ -799,7 +907,8 @@
       "source": "연합뉴스",
       "published": "2026-10-24T18:23:59+09:00",
       "category": "관심 키워드",
-      "description": "[프로농구 울산전적] 삼성 91-71 현대모비스 연합뉴스"
+      "description": "[프로농구 울산전적] 삼성 91-71 현대모비스 연합뉴스",
+      "priority_markets": []
     },
     {
       "id": "85fa2e7211c96b",
@@ -808,7 +917,8 @@
       "source": "점프볼",
       "published": "2026-10-24T18:20:01+09:00",
       "category": "관심 키워드",
-      "description": "‘팀 최초 개막 7연승 질주’ 삼성, 프림 빠진 현대모비스 제압 점프볼"
+      "description": "‘팀 최초 개막 7연승 질주’ 삼성, 프림 빠진 현대모비스 제압 점프볼",
+      "priority_markets": []
     },
     {
       "id": "b80880b9458c14",
@@ -817,7 +927,8 @@
       "source": "바스켓코리아",
       "published": "2026-10-24T18:12:18+09:00",
       "category": "관심 키워드",
-      "description": "[BK 리뷰] ‘상식은 역사가 됐다!’ 삼성, 현대모비스 격파 … ‘구단 최초 개막 7연승’ 바스켓코리아"
+      "description": "[BK 리뷰] ‘상식은 역사가 됐다!’ 삼성, 현대모비스 격파 … ‘구단 최초 개막 7연승’ 바스켓코리아",
+      "priority_markets": []
     },
     {
       "id": "890287bf71e298",
@@ -826,7 +937,8 @@
       "source": "한국경제",
       "published": "2026-10-24T16:28:08+09:00",
       "category": "정치·정책",
-      "description": "무죄 다음날 국회 찾은 오세훈…\"총선 다가온다, 국힘 통합에 최선\" 한국경제"
+      "description": "무죄 다음날 국회 찾은 오세훈…\"총선 다가온다, 국힘 통합에 최선\" 한국경제",
+      "priority_markets": []
     },
     {
       "id": "0ad0e097985546",
@@ -835,7 +947,8 @@
       "source": "조선일보",
       "published": "2026-10-24T16:00:00+09:00",
       "category": "정치·정책",
-      "description": "정부 ‘코스피 8000’ 띄우기… “세계 어느 나라도 안 해” 조선일보"
+      "description": "정부 ‘코스피 8000’ 띄우기… “세계 어느 나라도 안 해” 조선일보",
+      "priority_markets": []
     },
     {
       "id": "440ed3cbc678f1",
@@ -844,7 +957,8 @@
       "source": "연합뉴스",
       "published": "2026-10-24T15:29:42+09:00",
       "category": "정치·정책",
-      "description": "오세훈, 국회 찾아 \"총선 다가오고 있다…국힘 통합 위해 최선\" 연합뉴스"
+      "description": "오세훈, 국회 찾아 \"총선 다가오고 있다…국힘 통합 위해 최선\" 연합뉴스",
+      "priority_markets": []
     },
     {
       "id": "3ad16b15571f83",
@@ -853,7 +967,8 @@
       "source": "한국경제TV",
       "published": "2026-10-24T15:27:47+09:00",
       "category": "경제·금융",
-      "description": "＇돈 잘 버는데 속절없이 왜＇…개미들 답답한 이유 있었다 한국경제TV"
+      "description": "＇돈 잘 버는데 속절없이 왜＇…개미들 답답한 이유 있었다 한국경제TV",
+      "priority_markets": []
     },
     {
       "id": "468d6bc29cf4c3",
@@ -862,7 +977,8 @@
       "source": "한국경제TV",
       "published": "2026-10-24T15:12:05+09:00",
       "category": "경제·금융",
-      "description": "출발증시 1부 한국경제TV"
+      "description": "출발증시 1부 한국경제TV",
+      "priority_markets": []
     },
     {
       "id": "34e72b4bcbeb53",
@@ -871,7 +987,8 @@
       "source": "한국일보",
       "published": "2026-10-24T15:08:00+09:00",
       "category": "국내 주요 사건",
-      "description": "김정은 방중… \"오늘 신압록강대교 통해 단둥 도착\" 한국일보"
+      "description": "김정은 방중… \"오늘 신압록강대교 통해 단둥 도착\" 한국일보",
+      "priority_markets": []
     },
     {
       "id": "66ce1f876391a6",
@@ -880,7 +997,8 @@
       "source": "네이버페이 머니스토리",
       "published": "2026-10-24T14:36:11+09:00",
       "category": "경제·금융",
-      "description": "3개월 만에 170원 떨어진 환율, 자동차는 울고 항공은 웃고 네이버페이 머니스토리"
+      "description": "3개월 만에 170원 떨어진 환율, 자동차는 울고 항공은 웃고 네이버페이 머니스토리",
+      "priority_markets": []
     },
     {
       "id": "4ecbe33756528d",
@@ -889,7 +1007,8 @@
       "source": "머니투데이",
       "published": "2026-10-24T13:15:00+09:00",
       "category": "관심 키워드",
-      "description": "혼자서 리바운드 34개를 잡았다고? LG 마레이, KBL 역사 갈아엎었다!...역대 최다 신기록에 기념상까지 - 머니투데이 머니투데이"
+      "description": "혼자서 리바운드 34개를 잡았다고? LG 마레이, KBL 역사 갈아엎었다!...역대 최다 신기록에 기념상까지 - 머니투데이 머니투데이",
+      "priority_markets": []
     },
     {
       "id": "6ae1b027da15e7",
@@ -898,7 +1017,8 @@
       "source": "전자신문",
       "published": "2026-10-24T13:00:00+09:00",
       "category": "경제·금융",
-      "description": "[ET시선]코스피 급락 속 여당의 '1만피' 낙관론 전자신문"
+      "description": "[ET시선]코스피 급락 속 여당의 '1만피' 낙관론 전자신문",
+      "priority_markets": []
     },
     {
       "id": "1d02ad8c38aaf4",
@@ -907,7 +1027,8 @@
       "source": "녹색경제신문",
       "published": "2026-10-24T12:15:35+09:00",
       "category": "경제·금융",
-      "description": "美반도체 6.7% 급락 뒤 0.4% 반등 그쳐…유가 116달러·외국인 1조 매도, 삼성·하이닉스 부담 녹색경제신문"
+      "description": "美반도체 6.7% 급락 뒤 0.4% 반등 그쳐…유가 116달러·외국인 1조 매도, 삼성·하이닉스 부담 녹색경제신문",
+      "priority_markets": []
     },
     {
       "id": "7809ca576c0046",
@@ -916,7 +1037,8 @@
       "source": "기호일보",
       "published": "2026-10-24T12:13:07+09:00",
       "category": "경제·금융",
-      "description": "[10월 넷째 주 세계경제동향 브리핑] 한미 금리 내려도 증시는 약세…유가 급등에 물가 부담 재부상 기호일보"
+      "description": "[10월 넷째 주 세계경제동향 브리핑] 한미 금리 내려도 증시는 약세…유가 급등에 물가 부담 재부상 기호일보",
+      "priority_markets": []
     },
     {
       "id": "db5e3ee24430f9",
@@ -925,7 +1047,8 @@
       "source": "뉴스락",
       "published": "2026-10-24T11:29:46+09:00",
       "category": "자동차",
-      "description": "[뉴스락 특별기획│K-산업, 최초를 넘어 일류를 향해 ⑯ 현대차그룹] 쇳물에서 로봇 관절까지…현대차그룹의 다음 승부 뉴스락"
+      "description": "[뉴스락 특별기획│K-산업, 최초를 넘어 일류를 향해 ⑯ 현대차그룹] 쇳물에서 로봇 관절까지…현대차그룹의 다음 승부 뉴스락",
+      "priority_markets": []
     },
     {
       "id": "33cbb5a70f8de2",
@@ -934,7 +1057,8 @@
       "source": "에이빙",
       "published": "2026-10-24T11:01:29+09:00",
       "category": "전동화",
-      "description": "AVING News to Support Global Promotion of CRRE 2026 as Official Media Partner 에이빙"
+      "description": "AVING News to Support Global Promotion of CRRE 2026 as Official Media Partner 에이빙",
+      "priority_markets": []
     },
     {
       "id": "896868c0458970",
@@ -943,7 +1067,8 @@
       "source": "주간조선",
       "published": "2026-10-24T10:00:00+09:00",
       "category": "정치·정책",
-      "description": "집권 여당 대표의 정치는 어디에 있나 주간조선"
+      "description": "집권 여당 대표의 정치는 어디에 있나 주간조선",
+      "priority_markets": []
     },
     {
       "id": "ea6a8f9f9eae9f",
@@ -952,7 +1077,8 @@
       "source": "한국일보",
       "published": "2026-10-24T09:23:00+09:00",
       "category": "국내 주요 사건",
-      "description": "선거가 우선…트럼프, 캐나다 관세 일부 철회 한국일보"
+      "description": "선거가 우선…트럼프, 캐나다 관세 일부 철회 한국일보",
+      "priority_markets": []
     },
     {
       "id": "273a59d9cc0573",
@@ -961,7 +1087,8 @@
       "source": "연합뉴스",
       "published": "2026-10-24T08:30:00+09:00",
       "category": "국제·외교",
-      "description": "반크, 독도의 날 맞아 '글로벌 독도 AI 홍보대사' 캠페인 시작 연합뉴스"
+      "description": "반크, 독도의 날 맞아 '글로벌 독도 AI 홍보대사' 캠페인 시작 연합뉴스",
+      "priority_markets": []
     },
     {
       "id": "c751a95a8bc3f5",
@@ -970,7 +1097,8 @@
       "source": "동아일보",
       "published": "2026-10-24T08:09:00+09:00",
       "category": "경제·금융",
-      "description": "“美 증시, IT 버블 때보다 심한 거품… 비중 줄여라” 동아일보"
+      "description": "“美 증시, IT 버블 때보다 심한 거품… 비중 줄여라” 동아일보",
+      "priority_markets": []
     },
     {
       "id": "addc9044333ebd",
@@ -979,7 +1107,8 @@
       "source": "브릿지경제",
       "published": "2026-10-24T08:01:00+09:00",
       "category": "정치·정책",
-      "description": "[정치라떼] 이 대통령 ‘SNS 정치‘ 확대…“한계 명확, 국민 피로감 커질 것” 브릿지경제"
+      "description": "[정치라떼] 이 대통령 ‘SNS 정치‘ 확대…“한계 명확, 국민 피로감 커질 것” 브릿지경제",
+      "priority_markets": []
     },
     {
       "id": "0655a21c2590f6",
@@ -988,7 +1117,8 @@
       "source": "VOI.ID",
       "published": "2026-10-24T07:48:39+09:00",
       "category": "국제·외교",
-      "description": "에릭 토히르, FIFA 지안니 인판티노 회장에게 지지를 보낸다 VOI.ID"
+      "description": "에릭 토히르, FIFA 지안니 인판티노 회장에게 지지를 보낸다 VOI.ID",
+      "priority_markets": []
     },
     {
       "id": "ba8349dd44c8a1",
@@ -997,7 +1127,8 @@
       "source": "시사오늘",
       "published": "2026-10-24T07:30:00+09:00",
       "category": "자동차",
-      "description": "부품업계 해외로…공급망 확장·비계열사 수주에 ‘사활’ [글로벌 車 엑소더스-②] 시사오늘"
+      "description": "부품업계 해외로…공급망 확장·비계열사 수주에 ‘사활’ [글로벌 車 엑소더스-②] 시사오늘",
+      "priority_markets": []
     },
     {
       "id": "6d58c95160a8a9",
@@ -1006,7 +1137,555 @@
       "source": "KB Think",
       "published": "2026-10-24T07:25:00+09:00",
       "category": "경제·금융",
-      "description": "\"외국인 국채선물 매수 당분간 지속…AI 불안에 주가·소비 우려\" KB Think"
+      "description": "\"외국인 국채선물 매수 당분간 지속…AI 불안에 주가·소비 우려\" KB Think",
+      "priority_markets": []
+    },
+    {
+      "id": "e928dcf9ec1dc4",
+      "title": "현대모비스, 주변 車 움직임 색으로 표시...사내 혁신 아이디어 선정 - 뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrN3dLMkdqTFRTX0RKcGxVS1hRdkdhTjc5WGUzRTN1Zi11U0MzaFdKeGdZWHFYV0ZJTnZkZk95N3dlbTBFdXl5ajZTNDlfRTdYdUlDa1VCTDR4N1UzZGc?oc=5",
+      "source": "뉴스투데이",
+      "published": "2026-10-26T09:50:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 주변 車 움직임 색으로 표시...사내 혁신 아이디어 선정 뉴스투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "e8c64332601383",
+      "title": "현대모비스, 임직원 기술 혁신 축제 열어…누적 아이디어 6400건 - ER 이코노믹리뷰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QZFM3MUZfc05ZNURHcHJkVHl6M1VlLWs4cDdVcnN2N3IyR1pBTUN4cUF2dTRSdXlsUkJGTDc1WjZIZmtkNGNBekdWZnJRQjQwRWxMajdzcFltZWxESTZDMGxYY0l2Tlh1a1kwMA?oc=5",
+      "source": "ER 이코노믹리뷰",
+      "published": "2026-10-26T09:47:48+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 임직원 기술 혁신 축제 열어…누적 아이디어 6400건 ER 이코노믹리뷰",
+      "priority_markets": []
+    },
+    {
+      "id": "cbd659710a1aa8",
+      "title": "[김경미의 경계를 바꾸는 정치] 우리는 모두 평균 이상이라고 생각한다 - 헤드라인제주",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QYmpHci0zUExRYWhTbEpGaHF4OS1DRDdsYmtFZVZrNVlCTHU5WjJHRF91b2RBVjNmSmlXb2xmTlBYUlFZZ3pHZ3VqQm9QZjVhbTB0SkdwV1Q5c01hdHBfSVJoZk1hR2J2T2t5WEF2cTJIa1U?oc=5",
+      "source": "헤드라인제주",
+      "published": "2026-10-26T09:45:00+09:00",
+      "category": "정치·정책",
+      "description": "[김경미의 경계를 바꾸는 정치] 우리는 모두 평균 이상이라고 생각한다 헤드라인제주",
+      "priority_markets": []
+    },
+    {
+      "id": "df47a826acc2b4",
+      "title": "현대모비스 주가 상승 중 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DTEs3YlZwUlozLXFvZU5vVHp6UTN0LW0wQWl1SzhNVEljOWpSR1FRNThMZ19JdlZINE5keXU2YXNuOUxvZ3Y4aGt0MVFxSk9Od2NrUU9kQTVwT2g5?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-26T09:41:56+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 주가 상승 중 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "eccaa49a6bcf03",
+      "title": "현대모비스, 임직원 아이디어와 특허 성과 공유 행사 동시 개최 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SandtU1pjdUIzNlZEQnpRWDgwQk9rZXRuTmhGa01KbWUtSGZmR2szbXhobHRzSnVNVlZEZzdReTZzeW5YYlRpQkNJVWJzRk9TY1JwV2xrSXhOZnU0Sml4dkxBeWM4aTNOZTRkVlZJaXRPM1Ry?oc=5",
+      "source": "부산일보",
+      "published": "2026-10-26T09:40:12+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 임직원 아이디어와 특허 성과 공유 행사 동시 개최 부산일보",
+      "priority_markets": []
+    },
+    {
+      "id": "6ea9ad3b54f603",
+      "title": "현대모비스, 기술 혁신 축제 개최…미래車 아이디어·특허 성과 한자리에 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3TFdRUFRRS2txd0k5emhTclNnX0VFRlBxX1ZIMFRyR2JIdTZqSkZ4UUEtWVNvMTFhb2JBMFVYT09TSnlvS3RyOHZEZ1dRSmFjT09NYnVWeGtqQXZaamxFbERpdU0?oc=5",
+      "source": "매일일보",
+      "published": "2026-10-26T09:40:06+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 기술 혁신 축제 개최…미래車 아이디어·특허 성과 한자리에 매일일보",
+      "priority_markets": []
+    },
+    {
+      "id": "b6823134b705ba",
+      "title": "현대모비스, 아이디어·특허 한자리에…첫 통합 '기술 혁신 축제' - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WdEllOFFoM1owdXdaR3pLYzNLdUNsUUVBY2Z4NGVSblFBelVyak0xVmFuakdYRFNlYlFnN1J6QUJPMG1UMjlpTDVWTUlRVTJubTFjUldCdHFHVWpKRHNkddIBeEFVX3lxTFBZUGl3Yk5wRFVJczhuVjFqbm1UZDlGT1NiTlRSMUcwSWxoX0wtdXZhUHhIYjNGRVVzX2R0TXQxWk5kdUVrQklXaTNnN29GRmdQOEhYLXNmdHJkbGNXTG9yWUd4MWdwdXoyTVZ1TzNRLUdFaVFIQmZYMQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-26T09:33:29+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 아이디어·특허 한자리에…첫 통합 '기술 혁신 축제' 뉴시스",
+      "priority_markets": []
+    },
+    {
+      "id": "da129060bc55a1",
+      "title": "현대모비스, 아이디어가 특허로…사내 제안 6400건 쌓였다 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13eXppRDZhLUJfeF85RkdobGZ4WlJYaGFlNUkzcUNQTWgxWm9EcjlXTlR0Y3A4RWdpaFowS3c2VDhYR3VOaUFoOFM0clFfVWRsV1JwUXVtLWN5UzNVOWE1ekFOSmw1S3FneFJqelFrai0?oc=5",
+      "source": "신아일보",
+      "published": "2026-10-26T09:32:59+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 아이디어가 특허로…사내 제안 6400건 쌓였다 신아일보",
+      "priority_markets": []
+    },
+    {
+      "id": "39e7a8bedb7436",
+      "title": "\"AI가 교통법규 알려준다\"…현대모비스, 혁신 아이디어 한자리에 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YQnBLVlVtRkIwNGxnU2ZpSFQyU1lvRzJqdWtWTExSTVlJbUxXOFZfWEJaNnpsRWlVMVdGRGxwRkhkR2tUcGRFM1BMTGRTbFhqbnh3QWs5X0JZLVBZ?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-10-26T09:30:00+09:00",
+      "category": "관심 키워드",
+      "description": "\"AI가 교통법규 알려준다\"…현대모비스, 혁신 아이디어 한자리에 뉴스핌",
+      "priority_markets": []
+    },
+    {
+      "id": "adf50c6f26cc06",
+      "title": "한병도 \"최장수 국힘 대표 장동혁의 14개월은 보수 후퇴의 시간\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qNTZYU3B2N0pWN2x4QlVPb1Z2Yk5jWXVDWUtvbnYycDEtS0xlT0J0T3dKMC1VTTVCbERMSUl3Q1NWUVdSblo2NFVSVHJBNndwMHBrZ1JnNjF4T3drOWI5YtIBeEFVX3lxTFB5SlVTNjdUU3gzWFBFM3g1WlpXUXZseGMwUTBvUG4wTVpVYTByRG1vZEJ1V3pLMTI5NmZHMkZnSDRlYXJYazVvcHhmYVVOSmxiRE1fbEpCcGJ3dlNvUExhRGFEY2hHVjliMTZxV2dndnBmRE1QWE9RTA?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-26T09:28:44+09:00",
+      "category": "정치·정책",
+      "description": "한병도 \"최장수 국힘 대표 장동혁의 14개월은 보수 후퇴의 시간\" 뉴시스",
+      "priority_markets": []
+    },
+    {
+      "id": "9dfc69c1b4a35f",
+      "title": "현대모비스, 임직원 아이디어 6400건 쌓였다…기술·특허 축제 개최 - 뉴스인사이드",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pWl9RSFphNVEtbDdDZkFhZnl5eVUyaldoYTdQVk85SFlpRW1pTzdGeXlGTkMtNVpidnZHU2FLOEJWRlNCUW9PbmJzZmNJalVLd1dwN1QxSGYtQ3FMWGNmY1kwV2VrSnBwT3d3cW1R?oc=5",
+      "source": "뉴스인사이드",
+      "published": "2026-10-26T09:25:58+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 임직원 아이디어 6400건 쌓였다…기술·특허 축제 개최 뉴스인사이드",
+      "priority_markets": []
+    },
+    {
+      "id": "445efb52ee7de0",
+      "title": "현대모비스, 사내 기술혁신 축제…올해 아이디어 650건 제안 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fTmxnODk1R3Ewd3lDaUhpUkM2MHdfVmpOWmQzWm1McWwwMzNZNU00OUJhZXpkMEQtX2NEZzUxdFViVlJKUGJkTF9xSEZOVDJ6ZkFITkJtdTZxbXPSAWBBVV95cUxNWEppeXRybDVVa0FzdmgtXzJEcDg3UjhBMWwySlZtdzlhb0Y0WFZVaVA1Nm5TczJCQmpweTV6SU5SZGxrUlh1QlltV210MFhXZl8yT3B1S0tLZzE3X19kbUE?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-26T09:12:53+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 사내 기술혁신 축제…올해 아이디어 650건 제안 연합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "24c4d369a552a5",
+      "title": "현대모비스, 임직원 아이디어·특허 한자리에…기술 혁신 축제 개최 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVGFDaUVDM1VEaDZIeV81czJfdFZmbU9zYy1fRmhmNExJYmRxZGRQZW9IdlljOWQ1bFpabzdMUzhxaWxCdnhReVV5VTVkVkkzaGdnRUxRNE9FcVR2ZndQU0dsYThDSURTMTVvWkFodTM1YlBEb2xoa3JtenFWYU9OLW1rUDR1UQ?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-10-26T09:10:55+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 임직원 아이디어·특허 한자리에…기술 혁신 축제 개최 글로벌이코노믹",
+      "priority_markets": []
+    },
+    {
+      "id": "32e1e61095b36c",
+      "title": "현대모비스, 임직원 기술 축제 개최…지원 확대 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVQkpCdFFaVWxkeTJIb2UtQTA5MmF6V3JhR21hcG93Sjk2R0xnTkRFY0tFcG96c0V0OE5NUjhzbGRSVllkNmN5MTJqQWtnMjNXSWNvQ2RacVlJNWlWNEZRRjVxOGxOYjdLQUhEUm5Hb9IBc0FVX3lxTE4zQTlaLTh3ZHl1WXdFN0JlaGpBNkExSHhsRlBqeWt4WGJXanF4ZV8zUDRwNThjWHRBRVQzcEQ4SmNTTzJwUmM0ZlQyel85R1VscFh5ZHdnekY2N21mOVJVTFhySGpESHN3ZnJWWEdpRWVIUDA?oc=5",
+      "source": "데일리한국",
+      "published": "2026-10-26T09:00:01+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 임직원 기술 축제 개최…지원 확대 데일리한국",
+      "priority_markets": []
+    },
+    {
+      "id": "1948e805f1c1b1",
+      "title": "캐프, 와이퍼 연산 5500만개 체제 구축...\"QD 신규 양산 추진\" - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qV2dBaVZweXpsazREZlV5bTIxMzhmRHJwSzVxekFRM0FlMXVJN2x6dHlqckJyTk1DcXV1WXJfbTFmZzNVQXRXcXI1M2E5NmdqNjI2ZDJtUkdLVFZMZE5ORjBkS21yRDA?oc=5",
+      "source": "팍스경제TV",
+      "published": "2026-10-26T08:59:47+09:00",
+      "category": "스크랩 추적",
+      "description": "캐프, 와이퍼 연산 5500만개 체제 구축...\"QD 신규 양산 추진\" 팍스경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "ec8313dd734108",
+      "title": "현대모비스, 사내 아이디어 6400건 발굴…특허 1만건 확보 - 더트래커",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82XzJiaS1xVGpqZm5kUVZabUg4d3JiMXdzT0dEX3FSSFZ3d0U3MjJpX2xrSC0xVWM3NXhzRTgxLTFyZkE0d0xoQkZ6VHZKY2ZZMlRHeTJEajg?oc=5",
+      "source": "더트래커",
+      "published": "2026-10-26T08:56:47+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 사내 아이디어 6400건 발굴…특허 1만건 확보 더트래커",
+      "priority_markets": []
+    },
+    {
+      "id": "cc02453f70b8bb",
+      "title": "현대모비스, 기술 혁신 축제 열어…임직원 아이디어·특허 성과 한자리 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56alYyeExvcmdSSVVVY2Z5dDBmSlZfaWlkTmhNQ3RfejFaeGdma0hiZUs1a0VScWExVkpYVmtlelQtdmRFdmMzVVd6LVphUGR6T1ptUzRB?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-10-26T08:51:33+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 기술 혁신 축제 열어…임직원 아이디어·특허 성과 한자리 헤럴드경제",
+      "priority_markets": []
+    },
+    {
+      "id": "2322bb9986cbab",
+      "title": "iM증권 \"이번주 환율 1300~1350원 전망, 10월 FOMC가 최대 변수\" - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56T3NZVnA0eTRNanVfQng0Z2hmVDJXNUpyYWZ1ODktWFNmSEFMVUM2eVEzWTh1OWhwM3hPSXBaUHFiaUNWWWgxdU1ZUWQxaE9uZE9RdmpNendJdHpIck1XYkNFaEtLUWVORnUwallMZ2ZHNG8?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-10-26T08:51:04+09:00",
+      "category": "경제·금융",
+      "description": "iM증권 \"이번주 환율 1300~1350원 전망, 10월 FOMC가 최대 변수\" 비즈니스포스트",
+      "priority_markets": []
+    },
+    {
+      "id": "68455c805df4be",
+      "title": "음바페 '멀티골' 레알 마드리드, 엘클라시코 승리 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwUDF4V1YwS1B0R2g0ejRHWXFzZFdvWmFmVVVYbTlORUh3bTItNVQ3SDE5cjlVOEYyTVJoSi1YZUhfaWdYZVlLLVlWY1RzajZpa1dPcjZ4aDc0aFFDb3JzUVNJNVRkT3g3MlFTVHNB0gFzQVVfeXFMTVdkY0N3TFpJUklfcENDRDNCVkRIWkExYko4YkVBaFhUdy0yTlBIVWRUMGZGckU5MTA4TWpQYnV2R3hiek53cnY2NEFiZDhJckx0VC1Ga3k0Mm9iNXIxeFdhTTN2OWhMYWpOSTNLLURqTXY4Zw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-26T08:50:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "음바페 '멀티골' 레알 마드리드, 엘클라시코 승리 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "a0ae79964dc225",
+      "title": "현대모비스, 사내 아이디어·특허 성과 한자리에…기술 혁신 행사 개최 - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tQ1lFaFVVcURaRmpkSE53TElOS3FuY2psLVZsR0RLS2plMFA1TjRlT3VxRXhqSE80MUxRNDQxcjRKb0tkUGFiWS1Ybm4zd2ZZMVE1Nm5CTmdQdG42S2hwM25yMVptVkRRaHAxVkdfcWxqdG5q?oc=5",
+      "source": "이투데이",
+      "published": "2026-10-26T08:49:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 사내 아이디어·특허 성과 한자리에…기술 혁신 행사 개최 이투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "f9eb8df46585bd",
+      "title": "미래車 아이디어 한자리에…현대모비스,기술 혁신 축제 개최 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9naE83dHQ5dFVoaGxTdFp5TGs5cklIWTh0eXZxQmVyX0dOd2xPVlh4b3VQZXQ0dlhaOXRIekRRWGd3MFpRNkxUSXZhRlFLaHRCYUcydFpscUdzM2h4WlhVWA?oc=5",
+      "source": "뉴스1",
+      "published": "2026-10-26T08:43:21+09:00",
+      "category": "관심 키워드",
+      "description": "미래車 아이디어 한자리에…현대모비스,기술 혁신 축제 개최 뉴스1",
+      "priority_markets": []
+    },
+    {
+      "id": "8add02ae431bcc",
+      "title": "현대모비스, 임직원 아이디어 6400건 쌓였다…기술 혁신 속도 - 인사이트코리아",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uVUpZNmhkRWlPQU5iSmpqYWFfaXFJT2hYcWJ3Y1lPU1NjajB3MjI1UUxnUHVuQjh1RGVMWG1pU1VMeTI2Yi03NjVvVmpZeXBtdmZaWlpEa21zVlFuYUwwSzNzLXZuX1RzYTNsRXFLcFV0VHfSAXdBVV95cUxQR1RZN2FmS1lKcmVOWXBLOWJJT3lOV2pQdzczZ0Y4LVBFeTIzMEt4OVZ6dVI2eTFtaUhpSmItOUk0YkF6SzJaVWFFS1dXSFdHS0xCeW1SeFV1SUJzbjFUMEFLMXBYYXpMajRjS05sVV9nVW81a2RQSQ?oc=5",
+      "source": "인사이트코리아",
+      "published": "2026-10-26T08:42:15+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 임직원 아이디어 6400건 쌓였다…기술 혁신 속도 인사이트코리아",
+      "priority_markets": []
+    },
+    {
+      "id": "7b44d91c6b9a0d",
+      "title": "현대모비스, 사내 아이디어 플랫폼 확대...\"전동화·전장·SW 기술 발굴\" - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yNGVKc3BjbERqdFh0WTJJQnlhcW90NXplSzRHR09OWm1JNGtuU2xWTXhBb3RibjA4WnNLN1Z3a2R3YmQtWEpGdVVQaldkWnFSSXk3VHRhcmdLM1lWZldmWjhfV0ZVdmc?oc=5",
+      "source": "팍스경제TV",
+      "published": "2026-10-26T08:40:15+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 사내 아이디어 플랫폼 확대...\"전동화·전장·SW 기술 발굴\" 팍스경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "e7f607e3ac834f",
+      "title": "적반하장 北, 유엔에 지뢰 사건은 '한국 자작극' 서한 - 샌드타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96T2JDZVBSZTU1bjBiMFk1aDYwODZWaHJha1ctSWpib05haktjMVJzcUtvU3BsRXIzRU04UGNoazBleS12VlFNRFdzOC12Q3JzdXJBME5aZ0JNbVowNHBDWUFHcV9UU3ctU0oyZA?oc=5",
+      "source": "샌드타임즈",
+      "published": "2026-10-26T08:37:25+09:00",
+      "category": "국내 주요 사건",
+      "description": "적반하장 北, 유엔에 지뢰 사건은 '한국 자작극' 서한 샌드타임즈",
+      "priority_markets": []
+    },
+    {
+      "id": "d4b55b4f468598",
+      "title": "[소성민 칼럼] 코스피 9000에서 5500으로…‘선무당 굿판’ 같은 증시 - 더밸류뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16TS1fWjNxTmc2SVFkckVMSzg5ODJkeFItazh0ajNrUzU1Qm05SzFSOThTZ2FfWUZZUXdBNDdaZlJBUWlITDBQNDh4VG5uUmE3Z1phZQ?oc=5",
+      "source": "더밸류뉴스",
+      "published": "2026-10-26T08:37:05+09:00",
+      "category": "경제·금융",
+      "description": "[소성민 칼럼] 코스피 9000에서 5500으로…‘선무당 굿판’ 같은 증시 더밸류뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "f3a331aa421e3b",
+      "title": "현대모비스, '엠필즈 페스타·발명의 날' 통합 개최 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FNkdnNDZXcGZDV1pEajNDb0NaZjVPN29YY2U3aWJYX0lqOUotOHZROGhYd01VcE1GMC1XM3BLdXNRS1JTbHNoUElEeVBuY2Q4b0k4XzFMY2JfM19PM20zeg?oc=5",
+      "source": "아시아경제",
+      "published": "2026-10-26T08:35:45+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, '엠필즈 페스타·발명의 날' 통합 개최 아시아경제",
+      "priority_markets": []
+    },
+    {
+      "id": "96a8f9390db9d4",
+      "title": "현대모비스, 직원 아이디어를 미래차 기술로…연구개발 성과 한자리에 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84Q1I3d1RTdWFnb1JBblJKN2ItdVEzM1NEekcwVkR4THBGWFRKdzhxbUwtWHJBQS1qaHpPQ041REpQY1BtaTVLLUREVDhlSG84TFVjMEl1LTI0OWlVYjhUbDNPN0g?oc=5",
+      "source": "서울경제TV",
+      "published": "2026-10-26T08:34:35+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 직원 아이디어를 미래차 기술로…연구개발 성과 한자리에 서울경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "ab8f3bfc7ad78c",
+      "title": "아이디어 6400건·특허 1만건…현대모비스, 미래차 기술혁신 속도 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95ZkgxbzFyZk9UalV1WEQ4SjdCUWlIR1F5UnhxMXBmRV9DbDhBMVlINXpkTGJGal9Bb29jZlBKQzd5WGRfS1U5aEQtR29SMWIyYnl1R29TOEZaUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-10-26T08:28:36+09:00",
+      "category": "관심 키워드",
+      "description": "아이디어 6400건·특허 1만건…현대모비스, 미래차 기술혁신 속도 파이낸셜뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "0a7edfd82f57e8",
+      "title": "[국제금융리포트] 美, 이란 공격 가능성에…국제유가 한주 새 6.6% 급등 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IUjg5V01iUFZWX3BxTmpkSEdKMzZVdTQ5czVjd2N2OGpIbk1zcmdoOWI0SG9wOUZHMUlKeFNtSF9vX2hXc0dIZjdCM1E1MGRMcUo0UHVSQXnSAVhBVV95cUxPSFI4OVdNYlBWVl9wcU5qZEhHSjM2VXU0OXM1Y3djdjhqSG5Nc3JnaDliNEhvcDlGRzFJSnhTbUhfb19oV3NHSGY3QjNRNTBkTHFKNFB1UkF5?oc=5",
+      "source": "아주경제",
+      "published": "2026-10-26T08:19:52+09:00",
+      "category": "경제·금융",
+      "description": "[국제금융리포트] 美, 이란 공격 가능성에…국제유가 한주 새 6.6% 급등 아주경제",
+      "priority_markets": []
+    },
+    {
+      "id": "81ca9d1e9469a2",
+      "title": "한국음악레이블산업협회, ‘2026 서울뮤직포럼’서 독립 레이블 글로벌 전략 논의 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DMlBxV3cxU3RkUlV2TW12MHBIeV9rQ29lX0N5YUpZUnNSME1pU2hTdjVwSkk2R2xwSW9LdEdYVDNfUWFUOVNxdUIwbGl2Ml9kd3F1YWNMSWZWUVJyZ1ZTekI5U3pHYXcwamNyRkxoSFdvdw?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-10-26T08:17:35+09:00",
+      "category": "국내 주요 사건",
+      "description": "한국음악레이블산업협회, ‘2026 서울뮤직포럼’서 독립 레이블 글로벌 전략 논의 톱스타뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "0f66c11f247c83",
+      "title": "박정 의원, 尹석열 정부 RPS 비율 대폭 하향... 태양광 등 재생에너지 산업 생태계 붕괴! - 경기종합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01TEpuWDJWMHliRzVpZXNuSGhJTHkxRW9KRDhzdlpYQ045UjVyWjdtUnBVTDFiLTJyTlBOT2FRQzJVOWNvM2N0dW04UlZTZHhiQURsS2Y1Mm5Na25nT19uZG90NWxfUmlPQ1VIRVdlSUlXQVVj?oc=5",
+      "source": "경기종합뉴스",
+      "published": "2026-10-26T08:14:07+09:00",
+      "category": "정치·정책",
+      "description": "박정 의원, 尹석열 정부 RPS 비율 대폭 하향... 태양광 등 재생에너지 산업 생태계 붕괴! 경기종합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "1543056412d491",
+      "title": "현대모비스 램프사업 매각에 제동 거는 노조·주주…11월 주총 앞두고 갈등 격화 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54UGhSQ0JURklyYlB4WWlMNWxwSGw5Wks4N015azFzaGVBQXdaclZmN3pvZUdnNU9LYTg2WTZQU1g5NzB2NjVUWjE4bzN6eTByTU1QczlNN1N3bE5SQTduOVcySFpsWVNKOHVFZHRXRlUtOFnSAXdBVV95cUxPNnJ2TGxWbWRKS04yT3BGa1Nzbm9rRzZKZFd6T09mWXhFOWlwVzR6SU4yeVUxRzNwSGM5ak9LSHUyN2g1M3pyZFhMdmktVUtfUHNPeVJvcVBUMDZvM0hRLW9keWlVOWJEWXRzY3JPZE15NEx3eXRnbw?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-10-26T08:10:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 램프사업 매각에 제동 거는 노조·주주…11월 주총 앞두고 갈등 격화 핀포인트뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "710e7f5f1cdce3",
+      "title": "김민석과 이낙연의 ‘진퇴양난’ 평행이론 - 월간조선",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13ZEhkeGdvcEltYV9jOFp0QmY3VGNSZFFDazNSRENLLThKZi04TkJlYWd3eFVKdjI3WFJMSFBNN3A2RUNaZUJVSUhnd1p3MUsyX0pYek9VRE56NUkxRUV2VEdCSzBYUEZEMmotbA?oc=5",
+      "source": "월간조선",
+      "published": "2026-10-26T08:03:13+09:00",
+      "category": "정치·정책",
+      "description": "김민석과 이낙연의 ‘진퇴양난’ 평행이론 월간조선",
+      "priority_markets": []
+    },
+    {
+      "id": "c99c872ab8bd7f",
+      "title": "북핵 진화했으나 과거에 갇힌 우리 정치 - 일요시사",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wRFRyYXg0V1QxY082aE5FcnVxWF9va1p6dEp4QTVVT0UyNUhnZHZJVFFvRGlWLWtYN1FDT3JIRmgxZFJvcGxTN3pTOC16aEo3Y0hCTHVEdHVGQS11b3BzLXVB?oc=5",
+      "source": "일요시사",
+      "published": "2026-10-26T08:00:59+09:00",
+      "category": "정치·정책",
+      "description": "북핵 진화했으나 과거에 갇힌 우리 정치 일요시사",
+      "priority_markets": []
+    },
+    {
+      "id": "1b278b0c88147f",
+      "title": "[이원두 時事寶鑑]집값에 덜미 잡힌 정치…한⁃중⁃일 ‘부동산 삼국지’ - 공정뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiRDVlUk5uSnNDemNkeUE3S1JubkhkSnFqX1MzVVdUaC1HX1cyNWxISlNEcUZvd1JtWnNCbnlvcUR4dXQ0dDhUSGtpUHBwUHZJZ0VoRjVZTm9VSmh4NVNBWlRsaC1hcjRH?oc=5",
+      "source": "공정뉴스",
+      "published": "2026-10-26T07:52:16+09:00",
+      "category": "정치·정책",
+      "description": "[이원두 時事寶鑑]집값에 덜미 잡힌 정치…한⁃중⁃일 ‘부동산 삼국지’ 공정뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "dd8b6d0f8c53d0",
+      "title": "[기고] 자유대한민국을 위한 “운명의 힘”은 강물처럼 흐르고... - 프리진뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QaEdzQVlaYVBERzVHSm5HdlNEOXdIZGFFbTlrbnVMdDVhbUc3T3dBR2ExOGU0OWo5bmplanBlUnhlQjdDbjJmNWw0M3BIXzd2eFhPX21ibWxHQjdKdFY2Q2UtTU0tb0xkWm9LV1ZlOA?oc=5",
+      "source": "프리진뉴스",
+      "published": "2026-10-26T07:40:06+09:00",
+      "category": "정치·정책",
+      "description": "[기고] 자유대한민국을 위한 “운명의 힘”은 강물처럼 흐르고... 프리진뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "1e1bddc86785e7",
+      "title": "한국은행 기준금리 3% 동결…멈춘 정책금리, 뛰는 시장금리 - 뉴스후플러스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82SW14bEViOXZNOF9IejJabUV0ampkc3ZfZlA4b0hCTjN3TGgxMjE3SnRGR3JhLVFkVHNiVmJJckVCRDlzT3VrNEdTYXkycHVpaHFhQkF3RzlidlQ4RkV0N2pzYWRGRVBGcHhtcjZn?oc=5",
+      "source": "뉴스후플러스",
+      "published": "2026-10-26T07:30:00+09:00",
+      "category": "경제·금융",
+      "description": "한국은행 기준금리 3% 동결…멈춘 정책금리, 뛰는 시장금리 뉴스후플러스",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "한국은행이 기준금리를 3%로 동결했으나, 시장금리는 상승세를 보이고 있습니다. 정책금리 동결에도 불구하고 시장금리가 오르는 현상은 기업의 자금 조달 비용 상승으로 이어질 수 있습니다.",
+      "impact": "금리 상승에 따른 금융 비용 증가는 CKD 부품 협력사의 경영 환경에 부담을 줄 수 있으며, 이는 부품 공급망의 안정성 및 발주 단가 협상에 영향을 미칠 가능성이 있습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "한국은행의 기준금리 동결 결정에도 불구하고 시장금리가 상승하는 것은 채권 시장의 수급 상황이나 향후 금리 전망에 대한 시장의 기대가 반영된 결과로 보입니다. 기업들은 이러한 금리 차이로 인해 실질적인 자금 조달 비용 상승을 체감할 수 있습니다.",
+        "key_points": [
+          "한국은행 기준금리 3% 동결 결정",
+          "정책금리와 시장금리의 괴리 확대",
+          "기업 자금 조달 비용 상승 가능성"
+        ],
+        "what_to_watch": [
+          "향후 시장금리 추이 및 기업 대출 금리 변화",
+          "부품 협력사의 자금난 여부 및 공급망 영향"
+        ],
+        "fact_check": "제공된 기사는 기준금리 동결 사실만을 언급하고 있으며, 구체적인 시장금리 상승폭이나 산업별 영향은 명시되지 않았습니다."
+      },
+      "ai_summary": true,
+      "image_url": ""
+    },
+    {
+      "id": "3e2d06d847c34c",
+      "title": "국감인데…전·현직 당대표 논란 수습하는 與 - 주간한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6dkFvd25EY3BlU3ZYS0NMMXBfdGZPSlAwejEwYkYzSEFKUEZzVTVWTl9Wa1VOZzktanUzeld1XzNOYXVMOVBiZl9qclIxa3B3eGV2TXRWWF9HRFRac3U3RG9EMjBLa3VVeHRFMk83dV_SAXRBVV95cUxOVUI4SHJZRnE3SXotTjZ1amtvUVlCcG5JdmNJeVN3UllQTXQzTjRQRFJBOFJJNGFmdjdnY0hSLXlJOTJEbE9RRW15M3Jlc3prcUpFTDdiZFE1V2VhUGpJXzlveUhpYkZTWlNKTHotUWw1dVJZTg?oc=5",
+      "source": "주간한국",
+      "published": "2026-10-26T07:30:00+09:00",
+      "category": "정치·정책",
+      "description": "국감인데…전·현직 당대표 논란 수습하는 與 주간한국",
+      "priority_markets": []
+    },
+    {
+      "id": "070f728b23d66b",
+      "title": "“DMZ 지뢰 폭발은 한국 자작극”…북한, 유엔에 맞대응 서한 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0QU5GTmxKTVktQ2lRZ0hLZURyQjBxS0o0RGxUUHh5RHk3ZEJTR0xZQXNJbTFtOTVPRlQyV3liR3QxOEZZZEtXUWMyQ1o0Zw?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-26T07:08:56+09:00",
+      "category": "국내 주요 사건",
+      "description": "“DMZ 지뢰 폭발은 한국 자작극”…북한, 유엔에 맞대응 서한 매일경제",
+      "priority_markets": []
+    },
+    {
+      "id": "7b81780a53e886",
+      "title": "[인터뷰] 이성호 NH증권 본부장 ＂올해 채권금리 상승은 성장의 대가＂ - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3hWUW9oQjZMRGxIaHhiVDNXQ1RsMjFUUEs5Z1BlNGJFU3lFck5lLUlxUmVvV0I3dzhINGstWk51NDUzQnFsRnljX0R6NS1LUUY1aTBzTEoyR3FPVEhsTkZJVnVLSHEtcGl0WWhDNmhqM3JQNzN1XzFEc21MemF1TA?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-10-26T07:06:00+09:00",
+      "category": "경제·금융",
+      "description": "[인터뷰] 이성호 NH증권 본부장 ＂올해 채권금리 상승은 성장의 대가＂ 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "b8ee183dd00b80",
+      "title": "“테슬라 공장서 차 안 만든다”… 14년 역사 전기차 라인 싹 뜯어낸 테슬라의 결단 - 네이트뷰",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HQTVib0l2aEZMMVR1VDVGa3NpckdJZXBnLXd1cnE5NkpiV0NRZzJtVW9QRll4MnBleGM2Z1FOQW5yaFI5a1VKanVGa3l5OXdu0gFYQVVfeXFMTm5Fb1hXdzdJMXFvUUgxZW1TSGp5SnRva1hsajIwX0dmaWtadVNkQUx3ZUxMN29QelhZY202Z0tMZTVPczFmYURQVWxJSEN6My1DbTF5eGhNYg?oc=5",
+      "source": "네이트뷰",
+      "published": "2026-10-26T06:42:00+09:00",
+      "category": "자동차",
+      "description": "“테슬라 공장서 차 안 만든다”… 14년 역사 전기차 라인 싹 뜯어낸 테슬라의 결단 네이트뷰",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "테슬라가 14년 된 전기차 생산 라인을 철거하고 새로운 공정 도입을 결정했다. 기존 생산 설비의 전면 교체는 단기적으로 해당 공장의 생산 중단이나 전환 기간을 초래할 수 있다.",
+      "impact": "생산 라인 재편에 따른 일시적 가동 중단 시 부품 조달 및 CKD 발주 물량의 조정이 필요할 수 있다. 설비 전환 완료 후 생산 효율성 변화에 따라 향후 부품 공급망의 재편 가능성을 검토해야 한다.",
+      "importance": "보통",
+      "detail": {
+        "background": "테슬라가 기존 전기차 생산 라인을 철거하고 새로운 공정으로 전환하는 결단을 내렸다. 이는 생산 효율성 제고를 위한 전략적 결정으로 보이나, 구체적인 전환 기간이나 신규 공정의 상세 내용은 확인되지 않았다.",
+        "key_points": [
+          "14년 역사 전기차 생산 라인 철거 및 교체",
+          "생산 공정의 전면적인 재편 시도",
+          "단기적 생산 능력 변화 가능성"
+        ],
+        "what_to_watch": "신규 라인 가동 시점 및 기존 부품 공급망 유지 여부",
+        "fact_check": "기사 제목과 발췌문 외 상세한 공정 변경 내용 및 생산 중단 기간에 대한 구체적 수치는 제공되지 않음"
+      },
+      "ai_summary": true,
+      "image_url": ""
+    },
+    {
+      "id": "a089eb915c361e",
+      "title": "제67회 한국출판문화상 접수… 상금 올리고 최고의 책을 찾습니다 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1OXJ2Q3U5cUNjWTVUUjlWN1o2UTBBb1NVOER6bjJ2U2dKOXdNRmk1LVZkWkVDcjZDR1FBR0ZnWnVVbjByRzVPcmZ4LVpFZ2NfRWJ4NlNDQ3BTM05xUjU4T3Q0elJYNEtGeEJ3WHRR0gFzQVVfeXFMTlJ4b1lMRzlRa2pNVXN5d0lVb2t6alUxZk1aSnF1Z3BneTR3UlVQVnJJQUVneU1GeVVMMDVKaW5DeHpwTDJrcU1vQnhDSmJkeTBpcHV5WlFHOXF3c2R1ZGxiT2tZQ2xxYkdzYm5CbjlqaEJtaw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-26T04:30:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "제67회 한국출판문화상 접수… 상금 올리고 최고의 책을 찾습니다 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "13159b3fd5d660",
+      "title": "[주간환율전망] 중심 잡는 수출 네고···슈퍼위크에도 1320원대 박스권 - 서울파이낸스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9odDN1RnVVRXk4dkl2WWU0VVdzNF93cHl0UGdnR3dUNmxpWUVPNThGZ204alU2WWxCcDFhekduSzBvdngzbDBkdURadEszVXR1WnNDNlNhTkpNaS1wV1p0Mm04c0RIR21YVVE?oc=5",
+      "source": "서울파이낸스",
+      "published": "2026-10-25T17:00:00+09:00",
+      "category": "경제·금융",
+      "description": "[주간환율전망] 중심 잡는 수출 네고···슈퍼위크에도 1320원대 박스권 서울파이낸스",
+      "priority_markets": []
+    },
+    {
+      "id": "f334750e0860ba",
+      "title": "[김진국의 정치풍향계]국민을 불안하게 만드는 정책은 오래 못 간다 - 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FdE9yaFdKWlhnOFRkWjhqUDV6YU95OFhJTWVHa2xLQzVPSDdBTGxkY3BRd240TURnSzA1R0txaU12RUZZTFVjUDBUT3FzdHhZX0RYVTJ5SE9PUQ?oc=5",
+      "source": "경북매일",
+      "published": "2026-10-25T15:56:00+09:00",
+      "category": "정치·정책",
+      "description": "[김진국의 정치풍향계]국민을 불안하게 만드는 정책은 오래 못 간다 경북매일",
+      "priority_markets": []
+    },
+    {
+      "id": "9bb493d37d55da",
+      "title": "대낮에 4중 추돌사고 후 도주했다 잡힌 남성의 수상한 발언…“사고 상황 기억 안 나” - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DLUhqcE9IaXpRelpHYm5xeVJhSTdCd0RrdGJXNDdaVURyclIzRm1lWURjS0h4ODZpeXJjSWtFTUVsR05meXUzTkZRT181bHlZ?oc=5",
+      "source": "문화일보",
+      "published": "2026-10-25T15:18:45+09:00",
+      "category": "국내 주요 사건",
+      "description": "대낮에 4중 추돌사고 후 도주했다 잡힌 남성의 수상한 발언…“사고 상황 기억 안 나” 문화일보",
+      "priority_markets": []
+    },
+    {
+      "id": "63e3803086647f",
+      "title": "“국민의힘 단합·통합돼야”…무죄 선고후 정치 보폭 넓히는 오세훈 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JdUJjSjA1VjR6Y0puQzNlNW5WZm5sS2NRRWdBTjZIc3A3TGpaMzdTeW1RZzg0VmlhVUZ1ek84dHR5czFmQlhjY0tFRmZSLU5icnUyZXlB?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-25T13:28:44+09:00",
+      "category": "정치·정책",
+      "description": "“국민의힘 단합·통합돼야”…무죄 선고후 정치 보폭 넓히는 오세훈 매일경제",
+      "priority_markets": []
+    },
+    {
+      "id": "6ab813977e9b86",
+      "title": "[외환-주간] 5주 연속 내린 달러-원, FOMC·경제지표 '시험대' | - 연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhbmdSc0JVZ2xtMmloMWNxX3NUTF9SRkdkbF9FNnotbHVIU1pUUEk4NzRHUzZOMWxOaU1CZWFtNmxLMGFSSnRGWVJDUUJLN2IweEVYYTlITlN3NkhTMFg5aC1tekFtVE5XbzZXSVNIOUlKODls?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-10-25T13:05:30+09:00",
+      "category": "경제·금융",
+      "description": "[외환-주간] 5주 연속 내린 달러-원, FOMC·경제지표 '시험대' | 연합인포맥스",
+      "priority_markets": []
+    },
+    {
+      "id": "80f0edc64f2a93",
+      "title": "배문성 이사 '환율 더 내리면 증시에 좋을 건 없어' - 기독일보",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xa0N5QXc3RlNmdm9yaklFTE5iSTVwOUh0YmFmenR5cFlvUXF0Ny0yMEZ3b3BKeGJENWpIek1ndUw0V0NOUThJN2dzSVg0ZXhMeHhsNDFwTVlHVlBE0gFcQVVfeXFMTnFrQ3lBdzdGU2Z2b3JqSUVMTmJJNXA5SHRiYWZ6dHlwWW9RcXQ3LTIwRndvcEp4YkQ1akh6TWd1TDRXQ05ROEk3Z3NJWDRleEx4eGw0MXBNWUdWUEQ?oc=5",
+      "source": "기독일보",
+      "published": "2026-10-25T10:19:07+09:00",
+      "category": "경제·금융",
+      "description": "배문성 이사 '환율 더 내리면 증시에 좋을 건 없어' 기독일보",
+      "priority_markets": []
+    },
+    {
+      "id": "0c6eede5f1e437",
+      "title": "[머니톡스] ＇호미질＇의 미학…파국을 막는 정공법 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdHc3bnNsM0R0dW4xZ1JUNjBaYXEtMW1TUTJGcmQ0TGRtclN0dlB1eHpYLU91RUdXUnE3M1h3NUJLdmZzUW9UbWZqbWN5d2xTY3hzellWWmUwamxPTHJKSC1BdlZ4Z2pENDNjVUl3cG1uQ29CZHNKNGh4ZVNHb1pnbQ?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-10-25T07:07:00+09:00",
+      "category": "경제·금융",
+      "description": "[머니톡스] ＇호미질＇의 미학…파국을 막는 정공법 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "98638380b3838c",
+      "title": "[화보] 현대모비스와 삼성 경기 화보 (삼성 91-71 현대모비스) - 점프볼",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DNTFTZGFFSGFndmpJa2RNbllwQUFjME01bG12alFkQjNaTG1PRHQwa3gyM0RVTlptblFxVGtTX3RfQTFWY2hpQ254SDZpTTJQVzM0ZEhET0licFhQMVhkMnlwZlc4dXdXMjJNYU0wS24?oc=5",
+      "source": "점프볼",
+      "published": "2026-10-24T19:57:31+09:00",
+      "category": "관심 키워드",
+      "description": "[화보] 현대모비스와 삼성 경기 화보 (삼성 91-71 현대모비스) 점프볼",
+      "priority_markets": []
+    },
+    {
+      "id": "e8a37ed1e28e67",
+      "title": "출발증시 1부 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYks2a3RMa0MyT3hZc2ZncHpSMDVpYW5aNmNnVEhGZXB1SUppS3d3S3JsN2hmdUlOSjA3NV9zVFBCbWwwQ05saEV2OTNHY2xULWVNSFdvUUxndnBlUmVpUnFVSE9sV0ZobWtLeUsyOUl4cWtOX2loMmtVTnVyeUtROTJ1cGFEQWtZWlJrbjhjTVJLLTlXUnNsYW9FM1dtS0lKelBZ?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-10-24T15:41:19+09:00",
+      "category": "경제·금융",
+      "description": "출발증시 1부 한국경제TV",
+      "priority_markets": []
     }
   ]
 }
