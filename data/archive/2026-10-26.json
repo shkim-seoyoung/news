@@ -21,10 +21,23 @@
       "description": "[자동차부품사 체력] ①현대모비스, 투자 집행 가늠자된 'AS 이익' www.fetv.co.kr",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대모비스의 AS 부품 사업 이익이 전동화 및 미래 모빌리티 투자의 핵심 재원으로 활용되고 있다는 분석이 제기되었습니다. 안정적인 AS 수익 구조가 유지될 경우, 관련 부품의 생산 및 공급망 투자 계획에도 긍정적인 영향을 미칠 것으로 보입니다.",
-      "impact": "AS 부품의 수익성은 향후 CKD 부품 공급망 안정화 및 신규 설비 투자 여력과 직결됩니다. AS 부품 물류 효율화가 지속될 경우, CKD 포장 및 선적 프로세스 최적화를 위한 인프라 투자 가능성이 존재합니다.",
+      "summary": "현대모비스의 투자 집행 여력이 AS 부문에서 발생하는 이익에 크게 의존하고 있다는 분석이 제기되었습니다. AS 수익 구조가 미래 투자와 생산 인프라 확충의 핵심 지표로 작용하고 있습니다.",
+      "impact": "기사에 당사 CKD 포장·선적 업무와의 직접적인 연관성은 확인되지 않았습니다.",
       "importance": "보통",
       "detail": {
+        "background": "현대모비스의 재무 구조 및 투자 결정 요인 분석",
+        "key_points": [
+          "AS 부문 이익의 투자 집행 영향력",
+          "자동차 부품사의 재무 체력 평가"
+        ],
+        "what_to_watch": "AS 수익 변동에 따른 향후 설비 투자 계획",
+        "fact_check": "AS 이익이 투자 집행의 주요 변수라는 분석 내용"
+      },
+      "ai_summary": true,
+      "image_url": "",
+      "priority_markets": [],
+      "original_summary": "현대모비스의 AS 부품 사업 이익이 전동화 및 미래 모빌리티 투자의 핵심 재원으로 활용되고 있다는 분석이 제기되었습니다. 안정적인 AS 수익 구조가 유지될 경우, 관련 부품의 생산 및 공급망 투자 계획에도 긍정적인 영향을 미칠 것으로 보입니다.",
+      "original_detail": {
         "background": "현대모비스는 완성차 판매 이후 발생하는 AS 부품 사업에서 창출된 이익을 미래 기술 개발 및 생산 설비 확충에 재투자하고 있습니다. 이러한 수익 구조는 부품사의 재무 건전성을 지탱하는 주요 요소로 평가받습니다.",
         "key_points": [
           "AS 부품 사업이 현대모비스의 핵심 수익원 역할 수행",
@@ -37,9 +50,10 @@
         ],
         "fact_check": "본 기사는 현대모비스의 AS 부품 이익과 투자 집행의 상관관계를 다루고 있으며, 구체적인 CKD 물량 변화나 특정 포장·선적 관련 수치는 언급되지 않았습니다."
       },
-      "ai_summary": true,
-      "image_url": "",
-      "priority_markets": []
+      "new_information": "",
+      "source_comparison": "",
+      "integrated_summary": true,
+      "integration_signature": "694cc83080dcce37"
     },
     {
       "id": "a21dcd15e64237",
@@ -136,7 +150,7 @@
       "section": "산업·업무",
       "related_articles": [],
       "summary": "현대모비스가 미래차 기술 경쟁력 강화를 위해 R&D 투자를 2조 원 이상으로 확대했습니다. 이는 전동화 및 자율주행 등 차세대 모빌리티 부품 개발에 집중하겠다는 전략으로 풀이됩니다.",
-      "impact": "R&D 투자 확대는 향후 신규 모듈 및 전동화 부품의 설계 변경이나 사양 고도화로 이어질 수 있습니다. 이는 CKD 포장 설계의 변경이나 신규 부품 조달 체계 수립 등 공급망 운영 방식에 장기적인 변화를 초래할 가능성이 있습니다.",
+      "impact": "기사에 당사 CKD 포장·선적 업무와의 직접적인 연관성은 확인되지 않았습니다.",
       "importance": "보통",
       "detail": {
         "background": "현대모비스가 미래차 기술 확보를 위해 연간 R&D 투자액 2조 원 시대를 열었습니다. 전동화와 전장 부품 중심의 기술 고도화가 핵심입니다.",
@@ -183,7 +197,7 @@
       "section": "일반 뉴스",
       "related_articles": [],
       "summary": "2024년 국정감사가 별다른 결정적 성과 없이 마무리되며, 정치권의 관심이 예산안 심사로 이동하고 있습니다. '쇼츠 국감'이라는 비판과 함께 정책적 실효성에 대한 논란이 제기되었습니다.",
-      "impact": "국회 예산 심사 과정에서 산업 관련 예산의 증액 또는 삭감 여부가 기업의 투자 환경에 영향을 줄 수 있습니다. 향후 예산안 처리 과정에서 주요 산업 지원 정책의 변화를 모니터링할 필요가 있습니다.",
+      "impact": "",
       "importance": "보통",
       "detail": {
         "background": "국정감사가 종료되고 본격적인 예산 정국으로 진입하는 상황입니다.",
@@ -437,7 +451,7 @@
       "section": "일반 뉴스",
       "related_articles": [],
       "summary": "코스피 지수 급락에도 불구하고 반도체 수출 호조에 힘입어 원화 가치가 강세를 보이고 있습니다. 시장에서는 환율이 1,300원대 아래로 하락할 가능성에 주목하고 있습니다.",
-      "impact": "환율 하락은 수입 부품의 원가 절감에는 긍정적이나, 수출 채산성에는 부정적 영향을 줄 수 있습니다. 향후 반도체 수출 추이와 환율 변동폭이 원자재 조달 비용 및 수출 가격 경쟁력에 미치는 영향을 모니터링해야 합니다.",
+      "impact": "",
       "importance": "보통",
       "detail": {
         "background": "코스피 하락과 원화 강세가 동시에 나타나는 이례적인 시장 상황 발생.",
@@ -1571,10 +1585,22 @@
       "priority_markets": [],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "테슬라가 14년 된 전기차 생산 라인을 철거하고 새로운 공정 도입을 결정했다. 기존 생산 설비의 전면 교체는 단기적으로 해당 공장의 생산 중단이나 전환 기간을 초래할 수 있다.",
-      "impact": "생산 라인 재편에 따른 일시적 가동 중단 시 부품 조달 및 CKD 발주 물량의 조정이 필요할 수 있다. 설비 전환 완료 후 생산 효율성 변화에 따라 향후 부품 공급망의 재편 가능성을 검토해야 한다.",
+      "summary": "테슬라가 기존 전기차 생산 라인을 개편하는 등 공장 운영 전략에 변화를 주고 있습니다. 특정 생산 라인의 중단 및 재구성이 보고되었습니다.",
+      "impact": "기사에 당사 CKD 포장·선적 업무와의 직접적인 연관성은 확인되지 않았습니다.",
       "importance": "보통",
       "detail": {
+        "background": "테슬라의 생산 공장 라인 개편 및 전략 수정",
+        "key_points": [
+          "기존 전기차 생산 라인 개편",
+          "공장 운영 전략의 변화"
+        ],
+        "what_to_watch": "테슬라의 생산 방식 변화가 글로벌 전기차 시장에 미치는 영향",
+        "fact_check": "테슬라 공장 라인 개편 보도 내용"
+      },
+      "ai_summary": true,
+      "image_url": "",
+      "original_summary": "테슬라가 14년 된 전기차 생산 라인을 철거하고 새로운 공정 도입을 결정했다. 기존 생산 설비의 전면 교체는 단기적으로 해당 공장의 생산 중단이나 전환 기간을 초래할 수 있다.",
+      "original_detail": {
         "background": "테슬라가 기존 전기차 생산 라인을 철거하고 새로운 공정으로 전환하는 결단을 내렸다. 이는 생산 효율성 제고를 위한 전략적 결정으로 보이나, 구체적인 전환 기간이나 신규 공정의 상세 내용은 확인되지 않았다.",
         "key_points": [
           "14년 역사 전기차 생산 라인 철거 및 교체",
@@ -1584,8 +1610,10 @@
         "what_to_watch": "신규 라인 가동 시점 및 기존 부품 공급망 유지 여부",
         "fact_check": "기사 제목과 발췌문 외 상세한 공정 변경 내용 및 생산 중단 기간에 대한 구체적 수치는 제공되지 않음"
       },
-      "ai_summary": true,
-      "image_url": ""
+      "new_information": "",
+      "source_comparison": "",
+      "integrated_summary": true,
+      "integration_signature": "5188b474ca8c8673"
     },
     {
       "id": "a089eb915c361e",
@@ -1685,6 +1713,383 @@
       "published": "2026-10-24T15:41:19+09:00",
       "category": "경제·금융",
       "description": "출발증시 1부 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "c885cb4c2daa91",
+      "title": "파주시, 무장애 통합 놀이터 ‘큰나무 어린이집’ 2026 대한민국 공공디자인대상 ‘학회장상’ 수상 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11c0hFb01sdzRVQ2pqSThIYUZzS3RRWnJfdHBkUHJORDlaZVJ4WXhOYkNKT2poNUhwQ2d2SzdsaVNiUVhsNW1jR1NtSEEwMXR2WEpucEdQWmxoQmhY?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-26T11:04:19+09:00",
+      "category": "국내 주요 사건",
+      "description": "파주시, 무장애 통합 놀이터 ‘큰나무 어린이집’ 2026 대한민국 공공디자인대상 ‘학회장상’ 수상 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "99026c19284ed9",
+      "title": "현대모비스, 사내 기술 혁신 축제…아이디어 650개 모였다 - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsckZVanNIblhzaVVzcG1DT2d6OUdQQXVrbHBmODllUmVvZUtDaTE4cGk3XzdoVG9Ic1M3NUQ2eG9yN0JlRkk3WWR2LUFxZVZqOXfSAVNBVV95cUxQbk5ZMFk3MG9qNHF1b2F3YTRCZnd2ZDNkLW1BX0FGMGlWOFFYNGVOdFZkSWpiOHNjOWdwQzZkaVJZSVRmblZxaHBzYVp3cGhwd2Fadw?oc=5",
+      "source": "서울경제",
+      "published": "2026-10-26T11:01:23+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 사내 기술 혁신 축제…아이디어 650개 모였다 서울경제",
+      "priority_markets": []
+    },
+    {
+      "id": "5c3b8014158a7f",
+      "title": "현대모비스, 사내 아이디어 축제 통합 개최…기술 혁신 가속도 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQTBHZ0tsTXVFb0JXVmhJZVEzZzk4MGc2Ujh1N0w3LUtqb1VTZnRBY0dnYTlTUXVaNGtWXzNuMldfOUhyNmE4aE1jTkluOUV0Y3lEckNsei1Ud9IBVEFVX3lxTE5XdlNGa0cxUFdlNUd4WW82RUFESlAyc3ZmWGlGZ3dRMUFYWXVmNHV5all5VXVJS1kyVEtXSXpKOXhZVjUxZDlCZndtbEg1OHhWeE1hZw?oc=5",
+      "source": "더팩트",
+      "published": "2026-10-26T10:51:35+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 사내 아이디어 축제 통합 개최…기술 혁신 가속도 더팩트",
+      "priority_markets": []
+    },
+    {
+      "id": "b84cbb9a80d10e",
+      "title": "대구 스마트 모빌리티 창업캠프 10회…대학생 아이디어 겨뤄 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbGQwcW5IRGt2Y1Q3MGEtMjJQUklyLTlzRWVia08xMnowNWJKN3FBbTNDNzgzOVBxU3NDaHRqc1p0WmlkWUhKSS00T0xmTEphRjRCaVlJbmpiWUdheF9vZ2tDV1FvenM4VTZmT25B0gFzQVVfeXFMTlBvNHVCd2FVZF9vejVUOVQwelI3Nk1yLWVDRWxjeEJDSmdtZDZhdk4yTktqay1CdC1Zc1g5elFWLU9IeFNkR2x1bThRLTFhdWJjSE9waGJreW56c0VKdHFJX0pYMFVLZm5xdTlaXzBqbTNiQQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-26T10:50:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "대구 스마트 모빌리티 창업캠프 10회…대학생 아이디어 겨뤄 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "e3a4ca5ebc150a",
+      "title": "“사내 혁신 기술·특허 한자리에”..현대모비스, R&D 축제 ‘엠필즈 페스타 & 발명의 날’ 개최 - 데일리카",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzLTNocnhZdTNZZGw2Wm1CX2dNeUpjNnlRWGN0NHNrMUNhODhjLUFlY3R0WGhDZTdXcFhwOThFRVNoM3BGeDZsSHllS29HbnBaM1JhSGpUZ1dnVUhoZmd3NWxYVGVFMi1OZ28tSFMxMG9jZE9kT0E?oc=5",
+      "source": "데일리카",
+      "published": "2026-10-26T10:48:50+09:00",
+      "category": "관심 키워드",
+      "description": "“사내 혁신 기술·특허 한자리에”..현대모비스, R&D 축제 ‘엠필즈 페스타 & 발명의 날’ 개최 데일리카",
+      "priority_markets": []
+    },
+    {
+      "id": "02a54aa464b488",
+      "title": "“아이디어 650건이 특허로 간다”... 현대모비스, 사내 기술 축제 열었다 - 오토트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yNWt0LWJ4Vmt1d21TUEVTQ3ZHbWxDaXhuaHZXeWlJTU04bW9VTTZ0OTRqR2dya2dxaTA3bEhaUGFsNVNHWWExcnNrQnQ3Skw3S0lQMlM1VWx0VTAzeEoxbkg5WXRtUzBlTlYzZUE4LUI?oc=5",
+      "source": "오토트리뷴",
+      "published": "2026-10-26T10:44:38+09:00",
+      "category": "관심 키워드",
+      "description": "“아이디어 650건이 특허로 간다”... 현대모비스, 사내 기술 축제 열었다 오토트리뷴",
+      "priority_markets": []
+    },
+    {
+      "id": "e749bda0208ec1",
+      "title": "한미전략투자공사, 무디스·S&P서 한국 정부와 동일 신용등급 획득 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UcFAtdDNFY0FObUgwS2ttbzBPMEtrcmdlZzNNZkNDUEQxdjExeHQ2NEs1RXpkWWFXVDY1TG8wcjdXTHUxa1lTcHRidUZFQQ?oc=5",
+      "source": "전자신문",
+      "published": "2026-10-26T10:44:08+09:00",
+      "category": "정치·정책",
+      "description": "한미전략투자공사, 무디스·S&P서 한국 정부와 동일 신용등급 획득 전자신문",
+      "priority_markets": []
+    },
+    {
+      "id": "c06267d7ab0e14",
+      "title": "한병도, 野 장동혁에 \"막말·선동 14개월…아스팔트 정치 벗어나야\" - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Wb1Fmemk3c29MZGd6S0FQOUotTFVrSURYRFZaOE0zakVyT0RDdXJxSDVHcXpTbkVZdDJyeU8ybXdzYUYzYWJnNjJEczZjeFpHM0M2a053RGRwT0c1Q1RJSlIwSFk?oc=5",
+      "source": "매일일보",
+      "published": "2026-10-26T10:38:17+09:00",
+      "category": "정치·정책",
+      "description": "한병도, 野 장동혁에 \"막말·선동 14개월…아스팔트 정치 벗어나야\" 매일일보",
+      "priority_markets": []
+    },
+    {
+      "id": "1d0a0d3964e2f3",
+      "title": "현대모비스 직원들 상상이 미래차 기술로…아이디어·특허 한자리에 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNX3BESUpzSEExSVZiZEc3Q2IwblZDeENWR3ZEVHFvUjR4OGNyWmJlLXJRdkN5TVE0OUl6MWJzMUI4OFdwOElrQjNGUkdLR2I1OGJvSFNXYkhqTFQ5bUtxT1J4ZFJ1TmhnWUdSQmJSUGtOOE54TWxqaEx0blNXNnNsZU9JRjNuaWtVS29VWVUycW85d29YLUlrS29JVzFTT2p5dkc5V1R1NnRzZEV0alN5ajY0VWQwbS1mN1hKd3I3VnVQd0w2RWZGanFxVUJybkh3Q0dOQlRTVUgtODlla3drR0VoSmpvdXZnQkdvYXdqQ3piOURVcDVRM29CdldaZnVOTEx2OW5vLVo0VGJTanE3VUZaLWprOFhKU2xISVEzYUo0VTQ?oc=5",
+      "source": "데일리안",
+      "published": "2026-10-26T10:32:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 직원들 상상이 미래차 기술로…아이디어·특허 한자리에 데일리안",
+      "priority_markets": []
+    },
+    {
+      "id": "19e41e0a1cd5d2",
+      "title": "밀양시, 2027년 동아시아 문화도시 선정… 국비 10억 5,000만 원 확보 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZU1E4VjJwU0R5TElZSTh0UWtUUlNBRGhwLUtGY2U3Y2pOYkRCSGluRUw4cFRzUGVTSVZicGNXVVN2akNFczlHU0xVQmtRSmtiejM1NFRlNktKOFpw?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-26T10:21:09+09:00",
+      "category": "국내 주요 사건",
+      "description": "밀양시, 2027년 동아시아 문화도시 선정… 국비 10억 5,000만 원 확보 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "385efe4f4d29b6",
+      "title": "전국다문화도시협의회, 국회서 이민정책 포럼 개최… 지방정부 역할 논의 - 투어코리아",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KQUZEZTk5ZmY0YjFQYlR5V1o2cUdiQVhlWTFuTTZ6aFlpT2x2WEQ3T3FtSHB0WF96S1dLYVhrVlRBdzZzUFZWdWNDYkRMU09zRUdkV2Y2ZXJFZ0dHaWc0ckRLS1A2VXZ5OE8tckx3?oc=5",
+      "source": "투어코리아",
+      "published": "2026-10-26T10:19:20+09:00",
+      "category": "정치·정책",
+      "description": "전국다문화도시협의회, 국회서 이민정책 포럼 개최… 지방정부 역할 논의 투어코리아",
+      "priority_markets": []
+    },
+    {
+      "id": "bdb29def322cfc",
+      "title": "\"임직원 아이디어 발굴해 특허로 연결\"…현대모비스, 공모전 진행 - 뉴스웍스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TQXQ3bkJHM0hEcUx6VzVaWnp6cnN4d3Q2dFFrZm04UEJJU19aUjJkRzhWV0lzM2RGU203TG8tLUJ6S2FFYkthRW9NYzkwUzVPN1hDekF2TGFWTUtmZllPYTA4dFM2WWczUjY2X0Zyb9IBc0FVX3lxTFBxbzgtbm5wSmhHdWgxSGRwWmhxakJPZFhCczl6OGFLeURhZkE5cTFXa1cySnl5YUJ2YjBITkYzNkdwakR6U2luWS1ocGM1Wk13WFBDWWlHSTJ0dzZfdlhCT0U0MVZOeWQ0bkY0ckUtZnBfa0k?oc=5",
+      "source": "뉴스웍스",
+      "published": "2026-10-26T10:16:10+09:00",
+      "category": "관심 키워드",
+      "description": "\"임직원 아이디어 발굴해 특허로 연결\"…현대모비스, 공모전 진행 뉴스웍스",
+      "priority_markets": []
+    },
+    {
+      "id": "fb2d4706530b02",
+      "title": "미래차 주도권, 핵심 부품 자립에 달렸다···현대모비스 '기술 동맹' 가속 - 서울파이낸스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxRkdQVjFZT0ktWmJEUExIV1FXNWVMa0dlNk9IRXJtRVpnS1Nzcjg5STh5N2g0RTE1VFB2RDJ5UHBXNmRlS1RLXzZqV0d0MjdhV0hFT0xNOFM2SUJ3OUNORF9NcWttSmNxdFE?oc=5",
+      "source": "서울파이낸스",
+      "published": "2026-10-26T10:14:25+09:00",
+      "category": "관심 키워드",
+      "description": "미래차 주도권, 핵심 부품 자립에 달렸다···현대모비스 '기술 동맹' 가속 서울파이낸스",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 미래차 시장 주도권 확보를 위해 핵심 부품 자립화와 외부 기술 동맹을 강화하고 있습니다. 전동화 및 자율주행 분야의 기술 내재화를 통해 공급망 안정성을 높이려는 전략입니다.",
+      "impact": "핵심 부품의 자립화 및 기술 동맹 확대는 향후 CKD 공급 품목의 구성 변화를 초래할 수 있습니다. 기술 내재화 수준에 따라 국내 조달 비중과 해외 생산 거점별 부품 수급 전략의 재검토가 필요합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "미래차 전환기에 대응하기 위한 현대모비스의 기술 경쟁력 강화 전략",
+        "key_points": [
+          "미래차 핵심 부품 자립화 추진",
+          "외부 기술 동맹을 통한 기술 확보 가속화"
+        ],
+        "what_to_watch": "기술 동맹의 구체적인 파트너사 및 자립화 대상 부품의 범위",
+        "fact_check": "현대모비스의 기술 동맹 강화 기조 확인"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "eaa7ce99222f021a",
+      "image_url": ""
+    },
+    {
+      "id": "43643e8f61c6a8",
+      "title": "현대모비스, 사내 아이디어ㆍ특허 행사 첫 통합 개최…‘주변 차 속도 색으로 표시’ 기술 최우수 - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RZDltNEZqWS14YjJleVJiWG0zY1hYaVdmMmY1a0FMb1R1bVIwZkM0bnhva0hkN2V2SkpZbWdOeVAwdEp4WmNnc1pQVFlSR0Rndnd3dHVtRTVBcVBSZ21lcTdBVXA4akRnVmx6ZmRHdGpVZHM?oc=5",
+      "source": "대한경제",
+      "published": "2026-10-26T10:10:39+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 사내 아이디어ㆍ특허 행사 첫 통합 개최…‘주변 차 속도 색으로 표시’ 기술 최우수 대한경제",
+      "priority_markets": []
+    },
+    {
+      "id": "980bb67188daeb",
+      "title": "직원 아이디어를 미래 기술로… 현대모비스, ‘혁신 축제’ 열었다 - 뉴스웰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRkFhQWJUTVJkZ2F0a29ZRER0LTgtX0NsNVRhWkYxcTFfVWI4SmNRQURfeHBJVHgtZC1HTkxxcDFLZEU3SEtlWEM1ZFpGd04xM3FMTmpRSXBBa1gxZFdWSHRtTU83RjZDMFJFYg?oc=5",
+      "source": "뉴스웰",
+      "published": "2026-10-26T10:08:45+09:00",
+      "category": "관심 키워드",
+      "description": "직원 아이디어를 미래 기술로… 현대모비스, ‘혁신 축제’ 열었다 뉴스웰",
+      "priority_markets": []
+    },
+    {
+      "id": "b68059877d8e4b",
+      "title": "\"아이디어를 R&D 성과로\"..현대모비스 '엠필즈 페스타' 개최 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56cm9MOVprZUlKd2pDSF9TZUxaZkRkd0luVmJiZEVkNDYwOHcwc1FSaXZ6bmF3d2FBWlhEYVR2bDlhMzRSWmpCSjM1b1JyYzR0VnhId1FxMVA2OV9vYWMzVDBXb21DWU51YUpOa1Fod0tQZTFKMVRUTlZn0gF_QVVfeXFMTmxJcXdyTXgweTdSb3Myb2xXbTc4SEUxQUVqT0dZeEtoR08xODItNjRSNmxlSk5Rc2dYMk5oQ3J1a25DRWphRkNEMzRsQ2gtamp5b242NGFGaEsyemxXR3pVRUNVMVdNcVpFWjE2d1lHYXpFSDhDODhrZ195VnVkMA?oc=5",
+      "source": "머니투데이",
+      "published": "2026-10-26T10:07:41+09:00",
+      "category": "관심 키워드",
+      "description": "\"아이디어를 R&D 성과로\"..현대모비스 '엠필즈 페스타' 개최 - 머니투데이 머니투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "da78c45542ea17",
+      "title": "오세훈, 항소심 무죄 뒤 정치 행보 확대…보수 통합론에 힘 싣나 - 코리아이글뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXQThudmpFYUR3V0lSQThCNW5WOGtQVGlkdlRIcUZtSlFubWQxRHBSN3Rydk1pOWJXRE5md3BKTENGVUVjLWMyNDh1ZEstdy16Wld0dXY5aWliZy1EQ2dyMEN1V3BDX1BQTjIzclRzaXpXZm8?oc=5",
+      "source": "코리아이글뉴스",
+      "published": "2026-10-26T10:06:50+09:00",
+      "category": "정치·정책",
+      "description": "오세훈, 항소심 무죄 뒤 정치 행보 확대…보수 통합론에 힘 싣나 코리아이글뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "9e9f841d0e1034",
+      "title": "현대모비스, 임직원 아이디어와 특허 모아… 기술 혁신 축제 열었다! | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRDU0QlpEODI2QjBCbFdVS05idW8zcGtQZXJHNlViSjRTa2kzTUNKYnB0VEFFeEx2SzBTWU5YQV82bWZweTRlSjFKZy1MNzRhZVo4T0ZsaThTaHg0b3lGSWhIdVdkNEtNZm5HWVNYODZKSkQzM0dDaTJSbjBKNUtMeVJKcDA2NDQwdGlHNm1MVktHOTB5cGQwUzNLSFpOUDA?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "2026-10-26T09:58:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 임직원 아이디어와 특허 모아… 기술 혁신 축제 열었다! | 뉴스 | 현대자동차그룹 Hyundai Motor Group",
+      "priority_markets": []
+    },
+    {
+      "id": "24a6ed151a437c",
+      "title": "“직원 튀는 아이디어 650건 쏟아졌다” 현대모비스 ‘발명의 날’ - CatchNews",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ic3BEc25xSklrYUt5MjhpU2loV0NMS2xuNnZkVWRsOWpnU2RKM1JhSUd4b0RSU1pXS3V6cGhUTnJBYkNROHIwM252aXBYZ09ucms5eV9rNUNqZjBWbkVlRllTUkJ5WkM1RjBtWEVyRdIBb0FVX3lxTE9ic3BEc25xSklrYUt5MjhpU2loV0NMS2xuNnZkVWRsOWpnU2RKM1JhSUd4b0RSU1pXS3V6cGhUTnJBYkNROHIwM252aXBYZ09ucms5eV9rNUNqZjBWbkVlRllTUkJ5WkM1RjBtWEVyRQ?oc=5",
+      "source": "CatchNews",
+      "published": "2026-10-26T09:47:55+09:00",
+      "category": "관심 키워드",
+      "description": "“직원 튀는 아이디어 650건 쏟아졌다” 현대모비스 ‘발명의 날’ CatchNews",
+      "priority_markets": []
+    },
+    {
+      "id": "45e47f10ca375e",
+      "title": "현대모비스, 임직원 아이디어와 특허 성과 공유 행사 동시 개최 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sYTFaSlZtTTNZS3htSnVJcUd0MWxjQVRkTWxzTXlfZktMdEY2dG1XTmN2VkpibTI3aXo1ZDBvRjlYem93ZW9FVldNdjdKTWQwNVlzNG1WNHZTSzg0VVV6MUJfb1FIWlp4MW5vV3o4NUl5b0w3VFZaNnhFNGM?oc=5",
+      "source": "부산일보",
+      "published": "2026-10-26T09:40:12+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 임직원 아이디어와 특허 성과 공유 행사 동시 개최 부산일보",
+      "priority_markets": []
+    },
+    {
+      "id": "636cee29bf0c62",
+      "title": "“아이디어 6400건 쌓였다”…현대모비스, 임직원 기술혁신 성과 한자리에 - 지피코리아",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUYzF1QVVMSk42dlVVRnBjTkZiVXg1amJGcmxKdUFZaXdGZ1V6X2RtTXJjUWNoMV9ISG1mUVJJYS1GSVRMUzkyRWU0cXVwaTZndlpreEJXOWdpYUlaYUFYZFZ2cFZrRHFNTGfSAW5BVV95cUxQclBqVmhaZVBVTjBVcG9vdzkzUVV0N2MwaG8tUUVMMnJ2ZjBvbE5IWkN0TGhvc0MtTm0tdWxUNGxDZDh5cE9MY0JVdWtUVXY4Y0haUlJMNmFCQVRNOTFrckFNYjJrOXVyWjJnTTBnQQ?oc=5",
+      "source": "지피코리아",
+      "published": "2026-10-26T09:35:58+09:00",
+      "category": "관심 키워드",
+      "description": "“아이디어 6400건 쌓였다”…현대모비스, 임직원 기술혁신 성과 한자리에 지피코리아",
+      "priority_markets": []
+    },
+    {
+      "id": "df9a1028636d65",
+      "title": "현대모비스, 아이디어·특허 한자리에…첫 통합 '기술 혁신 축제' - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUGl3Yk5wRFVJczhuVjFqbm1UZDlGT1NiTlRSMUcwSWxoX0wtdXZhUHhIYjNGRVVzX2R0TXQxWk5kdUVrQklXaTNnN29GRmdQOEhYLXNmdHJkbGNXTG9yWUd4MWdwdXoyTVZ1TzNRLUdFaVFIQmZYMdIBeEFVX3lxTFBZUGl3Yk5wRFVJczhuVjFqbm1UZDlGT1NiTlRSMUcwSWxoX0wtdXZhUHhIYjNGRVVzX2R0TXQxWk5kdUVrQklXaTNnN29GRmdQOEhYLXNmdHJkbGNXTG9yWUd4MWdwdXoyTVZ1TzNRLUdFaVFIQmZYMQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-26T09:33:29+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 아이디어·특허 한자리에…첫 통합 '기술 혁신 축제' 뉴시스",
+      "priority_markets": []
+    },
+    {
+      "id": "2572afe5f1fc21",
+      "title": "현대모비스, 임직원 기술 축제 개최…지원 확대 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zQTlaLTh3ZHl1WXdFN0JlaGpBNkExSHhsRlBqeWt4WGJXanF4ZV8zUDRwNThjWHRBRVQzcEQ4SmNTTzJwUmM0ZlQyel85R1VscFh5ZHdnekY2N21mOVJVTFhySGpESHN3ZnJWWEdpRWVIUDDSAXNBVV95cUxOM0E5Wi04d2R5dVl3RTdCZWhqQTZBMUh4bEZQanlreFhiV2pxeGVfM1A0cDU4Y1h0QUVUM3BEOEpjU08ycFJjNGZUMnpfOUdVbHBYeWR3Z3pGNjdtZjlSVUxYckhqREhzd2ZyVlhHaUVlSFAw?oc=5",
+      "source": "데일리한국",
+      "published": "2026-10-26T09:18:03+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 임직원 기술 축제 개최…지원 확대 데일리한국",
+      "priority_markets": []
+    },
+    {
+      "id": "09d4e70b4cdbc0",
+      "title": "현대모비스, 사내 기술혁신 축제…올해 아이디어 650건 제안 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YSml5dHJsNVVrQXN2aC1fMkRwODdSOEExbDJKVm13OWFvRjRYVlVpUDU2blNzMkJCanB5NXpJTlJkbGtSWHVCWW1XbXQwWFdmXzJPcHVLS0tnMTdfX2RtQdIBYEFVX3lxTE1YSml5dHJsNVVrQXN2aC1fMkRwODdSOEExbDJKVm13OWFvRjRYVlVpUDU2blNzMkJCanB5NXpJTlJkbGtSWHVCWW1XbXQwWFdmXzJPcHVLS0tnMTdfX2RtQQ?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-26T09:12:53+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 사내 기술혁신 축제…올해 아이디어 650건 제안 연합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "4ddc9c8b62af15",
+      "title": "연락 두절·납치·감금 급증…해외 한국인 사건사고 1년 새 48% 늘었다 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pQ3c1aWNjUWZ0ZXlFVFkxai1PS25yVlU3ekNQakU0SlVxWDRlVDdhOE9DTmNmV2ZFaWpEclFwcmM4WnowX1ZRdVI0NmZHdnNsQzB0X05iZWprZlNpZVczQQ?oc=5",
+      "source": "뉴스1",
+      "published": "2026-10-26T09:08:44+09:00",
+      "category": "국내 주요 사건",
+      "description": "연락 두절·납치·감금 급증…해외 한국인 사건사고 1년 새 48% 늘었다 뉴스1",
+      "priority_markets": []
+    },
+    {
+      "id": "55c69b950489b3",
+      "title": "[미르의 글로벌 레이더]엄앤드이, 우즈벡 265병상 암센터 컨설팅 계약 - 미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aaFRQdFZELXpkc1k2QnJTZlRoS0VRbEt5STFKR2NUZmd2YkpEY2pWU29YVzZOTzZwOUYxUEREQ0tSbWp4djlZUXk3Y0VNTWM1aDJWVdIBWEFVX3lxTFBVRnZNQTdJZjhQSUFGaU9EUGVEa1BndkVFNnZTSTVic1N3Q3hDVE1aXzdNdUluczZLTjVSa0xaZFMzc2U4RWtlcGp3c2lWLUtLSS0wOTVzQUg?oc=5",
+      "source": "미디어펜",
+      "published": "2026-10-26T08:58:36+09:00",
+      "category": "스크랩 추적",
+      "description": "[미르의 글로벌 레이더]엄앤드이, 우즈벡 265병상 암센터 컨설팅 계약 미디어펜",
+      "priority_markets": []
+    },
+    {
+      "id": "ab38d644761d3c",
+      "title": "강남구, 타워팰리스서 '2026년 안전한국훈련' 실시… 초고층 복합재난 대응 - 서울포커스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xNUwtN2dCZl9Pallpd1pGa2hIWDk0VHNUVjhnRFlZSS1lblkwXzVjeUx0NFpDWFZwUjFLRGZkem5Nc1BfMWFobmc0bzBfYk1qOVhLOVEzejhhTXFwOXlSNFJZVzl1NW5wbkd2Mg?oc=5",
+      "source": "서울포커스",
+      "published": "2026-10-26T07:59:21+09:00",
+      "category": "국내 주요 사건",
+      "description": "강남구, 타워팰리스서 '2026년 안전한국훈련' 실시… 초고층 복합재난 대응 서울포커스",
+      "priority_markets": []
+    },
+    {
+      "id": "715e07199de8c4",
+      "title": "은평구, '2026 재난대응 안전한국훈련' 실시… 복합재난 대응 역량 강화 - 서울포커스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mZVhRaURscHVjLTNxbXEwQlBTRElTd0pNZzQzTW4zRDNKSi01LTF3My1BZVpXNkNBN0NTOW1uUDBDeFpsV2c0MFQxRXVibW1nbTVMbm9LY3JRd3dWT2ZFRXVhY20zYmtIaVUtQg?oc=5",
+      "source": "서울포커스",
+      "published": "2026-10-26T07:52:35+09:00",
+      "category": "국내 주요 사건",
+      "description": "은평구, '2026 재난대응 안전한국훈련' 실시… 복합재난 대응 역량 강화 서울포커스",
+      "priority_markets": []
+    },
+    {
+      "id": "71a930608e2f83",
+      "title": "과오 앞에서 드러나는 어른의 품격 [미지답 칼럼] - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41eWxNWGdWUG1pMUpMZTRFdGo4WlktOG9CSnhFZ3hiTTU5RTA0VXNtdFVuZThJcU5zbXFZdmxlQ3puZGhOWWhSWFpQYUpUS1B4T1N1V0FGX3VTUVRnNDdaR0cydUtEWm54aTItOU530gFzQVVfeXFMTk41RkRVT2RocVcySng5OUZLMGJkSDhuUW96aGU2RmVpdm54bW1yTGM2Rk9CTFlMdDFDOHVYZXJFWUQ4MXlsWW5RVmdtb2phb290ODVIVkRlUHFRVDBwQnJwVmtDRTRYZEpuenFDSmJIdUdLbw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-25T17:00:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "과오 앞에서 드러나는 어른의 품격 [미지답 칼럼] 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "0d72a977e951aa",
+      "title": "2026 국감 마무리 수순…올해도 민생 없고 정쟁에만 매몰 - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vNDNnWC1sVF92NDIxLU5GVG1RaXlHSjZ3R3I3emdqSkdpQ2pjQnhJRHQxNHRrMGN4alJKQlIwYWI1MXcwTENtM0dKcjAtVUY3dldtQmdDRFV1X2tTTko1amNCREpVRGJuYWh0M0dGeGpJV2s?oc=5",
+      "source": "대한경제",
+      "published": "2026-10-25T15:06:06+09:00",
+      "category": "정치·정책",
+      "description": "2026 국감 마무리 수순…올해도 민생 없고 정쟁에만 매몰 대한경제",
+      "priority_markets": []
+    },
+    {
+      "id": "6ee140bd03f16a",
+      "title": "여행경보 국가서 한국인 사건사고 급증...중국에서 최다 - YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UbUtrcFQtbUMzSXJfVEtaQzNUeXpoQjVNWEplRFA0a2hSRXRySEJqS3pzcHpCYnhpMEdGaGliSjBKRHBzbnVZb3d0TGRMcnFHWWxIYUpZSllXQ1NHd0E?oc=5",
+      "source": "YTN",
+      "published": "2026-10-25T13:06:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "여행경보 국가서 한국인 사건사고 급증...중국에서 최다 YTN",
+      "priority_markets": []
+    },
+    {
+      "id": "9905059bf30e51",
+      "title": "中 자동차 수출 73% 급증... 현대차·기아, 유럽·신흥국 경쟁 부담 - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZFdscjZTalIxai0tQVhseTVLQl9hOVVSQXJ3QjFzUVpoOVhHM1JzTmRnUE1Sb051ZW9GVVliMUxYZi13MGJ3clhuVll0a1FsZmxhazhLSFY5WElqTVhKX1FjXy02VENsNFJaUGxYOFg?oc=5",
+      "source": "시장경제신문",
+      "published": "2026-10-25T11:34:14+09:00",
+      "category": "자동차",
+      "description": "中 자동차 수출 73% 급증... 현대차·기아, 유럽·신흥국 경쟁 부담 시장경제신문",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "중국 자동차 수출이 73% 급증하며 유럽 및 신흥 시장에서 현대차·기아와의 경쟁이 심화되고 있습니다. 중국 브랜드의 가격 경쟁력과 수출 물량 확대는 현대차·기아의 현지 점유율 및 판매 전략에 잠재적 위협 요인으로 작용하고 있습니다.",
+      "impact": "중국발 완성차 수출 확대가 특정 지역의 시장 점유율 하락으로 이어질 경우, 해당 지역의 완성차 판매량 감소에 따른 CKD 발주 물량 조정 가능성이 존재합니다. 다만, 현재 기사 내용만으로는 현대차·기아의 구체적인 생산 계획 변경이나 CKD 조달 전략 변화가 확인되지 않습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "중국 자동차 산업의 수출 급증은 글로벌 시장 내 가격 경쟁을 가속화하고 있으며, 이는 현대차·기아의 주요 수출 거점인 유럽 및 신흥국 시장에서의 판매 환경 변화를 시사합니다.",
+        "key_points": [
+          "중국 자동차 수출 73% 급증",
+          "유럽 및 신흥 시장 내 경쟁 심화",
+          "현대차·기아의 시장 점유율 방어 부담 가중"
+        ],
+        "what_to_watch": "현대차·기아의 지역별 판매 실적 변화 및 이에 따른 생산·CKD 발주 전략 수정 여부",
+        "fact_check": "RSS 발췌문에는 수출 급증의 구체적인 기간이나 대상 차종, 현대차·기아의 대응책에 대한 세부 수치가 포함되어 있지 않음"
+      },
+      "ai_summary": true,
+      "image_url": ""
+    },
+    {
+      "id": "139c4643519c55",
+      "title": "다시 보는 챔프전, 소노 이정현 버저비터로 웃었다! [9시 뉴스] / KBS 2026.10.24. - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82TVpHQ1g1Q3pnSDNBQ2N1Z29Ka1pvQkpBTkxwVWNwME82UU9uLXUtWVlvVVZndV96djRUZDhidWZUTHVNMDg3N1ZTaklmMDBIVHdNTlJKOVk4SkhB?oc=5",
+      "source": "YouTube",
+      "published": "2026-10-24T21:39:40+09:00",
+      "category": "관심 키워드",
+      "description": "다시 보는 챔프전, 소노 이정현 버저비터로 웃었다! [9시 뉴스] / KBS 2026.10.24. YouTube",
+      "priority_markets": []
+    },
+    {
+      "id": "88e3e49587cb9f",
+      "title": "김정은 방중…교도\"단둥서 교통·호텔 엄격 통제\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GTmJCbDNLTTVsS2Vmbk5PY1ZweDVoWmZJMVZZNkt6T3dQR2MwZ21GTy1qTF9Ra1djc3o1MXVFWmE0dmFwT3pBVDVCNWQ2SGszRWJsWG1ScVNyNEFYWW9kMjhvSEZIUERxaWVVVkJ30gFzQVVfeXFMTkhIV1RlbXk1TnozZXJTR1V6bHd3TlJyOEFZTEJ4ekI2ZDg0b1p4QndsMzRVZ2hyMXJ2cXg3bERSWERJYlZZbkdwZDlnU01qTXYzQmx3NmRqcUY4aVpNN3ZKU0wwLWhuMWV4SnlHdS1jYTFkbw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-24T16:01:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "김정은 방중…교도\"단둥서 교통·호텔 엄격 통제\" 한국일보",
       "priority_markets": []
     }
   ]

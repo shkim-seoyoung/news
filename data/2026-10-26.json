@@ -1,37 +1,37 @@
 {
   "date": "2026-10-26",
-  "updated_at": "2026-10-26T09:57:43.403583+09:00",
-  "article_count": 8,
+  "updated_at": "2026-10-26T11:14:56.363058+09:00",
+  "article_count": 9,
   "ai_enabled": true,
   "articles": [
     {
-      "id": "1e1bddc86785e7",
-      "title": "한국은행 기준금리 3% 동결…멈춘 정책금리, 뛰는 시장금리 - 뉴스후플러스",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82SW14bEViOXZNOF9IejJabUV0ampkc3ZfZlA4b0hCTjN3TGgxMjE3SnRGR3JhLVFkVHNiVmJJckVCRDlzT3VrNEdTYXkycHVpaHFhQkF3RzlidlQ4RkV0N2pzYWRGRVBGcHhtcjZn?oc=5",
-      "source": "뉴스후플러스",
-      "published": "2026-10-26T07:30:00+09:00",
-      "category": "경제·금융",
-      "description": "한국은행 기준금리 3% 동결…멈춘 정책금리, 뛰는 시장금리 뉴스후플러스",
+      "id": "fb2d4706530b02",
+      "title": "미래차 주도권, 핵심 부품 자립에 달렸다···현대모비스 '기술 동맹' 가속 - 서울파이낸스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxRkdQVjFZT0ktWmJEUExIV1FXNWVMa0dlNk9IRXJtRVpnS1Nzcjg5STh5N2g0RTE1VFB2RDJ5UHBXNmRlS1RLXzZqV0d0MjdhV0hFT0xNOFM2SUJ3OUNORF9NcWttSmNxdFE?oc=5",
+      "source": "서울파이낸스",
+      "published": "2026-10-26T10:14:25+09:00",
+      "category": "관심 키워드",
+      "description": "미래차 주도권, 핵심 부품 자립에 달렸다···현대모비스 '기술 동맹' 가속 서울파이낸스",
       "priority_markets": [],
-      "section": "일반 뉴스",
+      "section": "산업·업무",
       "related_articles": [],
-      "summary": "한국은행이 기준금리를 3%로 동결했으나, 시장금리는 상승세를 보이고 있습니다. 정책금리 동결에도 불구하고 시장금리가 오르는 현상은 기업의 자금 조달 비용 상승으로 이어질 수 있습니다.",
-      "impact": "금리 상승에 따른 금융 비용 증가는 CKD 부품 협력사의 경영 환경에 부담을 줄 수 있으며, 이는 부품 공급망의 안정성 및 발주 단가 협상에 영향을 미칠 가능성이 있습니다.",
+      "summary": "현대모비스가 미래차 시장 주도권 확보를 위해 핵심 부품 자립화와 외부 기술 동맹을 강화하고 있습니다. 전동화 및 자율주행 분야의 기술 내재화를 통해 공급망 안정성을 높이려는 전략입니다.",
+      "impact": "핵심 부품의 자립화 및 기술 동맹 확대는 향후 CKD 공급 품목의 구성 변화를 초래할 수 있습니다. 기술 내재화 수준에 따라 국내 조달 비중과 해외 생산 거점별 부품 수급 전략의 재검토가 필요합니다.",
       "importance": "보통",
       "detail": {
-        "background": "한국은행의 기준금리 동결 결정에도 불구하고 시장금리가 상승하는 것은 채권 시장의 수급 상황이나 향후 금리 전망에 대한 시장의 기대가 반영된 결과로 보입니다. 기업들은 이러한 금리 차이로 인해 실질적인 자금 조달 비용 상승을 체감할 수 있습니다.",
+        "background": "미래차 전환기에 대응하기 위한 현대모비스의 기술 경쟁력 강화 전략",
         "key_points": [
-          "한국은행 기준금리 3% 동결 결정",
-          "정책금리와 시장금리의 괴리 확대",
-          "기업 자금 조달 비용 상승 가능성"
+          "미래차 핵심 부품 자립화 추진",
+          "외부 기술 동맹을 통한 기술 확보 가속화"
         ],
-        "what_to_watch": [
-          "향후 시장금리 추이 및 기업 대출 금리 변화",
-          "부품 협력사의 자금난 여부 및 공급망 영향"
-        ],
-        "fact_check": "제공된 기사는 기준금리 동결 사실만을 언급하고 있으며, 구체적인 시장금리 상승폭이나 산업별 영향은 명시되지 않았습니다."
+        "what_to_watch": "기술 동맹의 구체적인 파트너사 및 자립화 대상 부품의 범위",
+        "fact_check": "현대모비스의 기술 동맹 강화 기조 확인"
       },
+      "new_information": "",
+      "source_comparison": "",
       "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "eaa7ce99222f021a",
       "image_url": ""
     },
     {
@@ -44,10 +44,23 @@
       "description": "[자동차부품사 체력] ①현대모비스, 투자 집행 가늠자된 'AS 이익' www.fetv.co.kr",
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대모비스의 AS 부품 사업 이익이 전동화 및 미래 모빌리티 투자의 핵심 재원으로 활용되고 있다는 분석이 제기되었습니다. 안정적인 AS 수익 구조가 유지될 경우, 관련 부품의 생산 및 공급망 투자 계획에도 긍정적인 영향을 미칠 것으로 보입니다.",
-      "impact": "AS 부품의 수익성은 향후 CKD 부품 공급망 안정화 및 신규 설비 투자 여력과 직결됩니다. AS 부품 물류 효율화가 지속될 경우, CKD 포장 및 선적 프로세스 최적화를 위한 인프라 투자 가능성이 존재합니다.",
+      "summary": "현대모비스의 투자 집행 여력이 AS 부문에서 발생하는 이익에 크게 의존하고 있다는 분석이 제기되었습니다. AS 수익 구조가 미래 투자와 생산 인프라 확충의 핵심 지표로 작용하고 있습니다.",
+      "impact": "기사에 당사 CKD 포장·선적 업무와의 직접적인 연관성은 확인되지 않았습니다.",
       "importance": "보통",
       "detail": {
+        "background": "현대모비스의 재무 구조 및 투자 결정 요인 분석",
+        "key_points": [
+          "AS 부문 이익의 투자 집행 영향력",
+          "자동차 부품사의 재무 체력 평가"
+        ],
+        "what_to_watch": "AS 수익 변동에 따른 향후 설비 투자 계획",
+        "fact_check": "AS 이익이 투자 집행의 주요 변수라는 분석 내용"
+      },
+      "ai_summary": true,
+      "image_url": "",
+      "priority_markets": [],
+      "original_summary": "현대모비스의 AS 부품 사업 이익이 전동화 및 미래 모빌리티 투자의 핵심 재원으로 활용되고 있다는 분석이 제기되었습니다. 안정적인 AS 수익 구조가 유지될 경우, 관련 부품의 생산 및 공급망 투자 계획에도 긍정적인 영향을 미칠 것으로 보입니다.",
+      "original_detail": {
         "background": "현대모비스는 완성차 판매 이후 발생하는 AS 부품 사업에서 창출된 이익을 미래 기술 개발 및 생산 설비 확충에 재투자하고 있습니다. 이러한 수익 구조는 부품사의 재무 건전성을 지탱하는 주요 요소로 평가받습니다.",
         "key_points": [
           "AS 부품 사업이 현대모비스의 핵심 수익원 역할 수행",
@@ -60,9 +73,10 @@
         ],
         "fact_check": "본 기사는 현대모비스의 AS 부품 이익과 투자 집행의 상관관계를 다루고 있으며, 구체적인 CKD 물량 변화나 특정 포장·선적 관련 수치는 언급되지 않았습니다."
       },
-      "ai_summary": true,
-      "image_url": "",
-      "priority_markets": []
+      "new_information": "",
+      "source_comparison": "",
+      "integrated_summary": true,
+      "integration_signature": "694cc83080dcce37"
     },
     {
       "id": "b8ee183dd00b80",
@@ -75,10 +89,22 @@
       "priority_markets": [],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "테슬라가 14년 된 전기차 생산 라인을 철거하고 새로운 공정 도입을 결정했다. 기존 생산 설비의 전면 교체는 단기적으로 해당 공장의 생산 중단이나 전환 기간을 초래할 수 있다.",
-      "impact": "생산 라인 재편에 따른 일시적 가동 중단 시 부품 조달 및 CKD 발주 물량의 조정이 필요할 수 있다. 설비 전환 완료 후 생산 효율성 변화에 따라 향후 부품 공급망의 재편 가능성을 검토해야 한다.",
+      "summary": "테슬라가 기존 전기차 생산 라인을 개편하는 등 공장 운영 전략에 변화를 주고 있습니다. 특정 생산 라인의 중단 및 재구성이 보고되었습니다.",
+      "impact": "기사에 당사 CKD 포장·선적 업무와의 직접적인 연관성은 확인되지 않았습니다.",
       "importance": "보통",
       "detail": {
+        "background": "테슬라의 생산 공장 라인 개편 및 전략 수정",
+        "key_points": [
+          "기존 전기차 생산 라인 개편",
+          "공장 운영 전략의 변화"
+        ],
+        "what_to_watch": "테슬라의 생산 방식 변화가 글로벌 전기차 시장에 미치는 영향",
+        "fact_check": "테슬라 공장 라인 개편 보도 내용"
+      },
+      "ai_summary": true,
+      "image_url": "",
+      "original_summary": "테슬라가 14년 된 전기차 생산 라인을 철거하고 새로운 공정 도입을 결정했다. 기존 생산 설비의 전면 교체는 단기적으로 해당 공장의 생산 중단이나 전환 기간을 초래할 수 있다.",
+      "original_detail": {
         "background": "테슬라가 기존 전기차 생산 라인을 철거하고 새로운 공정으로 전환하는 결단을 내렸다. 이는 생산 효율성 제고를 위한 전략적 결정으로 보이나, 구체적인 전환 기간이나 신규 공정의 상세 내용은 확인되지 않았다.",
         "key_points": [
           "14년 역사 전기차 생산 라인 철거 및 교체",
@@ -88,8 +114,10 @@
         "what_to_watch": "신규 라인 가동 시점 및 기존 부품 공급망 유지 여부",
         "fact_check": "기사 제목과 발췌문 외 상세한 공정 변경 내용 및 생산 중단 기간에 대한 구체적 수치는 제공되지 않음"
       },
-      "ai_summary": true,
-      "image_url": ""
+      "new_information": "",
+      "source_comparison": "",
+      "integrated_summary": true,
+      "integration_signature": "5188b474ca8c8673"
     },
     {
       "id": "5ad13496315b41",
@@ -102,7 +130,7 @@
       "section": "산업·업무",
       "related_articles": [],
       "summary": "현대모비스가 미래차 기술 경쟁력 강화를 위해 R&D 투자를 2조 원 이상으로 확대했습니다. 이는 전동화 및 자율주행 등 차세대 모빌리티 부품 개발에 집중하겠다는 전략으로 풀이됩니다.",
-      "impact": "R&D 투자 확대는 향후 신규 모듈 및 전동화 부품의 설계 변경이나 사양 고도화로 이어질 수 있습니다. 이는 CKD 포장 설계의 변경이나 신규 부품 조달 체계 수립 등 공급망 운영 방식에 장기적인 변화를 초래할 가능성이 있습니다.",
+      "impact": "기사에 당사 CKD 포장·선적 업무와의 직접적인 연관성은 확인되지 않았습니다.",
       "importance": "보통",
       "detail": {
         "background": "현대모비스가 미래차 기술 확보를 위해 연간 R&D 투자액 2조 원 시대를 열었습니다. 전동화와 전장 부품 중심의 기술 고도화가 핵심입니다.",
@@ -129,7 +157,7 @@
       "section": "일반 뉴스",
       "related_articles": [],
       "summary": "2024년 국정감사가 별다른 결정적 성과 없이 마무리되며, 정치권의 관심이 예산안 심사로 이동하고 있습니다. '쇼츠 국감'이라는 비판과 함께 정책적 실효성에 대한 논란이 제기되었습니다.",
-      "impact": "국회 예산 심사 과정에서 산업 관련 예산의 증액 또는 삭감 여부가 기업의 투자 환경에 영향을 줄 수 있습니다. 향후 예산안 처리 과정에서 주요 산업 지원 정책의 변화를 모니터링할 필요가 있습니다.",
+      "impact": "",
       "importance": "보통",
       "detail": {
         "background": "국정감사가 종료되고 본격적인 예산 정국으로 진입하는 상황입니다.",
@@ -191,7 +219,7 @@
       "section": "일반 뉴스",
       "related_articles": [],
       "summary": "코스피 지수 급락에도 불구하고 반도체 수출 호조에 힘입어 원화 가치가 강세를 보이고 있습니다. 시장에서는 환율이 1,300원대 아래로 하락할 가능성에 주목하고 있습니다.",
-      "impact": "환율 하락은 수입 부품의 원가 절감에는 긍정적이나, 수출 채산성에는 부정적 영향을 줄 수 있습니다. 향후 반도체 수출 추이와 환율 변동폭이 원자재 조달 비용 및 수출 가격 경쟁력에 미치는 영향을 모니터링해야 합니다.",
+      "impact": "",
       "importance": "보통",
       "detail": {
         "background": "코스피 하락과 원화 강세가 동시에 나타나는 이례적인 시장 상황 발생.",
@@ -241,6 +269,33 @@
       "integration_signature": "534e172ee956b215",
       "image_url": "",
       "priority_markets": []
+    },
+    {
+      "id": "9905059bf30e51",
+      "title": "中 자동차 수출 73% 급증... 현대차·기아, 유럽·신흥국 경쟁 부담 - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZFdscjZTalIxai0tQVhseTVLQl9hOVVSQXJ3QjFzUVpoOVhHM1JzTmRnUE1Sb051ZW9GVVliMUxYZi13MGJ3clhuVll0a1FsZmxhazhLSFY5WElqTVhKX1FjXy02VENsNFJaUGxYOFg?oc=5",
+      "source": "시장경제신문",
+      "published": "2026-10-25T11:34:14+09:00",
+      "category": "자동차",
+      "description": "中 자동차 수출 73% 급증... 현대차·기아, 유럽·신흥국 경쟁 부담 시장경제신문",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "중국 자동차 수출이 73% 급증하며 유럽 및 신흥 시장에서 현대차·기아와의 경쟁이 심화되고 있습니다. 중국 브랜드의 가격 경쟁력과 수출 물량 확대는 현대차·기아의 현지 점유율 및 판매 전략에 잠재적 위협 요인으로 작용하고 있습니다.",
+      "impact": "중국발 완성차 수출 확대가 특정 지역의 시장 점유율 하락으로 이어질 경우, 해당 지역의 완성차 판매량 감소에 따른 CKD 발주 물량 조정 가능성이 존재합니다. 다만, 현재 기사 내용만으로는 현대차·기아의 구체적인 생산 계획 변경이나 CKD 조달 전략 변화가 확인되지 않습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "중국 자동차 산업의 수출 급증은 글로벌 시장 내 가격 경쟁을 가속화하고 있으며, 이는 현대차·기아의 주요 수출 거점인 유럽 및 신흥국 시장에서의 판매 환경 변화를 시사합니다.",
+        "key_points": [
+          "중국 자동차 수출 73% 급증",
+          "유럽 및 신흥 시장 내 경쟁 심화",
+          "현대차·기아의 시장 점유율 방어 부담 가중"
+        ],
+        "what_to_watch": "현대차·기아의 지역별 판매 실적 변화 및 이에 따른 생산·CKD 발주 전략 수정 여부",
+        "fact_check": "RSS 발췌문에는 수출 급증의 구체적인 기간이나 대상 차종, 현대차·기아의 대응책에 대한 세부 수치가 포함되어 있지 않음"
+      },
+      "ai_summary": true,
+      "image_url": ""
     }
   ]
 }
