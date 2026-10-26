@@ -188,10 +188,11 @@ def summarize(items):
         prompt = ("너는 CKD 자동차 수출포장 및 국내외 주요 뉴스 브리핑 편집자다. "
           "입력은 RSS 기사 제목·발췌문·날짜·링크일 뿐 기사 전문이 아니다. "
           "제공되지 않은 사실·수치·발언을 절대 지어내지 말고 불확실성은 명시한다. "
-          "입력된 모든 기사 각각에 대해 반드시 하나의 결과를 반환하라. 기사를 선정하거나 생략하지 마라. " + WORK_PERSPECTIVE_RULES + 
+          "입력된 모든 기사 각각에 대해 반드시 하나의 결과를 반환하라. 기사를 선정하거나 생략하지 마라. " + WORK_PERSPECTIVE_RULES + GENERAL_NEWS_RULES + WORK_NEWS_RULES + 
           "정책은 발언/제안/검토/확정 시행을 구분한다. 정치인의 비판이나 주장은 사실로 단정하지 않고 발언 주체를 명시한다. 현재 정부를 과거 정부로 표현하지 말고, 시점이 확인되지 않은 과거 사례를 임의로 추가하지 마라. "
           "인명·정부명·한자 약칭을 추측해서 풀어 쓰지 마라. 李정부는 이명박 정부가 아니며, 불확실하면 원문 표기를 유지한다. "
-          "각 기사마다 id, summary(한국어 2~3문장), impact(업무 관점), importance('높음' 또는 '보통'), "
+          "기사 제목의 연도·시점과 모순되는 연도는 작성하지 마라. " 
+          "각 기사마다 id, summary(한국어 2~3문장), impact(업무 관점, 일반 뉴스는 빈 문자열), importance('높음' 또는 '보통'), "
           "detail 객체(background: 근거 기반 2~3문장, key_points: 주요 내용 문자열 배열 2~4개, "
           "what_to_watch: 확인할 후속 발표, fact_check: RSS 정보 한계)를 작성한다. "
           "JSON 객체 {\"articles\":[...]}만 출력하며 입력에 없는 id는 생성하지 않는다. "
@@ -218,7 +219,7 @@ def summarize(items):
                 detail = x.get('detail', {})
                 article['detail'] = detail if isinstance(detail, dict) else {}
                 article['ai_summary'] = True
-                results.append(article)
+                results.append(sanitize_editorial(article))
                 completed.add(article['id'])
             print('Gemini summarized', len(completed), 'of', len(batch), 'articles in batch')
         except Exception as ex:
@@ -305,7 +306,7 @@ def editorial_score(a):
     if a.get('scrap_relation'): score += 22 if a['scrap_relation']['type']=='후속보도' else 12
     return score
 
-ANALYSIS_VERSION = 'event-groups-v3-20261022'
+ANALYSIS_VERSION = 'evidence-first-v4-20261026'
 
 WORK_PERSPECTIVE_RULES = (
     "업무 영향이라는 표현 대신 업무 관점을 작성한다. 확정된 사실과 조건부 가능성을 엄격히 구분한다. "
@@ -314,11 +315,49 @@ WORK_PERSPECTIVE_RULES = (
     "예: 해외공장 증산은 부품 수요를 늘릴 수 있지만 현지화가 확대되면 한국발 CKD는 감소할 수도 있다. "
     "판매 둔화→감산 결정 여부→CKD 발주 변화, 항만 적체/운하 제한→항로·선복·리드타임 변화→현지 재고 및 긴급 선적 가능성, "
     "관세 변화→완성차/부품별 적용 여부→생산·조달 전략 변화 등 양방향 영향을 검토한다. "
-    "직접 영향이 확인되지 않아도 합리적인 조건부 영향과 확인 사항을 제시하되, 관련성이 희박하면 억지로 연결하지 말고 짧게 표시한다. "
+    "기사에 CKD·포장·선적과의 구체적인 연결 근거가 없으면 가능성도 억지로 만들지 않는다. "
+    "테슬라 등 당사 CKD 업무와 직접 관련 없는 기업의 생산라인 변화에서 CKD 발주 조정 필요성을 추론하지 않는다. "
+    "AS 수익이나 R&D 투자만으로 CKD 포장 인프라 투자 가능성을 주장하지 않는다. "
+    "관련성이 희박하면 impact를 빈 문자열로 두거나 직접적인 업무 영향이 확인되지 않았다고 명시한다. "
     "생산량 증가율을 CKD 물량 증가율로 치환하거나 회사 이름만으로 특정 발주 변화를 단정하지 않는다. "
     "근거 없는 숫자·실제 항로·현지화율·공급 품목을 만들지 않는다. "
     "impact 필드는 기존 사이트 호환을 위해 유지하되 그 내용은 업무 관점으로 작성한다. "
 )
+
+GENERAL_NEWS_RULES = (
+    "일반 뉴스(section='일반 뉴스')는 주요 사실만 간결하게 요약한다. "
+    "impact는 반드시 빈 문자열로 작성하고 CKD·부품·포장·선적과 억지로 연결하지 않는다. "
+    "기사 제목과 RSS 발췌문에 없는 연도·수치·정책 시행 여부를 만들어내지 않는다. "
+    "과거 기사나 시점이 불명확한 제목은 현재 진행 중인 사건이라고 단정하지 않는다. "
+)
+WORK_NEWS_RULES = (
+    "산업·업무 뉴스는 실제 업무 연결 근거를 먼저 판단한다. "
+    "직접 관련이 없는 일반 기업 전략·테슬라 생산라인·AS 수익·R&D 투자 기사는 "
+    "포장·선적·CKD 물량에 직접 영향을 준다고 추정하지 않는다. "
+    "직접 근거가 없으면 impact는 빈 문자열로 작성한다. "
+)
+def sanitize_editorial(article):
+    """Apply deterministic safeguards even when AI ignores prompt constraints."""
+    a = dict(article)
+    if a.get('section') == '일반 뉴스':
+        a['impact'] = ''
+    title = a.get('title', '').lower()
+    weak = (
+        ('테슬라' in title or 'tesla' in title)
+        or (('모비스' in title or 'mobis' in title)
+            and any(x in title for x in ('as 이익', 'as 부품', 'r&d 투자', '연구개발 투자')))
+    )
+    if weak:
+        impact = a.get('impact', '')
+        if any(x in impact.lower() for x in ('ckd', '포장', '선적', '발주 물량', '인프라 투자')):
+            a['impact'] = '기사에 당사 CKD 포장·선적 업무와의 직접적인 연관성은 확인되지 않았습니다.'
+    # Never keep an explicitly mismatched year in AI-generated analysis.
+    years = re.findall(r'(?<!\\d)20\\d{2}(?!\\d)', a.get('summary', ''))
+    evidence = (a.get('title', '') + ' ' + a.get('description', ''))
+    if any(y not in evidence for y in years):
+        a['summary'] = '기사 제목과 RSS 발췌문만으로는 구체적인 연도 및 경과를 검증할 수 없습니다. 원문 확인이 필요합니다.'
+        a['ai_summary'] = False
+    return a
 
 def event_anchor(a):
     """Identify a concrete announcement, not just a shared industry keyword."""
@@ -439,6 +478,7 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
             by_id.setdefault(a['id'], dict(a))
 
     groups = {}
+    source_pool = list(by_id.values())
     # Filter before ranking so older archived items cannot consume daily slots.
     cutoff = NOW - datetime.timedelta(hours=24)
     for a in by_id.values():
@@ -470,8 +510,25 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
             if previous is None or representative_score(member) > representative_score(previous):
                 unique_members[dedup_key] = member
         members = list(unique_members.values())
+        # Supplement the issue with older related reporting, without using
+        # older articles as the representative or reviving an expired story.
+        for candidate in source_pool:
+            if candidate.get('id') in {m.get('id') for m in members}:
+                continue
+            try:
+                dt = datetime.datetime.fromisoformat(candidate['published'])
+                if not (NOW - datetime.timedelta(hours=48) <= dt <= NOW):
+                    continue
+            except (KeyError, ValueError, TypeError):
+                continue
+            if classify(candidate) != section or not same_day_issue(candidate, members[0]):
+                continue
+            members.append(candidate)
         members.sort(key=lambda a: (representative_score(a), a.get('published', '')), reverse=True)
-        representative = dict(members[0])
+        recent_members = [m for m in members if m.get('published', '') >= cutoff.isoformat()]
+        if not recent_members:
+            continue
+        representative = dict(recent_members[0])
         representative['section'] = section
         relation_member=next((m for m in members if m.get('scrap_relation')),None)
         if relation_member:representative['scrap_relation']=relation_member['scrap_relation']
@@ -484,7 +541,7 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
         representative['related_articles'] = [
             {'title': a.get('title', ''), 'url': a.get('url', ''),
              'source': a.get('source', ''), 'published': a.get('published', '')}
-            for a in members[1:30] if a.get('url')
+            for a in members[:30] if a.get('url') and a.get('id') != representative.get('id')
         ]
         ranked_groups.append((editorial_score(representative), representative_score(representative), representative))
 
@@ -779,7 +836,7 @@ def main():
             else:saved.pop('scrap_relation',None)
             saved['source_comparison'] = cached.get('source_comparison', '')
             saved['section'] = a.get('section', saved.get('section'))
-            merged.append(correct_known_name_error(saved))
+            merged.append(sanitize_editorial(correct_known_name_error(saved)))
         else:
             review_needed.append(a)
     budget = max(0, int(os.environ.get('MAX_AI_ARTICLES_PER_RUN', '25')))
@@ -798,7 +855,7 @@ def main():
     for a in merged:
         a.pop('group_members', None)
         a.pop('integration_signature_candidate', None)
-    merged = [correct_known_name_error(a) for a in merged if not irrelevant_work_article(a)]
+    merged = [sanitize_editorial(correct_known_name_error(a)) for a in merged if not irrelevant_work_article(a)]
     for a in merged:
         if not a.get('image_url') and a.get('url'):
             a['image_url']=extract_article_image(a['url'])
