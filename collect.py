@@ -306,22 +306,18 @@ def editorial_score(a):
     if a.get('scrap_relation'): score += 22 if a['scrap_relation']['type']=='후속보도' else 12
     return score
 
-ANALYSIS_VERSION = 'evidence-first-v4-20261026'
+ANALYSIS_VERSION = 'trend-novelty-v5-20261027'
 
 WORK_PERSPECTIVE_RULES = (
-    "업무 영향이라는 표현 대신 업무 관점을 작성한다. 확정된 사실과 조건부 가능성을 엄격히 구분한다. "
-    "뉴스에서 확인된 변화가 생산·판매·현지화·부품 조달·발주·포장·선적·통관·운송 리드타임·현지 재고·생산 투입에 "
-    "어떤 연쇄 영향을 줄 수 있는지, 해당하는 연결고리만 선택해 2~3문장으로 설명한다. "
-    "예: 해외공장 증산은 부품 수요를 늘릴 수 있지만 현지화가 확대되면 한국발 CKD는 감소할 수도 있다. "
-    "판매 둔화→감산 결정 여부→CKD 발주 변화, 항만 적체/운하 제한→항로·선복·리드타임 변화→현지 재고 및 긴급 선적 가능성, "
-    "관세 변화→완성차/부품별 적용 여부→생산·조달 전략 변화 등 양방향 영향을 검토한다. "
-    "기사에 CKD·포장·선적과의 구체적인 연결 근거가 없으면 가능성도 억지로 만들지 않는다. "
-    "테슬라 등 당사 CKD 업무와 직접 관련 없는 기업의 생산라인 변화에서 CKD 발주 조정 필요성을 추론하지 않는다. "
-    "AS 수익이나 R&D 투자만으로 CKD 포장 인프라 투자 가능성을 주장하지 않는다. "
-    "관련성이 희박하면 impact를 빈 문자열로 두거나 직접적인 업무 영향이 확인되지 않았다고 명시한다. "
-    "생산량 증가율을 CKD 물량 증가율로 치환하거나 회사 이름만으로 특정 발주 변화를 단정하지 않는다. "
-    "근거 없는 숫자·실제 항로·현지화율·공급 품목을 만들지 않는다. "
-    "impact 필드는 기존 사이트 호환을 위해 유지하되 그 내용은 업무 관점으로 작성한다. "
+    "업무 뉴스는 자동차 산업·CKD·물류 동향을 파악하는 브리핑이다. 모든 기사를 CKD와 연결할 필요가 없다. "
+    "직접적인 업무 관련 사실이 있으면 해당 영향과 확인할 사항을 설명한다. "
+    "직접 관련이 없는 국내 신차, 경쟁사 투자, 전동화 기술 등도 중요하면 선정할 수 있으며 "
+    "이 경우 impact에는 해당 산업 동향의 의미만 설명한다. "
+    "예를 들어 국내 생산 기아 신차는 기아의 제품·기술 전략 관점에서 설명한다. "
+    "테슬라·아우디 등 경쟁사 생산 계획으로 현대모비스 CKD 발주·포장 물량 변화를 추론하지 않는다. "
+    "현대모비스 AS 수익이나 R&D 투자만으로 CKD 포장 인프라 투자 가능성을 주장하지 않는다. "
+    "실제 근거 없는 숫자·항로·현지화율·공급 품목을 만들지 않는다. "
+    "impact 필드는 사이트 호환을 위해 유지하며, 직접 업무 영향 또는 산업 동향 관점으로 작성한다. "
 )
 
 GENERAL_NEWS_RULES = (
@@ -331,10 +327,10 @@ GENERAL_NEWS_RULES = (
     "과거 기사나 시점이 불명확한 제목은 현재 진행 중인 사건이라고 단정하지 않는다. "
 )
 WORK_NEWS_RULES = (
-    "산업·업무 뉴스는 실제 업무 연결 근거를 먼저 판단한다. "
-    "직접 관련이 없는 일반 기업 전략·테슬라 생산라인·AS 수익·R&D 투자 기사는 "
-    "포장·선적·CKD 물량에 직접 영향을 준다고 추정하지 않는다. "
-    "직접 근거가 없으면 impact는 빈 문자열로 작성한다. "
+    "자동차·CKD·물류 분야의 주요 산업 동향을 선정한다. "
+    "담당 해외 법인 관련 생산·부품·조달·물류 변화는 우선한다. "
+    "국내 신차와 경쟁사 투자도 산업적 의미가 있으면 선정할 수 있으나 CKD와 억지로 연결하지 않는다. "
+    "직접 연관성이 없으면 impact는 산업 동향의 의미로만 작성한다. "
 )
 def sanitize_editorial(article):
     """Apply deterministic safeguards even when AI ignores prompt constraints."""
@@ -350,7 +346,7 @@ def sanitize_editorial(article):
     if weak:
         impact = a.get('impact', '')
         if any(x in impact.lower() for x in ('ckd', '포장', '선적', '발주 물량', '인프라 투자')):
-            a['impact'] = '기사에 당사 CKD 포장·선적 업무와의 직접적인 연관성은 확인되지 않았습니다.'
+            a['impact'] = '해당 기업의 산업 동향이며 당사 CKD 발주·포장·선적 물량과의 직접적인 연관성은 확인되지 않았습니다.'
     # Never keep an explicitly mismatched year in AI-generated analysis.
     years = re.findall(r'(?<!\\d)20\\d{2}(?!\\d)', a.get('summary', ''))
     evidence = (a.get('title', '') + ' ' + a.get('description', ''))
@@ -466,7 +462,7 @@ def representative_score(a):
     return score
 
 
-def choose_for_day(articles, existing, work_limit=12, general_limit=3):
+def choose_for_day(articles, existing, work_limit=None, general_limit=None):
     """Select issue representatives; retain up to three source links per issue.
 
     Group source articles before selecting a representative; retain links to
@@ -525,7 +521,13 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
                 continue
             members.append(candidate)
         members.sort(key=lambda a: (representative_score(a), a.get('published', '')), reverse=True)
-        recent_members = [m for m in members if m.get('published', '') >= cutoff.isoformat()]
+        recent_members = []
+        for m in members:
+            try:
+                if cutoff <= datetime.datetime.fromisoformat(m['published']) <= NOW:
+                    recent_members.append(m)
+            except (KeyError, ValueError, TypeError):
+                pass
         if not recent_members:
             continue
         representative = dict(recent_members[0])
@@ -550,7 +552,7 @@ def choose_for_day(articles, existing, work_limit=12, general_limit=3):
     for _, _, a in ranked_groups:
         section = a['section']
         limit = work_limit if section == '산업·업무' else general_limit
-        if counts[section] >= limit:
+        if limit is not None and counts[section] >= limit:
             continue
         chosen.append(a)
         counts[section] += 1
@@ -577,7 +579,7 @@ def same_issue_prior(a, history):
     """Conservative match: only a recognized issue key or an identical headline."""
     key = topic_key(a)
     return [h for h in history if classify(h['article']) == a.get('section')
-            and topic_key(h['article']) == key][:3]
+            and (topic_key(h['article']) == key or same_day_issue(a, h['article']))][:5]
 
 
 def ai_editorial_review(items, history):
@@ -610,16 +612,17 @@ def ai_editorial_review(items, history):
                 ]
             })
         prompt = ("너는 뉴스 편집자다. 입력은 RSS 제목/발췌문과 최근 7일 브리핑 기록이며 기사 전문이 아니다. "
-                  "동일한 사건에 대해 전일 보도 대비 확인 가능한 새로운 사실(수치/일정/결정/참여사/변경사항)이 "
-                  "명확하게 없을 때만 status='repeat'로 분류하라. 이전 기사와의 동일성 또는 새 사실 유무가 "
-                  "불명확하면 status='keep'으로 보수적으로 유지하라. 이전 기사가 없는 경우 무조건 keep. "
+                  "과거 기사와 같은 사건을 반복 설명하고 새 사실(투자 확정, 수치, 가동 일정, 생산능력, 참여사, 결정, 실제 진척)이 없으면 status='repeat'. "
+                  "새 사실이 확인되면 status='keep' 및 new_information에 구체적 변경사항을 적어 후속보도로 분류한다. "
+                  "같은 산업 주제지만 별개의 사건이면 신규 뉴스다. 불명확하면 keep하되 신규 사실을 지어내지 않는다. "
+                  "이전 기사가 없는 경우 keep. "
                   "같은 날 관련 기사들에서 확인되는 정보를 종합하되 RSS에 없는 사실을 만들지 마라. "
                   + WORK_PERSPECTIVE_RULES +
                   "기사 제목만 다르다는 이유로 새로운 사실이라고 판단하지 마라. 정치인의 비판·주장은 사실로 단정하지 말고 발언 주체를 명시하라. 현재 정부를 과거 정부로 서술하거나 근거 없는 과거 정책 사례를 만들지 마라. "
                   "정치인·정부명·한자 약칭을 추측해서 풀어 쓰지 마라. 특히 李정부를 이명박 정부로 해석하지 말고, 불확실하면 원문 표기를 유지하라. "
                   "각 id마다 status(keep/repeat), summary(한국어 2~3문장), "
                   "new_information(전일 대비 추가/변경 내용, 없으면 빈 문자열), "
-                  "impact(업무 관점: 사실에 근거한 조건부 파급경로와 확인할 사항 2~3문장), "
+                  "impact(직접 업무 관련 뉴스는 확인된 업무 관점, 그 외 자동차 뉴스는 산업 동향의 의미 1~3문장), "
                   "importance(높음/보통), source_comparison(관련 보도 간 확인 가능한 추가 정보·관점 차이. 차이가 없으면 빈 문자열), detail 객체(background, key_points 배열 2~4개, "
                   "what_to_watch, fact_check)를 포함하라. 전일 기록이 없는 경우 new_information은 빈 문자열. "
                   "JSON 객체 {\"articles\":[...]}만 출력. 입력: " + json.dumps(payload, ensure_ascii=False))
@@ -656,10 +659,15 @@ def ai_editorial_review(items, history):
             b['source_comparison'] = norm(x.get('source_comparison', ''))
             previous = same_issue_prior(a, history)
             if previous and b['new_information']:
+                b['news_relation'] = '후속보도'
                 b['follow_up'] = {'date': previous[0]['date'],
                     'title': previous[0]['article'].get('title', ''),
                     'summary': previous[0]['article'].get('summary', ''),
                     'url': previous[0]['article'].get('url', '')}
+            if previous and not b['new_information']:
+                b['news_relation'] = '관련 보도'
+            elif not previous:
+                b['news_relation'] = '신규 뉴스'
             b['ai_summary'] = True
             b['integrated_summary'] = True
             b['integration_signature'] = b.get('integration_signature_candidate', '')
