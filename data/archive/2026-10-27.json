@@ -132,16 +132,20 @@
       ],
       "section": "일반 뉴스",
       "related_articles": [],
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
+      "summary": "브라질 대선에서 룰라 후보가 당선된 직후 브라질 증시가 17% 급락하며 코로나19 사태 이후 처음으로 서킷브레이커가 발동되었습니다. 시장의 불확실성이 커지며 금융 시장 전반에 변동성이 확대된 상황입니다.",
       "impact": "",
       "importance": "보통",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "background": "브라질 대선 결과에 따른 시장 반응으로, 정치적 변화에 대한 투자자들의 우려가 반영된 것으로 보입니다. 금융 시장의 급격한 변동은 현지 경제 상황에 영향을 미칠 수 있습니다.",
+        "key_points": [
+          "룰라 후보 당선 직후 브라질 증시 17% 하락",
+          "코로나19 이후 첫 서킷브레이커 발동"
+        ],
+        "what_to_watch": "브라질 현지 경제 정책 방향 및 금융 시장 안정화 여부",
+        "fact_check": "제공된 RSS 정보 외 추가적인 경제 지표나 상세 내용은 확인되지 않음"
       },
-      "image_url": ""
+      "image_url": "",
+      "ai_summary": true
     },
     {
       "id": "9e2175f78c4626",
@@ -572,10 +576,22 @@
       "priority_markets": [],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대자동차가 수소차용 엔드플레이트 2종을 DYP로부터 공급받기로 결정했습니다. 해당 부품은 현대차 수소차 생산에 투입될 예정입니다.",
-      "impact": "신규 부품 공급처 확보에 따른 부품 조달처 다변화가 예상됩니다. 향후 해당 부품의 CKD 포장 사양 확정 및 물류 공급망 편입 여부에 따라 포장 설계 및 선적 프로세스에 변화가 발생할 수 있습니다.",
+      "summary": "DYP가 현대차 수소차 모델에 엔드플레이트 2종을 공급할 예정입니다. 이는 수소차 부품 공급망의 다변화 및 전문 부품사와의 협력 사례로 볼 수 있습니다.",
+      "impact": "수소차 부품 공급망의 구체화는 향후 수소차 생산 물량 확대 시 부품 수급 안정성에 기여할 수 있습니다.",
       "importance": "보통",
       "detail": {
+        "background": "수소차 핵심 부품인 엔드플레이트의 공급처 확보를 통한 생산 효율화 추진.",
+        "key_points": [
+          "DYP의 현대차 수소차용 엔드플레이트 2종 공급 확정",
+          "수소차 부품 공급망 내 전문 부품사 참여 확대"
+        ],
+        "what_to_watch": "해당 부품의 실제 양산 적용 시점 및 수소차 생산량 추이",
+        "fact_check": "DYP의 현대차 수소차 부품 공급 계약 사실 확인"
+      },
+      "ai_summary": true,
+      "image_url": "",
+      "original_summary": "현대자동차가 수소차용 엔드플레이트 2종을 DYP로부터 공급받기로 결정했습니다. 해당 부품은 현대차 수소차 생산에 투입될 예정입니다.",
+      "original_detail": {
         "background": "현대차의 수소차 생산 전략에 따라 협력사 DYP가 엔드플레이트 2종을 공급하게 되었습니다. 부품 공급망의 변화는 생산 투입 단계의 조달 계획과 연계될 가능성이 있습니다.",
         "key_points": [
           "현대차 수소차용 엔드플레이트 2종 공급 계약",
@@ -584,8 +600,11 @@
         "what_to_watch": "해당 부품의 실제 생산 투입 시점 및 CKD 수출 품목 포함 여부",
         "fact_check": "기사 내용 외 공급 물량, 적용 모델, 구체적인 공급 시기는 명시되지 않음"
       },
-      "ai_summary": true,
-      "image_url": ""
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "integrated_summary": true,
+      "integration_signature": "2ec0e05e930124db"
     },
     {
       "id": "e2cdfca228760d",
@@ -600,10 +619,22 @@
       ],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "아우디가 미국 조지아주에 40억 달러 규모의 투자를 결정하며 현대차·기아와 현지 생산 경쟁을 본격화하고 있습니다. 이는 미국 내 전기차 및 완성차 생산 거점 확보를 위한 전략적 행보로 풀이됩니다.",
-      "impact": "아우디의 미국 현지 생산 확대는 북미 시장 내 완성차 경쟁 심화를 의미하며, 향후 현대차·기아의 현지 생산 전략 및 부품 조달 체계에 간접적인 영향을 줄 수 있습니다. 다만, 아우디의 투자 결정이 당사의 CKD 물량이나 포장·선적 프로세스에 직접적인 변화를 즉각적으로 유발한다는 근거는 확인되지 않았습니다.",
+      "summary": "아우디가 미국 시장에 40억 달러 규모의 투자를 단행하며 생산 경쟁에 가세했습니다. 이는 현대차·기아의 조지아주 생산 거점과 미국 내 전기차 시장에서의 경쟁 구도를 심화시킬 전망입니다.",
+      "impact": "글로벌 완성차 업체들의 미국 내 생산 거점 확대는 현지 공급망 경쟁을 가속화하며, 향후 미국 시장 내 점유율 확보를 위한 전략적 대응이 중요해질 것입니다.",
       "importance": "보통",
       "detail": {
+        "background": "미국 인플레이션 감축법(IRA) 등 현지 생산 우대 정책에 따른 글로벌 완성차 업체의 미국 투자 러시.",
+        "key_points": [
+          "아우디의 미국 내 40억 달러 투자 계획 발표",
+          "현대차·기아 등 기존 진출 기업과의 미국 시장 경쟁 심화"
+        ],
+        "what_to_watch": "아우디의 미국 내 생산 시설 가동 일정 및 전기차 라인업 전략",
+        "fact_check": "아우디의 미국 투자 계획은 글로벌 자동차 산업의 현지화 전략 흐름과 일치함"
+      },
+      "ai_summary": true,
+      "image_url": "",
+      "original_summary": "아우디가 미국 조지아주에 40억 달러 규모의 투자를 결정하며 현대차·기아와 현지 생산 경쟁을 본격화하고 있습니다. 이는 미국 내 전기차 및 완성차 생산 거점 확보를 위한 전략적 행보로 풀이됩니다.",
+      "original_detail": {
         "background": "아우디가 미국 조지아주에 대규모 투자를 단행하며 현대차·기아의 기존 생산 거점과 인접한 지역에서 경쟁 구도를 형성하게 되었습니다. 이는 미국 정부의 인플레이션 감축법(IRA) 등 현지 생산 우대 정책에 대응하기 위한 글로벌 완성차 업체들의 공통된 전략으로 보입니다.",
         "key_points": [
           "아우디, 미국 조지아주에 40억 달러 투자 결정",
@@ -613,8 +644,11 @@
         "what_to_watch": "아우디의 구체적인 생산 차종 및 현지 부품 공급망 구축 계획, 이에 따른 현대차·기아의 북미 시장 대응 전략 변화.",
         "fact_check": "입력된 기사는 아우디의 투자 계획을 언급하고 있으나, 당사 CKD 업무와의 직접적인 연관성이나 구체적인 물류 영향에 대한 정보는 포함되어 있지 않습니다."
       },
-      "ai_summary": true,
-      "image_url": ""
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "integrated_summary": true,
+      "integration_signature": "438f478c760710f1"
     },
     {
       "id": "9740f17a02185e",
@@ -1734,6 +1768,764 @@
       "published": "2026-10-25T08:00:15+09:00",
       "category": "국내 주요 사건",
       "description": "여행경보 10개국 한국인 사건사고 1년새 48%↑…납치감금 2배로 연합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "5200e8f68a3805",
+      "title": "‘국정 부합 수사’ 밝힌 중수청장과 걱정되는 정치 편향[사설] - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVYXk2dzg5LVVDTmlXLXRBU1dqTWg3ek1XUmYzeXhFMnZSMTBndWE5bkdOaElYRHdWVXpTVmRJZU94TGJwSi15YkljSXlIQkxv?oc=5",
+      "source": "문화일보",
+      "published": "2026-10-27T11:40:50+09:00",
+      "category": "정치·정책",
+      "description": "‘국정 부합 수사’ 밝힌 중수청장과 걱정되는 정치 편향[사설] 문화일보",
+      "priority_markets": []
+    },
+    {
+      "id": "4faafb1f86b0fb",
+      "title": "‘극장정치’ 무대 된 숏폼·호통 국감[시평] - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94d0FwMkZ0VmI1U01IREVKajdad0VDeUJaTmJ0UGc0WHlsSENubUgwVFF5eHY0V2tseWFaczF4Rlo1QWVBdmNYQXlobWMxY2Ni?oc=5",
+      "source": "문화일보",
+      "published": "2026-10-27T11:39:57+09:00",
+      "category": "정치·정책",
+      "description": "‘극장정치’ 무대 된 숏폼·호통 국감[시평] 문화일보",
+      "priority_markets": []
+    },
+    {
+      "id": "4b4c0f335719a2",
+      "title": "현대차 인도 생산능력 2030년 114만대…부품 현지화율 92% 목표 - PRESS9",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wM1N1WUZmaG5vbEVtYUFQcFE4RW12TXpaVWRIcEtTVUhPXzdtYU9yem9IQ1dJOG1sdlZFMDJ1NkFpMUZKVWlFYVo2d3FDUEQxUEFBbEtQdG14X3hFTEVVOFY1MjQ?oc=5",
+      "source": "PRESS9",
+      "published": "2026-10-27T11:30:00+09:00",
+      "category": "자동차",
+      "description": "현대차 인도 생산능력 2030년 114만대…부품 현지화율 92% 목표 PRESS9",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대자동차가 인도 시장에서의 생산능력을 2030년까지 114만 대 규모로 확대하겠다는 목표를 제시했다. 또한, 인도 현지 부품 현지화율을 92%까지 끌어올려 공급망 효율성을 강화할 계획이다.",
+      "impact": "인도 시장의 생산 거점 확대와 현지화율 제고는 향후 현대차의 인도향 CKD 물량 및 부품 공급망 전략에 직접적인 영향을 미칠 것으로 예상됨.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차의 인도 시장 점유율 확대 및 생산 거점 최적화 전략",
+        "key_points": [
+          "2030년 인도 생산능력 114만 대 달성 목표",
+          "부품 현지화율 92% 달성 추진"
+        ],
+        "what_to_watch": "인도 현지 생산 설비 증설 일정 및 부품 공급망 현지화 진척도",
+        "fact_check": "현대차의 인도 생산 목표 및 현지화율 수치 확인"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "c1580b20670f3418",
+      "image_url": ""
+    },
+    {
+      "id": "85ad0314137d87",
+      "title": "“잘 팔리는데 주가는 뒷걸음”…현대차 인도법인, 푸네공장·신차로 반등 승부수 - 마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpMXFGWnFYYkJsTjBpNmhvOWtVNDl2TUIzMzA1aVlPUkVzR3JHTVJMT0pxQ3psYk1FWWY5SHBLRElyYlI0enhXNHg0YWFYU0h4UFA5aHRoWUwzTVJ3ei1DVg?oc=5",
+      "source": "마이데일리",
+      "published": "2026-10-27T11:27:30+09:00",
+      "category": "자동차",
+      "description": "“잘 팔리는데 주가는 뒷걸음”…현대차 인도법인, 푸네공장·신차로 반등 승부수 마이데일리",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차 인도법인이 푸네 공장 가동과 신차 출시를 통해 시장 경쟁력을 강화하고 반등을 모색하고 있다. 최근 주가 부진에도 불구하고 현지 생산 인프라 확충을 통해 성장 동력을 확보하려는 전략이다.",
+      "impact": "푸네 공장 가동은 현대차의 인도 내 생산 다변화와 물류 최적화에 기여할 것으로 보이며, 신차 라인업 확대에 따른 부품 공급망 변화를 주시할 필요가 있음.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차 인도법인의 생산 능력 확대 및 시장 점유율 방어 전략",
+        "key_points": [
+          "푸네 공장 가동을 통한 생산 거점 다변화",
+          "신차 출시를 통한 인도 시장 점유율 확대 전략"
+        ],
+        "what_to_watch": "푸네 공장의 실제 가동률 및 신차 판매 실적",
+        "fact_check": "푸네 공장 가동 시점 및 신차 라인업 구성"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "cf2b6ed97578210c",
+      "image_url": ""
+    },
+    {
+      "id": "005b9cf1739544",
+      "title": "강남구, ‘2026 대한민국 SNS 대상’ 관광 분야 최우수상 수상 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PbkZBV1dZdHM4LUNSSzJxQ1JuczNOMFoyaDFpZXVBUTRscTNIc0o0YlNzbUdRV2I4YzBWZ0JOd29raUNscmF2YV9Za2NwOHI2Mi1RTFR3R3NxVFFp?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-27T11:26:15+09:00",
+      "category": "국내 주요 사건",
+      "description": "강남구, ‘2026 대한민국 SNS 대상’ 관광 분야 최우수상 수상 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "936373063cf700",
+      "title": "국민의힘 \"李 대통령, 농지 전수조사 두고 장관 탓… 부동산, ETF 이어 또 남탓\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZYTQ5R3pKQ2NGN1R0XzFrWTZwU1M0Q2R1QWk3Q3Y1bVItWmltOHFaMjg3Q01IRkJYLVNPRnlLZVFoUmVWSkxqNjdJMjlwck5wb0ZSRnMxOFpXUW9YN1p0dHZvS00zdUEwY3Jua2ln0gFzQVVfeXFMTVJTeEwtMHo0LTVVbndVazFGMERIZmJRVTd4aGctb1JVSTUtVkFJUmEzUTRkUXZiM3dQdU5qTFQwTmVDaW1iZVV3SkpBY0tJdWUySWg1WnVXNlUycWRUZEdwZXB5YzZpS0wzZGgwM2h0X1dfVQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-27T11:24:00+09:00",
+      "category": "정치·정책",
+      "description": "국민의힘 \"李 대통령, 농지 전수조사 두고 장관 탓… 부동산, ETF 이어 또 남탓\" 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "f21389f96d61c4",
+      "title": "1800억 건보 지원하면서 영수증은 '종이 스캔'…재난적 의료비 관리 사각지대 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlRDNTZDJmSHhlVmhrajQyM0tlV2p1ei1IMEVsaDNYTmFmV3FyOTNodlJJcmVjQTgzVl9BeXVxck5samJVRFhCd1pOSk83V2VnQXJmWnlaOE1NT1hPdkJVQmRmZU5JVW5yM09TVkhn0gFzQVVfeXFMTV92WDU5TDNKTkQxcEVzSEtldXJqY0U0NzNZNy1IYUJlRFROVDBEVmtkTXRsTF9ncGx5RjRKUnVEZk93N2xLZ1lLZ1hkcU83eTN0bzZ1T0N0WnFkR2Y0NVRXaGs0eWdDWDdSTnBlRHNIdW9PRQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-27T11:21:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "1800억 건보 지원하면서 영수증은 '종이 스캔'…재난적 의료비 관리 사각지대 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "098680989843d2",
+      "title": "현대차 울산공장, 미래차 ‘마더팩토리’로 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yME9zblRBTU40WFVhSUF3eDFvLXk2S2thR2pYcUN1dVk0bWZnZ2Y5QzJGOThZRjZLS1RXNU9sUlFXTkluSW5kLXlCcW5sU2phS0ZYWlJR?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-10-27T11:20:34+09:00",
+      "category": "자동차",
+      "description": "현대차 울산공장, 미래차 ‘마더팩토리’로 헤럴드경제",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차 울산공장이 미래차 생산을 위한 '마더팩토리'로 전환을 추진한다. 이는 전동화 전환 및 생산 공정 혁신을 통해 글로벌 생산 거점의 핵심 역할을 수행하겠다는 의지다.",
+      "impact": "울산공장의 마더팩토리 전환은 국내 생산 거점의 고도화를 의미하며, 향후 전동화 부품 공급망 및 생산 기술 표준화에 영향을 미칠 것으로 예상됨.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차의 국내 생산 거점 전동화 및 스마트 팩토리 전환",
+        "key_points": [
+          "울산공장의 미래차 생산 거점(마더팩토리) 육성",
+          "생산 공정 혁신 및 전동화 전환 가속화"
+        ],
+        "what_to_watch": "울산공장 내 전동화 전용 라인 구축 현황",
+        "fact_check": "마더팩토리 전환을 위한 구체적인 투자 계획 및 일정"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "e7636cf33a9ce308",
+      "image_url": ""
+    },
+    {
+      "id": "e37f55413802e7",
+      "title": "경기도, 공공디자인 정책 성과 인정받아 공진원장상 수상 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IWG92bm5WVm1kTDVzTldEQWRCVG5NaHF5ajgxbXFVdjFHdWRSa1BZVmhSdXVyc0EzUElLcFpwc20wd1E5bnFhb1JQRW1HZF9KZ2RaZFh2Ni1JWmlZ?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-27T11:16:59+09:00",
+      "category": "국내 주요 사건",
+      "description": "경기도, 공공디자인 정책 성과 인정받아 공진원장상 수상 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "c5c1f6a3a36a80",
+      "title": "“K-뷰티 세계시장 공략, 정책부터 바꾼다”… 대구한의대·한국정책학회 맞손 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMQ0RRU3o3dWdNRnZhVFpONm1JZ05YNTVqcW1xTE5kWklvUWNOZ0lrUi1GUHN5Umc5U2NTZTVjb1otUERlWEFUYVFjN21BRml0NV9kSVVuekJJaFY2aXkwTHMwOGhiOUlkYko2dVVR0gFzQVVfeXFMT3pKdTlpRURmLVI5UE5UNWJYcFo5TzlSb1VwdXVPeEo5X0R6WW9jeThmNllYT1RJd0xvLURwWWxPUUR5cXJVZjE0T2hJRVJvMDlJM3N6V21NeTRSMks1V3FEUlpVUXdEVl9uajFOSVJPU1N4bw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-27T11:00:00+09:00",
+      "category": "정치·정책",
+      "description": "“K-뷰티 세계시장 공략, 정책부터 바꾼다”… 대구한의대·한국정책학회 맞손 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "846e5838b05ac6",
+      "title": "현대모비스, 2026 차량용 반도체 포럼 개최 | HMG TV | 현대자동차그룹 - Hyundai Motor Group",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGNUUUdzTWN4c2tUV2VveENFZlpONndBQjVKck9HMDl4Y3YzWWhLaHBTSkhidjNQbm5RTFdJN1poWC1sMjVSV25PNUlETmVsYmpiUUZGaThXb2dwZ0N5YTBueXZXSGZYR0xhRzhSamtBV2FkMUZYTzZ4QU1zTElzWFFRTVFKbjZwbkNTTF9xVGVLZVk?oc=5",
+      "source": "Hyundai Motor Group",
+      "published": "2026-10-27T10:57:32+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 2026 차량용 반도체 포럼 개최 | HMG TV | 현대자동차그룹 Hyundai Motor Group",
+      "priority_markets": []
+    },
+    {
+      "id": "b809fa0bc53aca",
+      "title": "\"민주화 불꽃이자 YS의 영원한 동지\"… 최형우 전 장관 영결식 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qdXo3OVhta2VHZFdYeks5eW4yOTVLcFBwYVpydVhSZmpWYkgzWGhlQVdHSmtndXRfeFgtMnduSk0yQlFFekV2cy12VVJLVDV0SlZZdUNsaEExWTljQ2VteFJLWF9ROEMwazl6ZkZB0gFzQVVfeXFMTzlPQW9GR1J3T1VpdUVzanh5alNUaDRobDdWZG5mNnVnU0JnQ291Q3VSU1RIdHhwZTB0djRaeWdNY3FCYlczSUVBYjV1SVp3U3hRTDZkMHZwRmc5WEF1Qnl6U3FUV0FqZDcxd3paUWNSNzFfQQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-27T10:53:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "\"민주화 불꽃이자 YS의 영원한 동지\"… 최형우 전 장관 영결식 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "1781827ab6983e",
+      "title": "현대모비스 주가, 10월 27일 장중 337,000원 3.37% 상승 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnTm1Zd0FGajZpa1hyT04tX0Z6enZOWndDOGxrTmk0dmlKWkVpdG5LQVhPZFQ2WDAzV09kRWg4Q1ZnajJKM1Y0Yk1JU2VmWS1lY05WWFpkR3VvNERGcXRzUzNZazlCcjduMU9ZU2dmYThTZw?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-10-27T10:50:08+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 주가, 10월 27일 장중 337,000원 3.37% 상승 톱스타뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "67d8e05c6d3e5c",
+      "title": "\"민주화 불꽃이자 YS의 영원한 동지\"…최형우 전 장관 영면 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00RjRmNVMxREVIT3lIVXRFUG16VjhJbFNyb0tWNzF1c0dtcktsVFMxTzdaZDZ0S3FfTC01b2w5cDkwY1JOT2NWQkx3Z2VSbENRWU9NSURHazkzUQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-27T10:35:01+09:00",
+      "category": "국내 주요 사건",
+      "description": "\"민주화 불꽃이자 YS의 영원한 동지\"…최형우 전 장관 영면 한국경제",
+      "priority_markets": []
+    },
+    {
+      "id": "370dc270928129",
+      "title": "송영길, 日 인터뷰서 \"CPTPP, 이 대통령 신중하나 시간 걸려도 추진해야\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QaTZpMEwtVGh1OEhBb3JaeTEzTUZPQTJfOWVqSXIweG9nLTVFbWNmQWdEd2kzSUc0THd4b0J2UVdlSDNNTmtxXzlId3plTm9ldlFNNkpjY3JKQzRpSDRSbEdodmJXMERPZVJiclFR0gFzQVVfeXFMT1dBd2pkZ0NFTk1Tal9zVEF5cXd4aC1TQmtQSi1jeWRnc29VVkxHWVNfV0dwMVkzeXc5RGdsTkZRTDYzWE95SFp3Z1BRV1NrNGdDdFFmMGVJLUpRVVV6MTdlbEk3elcwOHc2d3NOSExLczlvSQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-27T10:35:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "송영길, 日 인터뷰서 \"CPTPP, 이 대통령 신중하나 시간 걸려도 추진해야\" 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "c0c7873f73ed7e",
+      "title": "현대차·모비스, 로봇에서 찾는 새 성장동력…주가 동반 상승 [종목 NOW] - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mMEw4ZVB4Ny1FRW1LU045MV92bmpjcllvWlNCSDM5X05tbVVkcGtESkRfYVhuc0hwQTJHWWFiTWNOR2ZpQlpzd1RaT2NxS0d6OWxETTdrREFFdw?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-10-27T10:30:37+09:00",
+      "category": "관심 키워드",
+      "description": "현대차·모비스, 로봇에서 찾는 새 성장동력…주가 동반 상승 [종목 NOW] 파이낸셜뉴스",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차와 현대모비스가 로봇 기술을 새로운 성장 동력으로 삼고 사업을 확장하고 있다. 로봇 산업 진출을 통해 기존 자동차 제조 역량과 시너지를 창출하려는 전략이다.",
+      "impact": "로봇 사업은 현대차그룹의 미래 모빌리티 생태계 확장의 일환으로, 향후 제조 공정 자동화 및 물류 로봇 도입 등 생산 효율화 측면에서 연관성을 가질 수 있음.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차그룹의 미래 모빌리티 및 로봇 사업 다각화",
+        "key_points": [
+          "현대차·모비스의 로봇 사업 성장 동력 확보",
+          "자동차 제조 역량과 로봇 기술의 융합 추진"
+        ],
+        "what_to_watch": "로봇 사업 관련 구체적인 기술 개발 및 상용화 성과",
+        "fact_check": "현대차·모비스의 로봇 관련 투자 및 사업 추진 현황"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a8715943a3808e46",
+      "image_url": ""
+    },
+    {
+      "id": "5a8a9d1a82d7ec",
+      "title": "日, 외국정부위한 로비활동에 등록제 추진…여론·정책개입 차단 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZU5kX05kUzk0MUFoUWhLYjYtY2hBRzBXLVY0cTNHbmlwUnlqQmxXREtQMVJGWEtMU3dFQmJ0UUVWVllxZ2c0TlZLRG5MQTg5MkZPbnlEU1F6RHfSAWBBVV95cUxPZ3B2aU9PQmlfZjhycEEwT0I5d3ZyLUJDTkpPRmpORjJwU083TFRhVGctcW5QUUptbnZ1bk42cTJsbVJmYzlubUhVSHYwSnpITHlBNlNPSll3ekk3V0NOUnc?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-27T09:52:37+09:00",
+      "category": "정치·정책",
+      "description": "日, 외국정부위한 로비활동에 등록제 추진…여론·정책개입 차단 연합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "384ac5d8a6b4aa",
+      "title": "수소차 5만대 돌파에도…정부는 예산 지원 23% 축소 - 스페셜경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2VFdCRDBqYkoxcm5DTHpjOWQ4WWJqbkxrT1N4LUFXcU5uXzZqOU1DQXNMeldPQUV6cjYwS1gydEZPbExmRGtxcF9sMURpTVJ2cFprLTRxdnRkaDhHTEVKYzlxQmJlRXl0ekZZRg?oc=5",
+      "source": "스페셜경제",
+      "published": "2026-10-27T09:51:32+09:00",
+      "category": "자동차",
+      "description": "수소차 5만대 돌파에도…정부는 예산 지원 23% 축소 스페셜경제",
+      "priority_markets": []
+    },
+    {
+      "id": "65ba35bb40d41c",
+      "title": "진주시, 2026 대한민국 건강도시상 ‘혁신상’ 수상 - 경남뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nc19HaVdVQ182SW9CWVlMcEhSakJMdWtVd05ucldiZUY0SzhJeTEyR1ZVdVlrZ3JpM0VhTGdkVk5OQld4WkJLX0RNRWZYT091R3FBdGhpaVFvWEdfRFhaaENMYW5yTk0wejNBNkJjOGp3UQ?oc=5",
+      "source": "경남뉴스투데이",
+      "published": "2026-10-27T09:44:05+09:00",
+      "category": "국내 주요 사건",
+      "description": "진주시, 2026 대한민국 건강도시상 ‘혁신상’ 수상 경남뉴스투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "c253175444c77b",
+      "title": "日本担忧：“欧洲优先”正在排挤我们 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ2hKR2l6cjBRTHN0SnFPdWN3NFJJTm5xdFFMQXZFMHlUWnhIdVVQNGE3bGhZcnkxWXlhUTZyUzRfeWN0NWozc05HVWM1Z09sbWJZRkZ3U0RuX2Fhamk4WmduZDlDcUJBbjNXT2RiMDhUNmtjTFdiTTRHWkpVYjUxemtXRkVERFZRMmZQUDhn?oc=5",
+      "source": "手机新浪网",
+      "published": "2026-10-27T09:42:18+09:00",
+      "category": "해외·China Beijing",
+      "description": "日本担忧：“欧洲优先”正在排挤我们 手机新浪网",
+      "priority_markets": []
+    },
+    {
+      "id": "a3b15d5c7ace54",
+      "title": "파주시, ‘2026 대한민국 에스엔에스(SNS) 대상’ 최우수상 수상 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcGRZeERicFRiVDdibzk1V09SSUs5SkgtQy0tQWIwZVAyUjA4ZDBqdjRQeFRGVDZZZVdPWUhBaFduSkJHMmM0Q3dDeWtXTi04VWdPdElrRC1ocnc4bzludnNodGlpQlY2Zm9MOTBZUFYzX1R0LXg2ajJFTFJKLXY5dGREdWstM0ZqM2dKVnhCNHdTa21jSUxfYmJsbXo3SUJ1eWE1NjRTYzFjRk9pMjYzZHlGbUFOWEs3bjFVQldqYmhQMXRLdFg2dl9KZXBTSWtVc3M4MHBpb29UZmJVNE5kUGRfQ0F5bnBPc3Zjc2Z1V3ZfM0pDRWwtc2RkeEVBcUtybXhZ?oc=5",
+      "source": "데일리안",
+      "published": "2026-10-27T09:41:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "파주시, ‘2026 대한민국 에스엔에스(SNS) 대상’ 최우수상 수상 데일리안",
+      "priority_markets": []
+    },
+    {
+      "id": "9df6727b00baf3",
+      "title": "현대모비스 주가 상승 중 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzMGNDWk1qblRGSlE2Zk5LdXZiVTJrOUlYNjJma2VPdnRqU1dKLW1OOGd4ekJwT1pQeWx0TTBWcERPeUVMWVpzaUJ4MXZHdFJqQVI4NE5KWGJ6RUlR?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-27T09:36:05+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 주가 상승 중 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "d26db0562b4a43",
+      "title": "5일간 한국 주식 3.5조원 판 외국인들…“원화가치는 왜 오르지?” - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDbUJoOW5BOEFpTkw5a3JwcnJnR01wT2l5X3R5RzlxTGhaYWVSa1BBcUR2eGJyVF83NWtKMXVFNHRXM0h4c1MyUmV5d3dHenRjZUd6aQ?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-27T09:20:57+09:00",
+      "category": "경제·금융",
+      "description": "5일간 한국 주식 3.5조원 판 외국인들…“원화가치는 왜 오르지?” 매일경제",
+      "priority_markets": []
+    },
+    {
+      "id": "95615c6d6a041c",
+      "title": "현대차, '1400만원' 베이온 앞세워 인도 공략…50개국 이상 수출 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UWjI0amk3YWNZNHJWdzFxcUpGLXBUVjcyUFJhSGgtYk8zWElYamxkLWQ5a29TZlY4b21qLVpmRFRVN0pJTTNuWVZJTGs5dV9YSGhFajBuR1A5TTFyQ3NVcDRR?oc=5",
+      "source": "아시아경제",
+      "published": "2026-10-27T09:11:00+09:00",
+      "category": "자동차",
+      "description": "현대차, '1400만원' 베이온 앞세워 인도 공략…50개국 이상 수출 아시아경제",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대자동차가 인도 생산 거점을 활용하여 소형 SUV 베이온을 50개국 이상으로 수출하며 글로벌 시장 공략을 강화하고 있습니다. 1,400만 원대의 가격 경쟁력을 앞세워 신흥 시장 및 글로벌 수요를 흡수하려는 전략으로 풀이됩니다.",
+      "impact": "인도 생산 거점의 수출 물량 확대에 따른 현지 부품 조달 및 CKD 물류 공급망의 효율적 운영이 중요해질 것으로 보입니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차는 인도 공장을 글로벌 생산 허브로 육성하여 내수뿐만 아니라 해외 수출 비중을 지속적으로 확대하고 있습니다. 베이온과 같은 전략 차종을 통해 가격 민감도가 높은 시장에서의 점유율을 확보하려는 의도로 분석됩니다.",
+        "key_points": [
+          "현대차, 인도 생산 베이온 50개국 이상 수출",
+          "1,400만 원대 가격 경쟁력 기반 글로벌 공략",
+          "인도 거점의 수출 허브 역할 강화"
+        ],
+        "what_to_watch": "인도 생산 물량의 수출 대상국 확대에 따른 물류 경로 및 CKD 부품 공급망 변화",
+        "fact_check": "기사 제목과 발췌문에 명시된 1,400만 원이라는 가격은 환율 및 현지 세제에 따라 변동 가능성이 있으며, 구체적인 수출 국가 명단은 언급되지 않음."
+      },
+      "ai_summary": true,
+      "image_url": ""
+    },
+    {
+      "id": "859a78a90cc870",
+      "title": "유엔 창설 81주년, 세계는 국제협력의 시험대 - 한국공공정책신문",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9lblZTQVAwTURxcmFNMklYWHN4SElEcG83TFBTSUc5V1I2WExwLTY2alBHYU4wQVVCeEU4OGdSVlpiMFk?oc=5",
+      "source": "한국공공정책신문",
+      "published": "2026-10-27T09:00:59+09:00",
+      "category": "국제·외교",
+      "description": "유엔 창설 81주년, 세계는 국제협력의 시험대 한국공공정책신문",
+      "priority_markets": []
+    },
+    {
+      "id": "2235a316df71ed",
+      "title": "[미르의 알기쉬운 비즈니스]현대차, 인도서 크레타·바욘 ‘두 차종 전략’…25만대 노리는 이유 - 미디어펜",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TRlN5TWs0SzJFb1FoMWFCTXpFeGNJN3RlaDF2OEhrZ1A5c19rblFaN2NvVVlGWHJvV2FNV2JEalg1TWJ5VnUtbE5kOXdsMWpEV1Z0UlVPX3DSAVhBVV95cUxNU0ZTeU1rNEsyRW9RaDFhQk16RXhjSTd0ZWgxdjhIa2dQOXNfa25RWjdjb1VZRlhyb1dhTVdiRGpYNU1ieVZ1LWxOZDl3bDFqRFdWdFJVT19w?oc=5",
+      "source": "미디어펜",
+      "published": "2026-10-27T08:55:33+09:00",
+      "category": "자동차",
+      "description": "[미르의 알기쉬운 비즈니스]현대차, 인도서 크레타·바욘 ‘두 차종 전략’…25만대 노리는 이유 미디어펜",
+      "priority_markets": [
+        "인도"
+      ]
+    },
+    {
+      "id": "29d50328221755",
+      "title": "강달러에 맞선 원화…증시보다 강했던 수출 펀더멘털 - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TVDM3U0JITFVmc3c2ZjJ3cm1TYkNYTi00VlZEZjZFeEFMRENrUlgyNHZNRHQ0TzFEZDl5cXRMR2lyWk1PMkdPVkg5cF9IMEZZcVZxQjhYZFg0YlE?oc=5",
+      "source": "에너지경제신문",
+      "published": "2026-10-27T08:49:26+09:00",
+      "category": "경제·금융",
+      "description": "강달러에 맞선 원화…증시보다 강했던 수출 펀더멘털 에너지경제신문",
+      "priority_markets": []
+    },
+    {
+      "id": "1ab4b8f22814fe",
+      "title": "[국제금융리포트] 美 증시 상승·달러 강세 지속…고금리 속 신흥국 불안 부각 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGclpON25GYmc0YXZMVlJNandGYnhiYl9CWnFSaEUxSTdCdGt0T0N5d0xfUGE5Y19JUFRSa2ZWczlZZE10SXQ0aWNBcHZJTWdxcFJzbHpWUHHSAVhBVV95cUxQRnJaTjduRmJnNGF2TFZSTWp3RmJ4YmJfQlpxUmhFMUk3QnRrdE9DeXdMX1BhOWNfSVBUUmtmVnM5WWRNdEl0NGljQXB2SU1ncXBSc2x6VlBx?oc=5",
+      "source": "아주경제",
+      "published": "2026-10-27T08:45:41+09:00",
+      "category": "경제·금융",
+      "description": "[국제금융리포트] 美 증시 상승·달러 강세 지속…고금리 속 신흥국 불안 부각 아주경제",
+      "priority_markets": []
+    },
+    {
+      "id": "fb42dce6a5230a",
+      "title": "은평구, '대한민국 SNS 대상' 공공부문 종합대상 수상… 자치구 최초 쾌거 - 서울포커스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82TTZYU0hnTHdTZHlKaWNETHZPYmJxVlkxaE9PdW9rR2E2NkdjSzBIZTJDTkVOMU1TY1VSR2FPdlpLbFVpWm93WVhhX2JmTUtTbEk1bnJtSzlnUFlYMTFhRG8yMTBxWHkzdG8tdA?oc=5",
+      "source": "서울포커스",
+      "published": "2026-10-27T08:42:57+09:00",
+      "category": "국내 주요 사건",
+      "description": "은평구, '대한민국 SNS 대상' 공공부문 종합대상 수상… 자치구 최초 쾌거 서울포커스",
+      "priority_markets": []
+    },
+    {
+      "id": "8f091b0051f005",
+      "title": "파주시, '대한민국 SNS 대상' 최우수상…유튜브·인스타 성장세 - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TdTBVeWNxNE4xMVpGcjQyUjctSVctVVpCR2VEUHJQY09kczgwYWk1cGhfY0pFSG05clZQXzJiLUxDaGltNmI3YXRwbUxMZHh3WUVkcEFKMk1WUVVjeHljOE1wdGhpQ01vdmU4?oc=5",
+      "source": "서울뉴스통신",
+      "published": "2026-10-27T08:39:26+09:00",
+      "category": "국내 주요 사건",
+      "description": "파주시, '대한민국 SNS 대상' 최우수상…유튜브·인스타 성장세 서울뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "e64d221bbc41e5",
+      "title": "증시 17%↓헤알화 8%↓…룰라 당선에 브라질 경제 ‘패닉’ - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Smpuc3g5V1d3d1dlYjFCM2hjWG9FSFZmT3BacjZDN19YbFctSzl2OEhHOTN5ZHpfNmx4UlpSQmx6enA0RjVLcWlOc2xsci1SYVcxcUl3?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-10-27T08:38:55+09:00",
+      "category": "경제·금융",
+      "description": "증시 17%↓헤알화 8%↓…룰라 당선에 브라질 경제 ‘패닉’ 헤럴드경제",
+      "priority_markets": [
+        "브라질"
+      ]
+    },
+    {
+      "id": "e7dfb943edb2e9",
+      "title": "충남도, 한국국방연구원 유치 추진 - 글로벌뉴스통신GNA",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pN0lxNGxlbE42Y0ktVVpUZDB1X1BZWWo0Uld2LWJVUlQ3UExhTW1VdllNR1JienpNWmE3eVFvT21oWDRIWklzVnBXbmpoRGNJRVNlaFF5RjAxajJyc2U3VTJpbnFqaWhaakJ1Vl9ocmkwVUZO?oc=5",
+      "source": "글로벌뉴스통신GNA",
+      "published": "2026-10-27T08:10:16+09:00",
+      "category": "정치·정책",
+      "description": "충남도, 한국국방연구원 유치 추진 글로벌뉴스통신GNA",
+      "priority_markets": []
+    },
+    {
+      "id": "8106b7818c89ca",
+      "title": "5·18 다룬 ‘닥터X’ 방영 중단 청원… 경향신문 “극단 정치가 낳은 현주소” - 미디어오늘",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYU1ZveGc2MjZoT21ZN1NmSk54Z19FVWpTcHFiOExCUzNmY0x0cnp2ZGpVcHFFMnh6YzdmdEMyM0tacERrUW9tMUtTYnFmeWtWNlZhRnh6aUpvNVhuRHBkMzQ5MVhmSG82ZmZ2WUVEYzE?oc=5",
+      "source": "미디어오늘",
+      "published": "2026-10-27T07:30:52+09:00",
+      "category": "정치·정책",
+      "description": "5·18 다룬 ‘닥터X’ 방영 중단 청원… 경향신문 “극단 정치가 낳은 현주소” 미디어오늘",
+      "priority_markets": []
+    },
+    {
+      "id": "d1794ee5d8975a",
+      "title": "소비심리 한달 만에 다시 하락세…국내 증시 불안정·중동 정세 여파 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XRHZMZWcySHpiamZnUTlSV3hRT3pGM1J5YjBqUmZxVWZ3cFhkcDhMNmJDWGRTMWppWjJBNUtqendGN0ItdS1vN1hRVV9HSG93eHJKSEhRRVdGNTY4WWVnNnpRNHpQeENRZ3FZMERJOTM0dw?oc=5",
+      "source": "한겨레",
+      "published": "2026-10-27T07:29:00+09:00",
+      "category": "경제·금융",
+      "description": "소비심리 한달 만에 다시 하락세…국내 증시 불안정·중동 정세 여파 한겨레",
+      "priority_markets": []
+    },
+    {
+      "id": "f9d3f2f209aeae",
+      "title": "[KFT 모닝 브리프] 2026.10.27 — 오늘 꼭 알아야 할 국내외 경제뉴스 - 한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XTnZhOVZDRnNsSDZ5Q21zXzNZOEdPT2hvNGhxWXZrZUJnazhrZHJGWFJkSFlscDJlUUQ2U19lVFlUcGJNd2MzSGFqZlVwczdtMDNFSGlER0FMV3VmOG5NeHVLMmNWNWU2d3EtSVJxWnd0R2hnZmxPOFpyV1o?oc=5",
+      "source": "한국금융신문",
+      "published": "2026-10-27T07:28:15+09:00",
+      "category": "경제·금융",
+      "description": "[KFT 모닝 브리프] 2026.10.27 — 오늘 꼭 알아야 할 국내외 경제뉴스 한국금융신문",
+      "priority_markets": []
+    },
+    {
+      "id": "992bfbd3c54a86",
+      "title": "EcoPro BM Pursues Trillion-Won Battery Materials Deal With Chinese Manufacturer in Europe - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiTUVZV0V5OVRUSWtYTVVHSGoweF83Y2FVTkVYb3cxc3hJT0otYnZwYWE2bU1fRFFpRnZJMm9CdlFHRXAwY1UydWp0SjFrMjNCdkcwcjhaeldwYWtvQU12bzhHdUFodGpyam81cjFB?oc=5",
+      "source": "알파경제",
+      "published": "2026-10-27T06:00:00+09:00",
+      "category": "전동화",
+      "description": "EcoPro BM Pursues Trillion-Won Battery Materials Deal With Chinese Manufacturer in Europe 알파경제",
+      "priority_markets": []
+    },
+    {
+      "id": "d02fb88f6f8120",
+      "title": "‘미래車 아이디어’ 현실로 만든다 - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TTXBIYjFxc2IzVkJRa2lOV0F6NTRBSURHa2RSVnRjTjBBTkhIcVpOVE4xRXFPQkN0TEpEa0JLRXZwcTVkdUpxa3dacktVWXJn0gFUQVVfeXFMT1RQVHRNNVc5Ym5PR2FtMm15TDBnS0ZiaWRNbVdmMks5OU90R1dPWExLMEpENWx4MnZmYnlKTFNHMUZtcHVXMnJxR21TWldiTzF6blZL?oc=5",
+      "source": "세계일보",
+      "published": "2026-10-27T06:00:00+09:00",
+      "category": "관심 키워드",
+      "description": "‘미래車 아이디어’ 현실로 만든다 세계일보",
+      "priority_markets": []
+    },
+    {
+      "id": "45a1fc79a154ee",
+      "title": "외통위·복지위·기후노동위 종합감사…한미동맹 위기설 등 도마에 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SDhFS2xuYVlzZkhTWkVWMklyZkYzVllQS241T1FzVmd3S21SRVNGZnFwaWxoaTNWM2E0SmFfYjhhODRvaTgzamhmQ3hNOWdvc1VmR3hMV3VkUQ?oc=5",
+      "source": "뉴스1",
+      "published": "2026-10-27T05:30:00+09:00",
+      "category": "정치·정책",
+      "description": "외통위·복지위·기후노동위 종합감사…한미동맹 위기설 등 도마에 뉴스1",
+      "priority_markets": []
+    },
+    {
+      "id": "c6e7e8ac687da3",
+      "title": "인도, 휘발유 대신 '에탄올 100%' 차 달린다… 현대차·토요타 대격돌 - 초이스스탁US",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15T1lhVDlWbnFyREpfNFZzZlhrdVB4TVhQbzFIMEc0WHpCWkg1b1JvOXVPTDV0ZDlTUUxJb2NaSk5fbzBSbUI2OVVQVzJ5dE5HNTE4SVlIRE9YeVBnaFljMVNkTTgxR0U?oc=5",
+      "source": "초이스스탁US",
+      "published": "2026-10-27T04:20:00+09:00",
+      "category": "자동차",
+      "description": "인도, 휘발유 대신 '에탄올 100%' 차 달린다… 현대차·토요타 대격돌 초이스스탁US",
+      "priority_markets": [
+        "인도"
+      ]
+    },
+    {
+      "id": "98ee04f2020398",
+      "title": "탄핵과 특검 무한반복하는 민주당 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlpYeVhaYndDSFlXdnU0UjJOLTRWb1NtMHJVaTVIZ28zSjYtVFpFemU3dXpkYzl2a2loUUZOM25uNVlJUURmdjV6WmNqakFDWWVYVFYxd1R0OUk5TTRTb1Znd2hfUWxGS3NOMUhnanE3eHFLaV9idU5YcGxIWXRFY01jZWVhUQ?oc=5",
+      "source": "조선일보",
+      "published": "2026-10-27T00:56:00+09:00",
+      "category": "정치·정책",
+      "description": "탄핵과 특검 무한반복하는 민주당 조선일보",
+      "priority_markets": []
+    },
+    {
+      "id": "64fe1925dc7965",
+      "title": "법무부'국제상사중재위원회(ICCA) 2030 총회' 서울 유치 확정 - 외교저널",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUWDhjdGoxSWZocmVEdzFJLWJmT1hwWDQzVkUwVlh2X3ZORGpja3BQZGlrMWlsdmwzaHFkTzQzdVF6RkMyOWNFdk5JcnpMdldlcHN0UHdvYVZWZTA2aE1GZzF3?oc=5",
+      "source": "외교저널",
+      "published": "2026-10-26T20:10:29+09:00",
+      "category": "국제·외교",
+      "description": "법무부'국제상사중재위원회(ICCA) 2030 총회' 서울 유치 확정 외교저널",
+      "priority_markets": []
+    },
+    {
+      "id": "bdcf20bc7ba94f",
+      "title": "2030년 ICCA 총회, 서울서 열린다…‘국제분쟁해결’ 분야 최대 행사 - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yd25LdEN6VkpYMzd1OFJ1YWlRSDBxSXFFM0RyZS0zU1R2WWlqdTZCei1JV0lzVjg4VWtSVmYwdVNKNVVycFNSd1BYM1ZEMWNULW1XU2w1LUdwMUJmcUpZRFAyVEV1bS01bFFPcFFqYkZSbkc5?oc=5",
+      "source": "이투데이",
+      "published": "2026-10-26T19:34:00+09:00",
+      "category": "국제·외교",
+      "description": "2030년 ICCA 총회, 서울서 열린다…‘국제분쟁해결’ 분야 최대 행사 이투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "67e9ec691d7ce7",
+      "title": "러시아의 에너지 기반 시설 공격으로 미국과 우크라이나 간 긴장이 고조되고 있다. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWM0ckJuWk9QRlAtYjk0QTJXUV9tZHRwUlNqRExMY1E5V3VpWXVFNmJsNXNJMGFDSXhLcDhnb3NhSWRHUTZrbXNfNVVycWZpUlNVSExoSVFfdlgwUDVTUzRubWpPaFBpZzFzNkxNZHZYRUhZOE1QOGV3VFFqU180bXBXV1RrRkNiRGhWRFNRMTBEU2hxS21wN1VHblQ5ckZ1YUtqSnBOUmRJdw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-10-26T18:08:25+09:00",
+      "category": "국제·외교",
+      "description": "러시아의 에너지 기반 시설 공격으로 미국과 우크라이나 간 긴장이 고조되고 있다. Vietnam.vn",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "c6a4a1ee3b5da2",
+      "title": "사회 불안이 프랑스 정치를 전환점으로 몰아넣었다. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnJKNDhSeVZtNktyUk83dnhhX194Q2YyTDVZRzYzWEIySDRfbFRzMGwweVN0MmJpMnppVlhuejROVzI3TjNLS2hmS2E0ai01WEZWbFNFVjFPSEFjdUpVVURuTFRFT3NwdzZSVHdrV3ktQmNlMkVmbTBrdVBya19fTDVn?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-10-26T17:55:28+09:00",
+      "category": "정치·정책",
+      "description": "사회 불안이 프랑스 정치를 전환점으로 몰아넣었다. Vietnam.vn",
+      "priority_markets": []
+    },
+    {
+      "id": "12b2b008e06a1e",
+      "title": "“세계에서 가장 싼 증시 됐다”…잘나가던 한국 증시, 어쩌다 이 지경까지 - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IdHhaaDBMVmJ5aFd2SlBLMjNnanlZNGpUZzRhY2YweHMtU0VWeTE5Tk5iM0hKS19SeEVrVGxIazl2RXEyeHROTExMR2pfbWNVNDdB0gFTQVVfeXFMT0h0eFpoMExWYnloV3ZKUEsyM2dqeVk0alRnNGFjZjB4cy1TRVZ5MTlOTmIzSEpLX1J4RWtUbEhrOXZFcTJ4dE5MTExHal9tY1U0N0E?oc=5",
+      "source": "서울경제",
+      "published": "2026-10-26T17:41:33+09:00",
+      "category": "경제·금융",
+      "description": "“세계에서 가장 싼 증시 됐다”…잘나가던 한국 증시, 어쩌다 이 지경까지 서울경제",
+      "priority_markets": []
+    },
+    {
+      "id": "c61555581cd650",
+      "title": "[증시 리스크 관리-下] 환율 급락 여파 지속···종목 ‘옥석 가리기’ 난이도 상승 - 시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UeEUwR0M0cVViN0d3emtSaXdoZVJhUmpSNGRRY2M1dnl0T0d3N3kxMElCTi1HRDNBZFBwYTg1dXBTZEM4anZMZlJ5ckNhc2trVV9mSERIM1pVUmR5dWFVUkNlSHFWeU1Rb043SklhMlBOb2VzbGfSAXZBVV95cUxPVHhFMEdDNHFVYjdHd3prUml3aGVSYVJqUjRkUWNjNXZ5dE9Hdzd5MTBJQk4tR0QzQWRQcGE4NXVwU2RDOGp2TGZSeXJDYXNra1VfZkhESDNaVVJkeXVhVVJDZUhxVnlNUW9ON0pJYTJQTm9lc2xn?oc=5",
+      "source": "시사저널e",
+      "published": "2026-10-26T17:04:00+09:00",
+      "category": "경제·금융",
+      "description": "[증시 리스크 관리-下] 환율 급락 여파 지속···종목 ‘옥석 가리기’ 난이도 상승 시사저널e",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "최근 환율 급락세가 지속되면서 국내 증시의 변동성이 확대되고 있습니다. 이에 따라 투자자들 사이에서 실적 기반의 종목 선별(옥석 가리기) 난이도가 높아지고 있습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "환율 하락은 수출 기업의 원화 환산 매출 감소로 이어져 증시 전반의 투자 심리에 영향을 줌.",
+        "key_points": [
+          "환율 급락에 따른 증시 리스크 관리 필요성 증대",
+          "종목별 실적 차별화에 따른 투자 난이도 상승"
+        ],
+        "what_to_watch": "환율 변동폭 및 주요 수출 기업의 분기 실적 영향",
+        "fact_check": "환율 급락이 증시 전반에 미치는 영향은 사실이나, 개별 종목의 옥석 가리기 기준은 투자자마다 다를 수 있음"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "92cc93492ec7f936",
+      "image_url": ""
+    },
+    {
+      "id": "583f89bc9d2bdc",
+      "title": "박정 의원 \"尹 정부의 RPS 비율 대폭 하향으로 태양광 등 재생에너지 산업 생태계 붕괴\" - 산경일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WbTdGRG1DdDF5M1Bkcl84cjdWZjB5X1dpME8zQXBVb3JKaEZ1RkMtTURydnl1RlBuX3JBT1FLdG54dnpiQkJud0hsLVpjeTFQdV8tOVVjVS05Ri1ITG1hYmUxQkdCbno4czB6UTg5eWs?oc=5",
+      "source": "산경일보",
+      "published": "2026-10-26T16:04:35+09:00",
+      "category": "정치·정책",
+      "description": "박정 의원 \"尹 정부의 RPS 비율 대폭 하향으로 태양광 등 재생에너지 산업 생태계 붕괴\" 산경일보",
+      "priority_markets": []
+    },
+    {
+      "id": "60f62607b78a45",
+      "title": "싱크홀·노후 고가 붕괴 사고 막는다... 현장 베테랑 기술력 접목해 재난재해 해결 R&D - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lR29sc1VXZDNMZjlCTmhhNUxXVW95WURmdk9VVVV5WC1xazJDUnl0dzEyRGI4cURWUTVJWnNrZzg4NEQ5NGcyLUMyeHNreU5MdlIybTNjTzRYaHR5SDlaNzdESzVLeXBWeTMwNU9R0gFzQVVfeXFMTkZ6a1ZKdVo4Zkx2Z1kxR2ZpODdUQ0xvWXBUbWZFa0FZMVA5UF8zSUFQM0VKRDE1emx2dWR4TElPNXd5ekhCY3hzdWhnc1l6YWh3cUFZTTA4bklaN2ZPWW1HdXVHZmthS05XUExZdzhNdVR5UQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-26T15:57:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "싱크홀·노후 고가 붕괴 사고 막는다... 현장 베테랑 기술력 접목해 재난재해 해결 R&D 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "158631b55c89f9",
+      "title": "미래차 아이디어 한자리에…현대모비스, 기술 혁신 축제 개최 - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rS0t0SXhrZHEzMXRCcFFreDlwaDJTSjlkT3NYR29oNDFlWlZtQjR1Vms5QVVYSC1aWTU0Tk51UVh3ZDdFSG55VHZRbUp2QXlJZ2F0UlhOVlBmd1YyZmZMaEhHTVJBYmFjTnpMVnZ3?oc=5",
+      "source": "알파경제",
+      "published": "2026-10-26T13:39:38+09:00",
+      "category": "관심 키워드",
+      "description": "미래차 아이디어 한자리에…현대모비스, 기술 혁신 축제 개최 알파경제",
+      "priority_markets": []
+    },
+    {
+      "id": "78cc530a4bab06",
+      "title": "현대모비스, 미래차 아이디어 650건 발굴…특허 성과 공유 - 조세일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fQkxMSzg3OWpET0FOeW0wdW1jS3hyOUxoSmpCUWZicDBUSG5lWTJkMGRfbUNWYXFGSVVTZDl3NmU1TG9PcnZWYUY0SHY2eDVHVm1Ha05hc1AzZmRrQncyMEFoakN5Rm5zQ3JRQUdMRQ?oc=5",
+      "source": "조세일보",
+      "published": "2026-10-26T13:16:00+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 미래차 아이디어 650건 발굴…특허 성과 공유 조세일보",
+      "priority_markets": []
+    },
+    {
+      "id": "42b50b1b630304",
+      "title": "미국보다 나은 한국 경제성장, 원화 강세 모멘텀 지속 | KB의 생각 - KB Think",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NRVZCNlRsOHR0RWtTVF91RTBaR0NUY0tCNnhxQzVIZ1ZmV25tRnlQYlhTQmpCVjFGVzZTQWpBY29hM1laR1hwVEdUNHRUdl9ucjU3SEJVcm5HTWFUUEdsb1Rn?oc=5",
+      "source": "KB Think",
+      "published": "2026-10-26T09:59:18+09:00",
+      "category": "경제·금융",
+      "description": "미국보다 나은 한국 경제성장, 원화 강세 모멘텀 지속 | KB의 생각 KB Think",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "4d960fcf2d2ee3",
+      "title": "한병도 \"최장수 국힘 대표 장동혁의 14개월은 보수 후퇴의 시간\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5SlVTNjdUU3gzWFBFM3g1WlpXUXZseGMwUTBvUG4wTVpVYTByRG1vZEJ1V3pLMTI5NmZHMkZnSDRlYXJYazVvcHhmYVVOSmxiRE1fbEpCcGJ3dlNvUExhRGFEY2hHVjliMTZxV2dndnBmRE1QWE9RTNIBeEFVX3lxTFB5SlVTNjdUU3gzWFBFM3g1WlpXUXZseGMwUTBvUG4wTVpVYTByRG1vZEJ1V3pLMTI5NmZHMkZnSDRlYXJYazVvcHhmYVVOSmxiRE1fbEpCcGJ3dlNvUExhRGFEY2hHVjliMTZxV2dndnBmRE1QWE9RTA?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-26T09:28:44+09:00",
+      "category": "정치·정책",
+      "description": "한병도 \"최장수 국힘 대표 장동혁의 14개월은 보수 후퇴의 시간\" 뉴시스",
+      "priority_markets": []
+    },
+    {
+      "id": "62bc83c5920b0b",
+      "title": "10/26 [뉴욕증시 마감브리핑] - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcXJKWVNjVldPZGxTVmVzTk9hTjlfMzNhQlZnbnQ3QklEdUVnaWl6TnQyaGRESVh2MzgzSmVPem10SHVuOENtMVBfTktOTGd5b1ZaLUZWYVZKZ2FQUzNEZ1ZmQlFPVnFWWldXUWJvMmttUWpWWjBWT05pLTlhQk44TFd3V1p6ODFzc253?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-10-26T07:20:42+09:00",
+      "category": "경제·금융",
+      "description": "10/26 [뉴욕증시 마감브리핑] 네이버 프리미엄콘텐츠",
+      "priority_markets": []
+    },
+    {
+      "id": "070f728b23d66b",
+      "title": "“DMZ 지뢰 폭발은 한국 자작극”…북한, 유엔에 맞대응 서한 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0QU5GTmxKTVktQ2lRZ0hLZURyQjBxS0o0RGxUUHh5RHk3ZEJTR0xZQXNJbTFtOTVPRlQyV3liR3QxOEZZZEtXUWMyQ1o0Zw?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-26T07:08:56+09:00",
+      "category": "국내 주요 사건",
+      "description": "“DMZ 지뢰 폭발은 한국 자작극”…북한, 유엔에 맞대응 서한 매일경제",
+      "priority_markets": []
+    },
+    {
+      "id": "7b81780a53e886",
+      "title": "[인터뷰] 이성호 NH증권 본부장 ＂올해 채권금리 상승은 성장의 대가＂ - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd3hWUW9oQjZMRGxIaHhiVDNXQ1RsMjFUUEs5Z1BlNGJFU3lFck5lLUlxUmVvV0I3dzhINGstWk51NDUzQnFsRnljX0R6NS1LUUY1aTBzTEoyR3FPVEhsTkZJVnVLSHEtcGl0WWhDNmhqM3JQNzN1XzFEc21MemF1TA?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-10-26T07:06:00+09:00",
+      "category": "경제·금융",
+      "description": "[인터뷰] 이성호 NH증권 본부장 ＂올해 채권금리 상승은 성장의 대가＂ 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "505ba1442202c8",
+      "title": "무죄 판결 후 정치 보폭 넓히는 오세훈…\"국힘, 분열보다 단합·통합\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95di1zS01pT3d5V05DQkU2dVZDNHBacXNBUWZUbDNYMng3eXZGZ2ktYXdtX2pXbGlxWWJUUVA1TDhTakZtdi1Ea09ZOS1tcmlkTkZLOHlmLXNwc01QbDVWVFhDZElSWWVrT2ZQODFKM2JTZkc1Y1NYR9IBeEFVX3lxTE95di1zS01pT3d5V05DQkU2dVZDNHBacXNBUWZUbDNYMng3eXZGZ2ktYXdtX2pXbGlxWWJUUVA1TDhTakZtdi1Ea09ZOS1tcmlkTkZLOHlmLXNwc01QbDVWVFhDZElSWWVrT2ZQODFKM2JTZkc1Y1NYRw?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-26T05:00:00+09:00",
+      "category": "정치·정책",
+      "description": "무죄 판결 후 정치 보폭 넓히는 오세훈…\"국힘, 분열보다 단합·통합\" 뉴시스",
+      "priority_markets": []
+    },
+    {
+      "id": "63e48b936f2039",
+      "title": "쇼츠만 남기고 막내리는 국감…조희대·김현지 막판 공방 예고(종합) - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VcHN2RFR3M2dVTTQ5emRrbkZEalViZUV3bHloVmQ3TF9IMEM4TmhGUjhOTllpdlNVTnNpNmxLelVhRU4xRG55SzFUaWpaLTJVaGtzanMtZko5ZmvSAWBBVV95cUxNYzh2WkpWc0tDRGpYQ0VjUlFSWDBlbEk2NkhHcGtTTC04VU9CckxqUWJtbnhRaHd4QzdHd2FHQ2pyT3lGaEhfMDQxaTRRTEtBWV83ZlF2MlliQlBUSmRPZHg?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-25T19:25:07+09:00",
+      "category": "정치·정책",
+      "description": "쇼츠만 남기고 막내리는 국감…조희대·김현지 막판 공방 예고(종합) 연합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "b5756bb6a0b59e",
+      "title": "솔리다임發 복잡해진 대기업 투자 셈법…해외 자회사 전략 시험대 - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlpfQy04WXpKbHRETDFnLTJaSTF2dHYtOXROVUhiUDNCVXlpenpZRVVrVi1CcWxTZzNMUXg2clBPTXhja3lCYkM2QU94SkdFQUE0cDdPZUh3cDUtcFpOeEcwWk9uSWtDVmlkQjNKV1pFa09YWVIwcXBGNE8wQmI2Tg?oc=5",
+      "source": "이데일리",
+      "published": "2026-10-25T18:29:55+09:00",
+      "category": "자동차",
+      "description": "솔리다임發 복잡해진 대기업 투자 셈법…해외 자회사 전략 시험대 이데일리",
+      "priority_markets": []
+    },
+    {
+      "id": "13705da0a365ac",
+      "title": "여성경제인협회 \"출산·육아 고려한 창업지원 기준 개선 환영\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aVUNKdENHSHJQQ1FsV3VFQ3JQUTRUdzRqNGd1QkpQeVBUcHlUcXQxRVdWQ2tJMkZCRzAxZW8yWk56eWg3eTd5OUdjUGE3akVKb2lkbVVrb3h0bU9hNmFtSNIBYEFVX3lxTE9aVUNKdENHSHJQQ1FsV3VFQ3JQUTRUdzRqNGd1QkpQeVBUcHlUcXQxRVdWQ2tJMkZCRzAxZW8yWk56eWg3eTd5OUdjUGE3akVKb2lkbVVrb3h0bU9hNmFtSA?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-10-25T16:03:32+09:00",
+      "category": "정치·정책",
+      "description": "여성경제인협회 \"출산·육아 고려한 창업지원 기준 개선 환영\" 연합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "7329c1445fb512",
+      "title": "靑, 李 대통령 취임 1년 연설문집 발간 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RVjBXVEdFOXhuSm5sSHB4eHJ6ZEgwdkRldkFLQWF6SUpxUWh4dnFTQkROckxtV0dpVnBVS3hnZGhfZGd5WERxTVU2NTFqcjdQbUxsR1RjcC1Da0k?oc=5",
+      "source": "경기일보",
+      "published": "2026-10-25T15:30:04+09:00",
+      "category": "정치·정책",
+      "description": "靑, 李 대통령 취임 1년 연설문집 발간 경기일보",
+      "priority_markets": []
+    },
+    {
+      "id": "0d72a977e951aa",
+      "title": "2026 국감 마무리 수순…올해도 민생 없고 정쟁에만 매몰 - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vNDNnWC1sVF92NDIxLU5GVG1RaXlHSjZ3R3I3emdqSkdpQ2pjQnhJRHQxNHRrMGN4alJKQlIwYWI1MXcwTENtM0dKcjAtVUY3dldtQmdDRFV1X2tTTko1amNCREpVRGJuYWh0M0dGeGpJV2s?oc=5",
+      "source": "대한경제",
+      "published": "2026-10-25T15:06:06+09:00",
+      "category": "정치·정책",
+      "description": "2026 국감 마무리 수순…올해도 민생 없고 정쟁에만 매몰 대한경제",
+      "priority_markets": []
+    },
+    {
+      "id": "63e3803086647f",
+      "title": "“국민의힘 단합·통합돼야”…무죄 선고후 정치 보폭 넓히는 오세훈 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JdUJjSjA1VjR6Y0puQzNlNW5WZm5sS2NRRWdBTjZIc3A3TGpaMzdTeW1RZzg0VmlhVUZ1ek84dHR5czFmQlhjY0tFRmZSLU5icnUyZXlB?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-25T13:28:44+09:00",
+      "category": "정치·정책",
+      "description": "“국민의힘 단합·통합돼야”…무죄 선고후 정치 보폭 넓히는 오세훈 매일경제",
       "priority_markets": []
     }
   ]
