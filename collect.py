@@ -14,8 +14,8 @@ KST = ZoneInfo('Asia/Seoul')
 NOW = datetime.datetime.now(KST)
 TODAY = NOW.strftime('%Y-%m-%d')
 QUERIES = {
-    '자동차': ['현대차 기아 모비스 해외 생산', 'global automotive production Hyundai Kia', '현대자동차 해외공장 생산능력 증설', '현대차 인도 공장 생산 차종', 'Hyundai India plant production capacity'],
-    'CKD·물류': ['CKD 자동차 부품 수출 물류', 'shipping freight port supply chain', '현대차 기아 해외공장 부품 현지조달', '자동차 부품 선적 해상운임 선복'],
+    '자동차': ['global automakers production supply chain Toyota GM Ford Volkswagen', '글로벌 자동차 업계 생산 판매 동향', '현대차 기아 모비스 해외 생산', 'global automotive production Hyundai Kia', '현대자동차 해외공장 생산능력 증설', '현대차 인도 공장 생산 차종', 'Hyundai India plant production capacity'],
+    'CKD·물류': ['Los Angeles Long Beach port terminal strike disruption', 'Savannah Mobile port congestion shipping delay', 'global port strike terminal disruption freight shipping', 'ocean carrier blank sailing port congestion automotive parts', '미국 항만 파업 선적 지연 운송 차질', 'CKD 자동차 부품 수출 물류', 'shipping freight port supply chain', '현대차 기아 해외공장 부품 현지조달', '자동차 부품 선적 해상운임 선복'],
     '전동화': ['전기차 배터리 EREV HEV', 'electric vehicle battery industry'],
     '경제·금융': ['한국 경제 금리 환율 증시', 'world economy central bank inflation'],
     '정치·정책': ['한국 정치 정부 정책', 'Trump tariff White House executive order statement'],
@@ -292,7 +292,8 @@ def editorial_score(a):
     title = a.get('title','').lower()
     body = title + ' ' + a.get('description','').lower()
     score = 0
-    if has_any(title, AUTO): score += 12
+    if has_any(title, AUTO): score += 7
+    if has_any(title, ('파업','항만 폐쇄','터미널 운영 중단','선적 제한','결품','port strike','terminal strike','port shutdown','port disruption','shipping disruption')): score += 42
     # Concrete overseas production plans take precedence over broad technology trends.
     if has_any(title, ('해외공장','신공장','생산능력','생산 체계','생산체계','증설','양산','푸네','pune','첸나이','chennai')) and has_any(body, AUTO + ('인도','india')): score += 24
     if has_any(title, ('로봇','로보틱스','아틀라스','robotics','atlas')) and not has_any(title, ('자동차 생산','부품 생산','공장 가동')): score -= 12
@@ -300,13 +301,13 @@ def editorial_score(a):
     if has_any(title, LOGISTICS): score += 15
     if has_any(body, POLICY): score += 18
     if has_any(title, MAJOR): score += 18
-    if a.get('category') == '관심 키워드': score += 2
+    if a.get('category') == '관심 키워드': score += 0
     if a.get('importance') == '높음': score += 2
     if a.get('priority_markets'): score += min(15,8+3*len(a['priority_markets']))
     if a.get('scrap_relation'): score += 22 if a['scrap_relation']['type']=='후속보도' else 12
     return score
 
-ANALYSIS_VERSION = 'trend-novelty-v5-20261027'
+ANALYSIS_VERSION = 'event-diversity-risk-v6-20261029'
 
 WORK_PERSPECTIVE_RULES = (
     "업무 뉴스는 자동차 산업·CKD·물류 동향을 파악하는 브리핑이다. 모든 기사를 CKD와 연결할 필요가 없다. "
@@ -373,9 +374,21 @@ def event_anchor(a):
     return None
 
 
+def concrete_event_key(a):
+    """Match a specific reported event, not every story about one company."""
+    t=(a.get('title') or '').lower().replace(' ', '')
+    hy=any(k in t for k in ('현대차','현대자동차','hyundai'))
+    if hy and any(k in t for k in ('앨라배마','alabama')) and any(k in t for k in ('투자','투입','invest','증설','쏜다')):
+        return 'hyundai-alabama-plant-investment'
+    if hy and any(k in t for k in ('3분기','3q','thirdquarter')) and any(k in t for k in ('실적','영업익','영업이익','수익성','판매부진')):
+        return 'hyundai-2026-q3-earnings'
+    if any(k in t for k in ('la·롱비치','la롱비치','losangeles','longbeach','롱비치')) and any(k in t for k in ('파업','strike','터미널','terminal')):
+        return 'la-long-beach-terminal-strike-2026-11'
+    return None
+
 def topic_key(a):
     """Conservatively collapse repeated reports of the same clear event."""
-    anchor = event_anchor(a)
+    anchor = concrete_event_key(a) or event_anchor(a)
     if anchor:
         return 'event:' + anchor
     title = a.get('title','').lower()
@@ -558,27 +571,26 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None):
         counts[section] += 1
     return sorted(chosen, key=lambda a: a.get('published', ''), reverse=True)
 
-def recent_history(days=7):
-    """Read only earlier public digests; never alter historical JSON files."""
-    out = []
-    for offset in range(1, days + 1):
-        day = (NOW - datetime.timedelta(days=offset)).strftime('%Y-%m-%d')
-        path = DATA / (day + '.json')
+def recent_history(days=14):
+    """Read previous published digests for actual cross-day event comparison."""
+    out=[]
+    for offset in range(1, days+1):
+        day=(NOW-datetime.timedelta(days=offset)).strftime('%Y-%m-%d')
+        path=DATA / (day+'.json')
         if not path.exists():
             continue
         try:
-            for article in json.loads(path.read_text(encoding='utf-8')).get('articles', []):
-                if isinstance(article, dict):
-                    out.append({'date': day, 'article': article})
-        except (ValueError, OSError) as ex:
-            print('History unavailable:', day, ex)
+            records=json.loads(path.read_text(encoding='utf-8')).get('articles',[])
+            out.extend({'date':day,'article':a} for a in records if isinstance(a,dict) and a.get('title'))
+        except (OSError,ValueError) as ex:
+            print('History read error:',day,str(ex)[:120])
     return out
 
 
 def same_issue_prior(a, history):
     """Conservative match: only a recognized issue key or an identical headline."""
     key = topic_key(a)
-    return [h for h in history if classify(h['article']) == a.get('section')
+    return [h for h in history if (h['article'].get('section') or classify(h['article'])) == a.get('section')
             and (topic_key(h['article']) == key or same_day_issue(a, h['article']))][:5]
 
 
@@ -600,21 +612,21 @@ def ai_editorial_review(items, history):
             related = a.get('group_members') or []
             previous = same_issue_prior(a, history)
             payload.append({
-                'id': a['id'], 'current': [
+                'id': a['id'], 'event_key':topic_key(a), 'current': [
                     {'title': m.get('title'), 'description': m.get('description'), 'source': m.get('source')}
                     for m in related[:10]
                 ] or [{'title': a.get('title'), 'description': a.get('description')}],
                 'previous': [
                     {'date': h['date'], 'title': h['article'].get('title'),
                      'summary': h['article'].get('summary'),
-                     'key_points': (h['article'].get('detail') or {}).get('key_points', [])}
+                     'key_points': (h['article'].get('detail') or {}).get('key_points', []), 'event_key': topic_key(h['article'])}
                     for h in previous
                 ]
             })
         prompt = ("너는 뉴스 편집자다. 입력은 RSS 제목/발췌문과 최근 7일 브리핑 기록이며 기사 전문이 아니다. "
                   "과거 기사와 같은 사건을 반복 설명하고 새 사실(투자 확정, 수치, 가동 일정, 생산능력, 참여사, 결정, 실제 진척)이 없으면 status='repeat'. "
                   "새 사실이 확인되면 status='keep' 및 new_information에 구체적 변경사항을 적어 후속보도로 분류한다. "
-                  "같은 산업 주제지만 별개의 사건이면 신규 뉴스다. 불명확하면 keep하되 신규 사실을 지어내지 않는다. "
+                  "같은 산업 주제지만 별개의 사건이면 신규 뉴스다. 인도 투자 계획과 인도 분기 실적은 서로 다른 사건이므로 후속보도가 아니다. 불명확하면 keep하되 신규 사실을 지어내지 않는다. "
                   "이전 기사가 없는 경우 keep. "
                   "같은 날 관련 기사들에서 확인되는 정보를 종합하되 RSS에 없는 사실을 만들지 마라. "
                   + WORK_PERSPECTIVE_RULES +
@@ -844,6 +856,8 @@ def main():
             else:saved.pop('scrap_relation',None)
             saved['source_comparison'] = cached.get('source_comparison', '')
             saved['section'] = a.get('section', saved.get('section'))
+            if same_issue_prior(saved,history) and saved.get('news_relation')=='신규 뉴스':
+                saved['news_relation']='관련 보도'
             merged.append(sanitize_editorial(correct_known_name_error(saved)))
         else:
             review_needed.append(a)
@@ -867,6 +881,24 @@ def main():
     for a in merged:
         if not a.get('image_url') and a.get('url'):
             a['image_url']=extract_article_image(a['url'])
+    # Final defense: do not publish multiple headlines about one concrete event.
+    # This also collapses legacy cached summaries from earlier buggy runs.
+    grouped={}
+    for a in merged:
+        k=(a.get('section'),topic_key(a))
+        prev=grouped.get(k)
+        if prev is None:
+            grouped[k]=a
+        else:
+            winner=max((prev,a),key=representative_score)
+            loser=a if winner is prev else prev
+            links=winner.setdefault('related_articles',[])
+            if loser.get('url') and loser.get('url') != winner.get('url') and not any(x.get('url')==loser['url'] for x in links):
+                links.append({k:loser.get(k,'') for k in ('title','url','source','published')})
+            for item in loser.get('related_articles',[]):
+                if item.get('url') and item['url']!=winner.get('url') and not any(x.get('url')==item['url'] for x in links):links.append(item)
+            grouped[k]=winner
+    merged=list(grouped.values())
     merged.sort(key=lambda a:a.get('published',''), reverse=True)
     new_items = [a for a in chosen if a['id'] not in old_map]
     # Retain newly completed summaries even if the public selection changes later.
