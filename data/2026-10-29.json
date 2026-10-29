@@ -1,69 +1,39 @@
 {
   "date": "2026-10-29",
-  "updated_at": "2026-10-29T18:43:56.229951+09:00",
-  "article_count": 19,
+  "updated_at": "2026-10-29T18:59:45.248103+09:00",
+  "article_count": 14,
   "ai_enabled": true,
   "articles": [
     {
-      "id": "07ac1a89c4082a",
-      "title": "현대차, 3분기 영업익 2.7조…판매 감소에도 선방 - 스페셜경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PUGgySndoa3lZdTM0MHhId3RTWFNlSklSbU1LWnlzbHBnTnNka200N3BWQ3VRSEFjQXFoRjJIMUJCR0V2ZmQtOU82Y0J4TFdmTFp0QUY4MjBqZ0o1WnNabXFXSkxyV2lhZzliVA?oc=5",
-      "source": "스페셜경제",
-      "published": "2026-10-29T17:09:22+09:00",
+      "id": "dd99b9355a5cd5",
+      "title": "글로벌 자동차 산업의 기회, 위험 요인, 경쟁 구도는 어떻게 바뀔까? - 모터그래프",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxTnFWVlp2Rm1pTWVuTGppb0tlZnpGRmRfWDR1R0lMNU5na0lXQlpHdExOQTl3WldueTFHcVVWVEJpbm9hczJXeTBQbW5LcHptU0wwYlZ4NTdnRGE4c2JBRm1rSEZDbTJKRDNmMQ?oc=5",
+      "source": "모터그래프",
+      "published": "2026-10-29T18:12:48+09:00",
       "category": "자동차",
-      "description": "현대차, 3분기 영업익 2.7조…판매 감소에도 선방 스페셜경제",
+      "description": "글로벌 자동차 산업의 기회, 위험 요인, 경쟁 구도는 어떻게 바뀔까? 모터그래프",
       "priority_markets": [],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대자동차가 3분기 영업이익 2조 7천억 원을 기록하며 판매량 감소에도 불구하고 수익성을 방어했다. 고부가가치 차종 중심의 판매 전략이 실적을 견인한 것으로 분석된다.",
-      "impact": "현대차의 수익성 중심 경영 전략은 향후 CKD 물량 및 부품 공급망 운영 효율화 기조와 연계될 가능성이 있음.",
-      "importance": "높음",
-      "detail": {
-        "background": "현대차의 2024년 3분기 경영 실적 발표.",
-        "key_points": [
-          "3분기 영업이익 2조 7천억 원 달성",
-          "판매량 감소에도 불구하고 수익성 방어 성공"
-        ],
-        "what_to_watch": "4분기 판매 회복세 및 수익성 유지 여부.",
-        "fact_check": "영업이익 수치는 언론사별로 소폭 차이가 있으나 2조 7천억 원 내외로 확인됨."
-      },
-      "new_information": "",
-      "source_comparison": "046bc86c0b73e5와 동일한 실적 발표 내용임.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "2a9415d804145473",
-      "image_url": ""
-    },
-    {
-      "id": "046bc86c0b73e5",
-      "title": "현대차, 3분기 영업익 2조6772억원…판매 감소에도 수익성 방어 - 인더스트리뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WQjFLQU41SUdydnlQaC01ZVpzQVFtQTR6Ml9IQ3dhRFZIMURTM0N2TUV5cENWdlhZVDdfNTgwUEJMTTJYVWk5TktIMWNzZ1hVdlh3QnIxZ09FMDVqMER2RUFwa3Vrc1BoN3h5S3V1R2NWZw?oc=5",
-      "source": "인더스트리뉴스",
-      "published": "2026-10-29T16:09:02+09:00",
-      "category": "자동차",
-      "description": "현대차, 3분기 영업익 2조6772억원…판매 감소에도 수익성 방어 인더스트리뉴스",
-      "priority_markets": [],
-      "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대차의 3분기 영업이익이 2조 6,772억 원으로 집계되었다. 판매 감소세 속에서도 수익성 중심의 전략으로 실적을 방어했다.",
-      "impact": "현대차의 수익성 중심 경영 전략은 향후 CKD 물량 및 부품 공급망 운영 효율화 기조와 연계될 가능성이 있음.",
+      "summary": "글로벌 자동차 산업의 현황과 미래 경쟁 구도 변화에 대한 분석 기사입니다. 전동화 전환, 공급망 재편, 신흥 시장의 부상 등 산업 전반의 기회와 위험 요인을 다루고 있습니다.",
+      "impact": "글로벌 자동차 산업의 거시적 환경 변화를 파악하여 중장기적인 CKD 물류 전략 및 시장 대응 방향성을 수립하는 데 참고할 수 있습니다.",
       "importance": "보통",
       "detail": {
-        "background": "현대차의 2024년 3분기 경영 실적 발표.",
+        "background": "자동차 산업의 패러다임 변화에 따른 시장 환경 분석",
         "key_points": [
-          "3분기 영업이익 2조 6,772억 원 기록",
-          "판매 감소에도 수익성 방어"
+          "전동화 및 소프트웨어 중심 자동차(SDV)로의 전환 가속화",
+          "글로벌 공급망 리스크 및 지정학적 요인에 따른 생산 전략 변화",
+          "신흥 시장 내 중국 브랜드의 경쟁력 강화와 시장 점유율 변화"
         ],
-        "what_to_watch": "4분기 판매 회복세 및 수익성 유지 여부.",
-        "fact_check": "공시된 실적 수치와 일치함."
+        "what_to_watch": "주요 시장별 정책 변화 및 글로벌 완성차 업체의 대응 전략",
+        "fact_check": "산업 전반의 트렌드 분석으로 특정 기업의 개별 사실관계와는 무관함"
       },
       "new_information": "",
-      "source_comparison": "07ac1a89c4082a와 동일한 사건으로, 구체적인 영업이익 수치만 명시됨.",
+      "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "2b4ca45a8c3fdec6",
+      "integration_signature": "f07303891913d273",
       "image_url": ""
     },
     {
@@ -77,10 +47,28 @@
       "priority_markets": [],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대차가 4분기 생산량 회복을 목표로 하고 있으나, 원자재 가격 변동과 환율, 중국 자동차 업체의 글로벌 경쟁 심화가 주요 변수로 작용하고 있다. 생산 정상화 여부가 향후 실적의 핵심이 될 전망이다.",
-      "impact": "현대차의 생산 회복 계획은 CKD 부품 공급 물량 및 물류 운영 계획에 직접적인 영향을 미칠 수 있음.",
+      "summary": "현대차가 4분기 생산 회복을 목표로 하고 있으나, 원자재 가격 변동과 환율 불안정, 중국 자동차 업체의 공세가 주요 변수로 작용하고 있습니다. 생산 정상화를 통한 실적 방어 여부가 관건입니다.",
+      "impact": "현대차의 생산량 변동은 CKD 부품 공급 물량과 직결되므로, 원자재 및 환율 리스크에 따른 생산 계획 조정 여부를 모니터링해야 합니다.",
       "importance": "높음",
       "detail": {
+        "background": "현대차의 4분기 생산 정상화 및 실적 회복 전략",
+        "key_points": [
+          "4분기 생산 회복을 통한 판매량 증대 추진",
+          "원자재 가격 및 환율 변동성에 따른 수익성 관리 필요",
+          "글로벌 시장 내 중국차와의 가격 및 품질 경쟁 심화"
+        ],
+        "what_to_watch": "현대차의 분기별 생산 실적 및 원가 절감 노력",
+        "fact_check": "현대차의 4분기 경영 환경에 대한 외부 분석임"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "b4f752283fe6a8b0",
+      "image_url": "",
+      "original_summary": "현대차가 4분기 생산량 회복을 목표로 하고 있으나, 원자재 가격 변동과 환율, 중국 자동차 업체의 글로벌 경쟁 심화가 주요 변수로 작용하고 있다. 생산 정상화 여부가 향후 실적의 핵심이 될 전망이다.",
+      "original_detail": {
         "background": "현대차의 4분기 생산 전략 및 대외 리스크 분석.",
         "key_points": [
           "4분기 생산 회복 추진",
@@ -88,46 +76,70 @@
         ],
         "what_to_watch": "생산량 회복 속도 및 주요 시장별 판매 추이.",
         "fact_check": "언론 보도된 경영 환경 분석 내용임."
+      }
+    },
+    {
+      "id": "02b5ef66a0d7d7",
+      "title": "[컨콜 종합] 현대차, 신차 앞세워 4분기 반등 노린다…판매 목표·투자는 하향 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wMHJndHlkcS10OVhXeUxrNmpDTS1CNDJGMFpNckI0TzFhTDRTV3NlV0llN1k0aXNvM2ZQR1l0cmxQaWxJTXZ2c3FIOUxweDBldmI1QVZfU0vSAVhBVV95cUxPMDByZ3R5ZHEtdDlYV3lMazZqQ00tQjQyRjBaTXJCNE8xYUw0U1dzZVdJZTdZNGlzbzNmUEdZdHJsUGlsSU12dnNxSDlMcHgwZXZiNUFWX1NL?oc=5",
+      "source": "아주경제",
+      "published": "2026-10-29T16:02:38+09:00",
+      "category": "자동차",
+      "description": "[컨콜 종합] 현대차, 신차 앞세워 4분기 반등 노린다…판매 목표·투자는 하향 아주경제",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차 컨퍼런스콜을 통해 신차 효과를 바탕으로 4분기 반등을 노리겠다는 전략이 발표되었습니다. 다만, 시장 상황을 고려해 연간 판매 목표와 투자 계획은 하향 조정되었습니다.",
+      "impact": "투자 계획 하향은 관련 설비 투자 및 CKD 인프라 확장 속도에 영향을 줄 수 있으므로, 향후 투자 집행 규모 변화를 주시할 필요가 있습니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차 3분기 실적 발표 및 향후 경영 전략",
+        "key_points": [
+          "신차 라인업을 통한 4분기 판매 모멘텀 확보",
+          "시장 불확실성 반영하여 연간 판매 목표 및 투자 규모 하향",
+          "수익성 중심의 내실 경영 강화"
+        ],
+        "what_to_watch": "투자 축소에 따른 주요 프로젝트 진행 상황",
+        "fact_check": "현대차 컨퍼런스콜 공식 발표 내용 기반"
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "cbf9dfb5e27f4e26",
+      "integration_signature": "6b84050bd90b46e3",
       "image_url": ""
     },
     {
-      "id": "e5e2e18423e04a",
-      "title": "현대차, 앨라배마공장에 6000억 투자…하이브리드·전기차 확충 - 자유일보",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xQUY1NTI1YTZZTFdwYmlLVlNIOXZPY0ozS2ZTd1QzRFBfT0FWQ082VDZJLUdCMzhreDJvcVlwM296c3Z6VTJhYkgyam13akdaa0RmempnNHZxejhjX2hXSlN5V1VmcXZUdVhj0gFvQVVfeXFMTTRQUHZYVV9hQk1fSllHbFI1MEY4aEY1NWtKdFc3NTBQZlZwcl9ka2JFWkVER2plTFBaNzA1dkN1NEpVYXM3dk9aaUg0SmZxeDVKVmV2ak1fQ18tWTJlUFJQaDJSUEVxeEZqM2xXRU1V?oc=5",
-      "source": "자유일보",
-      "published": "2026-10-29T15:05:00+09:00",
+      "id": "00e9d091d59d58",
+      "title": "아반떼 출격도 못 막은 파업 후폭풍…현대차, 매출 6년 만에 뒷걸음 - 비즈워치",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vYkJabVhTd05iNWpuMXU1ZG9YOFl5SGc4SWM0TG5mU3FRWGgxSDdDSHZXVjItSmVDbTVQT2J6T01IVV9mNjA5T3F6ZDh2MDVsNlRlRlRFeE9sSkoxZHpOcE1RRjVEVkxvajNHTQ?oc=5",
+      "source": "비즈워치",
+      "published": "2026-10-29T15:49:02+09:00",
       "category": "자동차",
-      "description": "현대차, 앨라배마공장에 6000억 투자…하이브리드·전기차 확충 자유일보",
-      "priority_markets": [
-        "미국"
-      ],
+      "description": "아반떼 출격도 못 막은 파업 후폭풍…현대차, 매출 6년 만에 뒷걸음 비즈워치",
+      "priority_markets": [],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대차가 미국 앨라배마 공장에 6,000억 원을 투자하여 하이브리드 및 전기차 생산 설비를 확충한다. 이는 북미 시장의 전동화 수요 대응을 위한 전략적 결정이다.",
-      "impact": "북미 현지 생산 체제 강화에 따른 CKD 부품 공급망 재편 및 현지화 전략 변화 가능성 확인 필요.",
+      "summary": "현대차가 노조 파업의 영향으로 6년 만에 매출 감소를 기록했습니다. 신차 아반떼 출시에도 불구하고 생산 차질에 따른 판매 공백이 실적에 부정적인 영향을 미쳤습니다.",
+      "impact": "파업으로 인한 생산 차질은 CKD 수출 물량의 적기 공급에 영향을 줄 수 있으므로, 생산 회복 속도와 물류 정상화 여부를 확인해야 합니다.",
       "importance": "높음",
       "detail": {
-        "background": "현대차의 북미 생산 거점 전동화 투자.",
+        "background": "현대차의 최근 실적 부진 원인 분석",
         "key_points": [
-          "앨라배마 공장 6,000억 원 투자 결정",
-          "하이브리드 및 전기차 생산 라인 확충"
+          "노조 파업으로 인한 생산 및 매출 타격",
+          "신차 출시 효과를 상쇄하는 공급망 및 생산 이슈",
+          "6년 만의 매출 역성장 기록"
         ],
-        "what_to_watch": "투자 집행 일정 및 현지 생산 차종 확대 여부.",
-        "fact_check": "현대차의 북미 투자 계획 관련 보도임."
+        "what_to_watch": "노사 관계 안정화 및 생산 정상화 시점",
+        "fact_check": "현대차의 최근 실적 및 파업 영향에 대한 보도"
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "4f74c30d778d9527",
+      "integration_signature": "2ea965cc7e715008",
       "image_url": ""
     },
     {
@@ -140,11 +152,90 @@
       "description": "현대차, 3분기 영업익 2조6772억원…연간 판매·수익성 목표 하향 대한데일리",
       "priority_markets": [],
       "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대차의 3분기 영업이익이 전년 동기 대비 6.5% 증가한 2조 6,772억 원을 기록했습니다. 다만 글로벌 수요 둔화와 판매 부진을 반영하여 연간 판매량 및 수익성 목표치를 하향 조정했습니다.",
-      "impact": "현대차의 연간 실적 가이던스 하향은 글로벌 완성차 수요 둔화와 맞물려 향후 CKD 물량 및 부품 공급 계획에 보수적인 접근이 필요함을 시사합니다.",
+      "related_articles": [
+        {
+          "title": "현대차, 3분기 영업익 2조6772억원… 판매 부진에도 5.5%↑ - IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PeWlaRVdxSFVzMWM0T0RHT05tMURZVVV5UjRhTUo2YUozSjlhMGNaV1lNQmFmejRDUWNMSllDUnFYSl9tMWpwNUhHRnRXUkpPaWtSS1RSRFVjWVpMN2ZkZkVuR3g1dTY2RWZrYXR2cknSAXRBVV95cUxQWlBua0ZhY3ZrWl90TE9fOWpyMkVWYzJLcEFEX0VzdWxtSXltTXRKY0hFNm1wQzY2SkQ1RlVzaUxPMjBEUG5ZN29ZaG1TQklVQU5BMzQ4X291bkVCSEJJU3dBdFctNFIya3B6US0zQkdWQjU2Vw?oc=5",
+          "source": "IT조선",
+          "published": "2026-10-29T14:49:13+09:00"
+        },
+        {
+          "title": "현대차, 3분기 영업익 2.7조…판매 감소에도 선방 - 스페셜경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PUGgySndoa3lZdTM0MHhId3RTWFNlSklSbU1LWnlzbHBnTnNka200N3BWQ3VRSEFjQXFoRjJIMUJCR0V2ZmQtOU82Y0J4TFdmTFp0QUY4MjBqZ0o1WnNabXFXSkxyV2lhZzliVA?oc=5",
+          "source": "스페셜경제",
+          "published": "2026-10-29T17:09:22+09:00"
+        },
+        {
+          "title": "현대차, 3분기 영업익 2조6772억원…판매 감소에도 수익성 방어 - 인더스트리뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WQjFLQU41SUdydnlQaC01ZVpzQVFtQTR6Ml9IQ3dhRFZIMURTM0N2TUV5cENWdlhZVDdfNTgwUEJMTTJYVWk5TktIMWNzZ1hVdlh3QnIxZ09FMDVqMER2RUFwa3Vrc1BoN3h5S3V1R2NWZw?oc=5",
+          "source": "인더스트리뉴스",
+          "published": "2026-10-29T16:09:02+09:00"
+        },
+        {
+          "title": "현대차 올해 3분기 매출 전년 대비 3.4%↓…판매 목표도 416만대→400만대 하향 - 경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tNnVMbjRKZHZXZHJXSG81c04waENGdVNGakI3YmVCbDkyRGZRbHhocDR0aWxrNTNwS0dMclVQRFVOaVo3SXhCQ2ZKYTIzYmJJdVk2RFJiaWFzeHZJTkN30gFfQVVfeXFMTS02dUxuNEpkdldkcldIbzVzTjBoQ0Z1U0ZqQjdiZUJsOTJEZlFseGhwNHRpbGs1M3BLR0xyVVBEVU5pWjdJeEJDZkphMjNiYkl1WTZEUmJpYXN4dklOQ3c?oc=5",
+          "source": "경향신문",
+          "published": "2026-10-29T16:33:00+09:00"
+        },
+        {
+          "title": "현대차, 3분기 영업익 2조6772억…판매 감소에도 5.5% 증가 - www.fetv.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xVFVNNWRHeVN3dWlPSklVdDFfZV9SSTY0djZRNzlPYkVZdWNqWFBVTXh4b0JkYWlNSmw5WjB1aDBpa09ZemozS0Z0bnhGT3VrdzMzS2h4YUFnU2FhTF90QTZnQ1V0Wmpq?oc=5",
+          "source": "www.fetv.co.kr",
+          "published": "2026-10-29T14:08:57+09:00"
+        },
+        {
+          "title": "현대차, 판매 급감에도 '실적 선방'…3분기 영업익 5.5% 증가(상보) - 파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEOWVreW9rMkVuQXMxUUtkUkQxa1NWUGNIRmM0VHB4eWpXMnJxSmExanV6UGd5MEVGSGswb1Z5Q3p6M0xpdXVMaTZSVHFKNUpnTUFhU1dRQWdmQQ?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-10-29T14:07:03+09:00"
+        },
+        {
+          "title": "현대차, 3분기 영업이익 2.7조…판매 11.3% 감소에도 이익 증가 - 서울타임즈뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fRGdYUEY2d3FrbndLSm1FdGFTam9aN2psaVNqYldYRThLbGQtUG9iWWV0TnhVRkV1dmZWbHZ4TXJWWi1CREdmTnNMeEZfYVpNYk5xdkI3dC16Rkw3MzJxOF9iR3VGVXBJajJr?oc=5",
+          "source": "서울타임즈뉴스",
+          "published": "2026-10-29T14:52:44+09:00"
+        },
+        {
+          "title": "현대차, 판매 11% 줄었지만 영업익 늘었다…3분기 2조6772억원 - 지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41eDFZZ3ZUN0FNeWZmQTJSQUx2VHFPU0ZsZTlHY3ZyRHFnSU5zbDgwMXBCNzdxdXNYazhXVmtOcERtMDJ4R21URFFvbzVqRUtEZVZBRnJ3?oc=5",
+          "source": "지디넷코리아",
+          "published": "2026-10-29T14:08:28+09:00"
+        },
+        {
+          "title": "현대차, 3분기 영업이익 2조6772억원…판매 줄었지만 수익성 방어 - 월요신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PZTUtdklSV2R1QW5qZ2RtaEFpTmxObGV4d0dOQllSWktBRVhON0k2RVN0ZkdXUzJxYzAwaVVLRUhObDZoRHhGZFo3Q3RicUlhTlZiSG4xclBldFJGRWZKaGFXeUFzWHhQdmc?oc=5",
+          "source": "월요신문",
+          "published": "2026-10-29T15:10:26+09:00"
+        },
+        {
+          "title": "현대차, 3분기 판매 11.3% 감소에도 영업익 5.5% 증가 - 시사포커스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55MFo2NU9MQ0VOVjlIVUxvQkZJZ29HLVZ3aHRwNUt0Skw3NkEzR2J2TmxSUlZUVWlOLVJYRFNscDNLT2dUUzlQNUU5bDBIbC1oV1FnTllXWkFadk0xS3A0YnVaMmV4Qzdia0E4NXZxVQ?oc=5",
+          "source": "시사포커스",
+          "published": "2026-10-29T17:55:49+09:00"
+        }
+      ],
+      "summary": "현대차의 2026년 3분기 영업이익은 전년 동기 대비 5.5% 증가한 2조 6,772억 원을 기록했습니다. 판매량 감소에도 불구하고 수익성 방어에 성공했으나, 연간 판매 목표치를 기존 416만 대에서 400만 대로 하향 조정했습니다.",
+      "impact": "완성차 업체의 연간 판매 목표 하향은 글로벌 CKD 물량 및 부품 공급 계획에 영향을 줄 수 있는 지표입니다. 향후 생산 조정에 따른 CKD 포장 및 물류 수요 변화를 모니터링할 필요가 있습니다.",
       "importance": "높음",
       "detail": {
+        "background": "글로벌 경기 둔화 및 판매 부진 상황 속에서 현대차의 분기 실적 발표.",
+        "key_points": [
+          "3분기 영업이익 2조 6,772억 원(전년 대비 5.5% 증가)",
+          "연간 판매 목표 416만 대에서 400만 대로 하향",
+          "판매량 감소에도 불구하고 수익성 방어 성공"
+        ],
+        "what_to_watch": "판매 목표 하향에 따른 공장별 가동률 조정 및 CKD 공급 물량 변동 여부.",
+        "fact_check": "영업이익 2조 6,772억 원 및 판매 목표 하향 수치 확인됨."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "9a31294e8744d718",
+      "image_url": "",
+      "original_summary": "현대차의 3분기 영업이익이 전년 동기 대비 6.5% 증가한 2조 6,772억 원을 기록했습니다. 다만 글로벌 수요 둔화와 판매 부진을 반영하여 연간 판매량 및 수익성 목표치를 하향 조정했습니다.",
+      "original_detail": {
         "background": "글로벌 경기 침체 및 전기차 캐즘 현상으로 인한 완성차 업계의 실적 변동성 확대.",
         "key_points": [
           "3분기 영업이익 2조 6,772억 원 달성",
@@ -153,79 +244,37 @@
         ],
         "what_to_watch": "4분기 글로벌 판매 회복세 및 주요 시장별 재고 관리 현황.",
         "fact_check": "영업이익 2조 6,772억 원은 현대차 공시 기준 수치임."
-      },
-      "new_information": "",
-      "source_comparison": "IT조선 보도와 영업이익 수치는 동일하나, 대한데일리는 목표치 하향 조정에 초점을 맞추어 보도함.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "e3f8be5c3809888b",
-      "image_url": ""
+      }
     },
     {
-      "id": "6545252d31599b",
-      "title": "현대차, 3분기 영업익 2조6772억원… 판매 부진에도 5.5%↑ - IT조선",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PeWlaRVdxSFVzMWM0T0RHT05tMURZVVV5UjRhTUo2YUozSjlhMGNaV1lNQmFmejRDUWNMSllDUnFYSl9tMWpwNUhHRnRXUkpPaWtSS1RSRFVjWVpMN2ZkZkVuR3g1dTY2RWZrYXR2cknSAXRBVV95cUxQWlBua0ZhY3ZrWl90TE9fOWpyMkVWYzJLcEFEX0VzdWxtSXltTXRKY0hFNm1wQzY2SkQ1RlVzaUxPMjBEUG5ZN29ZaG1TQklVQU5BMzQ4X291bkVCSEJJU3dBdFctNFIya3B6US0zQkdWQjU2Vw?oc=5",
-      "source": "IT조선",
-      "published": "2026-10-29T14:49:13+09:00",
-      "category": "스크랩 추적",
-      "description": "현대차, 3분기 영업익 2조6772억원… 판매 부진에도 5.5%↑ IT조선",
+      "id": "0fd3e1dbcab050",
+      "title": "현대차, 매출 줄었지만 영업익 증가…연간 목표 판매량은 '하향조정' [종합] - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VUtPUFdUOEtNVnI1YkVXVktXQTB4a0RjdU80a1ZrU0xlODh0MWxaYkV5ekt2QnJKQnU4eE5KUXdNeDhaQnVjYUoweU1fSlZOeFFDRXNWRUhJZw?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-29T14:38:38+09:00",
+      "category": "자동차",
+      "description": "현대차, 매출 줄었지만 영업익 증가…연간 목표 판매량은 '하향조정' [종합] 한국경제",
       "priority_markets": [],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대차의 3분기 영업이익이 전년 대비 6.5% 증가한 2조 6,772억 원을 기록했습니다. 판매량 부진에도 불구하고 고부가가치 차종 중심의 판매 믹스 개선으로 수익성을 방어했습니다.",
-      "impact": "완성차 업체의 수익성 방어 전략이 부품 공급망 및 CKD 운영에 미치는 영향 지속 모니터링 필요.",
+      "summary": "현대차의 3분기 실적과 연간 판매 목표 하향 조정에 관한 종합 보도입니다.",
+      "impact": "b20475f96dfdcb와 동일한 사건으로, 완성차 업체의 판매 전략 변화에 따른 물류 및 부품 공급망 영향 관점에서 지속 관찰이 필요합니다.",
       "importance": "보통",
       "detail": {
-        "background": "현대차 3분기 실적 발표.",
+        "background": "현대차 3분기 실적 발표 및 연간 가이던스 수정.",
         "key_points": [
-          "3분기 영업이익 2조 6,772억 원",
-          "전년 동기 대비 6.5% 증가",
-          "판매 부진 속 수익성 개선"
+          "매출 감소 및 영업이익 증가",
+          "연간 판매 목표 하향 조정"
         ],
-        "what_to_watch": "수익성 중심의 판매 전략 지속 여부.",
-        "fact_check": "영업이익 수치는 공시된 실적과 일치함."
+        "what_to_watch": "향후 분기별 판매 실적 및 가이던스 추가 수정 여부.",
+        "fact_check": "기존 보도 내용과 일치함."
       },
       "new_information": "",
-      "source_comparison": "대한데일리 기사와 동일한 실적 발표 내용을 다루고 있으며, 수익성 방어 요인에 대한 해석이 추가됨.",
+      "source_comparison": "기존 보도들과 동일한 내용을 종합하여 전달함.",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "bccdeefd4e40c61d",
-      "image_url": ""
-    },
-    {
-      "id": "986bc25b9e6193",
-      "title": "현대차, 美 앨라배마공장에 6000억 투자…HEV·EREV 생산 확대 - 이투데이",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54MXlvVDRiaFd6RUtLUFItTkk3RnRpRTJjNGlfSlFQRHUwSWNla01iSUpSRGRsWnBoQ1RDbWFJQjFmTmRVMEV2Q0JGZ3UydG5SbTFaTXl1SU1Ybmx3NTJ2cWxPMDgtTWNOTmRySkN6cDhjM1hz?oc=5",
-      "source": "이투데이",
-      "published": "2026-10-29T13:44:00+09:00",
-      "category": "전동화",
-      "description": "현대차, 美 앨라배마공장에 6000억 투자…HEV·EREV 생산 확대 이투데이",
-      "priority_markets": [
-        "미국"
-      ],
-      "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대차가 미국 앨라배마 공장에 약 6,000억 원을 투자하여 하이브리드(HEV) 및 주행거리 연장형 전기차(EREV) 생산 설비를 확충합니다. 이는 북미 시장의 전동화 전환 속도 조절에 대응하기 위한 전략입니다.",
-      "impact": "북미 생산 거점의 하이브리드 및 EREV 생산 확대는 관련 부품의 현지 조달 및 CKD 공급망 전략 변화 가능성을 시사함.",
-      "importance": "높음",
-      "detail": {
-        "background": "북미 시장 내 전기차 수요 변화 및 하이브리드 선호 현상 심화.",
-        "key_points": [
-          "앨라배마 공장 6,000억 원 규모 투자",
-          "HEV 및 EREV 생산 라인 확대",
-          "북미 전동화 전략 수정"
-        ],
-        "what_to_watch": "신규 생산 라인 가동 시점 및 부품 공급망 현지화율.",
-        "fact_check": "투자 규모 6,000억 원은 언론 보도된 수치임."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "5f105c5e84e8f558",
+      "integration_signature": "0f3f2ed6ae2e4666",
       "image_url": ""
     },
     {
@@ -241,10 +290,27 @@
       ],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대차 인도법인이 3분기 사상 최대 분기 매출과 판매 실적을 경신했습니다. 하반기부터 푸네 신공장의 가동 효과가 본격화되면서 인도 시장 내 점유율 확대가 기대됩니다.",
-      "impact": "인도 시장의 생산 능력 확대는 현대차의 글로벌 CKD 물량 및 부품 공급망 운영에 있어 핵심적인 변수로 작용할 전망임.",
+      "summary": "현대차가 인도 시장에서 분기 사상 최대 판매 및 매출을 경신했습니다. 하반기부터 푸네 신공장의 생산 효과가 본격화될 것으로 전망됩니다.",
+      "impact": "인도 시장의 생산 능력 확대는 현대차의 글로벌 CKD 전략 및 현지화 부품 조달 체계에 중요한 변화를 의미합니다. 푸네 공장 가동에 따른 CKD 물량 및 공급망 최적화 여부를 확인할 필요가 있습니다.",
       "importance": "높음",
       "detail": {
+        "background": "현대차의 인도 시장 성장세 및 생산 거점 확대 전략.",
+        "key_points": [
+          "인도 분기 사상 최대 판매 및 매출 달성",
+          "하반기 푸네 신공장 생산 효과 본격화"
+        ],
+        "what_to_watch": "푸네 공장 가동에 따른 인도 현지 생산량 증가 및 CKD 공급망 변화.",
+        "fact_check": "인도 시장 실적 및 푸네 공장 가동 효과 언급 확인됨."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "23ca465c7b0dc673",
+      "image_url": "",
+      "original_summary": "현대차 인도법인이 3분기 사상 최대 분기 매출과 판매 실적을 경신했습니다. 하반기부터 푸네 신공장의 가동 효과가 본격화되면서 인도 시장 내 점유율 확대가 기대됩니다.",
+      "original_detail": {
         "background": "현대차 인도법인 기업공개(IPO) 이후 시장 지배력 강화 전략.",
         "key_points": [
           "3분기 인도 시장 사상 최대 실적 달성",
@@ -253,48 +319,7 @@
         ],
         "what_to_watch": "푸네 공장 가동률 및 인도 내 신차 라인업 확대.",
         "fact_check": "인도법인 실적 경신은 현대차의 주요 성장 전략 중 하나임."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "edf919534c39cbb6",
-      "image_url": ""
-    },
-    {
-      "id": "3e59a6af8ef189",
-      "title": "현대차, 美 앨라배마 공장에 6046억원 투자…하이브리드·EREV 생산 확대 - 인더스트리뉴스",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtRjZaM0ZST1JISG5MQS1rNG44dGJ1YjkzbGNXRlVvWkNaZFkwRnVHNHZCUDRFTndjM2xJOUFLRDZEMEozN05oTmFWYXZaaVlQbjhCdUQwdlB0MkhOLVh5QlpJSTV5TWowNWlOTW5FX1hkdw?oc=5",
-      "source": "인더스트리뉴스",
-      "published": "2026-10-29T11:15:57+09:00",
-      "category": "자동차",
-      "description": "현대차, 美 앨라배마 공장에 6046억원 투자…하이브리드·EREV 생산 확대 인더스트리뉴스",
-      "priority_markets": [
-        "미국"
-      ],
-      "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대자동차가 미국 앨라배마 공장에 약 6,000억 원 규모의 신규 투자를 단행합니다. 이번 투자는 하이브리드(HEV) 및 주행거리 연장형 전기차(EREV)의 현지 생산 능력을 확대하기 위한 전략적 결정입니다.",
-      "impact": "미국 내 전동화 라인업 확대에 따른 현지 생산 체계 강화로, 향후 북미 시장 내 하이브리드 수요 대응을 위한 부품 공급망 및 물류 전략 변화를 주시할 필요가 있습니다.",
-      "importance": "높음",
-      "detail": {
-        "background": "미국 내 전기차 수요 변화에 대응하고 하이브리드 및 EREV 라인업을 강화하기 위한 현대차의 생산 전략.",
-        "key_points": [
-          "앨라배마 공장 내 하이브리드 및 EREV 생산 설비 확충",
-          "약 6,000억 원대 규모의 대규모 투자 단행",
-          "투싼 HEV 및 싼타페 EREV 생산 계획 포함"
-        ],
-        "what_to_watch": "투자 확정에 따른 구체적인 설비 도입 일정 및 현지 부품 조달 계획.",
-        "fact_check": "투자 금액 및 생산 차종에 대한 공식 발표 수치 확인 필요."
-      },
-      "new_information": "",
-      "source_comparison": "투자 금액이 매체별로 6,000억 원에서 6,400억 원 사이로 다소 차이가 있으며, 생산 차종으로 투싼 HEV와 싼타페 EREV가 구체적으로 언급됨.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "68b1279a0e1a57cf",
-      "image_url": ""
+      }
     },
     {
       "id": "630e9472658965",
@@ -308,11 +333,66 @@
         "미국"
       ],
       "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대자동차가 미국 앨라배마 공장에 6,000억 원 규모의 투자를 통해 하이브리드 및 EREV 생산을 확대합니다.",
-      "impact": "미국 현지 생산 거점의 전동화 전환 가속화에 따른 산업 동향 파악.",
-      "importance": "보통",
+      "related_articles": [
+        {
+          "title": "현대차, 美 앨라배마 공장에 6046억원 투자…하이브리드·EREV 생산 확대 - 인더스트리뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtRjZaM0ZST1JISG5MQS1rNG44dGJ1YjkzbGNXRlVvWkNaZFkwRnVHNHZCUDRFTndjM2xJOUFLRDZEMEozN05oTmFWYXZaaVlQbjhCdUQwdlB0MkhOLVh5QlpJSTV5TWowNWlOTW5FX1hkdw?oc=5",
+          "source": "인더스트리뉴스",
+          "published": "2026-10-29T11:15:57+09:00"
+        },
+        {
+          "title": "현대차, 美 앨라배마공장에 6000억 투자…HEV·EREV 생산 확대 - 이투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54MXlvVDRiaFd6RUtLUFItTkk3RnRpRTJjNGlfSlFQRHUwSWNla01iSUpSRGRsWnBoQ1RDbWFJQjFmTmRVMEV2Q0JGZ3UydG5SbTFaTXl1SU1Ybmx3NTJ2cWxPMDgtTWNOTmRySkN6cDhjM1hz?oc=5",
+          "source": "이투데이",
+          "published": "2026-10-29T13:44:00+09:00"
+        },
+        {
+          "title": "현대차, 앨라배마공장에 6000억 투자…하이브리드·전기차 확충 - 자유일보",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xQUY1NTI1YTZZTFdwYmlLVlNIOXZPY0ozS2ZTd1QzRFBfT0FWQ082VDZJLUdCMzhreDJvcVlwM296c3Z6VTJhYkgyam13akdaa0RmempnNHZxejhjX2hXSlN5V1VmcXZUdVhj0gFvQVVfeXFMTTRQUHZYVV9hQk1fSllHbFI1MEY4aEY1NWtKdFc3NTBQZlZwcl9ka2JFWkVER2plTFBaNzA1dkN1NEpVYXM3dk9aaUg0SmZxeDVKVmV2ak1fQ18tWTJlUFJQaDJSUEVxeEZqM2xXRU1V?oc=5",
+          "source": "자유일보",
+          "published": "2026-10-29T15:05:00+09:00"
+        },
+        {
+          "title": "현대차, 美 앨라배마에 6000억원 추가 투자...누적 3조원 돌파 - 더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLSXd4MGJQSmlHbkV5ek9JcmRzR2NfMTYxWEc3NkxMZWY5N2dlSmszX2lTT1pkQ0pYZDhvSTlWVDVFdU5YQnlWNWVYVjlGR255NER4RkFGZzU?oc=5",
+          "source": "더트래커",
+          "published": "2026-10-29T06:35:45+09:00"
+        },
+        {
+          "title": "현대차, 美 앨라배마 공장에 6400억원 투입…투싼 HEV·싼타페 EREV 생산 - 헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BZXZ2eUxYck5nemRzYVF4OER3SU1NdnpLbjRUdmpGd0RtdEZSMU1MREZER2VycF9lUmw0QndLNUxzdHJqREJ5TXUyVG1hNjhQUVc0bUFB?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-10-29T09:48:09+09:00"
+        },
+        {
+          "title": "현대차, 美 '프로젝트 게임 체인저' 가동…앨라배마 공장에 6000억 더 쏜다 - 더구루",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PZlcySUlZQndYTTBEZ2tBOEN5WWtrSGwwUHZRQTBVZENQNEZsV0hoNGtxN1JBX3Rtd2pSZ1JqT0hoY2gxREkzQXYzNjVvblQwc0ZhS0RlTFRadE9YenJESWoyallnUQ?oc=5",
+          "source": "더구루",
+          "published": "2026-10-29T08:08:59+09:00"
+        }
+      ],
+      "summary": "현대차가 미국 앨라배마 공장에 약 6,000억 원 규모의 추가 투자를 단행합니다. 이를 통해 하이브리드(HEV) 및 EREV(주행거리 연장형 전기차) 생산 라인을 확충할 계획입니다.",
+      "impact": "미국 내 전동화 생산 라인 확충은 현대차의 북미 공급망 전략 변화를 시사합니다. 향후 현지 생산 비중 확대에 따른 CKD 포장 및 물류 인프라의 대응 전략을 검토해야 합니다.",
+      "importance": "높음",
       "detail": {
+        "background": "북미 시장 전동화 전환 가속화 및 생산 거점 투자.",
+        "key_points": [
+          "앨라배마 공장 약 6,000억 원대 투자",
+          "투싼 HEV, 싼타페 EREV 등 생산 확대",
+          "북미 현지 생산 체계 강화"
+        ],
+        "what_to_watch": "투자 집행에 따른 생산 라인 전환 일정 및 북미 물류 공급망 변화.",
+        "fact_check": "투자 규모 및 생산 차종(HEV, EREV) 확인됨."
+      },
+      "new_information": "",
+      "source_comparison": "투자 금액이 6,000억 원에서 6,400억 원까지 매체별로 소폭 차이가 있으나, 대규모 투자 및 생산 차종 확대라는 핵심 내용은 동일함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "6a26a2305ff2eae6",
+      "image_url": "",
+      "original_summary": "현대자동차가 미국 앨라배마 공장에 6,000억 원 규모의 투자를 통해 하이브리드 및 EREV 생산을 확대합니다.",
+      "original_detail": {
         "background": "현대차의 북미 생산 거점 전동화 전략.",
         "key_points": [
           "앨라배마 공장 투자 결정",
@@ -320,80 +400,7 @@
         ],
         "what_to_watch": "현지 생산 물량 확대에 따른 공급망 변화.",
         "fact_check": "기존 보도와 동일한 내용임."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "7b6348ef278b0245",
-      "image_url": ""
-    },
-    {
-      "id": "3f02d28dd73405",
-      "title": "현대차, 美 앨라배마 공장에 6400억원 투입…투싼 HEV·싼타페 EREV 생산 - 헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BZXZ2eUxYck5nemRzYVF4OER3SU1NdnpLbjRUdmpGd0RtdEZSMU1MREZER2VycF9lUmw0QndLNUxzdHJqREJ5TXUyVG1hNjhQUVc0bUFB?oc=5",
-      "source": "헤럴드경제",
-      "published": "2026-10-29T09:48:09+09:00",
-      "category": "자동차",
-      "description": "현대차, 美 앨라배마 공장에 6400억원 투입…투싼 HEV·싼타페 EREV 생산 헤럴드경제",
-      "priority_markets": [
-        "미국"
-      ],
-      "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대차가 앨라배마 공장에 6,400억 원을 투입하여 투싼 하이브리드와 싼타페 EREV 생산을 본격화합니다.",
-      "impact": "특정 차종의 현지 생산 확정에 따른 부품 공급망 최적화 및 물류 운영 전략 검토 필요.",
-      "importance": "높음",
-      "detail": {
-        "background": "북미 시장 하이브리드 수요 급증에 따른 생산 전략 수정.",
-        "key_points": [
-          "6,400억 원 규모 투자 확정",
-          "투싼 HEV 및 싼타페 EREV 생산 라인 구축"
-        ],
-        "what_to_watch": "해당 차종의 현지 생산 개시 시점.",
-        "fact_check": "생산 차종의 현지화 여부 확인."
-      },
-      "new_information": "생산 차종(투싼 HEV, 싼타페 EREV) 및 구체적 투자액(6,400억 원) 명시.",
-      "source_comparison": "타 매체 대비 투자 금액을 6,400억 원으로 구체화하고 생산 차종을 명확히 함.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "51ba3db0dfac073e",
-      "image_url": ""
-    },
-    {
-      "id": "e0aa8be9feaac8",
-      "title": "현대차, 美 '프로젝트 게임 체인저' 가동…앨라배마 공장에 6000억 더 쏜다 - 더구루",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PZlcySUlZQndYTTBEZ2tBOEN5WWtrSGwwUHZRQTBVZENQNEZsV0hoNGtxN1JBX3Rtd2pSZ1JqT0hoY2gxREkzQXYzNjVvblQwc0ZhS0RlTFRadE9YenJESWoyallnUQ?oc=5",
-      "source": "더구루",
-      "published": "2026-10-29T08:08:59+09:00",
-      "category": "자동차",
-      "description": "현대차, 美 '프로젝트 게임 체인저' 가동…앨라배마 공장에 6000억 더 쏜다 더구루",
-      "priority_markets": [
-        "미국"
-      ],
-      "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대차가 '프로젝트 게임 체인저'의 일환으로 앨라배마 공장에 6,000억 원 규모의 추가 투자를 진행합니다.",
-      "impact": "현대차의 북미 전동화 전략인 '프로젝트 게임 체인저'의 구체화.",
-      "importance": "보통",
-      "detail": {
-        "background": "현대차의 북미 생산 거점 투자 프로젝트.",
-        "key_points": [
-          "프로젝트 게임 체인저 가동",
-          "앨라배마 공장 6,000억 원 투자"
-        ],
-        "what_to_watch": "프로젝트의 전체적인 로드맵.",
-        "fact_check": "기존 보도와 동일한 내용임."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "d8c2a492321278df",
-      "image_url": ""
+      }
     },
     {
       "id": "bd51cd888a9ba7",
@@ -405,11 +412,36 @@
       "description": "현대차·기아 3분기 실적 엇갈리나…영업이익 격차 800억원 아래로 충청메트로",
       "priority_markets": [],
       "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대차와 기아의 3분기 영업이익 격차가 800억 원 미만으로 좁혀질 것이라는 전망이 제기되었습니다. 양사의 실적 흐름이 엇갈리며 수익성 격차가 축소되는 양상을 보이고 있습니다.",
-      "impact": "현대차그룹의 완성차 수익성 변화는 CKD 부품 공급 물량 및 포장 물류 전략에 간접적인 영향을 미칠 수 있으므로 실적 발표를 통한 수익성 추이를 모니터링할 필요가 있습니다.",
+      "related_articles": [
+        {
+          "title": "현대차·기아 3분기 실적 엇갈리나…영업이익 격차 800억원 아래로 - 현대경제",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tbWlrSEhNZVpuZE1YOEFhbnZLdExtRVBfdGdNS3lmbWJjWE4tX0tUNXA5UWdWZEZpY1Y0SW1fX0RJSlJOc2lrQlAtdnFBZXA4UFNWbG1ablk5dVV6aHdTWENMLTYyZFdpenJz?oc=5",
+          "source": "현대경제",
+          "published": "2026-10-29T07:50:11+09:00"
+        }
+      ],
+      "summary": "현대차와 기아의 3분기 영업이익 격차가 800억 원 미만으로 좁혀질 것이라는 전망이 제기되었습니다. 현대차의 성장세 둔화와 기아의 견조한 실적이 맞물리며 양사 간 실적 격차가 축소되는 양상입니다.",
+      "impact": "완성차 업체의 분기 실적은 향후 생산 계획 및 부품 공급망 운영 전략의 기초 지표가 됩니다. 양사의 수익성 격차 변화는 향후 CKD 물량 배분 및 해외 생산 거점 운영 효율화 전략에 간접적인 영향을 미칠 수 있습니다.",
       "importance": "보통",
       "detail": {
+        "background": "현대차와 기아의 2026년 3분기 실적 발표를 앞두고 시장의 실적 전망치가 구체화되고 있음.",
+        "key_points": [
+          "현대차 실적 성장세 둔화 전망",
+          "기아의 견조한 실적 유지",
+          "양사 영업이익 격차 800억 원 미만으로 축소 예상"
+        ],
+        "what_to_watch": "실제 3분기 실적 발표 시 영업이익률 차이와 그에 따른 향후 투자 전략 변화 여부.",
+        "fact_check": "실제 실적 발표 수치와 시장 전망치 간의 괴리 확인 필요."
+      },
+      "new_information": "현대차와 기아의 3분기 영업이익 격차가 800억 원 미만으로 좁혀질 것이라는 구체적인 수치 전망이 추가되었습니다.",
+      "source_comparison": "기존 보도에서는 실적 전망의 방향성만 언급되었으나, 금번 보도에서는 영업이익 격차 수치를 구체화하여 제시함.",
+      "news_relation": "후속보도",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "9bc2215eb580489a",
+      "image_url": "",
+      "original_summary": "현대차와 기아의 3분기 영업이익 격차가 800억 원 미만으로 좁혀질 것이라는 전망이 제기되었습니다. 양사의 실적 흐름이 엇갈리며 수익성 격차가 축소되는 양상을 보이고 있습니다.",
+      "original_detail": {
         "background": "현대차와 기아의 분기별 실적 추이 및 수익성 격차 분석",
         "key_points": [
           "현대차·기아 3분기 영업이익 격차 800억 원 미만 전망",
@@ -418,46 +450,12 @@
         "what_to_watch": "실제 공시되는 3분기 영업이익 수치 및 수익성 변동 요인",
         "fact_check": "해당 수치는 증권가 전망치 기반으로 실제 실적 발표 시 확인 필요"
       },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "869132600ec24b99",
-      "image_url": ""
-    },
-    {
-      "id": "7faf54c9e7d738",
-      "title": "현대차, 美 앨라배마에 6000억원 추가 투자...누적 3조원 돌파 - 더트래커",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLSXd4MGJQSmlHbkV5ek9JcmRzR2NfMTYxWEc3NkxMZWY5N2dlSmszX2lTT1pkQ0pYZDhvSTlWVDVFdU5YQnlWNWVYVjlGR255NER4RkFGZzU?oc=5",
-      "source": "더트래커",
-      "published": "2026-10-29T06:35:45+09:00",
-      "category": "자동차",
-      "description": "현대차, 美 앨라배마에 6000억원 추가 투자...누적 3조원 돌파 더트래커",
-      "priority_markets": [
-        "미국"
-      ],
-      "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대자동차가 미국 앨라배마 공장에 6,000억 원을 추가 투자하기로 결정했습니다. 이번 투자로 현대차의 앨라배마 누적 투자액은 3조 원을 넘어섰습니다.",
-      "impact": "미국 현지 생산 거점의 설비 투자 확대는 북미 시장 내 CKD 공급망 및 물류 인프라 운영 전략에 영향을 줄 수 있는 요소입니다.",
-      "importance": "높음",
-      "detail": {
-        "background": "현대차 미국 생산 거점인 앨라배마 공장의 지속적인 설비 투자",
-        "key_points": [
-          "앨라배마 공장 6,000억 원 추가 투자 단행",
-          "누적 투자액 3조 원 돌파"
-        ],
-        "what_to_watch": "추가 투자 자금의 구체적인 용처 및 생산 라인 효율화 계획",
-        "fact_check": "투자 금액 및 누적액은 보도된 수치 기준"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "688d9f812c1e460f",
-      "image_url": ""
+      "follow_up": {
+        "date": "2026-10-22",
+        "title": "현대차 주춤·기아 질주, 3분기 실적 엇갈릴 듯 - 동행미디어 시대",
+        "summary": "현대차와 기아의 3분기 실적 전망이 엇갈리고 있다. 현대차는 다소 주춤한 흐름을 보이는 반면, 기아는 견조한 실적을 이어갈 것으로 예상된다.",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CellzUmh6SkZDXzl1T3kyekVRS3JnU01YbmJjT1RSZGpXZGd6VG8yRndGVWhON0pHZmdOMndpVVRkT1JtVm8yZnFPaWZ1YnFiekxwNTQ1TkoxRjFlanc?oc=5"
+      }
     },
     {
       "id": "8677136063e1f2",
@@ -470,10 +468,27 @@
       "priority_markets": [],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "톱텍이 현대모비스의 배터리 설비 공급사로서의 기반을 확보하며 고객사의 해외 투자 확대에 따른 수혜가 예상된다. 이번 협력을 통해 톱텍은 모비스의 글로벌 전동화 생산 거점 확장에 대응하는 설비 공급을 본격화할 전망이다.",
-      "impact": "현대모비스의 글로벌 전동화 생산 거점 확대에 따른 설비 투자 및 공급망 다변화 동향을 파악할 수 있음.",
-      "importance": "보통",
+      "summary": "톱텍이 현대모비스의 배터리 설비 공급 기반을 확보하며 고객사의 해외 투자 확대에 따른 수혜가 예상됩니다. 이는 현대모비스의 전동화 부품 생산 역량 강화와 연계된 공급망 변화로 풀이됩니다.",
+      "impact": "현대모비스의 배터리 설비 투자 확대는 전동화 전환 가속화를 의미하며, 관련 설비 공급망의 안정화가 중요해짐. 향후 CKD 포장 및 물류 인프라가 전동화 부품 중심으로 재편될 가능성을 시사함.",
+      "importance": "높음",
       "detail": {
+        "background": "현대모비스의 글로벌 전동화 생산 거점 확대에 따른 설비 발주 증가.",
+        "key_points": [
+          "톱텍, 현대모비스 배터리 설비 공급 기반 확보",
+          "고객사(현대모비스) 해외 투자 확대에 따른 동반 성장 기대"
+        ],
+        "what_to_watch": "톱텍의 실제 설비 공급 규모 및 현대모비스의 해외 배터리 공장 가동 일정.",
+        "fact_check": "공급 계약의 구체적인 규모와 대상 지역 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "c162c5784461ddf0",
+      "image_url": "",
+      "original_summary": "톱텍이 현대모비스의 배터리 설비 공급사로서의 기반을 확보하며 고객사의 해외 투자 확대에 따른 수혜가 예상된다. 이번 협력을 통해 톱텍은 모비스의 글로벌 전동화 생산 거점 확장에 대응하는 설비 공급을 본격화할 전망이다.",
+      "original_detail": {
         "background": "현대모비스의 전동화 부품 생산 능력 확대를 위한 설비 투자 및 협력사 생태계 구축 과정.",
         "key_points": [
           "톱텍, 현대모비스 배터리 설비 공급 기반 확보",
@@ -481,14 +496,7 @@
         ],
         "what_to_watch": "톱텍의 실제 설비 수주 규모 및 현대모비스의 해외 전동화 공장 가동 일정.",
         "fact_check": "톱텍의 현대모비스향 설비 공급 계약 체결 여부 및 구체적 공급 범위 확인 필요."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "4b28e6eabc1003f6",
-      "image_url": ""
+      }
     },
     {
       "id": "f3db3bb130495d",
@@ -501,10 +509,28 @@
       "priority_markets": [],
       "section": "일반 뉴스",
       "related_articles": [],
-      "summary": "미국 연방준비제도가 기준금리를 3.75~4.00%로 동결했습니다. 인플레이션에 대한 경계감을 유지하며 향후 추가 인상 가능성을 열어두었습니다.",
+      "summary": "미국 연방준비제도가 기준금리를 3.75~4.00%로 동결했습니다. 인플레이션에 대한 경계감이 여전하여 향후 추가 인상 가능성이 열려 있는 상태입니다.",
       "impact": "",
-      "importance": "보통",
+      "importance": "높음",
       "detail": {
+        "background": "미국 내 인플레이션 지표와 연준의 통화 정책 방향성.",
+        "key_points": [
+          "기준금리 3.75~4.00% 동결",
+          "인플레이션 경계 지속",
+          "향후 추가 금리 인상 가능성 시사"
+        ],
+        "what_to_watch": "연준의 향후 금리 결정 회의 및 미국 경제 지표 변화.",
+        "fact_check": "연준의 공식 성명서 내용과 시장의 해석 차이."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "b1140066fe570e55",
+      "image_url": "",
+      "original_summary": "미국 연방준비제도가 기준금리를 3.75~4.00%로 동결했습니다. 인플레이션에 대한 경계감을 유지하며 향후 추가 인상 가능성을 열어두었습니다.",
+      "original_detail": {
         "background": "미국 연준의 통화 정책 결정 및 인플레이션 대응",
         "key_points": [
           "기준금리 3.75~4.00% 동결",
@@ -512,14 +538,7 @@
         ],
         "what_to_watch": "향후 연준의 금리 결정 및 글로벌 경제 지표 변화",
         "fact_check": "금리 수치는 보도된 내용 기준"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "93e1147a4e840829",
-      "image_url": ""
+      }
     },
     {
       "id": "79e3f17c8f4ea8",
@@ -531,11 +550,35 @@
       "description": "[북살롱] 전쟁의 지도를 넘어 난민의 삶 속으로…신범식 교수 연구진이 완성한 유라시아 난민 연구의 역작 르몽드디플로마티크",
       "priority_markets": [],
       "section": "일반 뉴스",
-      "related_articles": [],
-      "summary": "신범식 교수 연구진이 유라시아 난민 연구를 다룬 저서를 출간했다는 내용의 도서 소개 기사이다.",
+      "related_articles": [
+        {
+          "title": "[북살롱] 전쟁의 지도를 넘어 난민의 삶 속으로…신범식 교수 연구진이 완성한 유라시아 난민 연구의 역작 - https://www.climatepol.com/",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lcFZ6Q3MycWpVdE1KMmQ3RUFTUTVlb09XRXQ2d204ME9FY21OSTFsc2M3eTNxdE5oZmhoSlZrTGFFSnFUd01Sd2h1X3pDTDlRNGJlSk5PUTl5R1hwNkhYdUVaM0ktSnUzY09TYg?oc=5",
+          "source": "https://www.climatepol.com/",
+          "published": "2026-10-29T02:09:20+09:00"
+        }
+      ],
+      "summary": "신범식 교수 연구진이 유라시아 난민 연구를 집대성한 저서 '전쟁의 지도를 넘어 난민의 삶 속으로'가 출간되었습니다.",
       "impact": "",
-      "importance": "낮음",
+      "importance": "보통",
       "detail": {
+        "background": "유라시아 지역의 난민 문제와 전쟁의 영향에 관한 학술 연구.",
+        "key_points": [
+          "신범식 교수 연구진의 유라시아 난민 연구",
+          "전쟁의 지도를 넘어 난민의 삶을 조명한 저서 출간"
+        ],
+        "what_to_watch": "해당 연구가 국제 정세 분석에 미치는 영향.",
+        "fact_check": "저서의 주제와 연구진 구성 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "153511b6c1595878",
+      "image_url": "",
+      "original_summary": "신범식 교수 연구진이 유라시아 난민 연구를 다룬 저서를 출간했다는 내용의 도서 소개 기사이다.",
+      "original_detail": {
         "background": "유라시아 지역의 난민 문제와 지정학적 연구.",
         "key_points": [
           "신범식 교수 연구진의 유라시아 난민 연구 저서 출간",
@@ -543,14 +586,7 @@
         ],
         "what_to_watch": "해당 없음.",
         "fact_check": "해당 없음."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "3439eb80b661ec6c",
-      "image_url": ""
+      }
     },
     {
       "id": "197f5a9dd41049",
@@ -565,21 +601,21 @@
       ],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대차 인도법인이 2026년 2분기 사상 최대 매출을 기록했습니다. 이는 인도 시장 내 생산 능력 확대와 판매 호조가 맞물린 결과로 분석됩니다.",
-      "impact": "인도 시장의 생산 능력 확대와 매출 성장은 현대차그룹의 글로벌 CKD 공급망 운영 및 인도 거점의 전략적 중요성을 더욱 강화하는 요소입니다.",
+      "summary": "현대차 인도법인이 2026년 2분기 실적 발표를 통해 사상 최대 매출을 기록했다고 밝혔다. 인도 시장 내 견조한 수요와 제품 믹스 개선이 실적 성장을 견인한 것으로 분석된다.",
+      "impact": "인도 시장의 성장세가 지속됨에 따라 현지 생산 물량 확대 및 공급망 최적화 전략이 중요해질 것으로 보이며, 향후 인도법인의 생산 능력 확충 계획과 연계된 물류 및 부품 공급망 변화를 모니터링할 필요가 있음.",
       "importance": "높음",
       "detail": {
-        "background": "현대차 인도법인의 실적 발표 및 시장 성장세",
+        "background": "현대차 인도법인의 분기별 실적 추이 및 시장 점유율 확대 전략",
         "key_points": [
-          "2026년 2분기 인도법인 매출 사상 최대",
-          "인도 시장 내 생산 및 판매 역량 강화 확인"
+          "2026년 2분기 현대차 인도법인 매출 사상 최대치 달성",
+          "인도 내 SUV 중심의 판매 호조 및 수익성 개선"
         ],
-        "what_to_watch": "인도 시장 내 점유율 유지 및 생산 능력 확대에 따른 물류 효율화",
-        "fact_check": "사상 최대 매출 기록은 실적 발표 콜 내용 기반"
+        "what_to_watch": "인도 시장 내 점유율 유지 전략 및 향후 생산 능력 증대 계획",
+        "fact_check": "실적 발표 콜 기반의 수치 확인 필요"
       },
-      "new_information": "2026년 2분기 매출 사상 최대 기록 확인",
-      "source_comparison": "기존 155억 달러 투자 계획 발표 이후 실제 매출 성과가 가시화되고 있음",
-      "news_relation": "후속보도",
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
       "follow_up": {
         "date": "2026-10-16",
         "title": "Hyundai Motor Group to Invest $15.5 Billion in India Over Seven Years, Expands Production Capacity to 1.43 Million Vehicles - 알파경제",
@@ -588,8 +624,18 @@
       },
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "162b8b3a1545db91",
-      "image_url": ""
+      "integration_signature": "ee92c6c8da42a725",
+      "image_url": "",
+      "original_summary": "현대차 인도법인이 2026년 2분기 사상 최대 매출을 기록했습니다. 이는 인도 시장 내 생산 능력 확대와 판매 호조가 맞물린 결과로 분석됩니다.",
+      "original_detail": {
+        "background": "현대차 인도법인의 실적 발표 및 시장 성장세",
+        "key_points": [
+          "2026년 2분기 인도법인 매출 사상 최대",
+          "인도 시장 내 생산 및 판매 역량 강화 확인"
+        ],
+        "what_to_watch": "인도 시장 내 점유율 유지 및 생산 능력 확대에 따른 물류 효율화",
+        "fact_check": "사상 최대 매출 기록은 실적 발표 콜 내용 기반"
+      }
     },
     {
       "id": "26138603b38a86",
@@ -602,10 +648,28 @@
       "priority_markets": [],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대모비스가 전동화 및 SDV(소프트웨어 중심 자동차) 분야에 대한 R&D 투자를 강화하며 미래 모빌리티 시장 주도권 확보에 나섰다. 기술 고도화를 통해 글로벌 경쟁력을 강화하고 전동화 전환을 가속화하겠다는 전략이다.",
-      "impact": "현대모비스의 미래 기술 투자 방향성을 확인하여 전동화 부품 및 SDV 관련 중장기 사업 전략을 파악할 수 있음.",
+      "summary": "현대모비스가 전동화 부품과 SDV(소프트웨어 중심 자동차) 기술 확보를 위해 R&D 투자를 강화하고 있다. 미래 모빌리티 시장 주도권을 확보하기 위한 기술 고도화 및 포트폴리오 다변화에 집중하는 모습이다.",
+      "impact": "해당 기업의 산업 동향이며 당사 CKD 발주·포장·선적 물량과의 직접적인 연관성은 확인되지 않았습니다.",
       "importance": "보통",
       "detail": {
+        "background": "자동차 산업의 전동화 및 SDV 전환에 따른 현대모비스의 R&D 전략",
+        "key_points": [
+          "전동화 부품 기술 개발 집중",
+          "SDV 전환을 위한 소프트웨어 역량 강화",
+          "미래 모빌리티 시장 선점을 위한 투자 확대"
+        ],
+        "what_to_watch": "주요 R&D 성과의 상용화 시점 및 양산 적용 계획",
+        "fact_check": "투자 규모 및 구체적인 기술 로드맵 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "ace391a7f9c8379e",
+      "image_url": "",
+      "original_summary": "현대모비스가 전동화 및 SDV(소프트웨어 중심 자동차) 분야에 대한 R&D 투자를 강화하며 미래 모빌리티 시장 주도권 확보에 나섰다. 기술 고도화를 통해 글로벌 경쟁력을 강화하고 전동화 전환을 가속화하겠다는 전략이다.",
+      "original_detail": {
         "background": "자동차 산업의 전동화 및 소프트웨어 중심 전환에 따른 현대모비스의 R&D 전략.",
         "key_points": [
           "전동화 및 SDV 분야 R&D 투자 집중",
@@ -613,14 +677,7 @@
         ],
         "what_to_watch": "주요 R&D 성과 및 전동화 부품의 실제 양산 적용 시점.",
         "fact_check": "투자 규모 및 구체적인 기술 로드맵 확인 필요."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "0861a9d07835d728",
-      "image_url": ""
+      }
     }
   ]
 }
