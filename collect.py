@@ -381,16 +381,59 @@ def concrete_event_key(a):
     if hy and any(k in t for k in ('앨라배마','alabama')) and any(k in t for k in ('투자','투입','invest','증설','쏜다')):
         return 'hyundai-alabama-plant-investment'
     if hy and any(k in t for k in ('3분기','3q','thirdquarter')) and any(k in t for k in ('실적','영업익','영업이익','수익성','판매부진')):
-        return 'hyundai-2026-q3-earnings'
+        return 'hyundai-q3-earnings-' + str(NOW.year)
     if any(k in t for k in ('la·롱비치','la롱비치','losangeles','longbeach','롱비치')) and any(k in t for k in ('파업','strike','터미널','terminal')):
-        return 'la-long-beach-terminal-strike-2026-11'
+        return 'la-long-beach-terminal-strike-' + str(NOW.year)
     return None
+
+def event_facts(a):
+    """Generalized event fingerprint based on actors, locations and actions.
+
+    A common press-release story is not a new event just because a publisher
+    changes the headline. Avoid merging generic stories about the same brand.
+    """
+    t = (a.get('title', '') + ' ' + a.get('description', '')).lower()
+    t = re.sub(r'\s*[-|]\s*[^-|]{2,35}$', '', t)
+    actors = {
+        'hyundai': ('현대차', '현대자동차', 'hyundai motor'),
+        'mobis': ('현대모비스', 'mobis'), 'kia': ('기아', 'kia '),
+        'toyota': ('도요타', '토요타', 'toyota'), 'gm': ('제너럴모터스', 'general motors', 'gm '),
+        'ford': ('포드', 'ford '), 'vw': ('폭스바겐', 'volkswagen'),
+    }
+    places = {
+        'alabama': ('앨라배마', 'alabama'), 'pune': ('푸네', 'pune'),
+        'chennai': ('첸나이', 'chennai'), 'georgia': ('조지아', 'georgia'),
+        'la_lb_port': ('롱비치', 'long beach', 'la항', 'los angeles port', 'la·롱비치'),
+        'savannah': ('서배너', '사바나', 'savannah'), 'mobile': ('모빌항', 'port of mobile'),
+        'mexico': ('멕시코', 'mexico'), 'brazil': ('브라질', 'brazil'),
+    }
+    actions = {
+        'investment': ('투자', '투입', '쏜다', 'investment', 'invests'),
+        'earnings': ('영업익', '영업이익', '실적', '매출', 'earnings', 'profit'),
+        'strike': ('파업', 'strike', 'walkout', '노조 협상'),
+        'production': ('생산', '양산', '가동', 'production', 'manufacturing'),
+        'shutdown': ('중단', '폐쇄', 'shutdown', 'closure'),
+        'tariff': ('관세', 'tariff'), 'recall': ('리콜', 'recall'),
+    }
+    def hits(d): return [k for k, words in d.items() if any(w in t for w in words)]
+    actor, place, action = hits(actors), hits(places), hits(actions)
+    quarter = re.search(r'([1-4])\s*분기', t) or re.search(r'\bq([1-4])\b', t)
+    # Specific event identity requires both an actor and place, or a named port
+    # with a disruption. A single common keyword is never enough.
+    if 'la_lb_port' in place and ('strike' in action or 'shutdown' in action):
+        return 'event:port:la_lb:' + ('strike' if 'strike' in action else 'shutdown')
+    if len(actor) == 1 and len(place) == 1 and 'investment' in action:
+        return 'event:' + actor[0] + ':' + place[0] + ':investment'
+    if len(actor) == 1 and 'earnings' in action and quarter:
+        return 'event:' + actor[0] + ':earnings:q' + quarter.group(1) + ':' + str(NOW.year)
+    return None
+
 
 def topic_key(a):
     """Conservatively collapse repeated reports of the same clear event."""
-    anchor = concrete_event_key(a) or event_anchor(a)
+    anchor = event_facts(a) or concrete_event_key(a) or event_anchor(a)
     if anchor:
-        return 'event:' + anchor
+        return anchor if anchor.startswith('event:') else 'event:' + anchor
     title = a.get('title','').lower()
     if (('현대차' in title or '현대자동차' in title or '기아' in title or 'hyundai' in title or 'kia' in title)
             and ('자율주행' in title or 'autonomous' in title)
@@ -582,6 +625,10 @@ def recent_history(days=14):
         try:
             records=json.loads(path.read_text(encoding='utf-8')).get('articles',[])
             out.extend({'date':day,'article':a} for a in records if isinstance(a,dict) and a.get('title'))
+            archive = DATA / 'archive' / (day+'.json')
+            if archive.exists():
+                archived=json.loads(archive.read_text(encoding='utf-8')).get('articles',[])
+                out.extend({'date':day,'article':a} for a in archived if isinstance(a,dict) and a.get('title') and a.get('ai_summary'))
         except (OSError,ValueError) as ex:
             print('History read error:',day,str(ex)[:120])
     return out
@@ -647,12 +694,13 @@ def ai_editorial_review(items, history):
             found = {x['id']: x for x in parsed.get('articles', []) if isinstance(x, dict) and x.get('id')}
         except Exception as ex:
             print('Editorial review unavailable, keeping stories:', str(ex)[:250])
-            result.extend(batch)
+            # A missing AI response must not turn a known old event into 'new'.
+            result.extend(a for a in batch if not same_issue_prior(a, history))
             continue
         for a in batch:
             x = found.get(a['id'])
             if not x or not isinstance(x.get('summary'), str) or not x['summary'].strip():
-                result.append(a)
+                if not same_issue_prior(a, history): result.append(a)
                 continue
             if x.get('status') == 'repeat' and same_issue_prior(a, history):
                 print('Omitting repeated prior-day issue:', a['title'][:75])
@@ -677,7 +725,8 @@ def ai_editorial_review(items, history):
                     'summary': previous[0]['article'].get('summary', ''),
                     'url': previous[0]['article'].get('url', '')}
             if previous and not b['new_information']:
-                b['news_relation'] = '관련 보도'
+                print('Omitting same-event story without new facts:', a['title'][:75])
+                continue
             elif not previous:
                 b['news_relation'] = '신규 뉴스'
             b['ai_summary'] = True
@@ -856,8 +905,8 @@ def main():
             else:saved.pop('scrap_relation',None)
             saved['source_comparison'] = cached.get('source_comparison', '')
             saved['section'] = a.get('section', saved.get('section'))
-            if same_issue_prior(saved,history) and saved.get('news_relation')=='신규 뉴스':
-                saved['news_relation']='관련 보도'
+            if same_issue_prior(saved,history) and not saved.get('new_information'):
+                continue
             merged.append(sanitize_editorial(correct_known_name_error(saved)))
         else:
             review_needed.append(a)
@@ -865,12 +914,17 @@ def main():
     reviewed = ai_editorial_review(review_needed[:budget], history)
     reviewed_ids = {a['id'] for a in reviewed}
     for a in reviewed:
+        if same_issue_prior(a, history) and not a.get('new_information'):
+            continue
         if a.get('integrated_summary') or a.get('ai_summary'):
             merged.append(a)
         else:
             merged.extend(summarize([a]))
     # Preserve unreviewed entries and allow a future run to finish their AI analysis.
     for a in review_needed[budget:]:
+        if same_issue_prior(a, history):
+            print('Deferring historical event until novelty can be checked:', a['title'][:75])
+            continue
         merged.append(a if a.get('ai_summary') else fallback([a])[0])
     # If AI review failed to produce a result for an article, it is retained by
     # ai_editorial_review; only explicit 'repeat' findings are omitted.
