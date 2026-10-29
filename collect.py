@@ -338,6 +338,11 @@ def sanitize_editorial(article):
     a = dict(article)
     if a.get('section') == '일반 뉴스':
         a['impact'] = ''
+    for field in ('impact', 'summary', 'source_comparison'):
+        value = a.get(field, '')
+        if isinstance(value, str):
+            value = re.sub(r'(?i)\b[0-9a-f]{14,16}\b(?:와|과)?\s*(?:동일한 사건|동일 사건|관련 사건)', '기존 보도와 동일한 사건', value)
+            a[field] = value
     title = a.get('title', '').lower()
     weak = (
         ('테슬라' in title or 'tesla' in title)
@@ -429,9 +434,21 @@ def event_facts(a):
     return None
 
 
+def canonical_event_key(a):
+    """Stable, cross-day event ID for press-release rewrites and headline variations."""
+    t = (a.get('title', '') + ' ' + a.get('description', '')).lower()
+    hy = any(w in t for w in ('현대차', '현대자동차', 'hyundai motor'))
+    year = re.search(r'20\d{2}', a.get('published', ''))
+    yr = year.group(0) if year else str(NOW.year)
+    if hy and any(w in t for w in ('3분기', '3q', 'third quarter')) and any(w in t for w in ('영업익','영업이익','매출','실적','수익성','판매 목표','판매목표','목표 하향','목표하향','판매 부진','판매 감소')):
+        return 'event:hyundai:quarterly-results:q3:' + yr
+    if hy and any(w in t for w in ('앨라배마', 'alabama')) and any(w in t for w in ('투자','투입','증설','확충','쏜다','invest')):
+        return 'event:hyundai:alabama:investment:' + yr
+    return None
+
 def topic_key(a):
     """Conservatively collapse repeated reports of the same clear event."""
-    anchor = event_facts(a) or concrete_event_key(a) or event_anchor(a)
+    anchor = canonical_event_key(a) or event_facts(a) or concrete_event_key(a) or event_anchor(a)
     if anchor:
         return anchor if anchor.startswith('event:') else 'event:' + anchor
     title = a.get('title','').lower()
