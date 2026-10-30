@@ -73,6 +73,39 @@ def scrap_queries(scraps, max_queries=12):
         if len(queries)>=max_queries:break
     return queries
 
+def event_actor(a):
+    """Identify the actual reporting company; group affiliation is not identity."""
+    t = (a.get('title', '') or '').lower()
+    if any(x in t for x in ('기아', 'kia ', 'kia-', 'kia“', 'kia"')): return 'kia'
+    if any(x in t for x in ('현대모비스', 'hyundai mobis', 'mobis')): return 'mobis'
+    if any(x in t for x in ('현대차', '현대자동차', 'hyundai motor')): return 'hyundai'
+    return ''
+
+def verified_same_event(a, b):
+    """Only a defensible same-event match may generate a prior/scrap link."""
+    aa, bb = event_actor(a), event_actor(b)
+    if aa and bb and aa != bb:
+        return False
+    ka, kb = topic_key(a), topic_key(b)
+    if ka == kb:
+        return True
+    return same_day_issue(a, b)
+
+def clean_unverified_links(a, history, scraps):
+    """Discard inherited follow-up and scrap metadata when the linked event is wrong."""
+    a = dict(a)
+    follow = a.get('follow_up')
+    if isinstance(follow, dict) and follow.get('title') and not verified_same_event(a, follow):
+        a.pop('follow_up', None)
+        a.pop('new_information', None)
+        a['news_relation'] = '신규 뉴스'
+    scrap = a.get('scrap_relation')
+    if isinstance(scrap, dict) and scrap.get('title') and not verified_same_event(a, scrap):
+        a.pop('scrap_relation', None)
+    if not a.get('follow_up') and a.get('news_relation') == '후속보도':
+        a['news_relation'] = '신규 뉴스'
+    return a
+
 def scrap_relationship(a,scraps):
     """Conservative, explainable matching based on event anchors or title entities."""
     at=set(title_terms(a.get('title','')))
@@ -84,7 +117,7 @@ def scrap_relationship(a,scraps):
         if a.get('id') and a['id']==old.get('id'):continue
         bt=set(title_terms(old.get('title','')))
         shared=at & bt
-        if len(shared)<2:continue
+        if len(shared)<2 or not verified_same_event(a, old):continue
         overlap=len(shared)/max(1,min(len(at),len(bt)))
         if overlap<0.5:continue
         same_event=bool(event_anchor(a) and event_anchor(a)==event_anchor(old))
@@ -320,7 +353,7 @@ def editorial_score(a):
     if a.get('scrap_relation'): score += 22 if a['scrap_relation']['type']=='후속보도' else 12
     return score
 
-ANALYSIS_VERSION = 'event-first-v10-interest-ranking-20261030'
+ANALYSIS_VERSION = 'event-first-v10-1-verified-links-20261030'
 
 WORK_PERSPECTIVE_RULES = (
     "업무 뉴스는 자동차 산업·CKD·물류 동향을 파악하는 브리핑이다. 모든 기사를 CKD와 연결할 필요가 없다. "
@@ -741,12 +774,12 @@ def history_candidates(a, history):
         current=set(title_terms(a.get('title','')))
         previous=set(title_terms(old.get('title','')))
         return len(current & previous)>=2 and len(current & previous)/max(1,min(len(current),len(previous)))>=0.48
-    return [h for h in history if related(h)][:8]
+    return [h for h in history if related(h) and verified_same_event(a, h['article'])][:8]
 
 
 def same_issue_prior(a,history):
     key=topic_key(a)
-    return [h for h in history if topic_key(h['article'])==key or same_day_issue(a,h['article'])][:5]
+    return [h for h in history if verified_same_event(a,h['article'])][:5]
 
 def strict_issue_prior(a,history):
     return same_issue_prior(a,history)
@@ -1053,6 +1086,7 @@ def main():
         merged.append(a if a.get('ai_summary') else fallback([a])[0])
     # If AI review failed to produce a result for an article, it is retained by
     # ai_editorial_review; only explicit 'repeat' findings are omitted.
+    merged = [clean_unverified_links(a, history, scraps) for a in merged]
     for a in merged:
         a.pop('group_members', None)
         a.pop('integration_signature_candidate', None)
@@ -1077,7 +1111,7 @@ def main():
             for item in loser.get('related_articles',[]):
                 if item.get('url') and item['url']!=winner.get('url') and not any(x.get('url')==item['url'] for x in links):links.append(item)
             grouped[k]=winner
-    merged=list(grouped.values())
+    merged=[clean_unverified_links(a, history, scraps) for a in grouped.values()]
     merged.sort(key=lambda a:a.get('published',''), reverse=True)
     new_items = [a for a in chosen if a['id'] not in old_map]
     # Retain newly completed summaries even if the public selection changes later.
