@@ -1,9 +1,452 @@
 {
   "date": "2026-10-30",
-  "updated_at": "2026-10-30T07:27:00.931261+09:00",
-  "article_count": 4,
+  "updated_at": "2026-10-30T12:30:57.825182+09:00",
+  "article_count": 15,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "81c42408224562",
+      "title": "현대모비스 “11월 아틀라스용 액추에이터 시제품 공급” - 금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPeGZ4LVlJWGpLTmFRUXBJV0djdEE0NEVjMHZ3SGN5eV85eW1LMkFVVHZFdDdOQklrb1lKalpaMW1FNEpscnA3OERLek5NWk5jdzFONEZNMmhQbmJfQVVaQ1VCazBoX0hXcDJxd0RNLVpsQnNoYUpkZ2Joa08?oc=5",
+      "source": "금융신문",
+      "published": "2026-10-30T11:56:54+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 “11월 아틀라스용 액추에이터 시제품 공급” 금융신문",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 11월 중 아틀라스 프로젝트용 액추에이터 시제품을 공급할 예정이라고 밝혔다. 이는 현대모비스의 신규 부품 개발 및 공급 역량을 보여주는 사례다.",
+      "impact": "현대모비스의 신규 부품 공급은 향후 관련 모듈 및 CKD 포장 물량 변화 가능성을 시사하므로, 해당 부품의 양산 전환 시점과 물류 영향을 모니터링할 필요가 있음.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대모비스의 신규 프로젝트인 아틀라스 관련 부품 개발 및 공급 일정.",
+        "key_points": [
+          "11월 아틀라스용 액추에이터 시제품 공급 예정",
+          "현대모비스의 신규 수주 및 부품 포트폴리오 확대"
+        ],
+        "what_to_watch": "시제품 공급 이후 실제 양산 계약 체결 여부 및 공급 규모.",
+        "fact_check": "11월 공급 일정의 실제 이행 여부 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "11c902bed1146c1a",
+      "image_url": ""
+    },
+    {
+      "id": "19cb0e78d7d1b2",
+      "title": "현대모비스, 핵심부품 수주 부진 '美 섀시모듈'로 만회한다 - 블로터",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JS08zdVcwX3lWcHVaaFN6Z0dQR09uanRiR1AyekM5OWxBVGxGQnJvbW9pT3hMX28tSUlRSDU2RTJXTERSdkM4cjlxeVc5aTZwQVJDTEVwcTcxTUMxQ1RKZGhSVlRFaUwx0gFsQVVfeXFMTUMzaWs5aGttWlE5WHI1RGk5UXF6NXdBc0RYMjJhZEdJQkVqa0xSTlZyc3ZwQ2lVUFdTa2Ria1F3a0c2QmNVU3FIa0YyNWdub0VwNzV6WWhxb0JHa0ZFb2JHR2Nsa0dnQkE0SGFq?oc=5",
+      "source": "블로터",
+      "published": "2026-10-30T11:46:46+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 핵심부품 수주 부진 '美 섀시모듈'로 만회한다 블로터",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 핵심 부품 수주 부진을 만회하기 위해 미국 시장 내 섀시 모듈 사업을 강화하고 있다. 북미 지역에서의 모듈 공급 역량을 통해 수익성을 방어하려는 전략이다.",
+      "impact": "북미 섀시 모듈 사업은 현대모비스의 해외 거점 물류 및 CKD 공급망 운영에 직접적인 영향을 미치는 핵심 요소임.",
+      "importance": "높음",
+      "detail": {
+        "background": "핵심 부품 수주 실적 둔화에 따른 사업 구조 재편 및 지역별 전략.",
+        "key_points": [
+          "핵심 부품 수주 부진 대응책 마련",
+          "미국 시장 섀시 모듈 사업 비중 확대"
+        ],
+        "what_to_watch": "북미 지역 모듈 공급 물량 변화 및 수익성 개선 여부.",
+        "fact_check": "수주 부진의 구체적 수치 및 섀시 모듈 매출 비중 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "736a381f31c80589",
+      "image_url": ""
+    },
+    {
+      "id": "bb79f5b0b4232e",
+      "title": "현대모비스, 모듈·핵심부품 흑자 이어가…로보틱스 투자 확대 - 더트래커",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fUnRkMzZHZ3BEdTFVSl85TFhkLXRwZEtVU1dtd05QNTdnS2tWSFV2RGJmWjhWVkxMRGRTTHZGRm10SUUxLXlMdXcwWC0tMHVaWkRSRVZHT0Q?oc=5",
+      "source": "더트래커",
+      "published": "2026-10-30T11:23:08+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 모듈·핵심부품 흑자 이어가…로보틱스 투자 확대 더트래커",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 모듈 및 핵심 부품 사업 부문에서 흑자 기조를 유지하며 로보틱스 분야에 대한 투자를 확대하고 있다. 본업의 수익성을 바탕으로 미래 모빌리티 기술 확보에 집중하는 모습이다.",
+      "impact": "모듈 사업의 흑자 기조는 안정적인 CKD 운영 및 인프라 투자를 뒷받침하는 재무적 기반이 됨.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대모비스의 사업 부문별 실적 및 미래 성장 동력 투자 전략.",
+        "key_points": [
+          "모듈 및 핵심 부품 사업 흑자 유지",
+          "로보틱스 분야 투자 확대 결정"
+        ],
+        "what_to_watch": "로보틱스 투자 성과가 기존 모듈 사업과 어떻게 시너지를 낼지 여부.",
+        "fact_check": "로보틱스 투자 규모 및 구체적 로드맵 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "56ad90f8630537f8",
+      "image_url": ""
+    },
+    {
+      "id": "018d106343d472",
+      "title": "“아틀라스 부품 시제품 생산 임박”…현대모비스, 3Q 영업익 17.2% 증가 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlSTRDTk9ZVlNnaVlNMFRZRVRib1pXc3pRN3hjVDhZT2pQYk9uclN4V05WU1pCVW5mTkhPS3VBcWdFYnFoYy1ldFU0OGtmNVlpaXNhZkt3?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-30T11:18:17+09:00",
+      "category": "관심 키워드",
+      "description": "“아틀라스 부품 시제품 생산 임박”…현대모비스, 3Q 영업익 17.2% 증가 매일경제",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스의 3분기 영업이익이 전년 동기 대비 17.2% 증가했다. 아틀라스 부품 시제품 생산이 임박했다는 소식과 함께 실적 개선세가 확인되었다.",
+      "impact": "영업이익 증가는 현대모비스의 전반적인 운영 효율성 개선을 의미하며, 향후 신규 프로젝트 투자 여력에 긍정적 영향을 미칠 것으로 판단됨.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대모비스의 3분기 경영 실적 발표 및 신규 프로젝트 진행 상황.",
+        "key_points": [
+          "3분기 영업이익 17.2% 증가",
+          "아틀라스 부품 시제품 생산 임박"
+        ],
+        "what_to_watch": "실적 개선세가 4분기 및 차년도까지 이어질지 여부.",
+        "fact_check": "영업이익 증가율 및 실적 공시 내용 확인."
+      },
+      "new_information": "3분기 영업이익 17.2% 증가 사실 확인.",
+      "source_comparison": "81c42408224562 기사와 아틀라스 부품 관련 내용이 중복되나, 실적 수치가 추가됨.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "2235f1968a5dd820",
+      "image_url": ""
+    },
+    {
+      "id": "b86fc1627afb47",
+      "title": "현대모비스, 분기 영업익 1조원 시대 눈앞…로봇 사업 본격화(종합) - 경제 | 기사 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQb2QxLWtTTW5hYjc0RV9XeE1PV2dIcDBjU2pJMW95bDFPaXQ5QjZMZ2FGNFNPeUxLanFZR2xhVzVhOFpKLTNFR1JRQ21ITHFHakJjNW9ZRjVGdw?oc=5",
+      "source": "더팩트",
+      "published": "2026-10-30T11:17:02+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 분기 영업익 1조원 시대 눈앞…로봇 사업 본격화(종합) - 경제 | 기사 더팩트",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 분기 영업이익 1조 원 달성을 눈앞에 두고 있으며, 기존 핵심 부품 사업 외에 로봇 사업을 본격화하고 있습니다. 전동화 및 전장 부품 중심의 수익성 개선이 실적 성장을 견인하고 있는 것으로 분석됩니다.",
+      "impact": "현대모비스의 전사적 수익성 개선과 신사업 추진은 향후 CKD 포장 인프라 및 물류 자동화 기술 도입을 위한 투자 여력과 전략적 방향성에 영향을 줄 수 있습니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대모비스는 전동화 부품의 매출 비중 확대와 고부가가치 전장 제품의 판매 호조로 실적 개선세를 보이고 있습니다. 또한 미래 모빌리티 시장 대응을 위해 로봇 및 자율주행 관련 기술 투자를 강화하고 있습니다.",
+        "key_points": [
+          "분기 영업이익 1조 원 달성 가시화",
+          "전동화 및 전장 부품 사업의 수익성 강화",
+          "로봇 사업 본격화를 통한 신성장 동력 확보"
+        ],
+        "what_to_watch": "로봇 사업 관련 구체적인 투자 규모 및 CKD 물류 현장 적용 가능성 여부",
+        "fact_check": "기사 제목과 발췌문에는 구체적인 영업이익 수치나 로봇 사업의 세부 로드맵은 명시되지 않음"
+      },
+      "ai_summary": true,
+      "source_comparison": "",
+      "image_url": ""
+    },
+    {
+      "id": "c8ca4c448983fa",
+      "title": "현대모비스 '아틀라스' 핵심부품 만든다…로봇 분야로 사업확장 - 뉴스;트리",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OSWV1am14Zy1JMTFEY0RSREhEeTJYdE4tRGlrZGE5di0xRG1nNGtSTkFGUnhScUR0VjJtOE96ejViT3dBSDZsNVdOMkVhOU1aLU9hWUJiSUlvN19W?oc=5",
+      "source": "뉴스;트리",
+      "published": "2026-10-30T11:03:52+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스 '아틀라스' 핵심부품 만든다…로봇 분야로 사업확장 뉴스;트리",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 로봇 분야로 사업 영역을 확장하며 보스턴 다이내믹스의 휴머노이드 로봇 '아틀라스'의 핵심 부품을 생산할 계획이다. 이번 결정은 현대모비스가 기존 자동차 부품 제조 역량을 로봇 산업으로 전이하려는 전략적 행보로 풀이된다.",
+      "impact": "현대모비스의 로봇 부품 사업 진출은 기존 자동차 부품 중심의 포트폴리오 다변화를 의미하며, 향후 로봇 관련 부품의 공급망 및 생산 인프라 구축 방향을 주시할 필요가 있다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대모비스는 자동차 부품 제조 기술을 바탕으로 신성장 동력을 확보하기 위해 로봇 산업 진출을 추진해 왔다. 보스턴 다이내믹스와의 협업을 통해 휴머노이드 로봇 핵심 부품의 양산 체계를 구축하려는 것으로 보인다.",
+        "key_points": [
+          "현대모비스, 로봇 분야로 사업 영역 확장",
+          "휴머노이드 로봇 '아틀라스' 핵심 부품 제조 담당",
+          "자동차 부품 제조 역량을 로봇 산업에 접목"
+        ],
+        "what_to_watch": "로봇 부품 생산을 위한 구체적인 설비 투자 계획 및 양산 시점",
+        "fact_check": "제공된 RSS 정보에는 구체적인 부품 명칭이나 생산 규모, 투자 금액은 명시되지 않음"
+      },
+      "ai_summary": true,
+      "source_comparison": "",
+      "image_url": ""
+    },
+    {
+      "id": "fabdcf24432553",
+      "title": "현대모비스, 3Q 영업익 9천141억…내년 아틀라스 액추에이터 시제품 생산 - 연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84QVV6VVhwVDJIYnpxd29kVm1maUhGajNldUduYm5hSG5MamFqUVYtMWRrWUFwS2QxZ0FqOEV1aTdIbzZwMk4ydzNXNmNPQm5uNFlfY1BjLVRTdDltemJhUlk4VEF4LVc5ZlFVSmNHR1E?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-10-30T10:40:54+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 3Q 영업익 9천141억…내년 아틀라스 액추에이터 시제품 생산 연합인포맥스",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 2026년 3분기 영업이익 9,141억 원을 기록했다고 발표했다. 또한, 내년 중 아틀라스(Atlas) 액추에이터 시제품 생산을 시작할 계획임을 밝혔다.",
+      "impact": "현대모비스의 신규 전동화 부품인 아틀라스 액추에이터 개발 및 생산 계획은 향후 관련 부품의 CKD 공급망 및 포장 사양 변화 가능성을 시사함.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대모비스는 전동화 부품 포트폴리오를 확대하고 있으며, 이번 발표는 차세대 구동 시스템 관련 부품의 상용화 단계를 보여줌. 3분기 실적은 회사의 전반적인 경영 성과를 반영함.",
+        "key_points": [
+          "2026년 3분기 영업이익 9,141억 원 달성",
+          "내년 아틀라스 액추에이터 시제품 생산 예정"
+        ],
+        "what_to_watch": "아틀라스 액추에이터의 양산 시점 및 적용 차종, 이에 따른 CKD 부품 물류 및 포장 공정의 변경 여부.",
+        "fact_check": "기사 발췌문에는 3분기 영업이익과 시제품 생산 계획만 언급되어 있으며, 구체적인 생산 물량이나 공급처는 명시되지 않음."
+      },
+      "ai_summary": true,
+      "source_comparison": "",
+      "image_url": ""
+    },
+    {
+      "id": "91569fbf9fa702",
+      "title": "현대모비스, 3분기 영업익 9141억·17.2%↑…휴머노이드 부품 본격 양산 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nV1pycjhfQkxsMnJRbHktdmZRQ01lTV9FNkxzc2pwaGZmcHFZUXNkODlINlB5cUNtRWw3eEVjc3FpdzJNT25MOERITlhBUQ?oc=5",
+      "source": "전자신문",
+      "published": "2026-10-30T10:16:17+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 3분기 영업익 9141억·17.2%↑…휴머노이드 부품 본격 양산 전자신문",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [
+        {
+          "title": "현대모비스, 3분기 영업익 17.2% ↑…“내달 액추에이터 시제품 생산” - 아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMRENOb19ONHJZS3VtY1hkMExmTXpwUkFoSXFfcUNLeE13dkpaUXAwemdkZW8tRkZLZTBsckhFWlVKT1d2bWhoUElNQUw0RnJhSWJIODJBcmpndUdRMDNlSi10X0NxcUhkbXpMLW5n?oc=5",
+          "source": "아시아투데이",
+          "published": "2026-10-30T09:54:30+09:00"
+        },
+        {
+          "title": "현대모비스, 3분기 영업익 17.2% 증가한 9141억…“내달 아틀라스용 액추에이터 시제품 생산” - 서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mb190N0VwT05HMFduSzFid1B2Y3FQRnZQSUN5LVZtcDM5c0p6QlUzcklQcHVadGpSWlM3dVRrYmtid0VQY25FM2NKeTF2LUZzVUHSAVNBVV95cUxOcW5jT2N0T3ZZclFVLWg0V045aU9JbUdTa05tYjY1bE4yTkRTVUZod2lacW1uMzY5aW1DeWgxa0VpVzdLeXBBS0dLMXhNNGNzMENyUQ?oc=5",
+          "source": "서울경제",
+          "published": "2026-10-30T10:10:02+09:00"
+        },
+        {
+          "title": "현대모비스 올 3분기 영업익 17.2%↑…“다음달 휴머노이드 아틀라스 관절 부품 시제품 생산” - 경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52dHF0aUpBdUxfbHVNYTM2UWV5cXR3dXl6X1ZyUEg1NGtxV2hNUi1QcVc1cEZUWlA5NFc3Q0dMNnNYWVF2WVREUlFJZEVKMU5OY085N0pGT0RZUdIBX0FVX3lxTE9rR0pqSzFxMkFRQ2pyUjZDSWhKUjhyU2RfSlptNWVIdnY5R0x1aGoxWXFTazJ5eE5lT2lIWG1MVXdsaGVtSENBZ21tblZEckcwV3FmWUhXbm5zekdpV2pR?oc=5",
+          "source": "경향신문",
+          "published": "2026-10-30T10:29:00+09:00"
+        },
+        {
+          "title": "현대모비스, 3분기 영업익 9141억…11월 아틀라스 부품 시제품 생산 - www.ebn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoUzhvWDZuSFk4QV9DWE9kdjhtb3p5MWhnbUJWVXNSM2VmLWpoX1U2QUM5QVd5c1M5dGxsLS04R3RlRE91ZkZWTnAzbTMwdWpQbkZkYnp6TkxSOWRRdXBFZEduNDRiVVBj?oc=5",
+          "source": "www.ebn.co.kr",
+          "published": "2026-10-30T10:09:51+09:00"
+        },
+        {
+          "title": "현대모비스, 3분기 영업익 17.2%↑…내달 아틀라스 부품 시제품 생산 - 머니투데이 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mbXdxY3B0VlhsNDFEUUtPZlNTdEZyQTE0SHJac1I5bjBGTW9lYjE3R2NnSW12d0ZOUzJsWU82M3R4Q01ObjRwYjdBTlpOd0RTUzNzd3pfMVBORVM1dHFXdDFrYWpkRWdVUDBPU9IBckFVX3lxTE13Z2pPSjVWVDdpNGE3RkxrYlZPVXhPZFVGZ2w5VkY0WFdKdVRYalFlRnNleGZWbUFJTUFLMnozSzh1T25DT0NDNEpjUDBxVkxHR0J6TndjZTlTbE9DVlNFX2VPYnpjUHRySEh2TGtOZ21qZw?oc=5",
+          "source": "머니투데이",
+          "published": "2026-10-30T10:08:15+09:00"
+        },
+        {
+          "title": "현대모비스 3분기 영업이익 9141억 17.2% 늘어, \"로봇 부품 사업 확대\" - 비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oWURvWnNBV1U3MEM1cmRHWVg2VFd3b3BHVVJabTVxWVZhMzRoRlJFRXAzSEl6OXdoLXY3RVJZck5RYm90OWpYZmphM0Jta3IzajVyMkZUMm1SSzBJLTIxcS1lQURxQjgwX2xQS2pqOU94Mmc?oc=5",
+          "source": "비즈니스포스트",
+          "published": "2026-10-30T10:34:46+09:00"
+        },
+        {
+          "title": "“휴머노이드 로봇 부품 사업 속도”..현대모비스, 3분기 영업익 9141억원 기록 - 데일리카",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zbXlqWWxac0hDb0JFb1FJS2ZNM0cxcXN1TEp5Ml9aallDQTRhNDB4SzBkYWVxM3JyNEFOUVJGVGFudXRlZzdtNDZHNXEyTnpYRl9OTkpFQzJRMWptQW10T3owcEdPcjdmcnh2dGNIT0ZUVERFRmc?oc=5",
+          "source": "데일리카",
+          "published": "2026-10-30T12:06:25+09:00"
+        },
+        {
+          "title": "현대모비스, 3분기 영업익 9141억원 17%↑ … 로봇 핵심부품 사업 본격화 - 뉴데일리",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YMWgtNXRUUGdQb3dTU3VkMDAyTm90MmhVRUJxRzRfN29pSU5MSDRNMC1EbGRUSG1WMVhRYnRVRnRFbUtINjBQazZuYmZxb2dGSGZZVDRXTVluT1R6bkxMVjNiYWw2d3hUeDNuMGV5NXMySnJkZkpUeXdDb9IBgAFBVV95cUxOSG85OXhfeFBvOUlYbURjalFTbWNxVDUyd3h0TTNvXzNzbm1BXzZiYTBjY2hnOHVDZ3VpTEZ3R0ZsVG53Zk5uQ2Z0WUFURmlWYnMzNmhIX1pYcm1XSE01bzdWWkVucVNqRnVRX2RUeGN2YW0weVA2UG1LbktOc0lxcA?oc=5",
+          "source": "뉴데일리",
+          "published": "2026-10-30T10:28:00+09:00"
+        },
+        {
+          "title": "현대모비스, 내달 아틀라스 부품 시제품 생산…3분기 영업익 17.2% 증가 - 스마트투데이",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jZE92MmtDaThkVVctdlBLbFBvMzRVdTBfWHdXaVdGUkxwT3RndW1nYVVEbk5JWGZMbV9GMUVfMTMwU3RxaVRHTU5QQ2VkQVJuRnJXNmE0S0piUjN2TXVN?oc=5",
+          "source": "스마트투데이",
+          "published": "2026-10-30T10:03:00+09:00"
+        },
+        {
+          "title": "현대모비스, 3분기 영업익 17% 증가…내달 ‘아틀라스’ 부품 시제품 생산 - 조선일보",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6ejdqT010RFdYODlmdWlWc0ZhU3RleXFkQm5Hb21CRjlQZ3Vub1kwVGVYMTd5dVF5aTlySGF3Y3hkSUFSS1I4NkhDeUxReHZKcThBZTFsWTlOQlRaMzhoamJQbTdCX21hTTVkbXlfSUlUN1pCRW4xQ2NnRTFtUXM?oc=5",
+          "source": "조선일보",
+          "published": "2026-10-30T10:36:00+09:00"
+        },
+        {
+          "title": "현대모비스, 3분기 영업익 17%↑…아틀라스 핵심부품시제품 생산(종합) - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MVWcyZDZnT3BMSlhEQWdXdGtMYU5Zb1VhWWt4TWh0NTNjMURzSmxKNlpYa0FBUUE5N0dqaU42cDZGOXBTeTMzYWx0TGd3OGFCRkZuLTRiYkZ1QjhCZHZZatIBYEFVX3lxTE5MVWcyZDZnT3BMSlhEQWdXdGtMYU5Zb1VhWWt4TWh0NTNjMURzSmxKNlpYa0FBUUE5N0dqaU42cDZGOXBTeTMzYWx0TGd3OGFCRkZuLTRiYkZ1QjhCZHZZag?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-10-30T10:08:39+09:00"
+        },
+        {
+          "title": "현대모비스, 3분기 영업익 9141억원…로봇 핵심부품 사업 본격화 - 서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwQ3VNN1N4RFp3ckg2LWdxU3hXclR6ZVZ2WjBKWnhGTGNoTURPTjdOcmhWX2RheGp2bExzQWluZmgxOERNTGpaOG5IX0lkcFlHelN0QlVGZ0ZDM1Awel9KRGxxOVU?oc=5",
+          "source": "서울경제TV",
+          "published": "2026-10-30T10:15:03+09:00"
+        },
+        {
+          "title": "현대모비스 3분기 영업익 17%↑…“11월부터 아틀라스 관절 시생산” - 대한경제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92c1ZuWHBoQkdzNm0xRTRBb1N2S29aLTMtanY3SHFCaVRhS3F5SDdmaTJOZm94bTduWDNzaEZmdGRjQ1JZSWhiS1puWmtfWXZxcVA2X1ZEMnNqSmVDVHp2emdjWHc0aURqekZ4YXNIMmJOYk42?oc=5",
+          "source": "대한경제",
+          "published": "2026-10-30T10:10:51+09:00"
+        },
+        {
+          "title": "현대모비스, 3분기 영업익 9,141억원…\"로보틱스 부품 확대\" - 연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UWNibG1ZYURveHJrRmZLaXBaTmI4Y3RhdEJsemU4RF9pYUdtV0Y1ZFBZWXB2VUZhaTVvVWp0TG01eURGZVM0Y1RlekhzWWZiZTlXWkRYc21SWHY4QVFiTUNNVGllUkU?oc=5",
+          "source": "연합뉴스TV",
+          "published": "2026-10-30T10:20:00+09:00"
+        },
+        {
+          "title": "현대모비스, 3분기 영업익 17%↑…아틀라스 부품 시제품 생산 - SBS Biz",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rVXFRLXRnY09JSWJXZkxQcUF3bzB6OEdNTGh4RFUzbk9pcFhhTHVZbThsYm5qOFVEUjFISmJUU1pkcGZPdkdRM2hmcHIyeHYtT0hz0gFYQVVfeXFMT3IybHBJYlkyOFRMbG40WTV1SkYxN0NLc2E0ZHM2bTFQT3NRX3ItRmU2NFlWZURnb2NmOWNvSmwyQVp2eUN3N3p2aEN2amlZcXM2OFkyWGZLSA?oc=5",
+          "source": "SBS Biz",
+          "published": "2026-10-30T10:14:00+09:00"
+        },
+        {
+          "title": "현대모비스, 3분기 영업익 9141억원…로봇 부품 사업 본격화 - 뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzUGtPYUNLLTBiUHlXMHJYN1pXM1A1Mjl2VlNjQ3Z3eWdXV3h3LTgxUkNqcDEtUk9UUjAxTzk5X3lTS2wzTWtXZEViZTJYcFJuQmxoRXBOaVMyS3Ax?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-10-30T09:58:00+09:00"
+        },
+        {
+          "title": "현대모비스, 3분기 호실적 \"모빌리티·로봇 융합으로 장기 성장 이어간다\" - 오피니언뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FYUlkSW9Ec3gwSm5kRkM1dE4xUmRPY012Tzl6R3Nyb3dkX29ZZmRSN09CMEh5RkxZVnhzZTBNS3JXS3RDRnR5NWZKQ0JPQm5VeUVsMTJYWnN6ZUdINFNJWDdzOWFMZ3NEU1lvb2JMYTlNdw?oc=5",
+          "source": "오피니언뉴스",
+          "published": "2026-10-30T11:32:15+09:00"
+        }
+      ],
+      "summary": "현대모비스가 2026년 3분기 영업이익 9,141억 원을 기록하며 전년 동기 대비 17.2% 성장했습니다. 실적 발표와 함께 보스턴다이내믹스의 휴머노이드 로봇 '아틀라스'에 탑재될 관절 구동용 액추에이터 시제품을 다음 달부터 생산할 계획임을 밝혔습니다.",
+      "impact": "전장 부품 및 로봇 구동 시스템으로의 사업 다각화는 기존 자동차 부품 중심의 포트폴리오를 확장하는 전략적 행보입니다. 향후 로봇용 핵심 부품의 양산 체계 구축이 현대모비스의 미래 모빌리티 기술 경쟁력에 미칠 영향이 주목됩니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대모비스는 기존 자동차 부품 사업 외에 로봇 및 미래 모빌리티 분야로의 사업 확장을 추진 중이며, 그룹사 차원의 로봇 기술 역량을 강화하고 있음.",
+        "key_points": [
+          "2026년 3분기 영업이익 9,141억 원 달성 (전년 동기 대비 17.2% 증가)",
+          "휴머노이드 로봇 '아틀라스'용 관절 액추에이터 개발 및 11월 시제품 생산 착수",
+          "로봇 핵심 부품 사업 본격화를 통한 미래 성장 동력 확보"
+        ],
+        "what_to_watch": "11월 예정된 액추에이터 시제품 생산의 성공 여부와 향후 로봇 부품 사업의 매출 기여도 및 양산 확대 계획.",
+        "fact_check": "3분기 영업이익 9,141억 원 및 11월 시제품 생산 계획은 공식 실적 발표를 통해 확인된 사실임."
+      },
+      "new_information": "3분기 영업이익 9,141억 원(전년 동기 대비 17.2% 증가) 확정 및 11월 아틀라스용 액추에이터 시제품 생산 일정 구체화.",
+      "source_comparison": "대부분의 매체가 3분기 영업이익 9,141억 원과 11월 아틀라스 액추에이터 시제품 생산 계획을 동일하게 보도함.",
+      "news_relation": "후속보도",
+      "follow_up": {
+        "date": "2026-10-18",
+        "title": "車부품 수익성 제자리 … 현대모비스, 3분기도 AS사업이 실적 떠받친다 - 뉴데일리",
+        "summary": "현대모비스의 3분기 실적이 본업인 자동차 부품 사업의 수익성 정체로 인해 AS 사업 부문에 크게 의존하고 있는 것으로 나타났다. 완성차 업계의 부품 수요 변화와 수익성 구조가 실적에 직접적인 영향을 미치고 있다.",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0E4YTE2bFl0WVVoYUhMcGJoMzVhb09fVWhXVmk2cERsbHh0LTkzTXFOQmVBMjNaQ3piMWl2Y0VxQW4tY1ZjMmk3WDhMQkRJal95eE00d0xYd2pFRnhNcmd5S2xLMjExMFUyc3QzYlVaeEhibWFYWHJNT3lRYzlyTNIBgAFBVV95cUxOX0E4YTE2bFl0WVVoYUhMcGJoMzVhb09fVWhXVmk2cERsbHh0LTkzTXFOQmVBMjNaQ3piMWl2Y0VxQW4tY1ZjMmk3WDhMQkRJal95eE00d0xYd2pFRnhNcmd5S2xLMjExMFUyc3QzYlVaeEhibWFYWHJNT3lRYzlyTA?oc=5"
+      },
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a62d13874e606120",
+      "image_url": ""
+    },
+    {
+      "id": "259ee8552a7bee",
+      "title": "현대모비스, 3Q 영업익 9141억원 전년비 17.2%↑…\"내달 휴머노이드 액추에이터 시제품 생산\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETWczVUtobjlPZ2t1WXh5VHhzMlBYTzVWSnlHRDRNcm1kRG9oOE1RLTR4a291UkQ1WFBGU0NLZG9fcnhtbHNrQ1c2Q3FhOXVGLXVBY1p0TmZvd3F3MHdiYmE5cHpSeWpCbEZ1TUpyTDlPMFhQeUMzU9IBeEFVX3lxTE5ETWczVUtobjlPZ2t1WXh5VHhzMlBYTzVWSnlHRDRNcm1kRG9oOE1RLTR4a291UkQ1WFBGU0NLZG9fcnhtbHNrQ1c2Q3FhOXVGLXVBY1p0TmZvd3F3MHdiYmE5cHpSeWpCbEZ1TUpyTDlPMFhQeUMzUw?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-30T10:09:18+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 3Q 영업익 9141억원 전년비 17.2%↑…\"내달 휴머노이드 액추에이터 시제품 생산\" 뉴시스",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 3분기 영업이익 9,141억 원을 기록하며 전년 동기 대비 17.2% 성장했습니다. 또한, 신사업 분야인 휴머노이드용 액추에이터 시제품 생산을 다음 달부터 시작할 계획이라고 밝혔습니다.",
+      "impact": "전동화 및 로보틱스 부품으로의 사업 다각화가 진행 중이며, 향후 모듈 및 핵심 부품 공급망 전략에 미칠 영향을 모니터링할 필요가 있습니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대모비스의 3분기 실적 발표 및 미래 모빌리티 기술 로드맵 공개.",
+        "key_points": [
+          "3분기 영업이익 9,141억 원 달성 (전년비 17.2% 증가)",
+          "휴머노이드 로봇용 액추에이터 시제품 생산 내달 착수",
+          "전동화 부품 및 핵심 부품 중심의 수익성 개선"
+        ],
+        "what_to_watch": "휴머노이드 액추에이터의 양산 시점 및 로봇 부품 시장 진입 성과.",
+        "fact_check": "영업이익 수치 및 신사업 계획의 공식 발표 여부 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "d859d555eb718193",
+      "image_url": ""
+    },
+    {
+      "id": "675ef858b13c63",
+      "title": "모빌리티 글로벌, 중국 완성차 해외 진출과 글로벌 자동차 산업 영향 분석 발표 - 다나와 자동차",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90UzZVVHYxMkZJYnlGd3VxTGstdkVRUlAzN3dsOXFLTU4xMmg0V0xtOTFDNlduajRYM09jRW5qODV2UnRDd2dabGE5M05BS3Q4UEtfakZ1WURia3VHbk91SDJud1BqSjhlNnc?oc=5",
+      "source": "다나와 자동차",
+      "published": "2026-10-30T09:10:54+09:00",
+      "category": "자동차",
+      "description": "모빌리티 글로벌, 중국 완성차 해외 진출과 글로벌 자동차 산업 영향 분석 발표 다나와 자동차",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "모빌리티 글로벌이 중국 완성차 업체의 해외 진출 가속화가 글로벌 자동차 산업에 미치는 영향에 대한 분석 보고서를 발표했습니다. 중국 브랜드의 수출 확대가 시장 경쟁 구도에 변화를 줄 것으로 전망됩니다.",
+      "impact": "중국 완성차의 글로벌 점유율 확대는 기존 완성차 업체들의 수출 전략 및 CKD 물류 경로 경쟁에 간접적인 영향을 미칠 수 있는 산업 동향입니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "중국 자동차 제조사들의 공격적인 해외 시장 진출에 따른 산업 영향 분석.",
+        "key_points": [
+          "중국 완성차 업체의 해외 진출 전략 분석",
+          "글로벌 자동차 시장 내 경쟁 심화 전망"
+        ],
+        "what_to_watch": "중국 브랜드의 주요 수출 거점 및 현지 생산 전략 변화.",
+        "fact_check": "보고서의 주요 분석 내용 및 근거 데이터 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "d181359d88cdfb23",
+      "image_url": ""
+    },
+    {
+      "id": "fd68512f83c3f2",
+      "title": "현대차, 판매량 11% 줄어도 이익 늘었다…불황 속 돋보인 방어력-IBK - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYi1yUzNKbVBKamNfaWR4RUpkcE9wUk04NDlJdWJGc2tELTFuZi1HWkhETTVHMkdnc1JiU2pZbTlmaDM2MTZZREwyWFg3RXpRZmRQbGpiRlE3VHBoVVBqcmhBUUJqV0hpNU5YaFhLNXE3b19QNy1vRUdnLW9ObGdpbQ?oc=5",
+      "source": "이데일리",
+      "published": "2026-10-30T07:49:33+09:00",
+      "category": "자동차",
+      "description": "현대차, 판매량 11% 줄어도 이익 늘었다…불황 속 돋보인 방어력-IBK 이데일리",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차가 판매량 감소에도 불구하고 고부가가치 차종 중심의 판매 전략을 통해 이익 방어에 성공했습니다. IBK투자증권은 불황 속에서도 현대차의 수익성 관리 능력이 돋보였다고 평가했습니다.",
+      "impact": "판매량 감소가 수익성으로 직결되지 않는 제품 믹스 개선 전략을 확인하며, 향후 생산 물량 조정 가능성을 주시해야 합니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차의 3분기 실적 및 판매량 감소에 대한 증권가 분석.",
+        "key_points": [
+          "판매량 11% 감소에도 영업이익 증가",
+          "고수익 차종 중심의 판매 믹스 개선 효과",
+          "불황기 수익 방어력 입증"
+        ],
+        "what_to_watch": "판매량 감소세 지속 여부 및 향후 생산 계획 조정.",
+        "fact_check": "판매량 감소 수치 및 증권사 분석 리포트 내용 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "ae53b85678b000bf",
+      "image_url": ""
+    },
     {
       "id": "8df2e67a1f74e9",
       "title": "파업에 치이고 판매량에 발목잡힌 현대차…7년만에 분기매출 역성장 - 매일경제",
@@ -14,11 +457,36 @@
       "description": "파업에 치이고 판매량에 발목잡힌 현대차…7년만에 분기매출 역성장 매일경제",
       "priority_markets": [],
       "section": "산업·업무",
-      "related_articles": [],
-      "summary": "현대자동차가 파업 여파와 글로벌 판매량 감소로 인해 7년 만에 분기 매출 역성장을 기록했습니다. 생산 차질과 수요 둔화가 실적에 직접적인 타격을 준 것으로 분석됩니다.",
-      "impact": "완성차 생산량 감소는 CKD 물량 및 부품 공급망 전반에 영향을 미칠 수 있으므로, 향후 생산 정상화 시점과 물량 회복 추이를 모니터링해야 합니다.",
+      "related_articles": [
+        {
+          "title": "파업에 치이고 판매량에 발목잡힌 현대차…7년만에 분기매출 역성장 - 매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mdUlsVzN3QVdwSGwzdmVwaDIzZlJQdjRPTU9CSzJmQi1GcF9yYTVaZW8xUGhycjlvaFhDWUxhN0J2RVhnekE?oc=5",
+          "source": "매일경제",
+          "published": "2026-10-30T07:06:39+09:00"
+        }
+      ],
+      "summary": "현대차가 파업과 판매량 부진의 영향으로 7년 만에 분기 매출 역성장을 기록했습니다. 생산 차질과 시장 수요 둔화가 실적에 직접적인 타격을 준 것으로 분석됩니다.",
+      "impact": "생산 차질은 CKD 공급망 및 물류 운영에 즉각적인 영향을 미칠 수 있으므로, 공장 가동률 회복 여부를 면밀히 확인해야 합니다.",
       "importance": "높음",
       "detail": {
+        "background": "현대차의 3분기 실적 부진 원인 분석.",
+        "key_points": [
+          "7년 만의 분기 매출 역성장 기록",
+          "파업으로 인한 생산 차질 발생",
+          "판매량 감소가 매출 하락의 주요 원인"
+        ],
+        "what_to_watch": "파업 종료 후 생산 정상화 속도 및 4분기 실적 회복 가능성.",
+        "fact_check": "매출 역성장 수치 및 파업 영향 규모 확인."
+      },
+      "new_information": "",
+      "source_comparison": "동일한 실적 발표를 두고 이익 방어 측면(이데일리)과 매출 역성장 측면(매일경제)에서 해석이 갈림.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "cb8794ab552e4d71",
+      "image_url": "",
+      "original_summary": "현대자동차가 파업 여파와 글로벌 판매량 감소로 인해 7년 만에 분기 매출 역성장을 기록했습니다. 생산 차질과 수요 둔화가 실적에 직접적인 타격을 준 것으로 분석됩니다.",
+      "original_detail": {
         "background": "현대차의 분기 실적 부진 원인 분석",
         "key_points": [
           "파업으로 인한 생산 차질 발생",
@@ -27,14 +495,7 @@
         ],
         "what_to_watch": "생산 정상화 시점 및 향후 분기 판매 회복 여부",
         "fact_check": "7년 만의 매출 역성장 여부 확인"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "3d88b6050a087f9a",
-      "image_url": ""
+      }
     },
     {
       "id": "69a98c6c9cbdb2",
@@ -69,6 +530,38 @@
       "image_url": ""
     },
     {
+      "id": "c2ccfb96a8c056",
+      "title": "미·중·러 정상회담 ‘얄타 2.0’ 열릴까…꺼림칙한 한·일 - 세상을 바꾸는 시민언론 민들레",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yaTZVa0tacnpLbERXU0JKLTdocTdqWTRGRlJscjlKUWNYQWNiS2xnZ25UeGV3RVIzYmIyeVFXcVFBWW9GbnpNS3FnVmJjeTV1YlR4RzZtQlNIdk9vWWdMRi1fRGYyUk1TWkpSTA?oc=5",
+      "source": "세상을 바꾸는 시민언론 민들레",
+      "published": "2026-10-29T20:55:00+09:00",
+      "category": "국제·외교",
+      "description": "미·중·러 정상회담 ‘얄타 2.0’ 열릴까…꺼림칙한 한·일 세상을 바꾸는 시민언론 민들레",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "related_articles": [],
+      "summary": "미·중·러 정상회담 가능성을 둘러싼 국제 정세 변화와 이에 따른 한·일 양국의 외교적 우려가 제기되고 있습니다. 강대국 간의 새로운 질서 재편 움직임이 동북아 안보 환경에 미칠 영향에 주목하고 있습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "미·중·러 간의 외교적 움직임이 과거 얄타 회담과 같은 강대국 중심의 질서 재편으로 이어질지에 대한 국제적 관심이 고조됨.",
+        "key_points": [
+          "미·중·러 정상회담 추진 가능성 제기",
+          "한·일 양국의 외교적 입지 및 안보 우려",
+          "강대국 중심의 국제 질서 재편 가능성"
+        ],
+        "what_to_watch": "주요국 정상회담의 실제 성사 여부 및 한반도 주변 안보 환경 변화",
+        "fact_check": "정상회담 추진설은 언론의 분석 및 전망 단계임"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "1433937fd0536c3d",
+      "image_url": ""
+    },
+    {
       "id": "eb79d19a108412",
       "title": "배터리 공장 몰린 헝가리 정권 교체에 韓·中 기업 긴장 - 지디넷코리아",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xdVRsWFJnS2EyVWhBMXF5c1hXNlRzSEpCUzh3VnlDcFZxRGh4cXlONU9kamppOTlRQnV1c1libUkyYjdoSFlJVXhyd0RXMG5KUWxYUGFR?oc=5",
@@ -98,51 +591,6 @@
       "ai_summary": true,
       "integrated_summary": true,
       "integration_signature": "4cd05dcea29fc7b0",
-      "image_url": ""
-    },
-    {
-      "id": "9cc8949ce60739",
-      "title": "현대차, 3분기 글로벌 판매 11.3% 감소…연간 판매·수익성 목표 하향 - 지피코리아",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80NmNyTjI4QjU3M0FBek9UcmNhVkxMajdIUjA0RU1MUkNOUGZCZHNxUXlQOE9kWkZ3REM1SDBOWlZjWkZjY2FTOGhWUEZQbWt1dzA5RHU2OFdMWDBLVlJqdHNVdE5jVHlKZEHSAW5BVV95cUxPVkg3d3VvTkVlcWk1SFNSb0VXVFQ4M1QwMVNOZHYtTm9pZUR5dXU4SzQyMlMyT0F2UkxEaW1Kb2dQU3lVTnFNTDVSR3JxRk1QTjVhS2E3b2xlQzBJdjkwckVkMjczNDZwU3ZsdDJEdw?oc=5",
-      "source": "지피코리아",
-      "published": "2026-10-29T19:08:16+09:00",
-      "category": "자동차",
-      "description": "현대차, 3분기 글로벌 판매 11.3% 감소…연간 판매·수익성 목표 하향 지피코리아",
-      "priority_markets": [],
-      "section": "산업·업무",
-      "related_articles": [
-        {
-          "title": "현대차·기아 3분기 실적 엇갈리나…영업이익 격차 800억원 아래로 - 충청메트로",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTENpbHhIREVhd3A3X1NwYmEyOHVSMHgxTWVULUdUSkRvWUlJY2w5WnMxQjRZVDc4c1R0bWduN0ZpWDRBdDY3NHhGaGtqLTB4TE5BODFwS3NmU2hMSHpRcHdsMEI0UGxtTjBv?oc=5",
-          "source": "충청메트로",
-          "published": "2026-10-29T07:50:11+09:00"
-        }
-      ],
-      "summary": "현대차의 3분기 글로벌 판매량이 전년 대비 11.3% 감소하며 연간 판매 및 수익성 목표를 하향 조정했습니다. 현대차와 기아의 영업이익 격차 또한 800억 원 미만으로 좁혀질 것으로 예상됩니다.",
-      "impact": "완성차 업체의 판매 목표 하향은 부품 발주 물량 및 생산 계획 조정으로 이어질 수 있어 관련 공급망의 대응이 필요합니다.",
-      "importance": "높음",
-      "detail": {
-        "background": "현대차 3분기 실적 부진 및 목표 하향",
-        "key_points": [
-          "3분기 글로벌 판매량 11.3% 감소",
-          "연간 판매 및 수익성 목표 하향 조정",
-          "현대차-기아 영업이익 격차 축소 전망"
-        ],
-        "what_to_watch": "연간 실적 달성 가능성 및 향후 판매 전략 수정 여부",
-        "fact_check": "판매량 감소율 및 목표 하향 공식 발표 여부"
-      },
-      "new_information": "현대차의 3분기 글로벌 판매량 11.3% 감소 및 연간 목표 하향 조정 사실이 추가되었습니다.",
-      "source_comparison": "기존 보도에서는 실적 격차 축소 전망에 집중했으나, 금번 보도를 통해 판매량 감소 수치와 연간 목표 하향이라는 구체적인 실적 악화 사실이 확인됨.",
-      "news_relation": "후속보도",
-      "follow_up": {
-        "date": "2026-10-29",
-        "title": "현대차·기아 3분기 실적 엇갈리나…영업이익 격차 800억원 아래로 - 충청메트로",
-        "summary": "현대차와 기아의 3분기 영업이익 격차가 800억 원 미만으로 좁혀질 것이라는 전망이 제기되었습니다. 현대차의 성장세 둔화와 기아의 견조한 실적이 맞물리며 양사 간 실적 격차가 축소되는 양상입니다.",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTENpbHhIREVhd3A3X1NwYmEyOHVSMHgxTWVULUdUSkRvWUlJY2w5WnMxQjRZVDc4c1R0bWduN0ZpWDRBdDY3NHhGaGtqLTB4TE5BODFwS3NmU2hMSHpRcHdsMEI0UGxtTjBv?oc=5"
-      },
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "9527d0de4c353020",
       "image_url": ""
     }
   ]
