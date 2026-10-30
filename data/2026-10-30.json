@@ -1,9 +1,55 @@
 {
   "date": "2026-10-30",
-  "updated_at": "2026-10-30T18:05:46.746586+09:00",
-  "article_count": 10,
+  "updated_at": "2026-10-30T18:27:00.239696+09:00",
+  "article_count": 14,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "ce527b5f8d3d9c",
+      "title": "현대차·기아, 3Q 영업익 성장했지만…\"중동 전쟁·환율 부담 속 신중 모드\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaQzNEOVFqYUJ4SVpBZVd3dklLWW1JakdzZFZ6ZjFRZzNFeV9KSTB5cnkwRy02aEZtSEI0NFI1aUVTb1pVVF9jS3ZycTdCRDZMNXJvWUtQdjFiSnpISzdiZNIBeEFVX3lxTFB2TVpkemVMZ2s2SWZIN2d2MDJRT3gydjZkT01oOFdUbnNSN3FSYUVRTFFZV0ZNOVVBWVRMc2ZidWhCcGZkendaMkRjd2tOZUduZjh5RTZyRGo3X0ZYUnY4ZFhPN1BTSXhXWUpWd0RvRUtSY01QVXVLWg?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-30T17:16:54+09:00",
+      "category": "자동차",
+      "description": "현대차·기아, 3Q 영업익 성장했지만…\"중동 전쟁·환율 부담 속 신중 모드\" 뉴시스",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n001",
+      "related_articles": [
+        {
+          "title": "현대차·기아, 3Q 영업익 성장했지만…\"중동 전쟁·환율 부담 속 신중 모드\" - 뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2TVpkemVMZ2s2SWZIN2d2MDJRT3gydjZkT01oOFdUbnNSN3FSYUVRTFFZV0ZNOVVBWVRMc2ZidWhCcGZkendaMkRjd2tOZUduZjh5RTZyRGo3X0ZYUnY4ZFhPN1BTSXhXWUpWd0RvRUtSY01QVXVLWtIBeEFVX3lxTFB2TVpkemVMZ2s2SWZIN2d2MDJRT3gydjZkT01oOFdUbnNSN3FSYUVRTFFZV0ZNOVVBWVRMc2ZidWhCcGZkendaMkRjd2tOZUduZjh5RTZyRGo3X0ZYUnY4ZFhPN1BTSXhXWUpWd0RvRUtSY01QVXVLWg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-10-30T17:16:54+09:00"
+        }
+      ],
+      "summary": "현대차와 기아가 3분기 영업이익 성장을 기록했으나, 중동 전쟁과 환율 변동성 등 대외 불확실성으로 인해 신중한 경영 기조를 유지하고 있습니다. 기존의 실적 격차 축소 전망과 달리 실제 실적 발표를 통해 경영 환경의 어려움이 구체화되었습니다.",
+      "impact": "",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차·기아의 3분기 실적 발표 및 경영 환경 분석",
+        "key_points": [
+          "3분기 영업이익 성장 달성",
+          "중동 전쟁 및 환율 변동성 등 대외 리스크 부각",
+          "경영진의 신중한 사업 운영 기조 확인"
+        ],
+        "what_to_watch": "환율 변동이 향후 수출 채산성 및 CKD 사업 수익성에 미치는 영향",
+        "fact_check": "영업이익 성장 여부 및 경영진의 공식 입장 확인"
+      },
+      "new_information": "3분기 영업이익 성장 확인 및 중동 전쟁·환율 등 대외 리스크 요인 구체화",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "follow_up": {
+        "date": "2026-10-29",
+        "title": "현대차·기아 3분기 실적 엇갈리나…영업이익 격차 800억원 아래로 - 충청메트로",
+        "summary": "현대차와 기아의 3분기 영업이익 격차가 800억 원 미만으로 좁혀질 것이라는 전망이 제기되었습니다. 현대차의 성장세 둔화와 기아의 견조한 실적이 맞물리며 양사 간 실적 격차가 축소되는 양상입니다.",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTENpbHhIREVhd3A3X1NwYmEyOHVSMHgxTWVULUdUSkRvWUlJY2w5WnMxQjRZVDc4c1R0bWduN0ZpWDRBdDY3NHhGaGtqLTB4TE5BODFwS3NmU2hMSHpRcHdsMEI0UGxtTjBv?oc=5"
+      },
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "34165c28d9062d11",
+      "image_url": ""
+    },
     {
       "id": "e68a78137b4755",
       "title": "[단독] 현대차, 인도서 부품 관세 분쟁 대법원행…세관, 판정 불복 - 뉴스저널리즘",
@@ -18,10 +64,28 @@
       "section": "산업·업무",
       "event_cluster": "batch0-n002",
       "related_articles": [],
-      "summary": "현대자동차가 인도 현지에서 부품 관세와 관련해 세관 당국과 벌여온 법적 분쟁이 대법원으로 이어지게 되었습니다. 세관 당국이 하급심의 판정에 불복하여 상고함에 따라 관세 관련 불확실성이 지속될 전망입니다.",
-      "impact": "인도 현지 생산 및 CKD 부품 공급 관련 관세 비용 구조에 영향을 줄 수 있는 사안으로, 향후 판결 결과에 따른 비용 변동 가능성을 모니터링해야 합니다.",
+      "summary": "현대자동차가 인도 현지에서 부품 관세와 관련해 세관 당국과 벌여온 분쟁이 대법원까지 이어지게 되었습니다. 세관 측이 하급심 판정에 불복하여 상고함에 따라 법적 공방이 장기화될 전망입니다.",
+      "impact": "인도 시장 내 CKD 부품 관세 체계 및 물류 비용에 직접적인 영향을 미칠 수 있는 사안으로, 향후 판결 결과에 따른 현지 생산 비용 구조 변화를 주시해야 합니다.",
       "importance": "높음",
       "detail": {
+        "background": "현대차 인도 법인과 인도 세관 간의 부품 관세 관련 법적 분쟁",
+        "key_points": [
+          "부품 관세 분쟁 대법원 상고",
+          "세관 당국의 하급심 판정 불복",
+          "법적 공방 장기화에 따른 불확실성 증대"
+        ],
+        "what_to_watch": "대법원 판결 결과 및 인도 내 CKD 부품 관세 적용 기준 변화",
+        "fact_check": "대법원 상고 여부 및 분쟁의 핵심 쟁점 확인"
+      },
+      "new_information": "인도 현지 부품 관세 분쟁 대법원 상고 사실 확인",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a54a1345d10a6f91",
+      "image_url": "",
+      "original_summary": "현대자동차가 인도 현지에서 부품 관세와 관련해 세관 당국과 벌여온 법적 분쟁이 대법원으로 이어지게 되었습니다. 세관 당국이 하급심의 판정에 불복하여 상고함에 따라 관세 관련 불확실성이 지속될 전망입니다.",
+      "original_detail": {
         "background": "현대차 인도 법인과 인도 세관 간의 부품 관세 부과 기준을 둘러싼 장기적인 법적 갈등.",
         "key_points": [
           "인도 세관의 하급심 판정 불복 및 대법원 상고",
@@ -29,14 +93,7 @@
         ],
         "what_to_watch": "대법원 판결 결과 및 이에 따른 인도 현지 생산 부품의 관세 적용 기준 변화.",
         "fact_check": "세관의 판정 불복 사실 확인."
-      },
-      "new_information": "현대차의 인도 부품 관세 분쟁이 대법원 상고심으로 진행됨.",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "64ad33ec350afb06",
-      "image_url": ""
+      }
     },
     {
       "id": "684445d269a4af",
@@ -47,19 +104,30 @@
       "category": "스크랩 추적",
       "description": "기아 “올해 수익성 목표 다소 미달…판매 335만대 유지” 헤럴드경제",
       "priority_markets": [],
-      "scrap_relation": {
-        "type": "관련",
-        "title": "현대차 인도 생산능력 2030년 114만대…부품 현지화율 92% 목표 - PRESS9",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wM1N1WUZmaG5vbEVtYUFQcFE4RW12TXpaVWRIcEtTVUhPXzdtYU9yem9IQ1dJOG1sdlZFMDJ1NkFpMUZKVWlFYVo2d3FDUEQxUEFBbEtQdG14X3hFTEVVOFY1MjQ?oc=5",
-        "scrapped_at": "2026-10-27T03:55:15.25984+00:00"
-      },
       "section": "산업·업무",
       "event_cluster": "batch0-n003",
       "related_articles": [],
-      "summary": "기아가 올해 수익성 목표 달성이 다소 어려울 것으로 전망하면서도, 연간 판매 목표 335만 대는 유지하겠다는 입장을 밝혔습니다. 수익성 방어와 판매 물량 확보 사이에서 균형을 맞추려는 전략으로 풀이됩니다.",
-      "impact": "기아의 판매 목표 유지는 CKD 포장 및 물류 물량의 안정적 유지 가능성을 시사하며, 수익성 악화 시 비용 절감 압박이 커질 수 있습니다.",
-      "importance": "높음",
+      "summary": "기아가 올해 수익성 목표 달성이 다소 어려울 것으로 전망했으나, 연간 판매 목표인 335만 대는 유지하겠다는 입장을 밝혔습니다. 대내외 경영 환경 변화를 반영한 현실적인 목표 조정으로 풀이됩니다.",
+      "impact": "기아의 판매 목표 유지는 CKD 공급 물량의 안정적 유지 가능성을 시사합니다. 다만 수익성 개선을 위한 원가 절감 노력이 강화될 경우 부품 공급망 관리에도 변화가 있을 수 있습니다.",
+      "importance": "보통",
       "detail": {
+        "background": "기아의 연간 경영 실적 전망 및 목표 수정",
+        "key_points": [
+          "수익성 목표 달성 어려움 예상",
+          "연간 판매 목표 335만 대 유지",
+          "경영 환경 변화에 따른 전략적 대응"
+        ],
+        "what_to_watch": "판매 목표 달성을 위한 생산 가동률 및 부품 발주 추이",
+        "fact_check": "판매 목표 수치 및 수익성 관련 공식 발표 내용"
+      },
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "157fe50e0f96b397",
+      "image_url": "",
+      "original_summary": "기아가 올해 수익성 목표 달성이 다소 어려울 것으로 전망하면서도, 연간 판매 목표 335만 대는 유지하겠다는 입장을 밝혔습니다. 수익성 방어와 판매 물량 확보 사이에서 균형을 맞추려는 전략으로 풀이됩니다.",
+      "original_detail": {
         "background": "기아의 2026년 경영 실적 전망 및 판매 전략 발표.",
         "key_points": [
           "연간 판매 목표 335만 대 유지",
@@ -67,20 +135,7 @@
         ],
         "what_to_watch": "판매 목표 달성을 위한 인센티브 확대 여부 및 수익성 개선을 위한 원가 절감 노력.",
         "fact_check": "기아 경영진의 공식 입장 확인."
-      },
-      "new_information": "기아의 2026년 연간 판매 목표 335만 대 유지 및 수익성 목표 미달 가능성 공식화.",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "follow_up": {
-        "date": "2026-10-27",
-        "title": "현대차 인도 생산능력 2030년 114만대…부품 현지화율 92% 목표 - PRESS9",
-        "summary": "현대자동차가 인도 시장에서의 생산능력을 2030년까지 114만 대 규모로 확대하겠다는 목표를 제시했다. 또한, 인도 현지 부품 현지화율을 92%까지 끌어올려 공급망 효율성을 강화할 계획이다.",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wM1N1WUZmaG5vbEVtYUFQcFE4RW12TXpaVWRIcEtTVUhPXzdtYU9yem9IQ1dJOG1sdlZFMDJ1NkFpMUZKVWlFYVo2d3FDUEQxUEFBbEtQdG14X3hFTEVVOFY1MjQ?oc=5"
-      },
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "a96b498bf34c2935",
-      "image_url": ""
+      }
     },
     {
       "id": "2c57784e4421e2",
@@ -101,10 +156,28 @@
           "published": "2026-10-30T09:10:54+09:00"
         }
       ],
-      "summary": "중국 내수 시장의 부진이 심화되면서 중국 완성차 업체들이 수출 확대와 해외 생산 거점 확보에 속도를 내고 있습니다. 이는 글로벌 자동차 산업의 공급망과 경쟁 구도를 재편하는 주요 요인으로 작용하고 있습니다.",
-      "impact": "중국 브랜드의 글로벌 시장 점유율 확대는 기존 완성차 업체들의 가격 경쟁 심화 및 글로벌 공급망 재편을 유도할 수 있는 산업적 변수입니다.",
+      "summary": "중국 내수 시장 부진에 따라 중국 완성차 업체들이 수출과 해외 생산을 공격적으로 확대하며 글로벌 자동차 산업 지형을 변화시키고 있습니다. 모빌리티 글로벌 등 분석 기관들은 이러한 중국차의 공세가 글로벌 시장에 미칠 파급력을 경고하고 있습니다.",
+      "impact": "중국 브랜드의 글로벌 점유율 확대는 기존 완성차 업체들의 시장 경쟁 심화로 이어집니다. 이는 글로벌 공급망 및 CKD 시장의 경쟁 구도에도 장기적인 영향을 줄 수 있습니다.",
       "importance": "보통",
       "detail": {
+        "background": "중국 자동차 산업의 내수 부진과 해외 진출 전략",
+        "key_points": [
+          "중국 완성차 업체의 수출 및 해외 생산 확대",
+          "글로벌 자동차 시장 내 경쟁 심화",
+          "중국차 공세에 따른 산업 지도 변화 분석"
+        ],
+        "what_to_watch": "중국 완성차 업체의 주요 수출 거점 및 해외 생산 기지 확장 동향",
+        "fact_check": "중국 완성차 업체의 해외 진출 관련 통계 및 분석 보고서 내용"
+      },
+      "new_information": "중국 완성차 업체의 해외 진출 가속화 및 산업 영향 분석 발표",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "79c22545eebc44f6",
+      "image_url": "",
+      "original_summary": "중국 내수 시장의 부진이 심화되면서 중국 완성차 업체들이 수출 확대와 해외 생산 거점 확보에 속도를 내고 있습니다. 이는 글로벌 자동차 산업의 공급망과 경쟁 구도를 재편하는 주요 요인으로 작용하고 있습니다.",
+      "original_detail": {
         "background": "중국 자동차 산업의 내수 침체와 그에 따른 해외 시장 공략 전략 분석.",
         "key_points": [
           "중국 내수 부진에 따른 수출 및 해외 생산 확대",
@@ -112,14 +185,50 @@
         ],
         "what_to_watch": "중국 브랜드의 주요 수출국 시장 점유율 변화 및 현지 생산 거점 확대 동향.",
         "fact_check": "모빌리티 글로벌의 산업 분석 보고서 내용 반영."
+      }
+    },
+    {
+      "id": "19cb0e78d7d1b2",
+      "title": "현대모비스, 핵심부품 수주 부진 '美 섀시모듈'로 만회한다 - 블로터",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JS08zdVcwX3lWcHVaaFN6Z0dQR09uanRiR1AyekM5OWxBVGxGQnJvbW9pT3hMX28tSUlRSDU2RTJXTERSdkM4cjlxeVc5aTZwQVJDTEVwcTcxTUMxQ1RKZGhSVlRFaUwx0gFsQVVfeXFMTUMzaWs5aGttWlE5WHI1RGk5UXF6NXdBc0RYMjJhZEdJQkVqa0xSTlZyc3ZwQ2lVUFdTa2Ria1F3a0c2QmNVU3FIa0YyNWdub0VwNzV6WWhxb0JHa0ZFb2JHR2Nsa0dnQkE0SGFq?oc=5",
+      "source": "블로터",
+      "published": "2026-10-30T11:46:46+09:00",
+      "category": "관심 키워드",
+      "description": "현대모비스, 핵심부품 수주 부진 '美 섀시모듈'로 만회한다 블로터",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대모비스가 핵심 부품 사업의 수주 부진을 만회하기 위해 미국 시장 내 섀시 모듈 사업을 강화하고 있습니다. 북미 지역에서의 모듈 공급 역량을 바탕으로 수익성 개선을 도모하려는 전략입니다.",
+      "impact": "북미 지역 섀시 모듈 공급 확대는 현대모비스의 현지 생산 거점 운영 및 물류 효율화 전략과 직결됩니다. 향후 해당 지역의 모듈 생산 물량 변화가 CKD 포장 및 공급망 운영에 미칠 영향을 모니터링할 필요가 있습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "핵심 부품 수주 경쟁 심화 및 수익성 정체에 따른 사업 포트폴리오 재편 필요성 증대.",
+        "key_points": [
+          "핵심 부품 수주 부진을 섀시 모듈 사업으로 상쇄",
+          "미국 시장 내 모듈 공급 역량 집중",
+          "수익성 방어를 위한 사업 구조 다변화"
+        ],
+        "what_to_watch": "미국 내 섀시 모듈 신규 수주 및 생산 물량 확대 여부.",
+        "fact_check": "해당 전략이 실제 수익성 개선으로 이어지는지 확인 필요."
       },
-      "new_information": "중국 완성차 업체의 내수 부진 타개를 위한 해외 진출 가속화 분석.",
+      "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "47551be17afc7d41",
-      "image_url": ""
+      "integration_signature": "b5809bb2003930f2",
+      "image_url": "",
+      "event_cluster": "batch0-n006",
+      "original_summary": "현대모비스가 핵심 부품 수주 부진을 만회하기 위해 미국 시장 내 섀시 모듈 사업을 강화하고 있다. 북미 지역에서의 모듈 공급 역량을 통해 수익성을 방어하려는 전략이다.",
+      "original_detail": {
+        "background": "핵심 부품 수주 실적 둔화에 따른 사업 구조 재편 및 지역별 전략.",
+        "key_points": [
+          "핵심 부품 수주 부진 대응책 마련",
+          "미국 시장 섀시 모듈 사업 비중 확대"
+        ],
+        "what_to_watch": "북미 지역 모듈 공급 물량 변화 및 수익성 개선 여부.",
+        "fact_check": "수주 부진의 구체적 수치 및 섀시 모듈 매출 비중 확인 필요."
+      }
     },
     {
       "id": "91569fbf9fa702",
@@ -137,12 +246,6 @@
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETWczVUtobjlPZ2t1WXh5VHhzMlBYTzVWSnlHRDRNcm1kRG9oOE1RLTR4a291UkQ1WFBGU0NLZG9fcnhtbHNrQ1c2Q3FhOXVGLXVBY1p0TmZvd3F3MHdiYmE5cHpSeWpCbEZ1TUpyTDlPMFhQeUMzU9IBeEFVX3lxTE5ETWczVUtobjlPZ2t1WXh5VHhzMlBYTzVWSnlHRDRNcm1kRG9oOE1RLTR4a291UkQ1WFBGU0NLZG9fcnhtbHNrQ1c2Q3FhOXVGLXVBY1p0TmZvd3F3MHdiYmE5cHpSeWpCbEZ1TUpyTDlPMFhQeUMzUw?oc=5",
           "source": "뉴시스",
           "published": "2026-10-30T10:09:18+09:00"
-        },
-        {
-          "title": "현대모비스, 핵심부품 수주 부진 '美 섀시모듈'로 만회한다 - 블로터",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JS08zdVcwX3lWcHVaaFN6Z0dQR09uanRiR1AyekM5OWxBVGxGQnJvbW9pT3hMX28tSUlRSDU2RTJXTERSdkM4cjlxeVc5aTZwQVJDTEVwcTcxTUMxQ1RKZGhSVlRFaUwx0gFsQVVfeXFMTUMzaWs5aGttWlE5WHI1RGk5UXF6NXdBc0RYMjJhZEdJQkVqa0xSTlZyc3ZwQ2lVUFdTa2Ria1F3a0c2QmNVU3FIa0YyNWdub0VwNzV6WWhxb0JHa0ZFb2JHR2Nsa0dnQkE0SGFq?oc=5",
-          "source": "블로터",
-          "published": "2026-10-30T11:46:46+09:00"
         },
         {
           "title": "현대모비스, 3Q 영업익 9천141억…내년 아틀라스 액추에이터 시제품 생산 - 연합인포맥스",
@@ -283,21 +386,21 @@
           "published": "2026-10-30T11:32:15+09:00"
         }
       ],
-      "summary": "현대모비스가 2026년 3분기 영업이익 9,141억 원을 기록하며 전년 동기 대비 17.2% 성장했습니다. 기존의 AS 사업 중심 수익 구조에서 벗어나, 휴머노이드 로봇 '아틀라스'용 액추에이터 시제품 생산을 시작으로 로보틱스 분야로 사업 영역을 본격 확장합니다.",
-      "impact": "현대모비스의 로보틱스 부품 사업 진출은 기존 자동차 부품 중심의 포트폴리오 다변화를 의미하며, 향후 전동화 및 로봇 제어 기술의 시너지 여부를 모니터링할 필요가 있음.",
+      "summary": "현대모비스의 2026년 3분기 영업이익이 전년 동기 대비 17.2% 증가한 9,141억 원을 기록했습니다. 본업인 부품 사업의 수익성 개선과 더불어 로보틱스 분야로의 사업 확장을 본격화하며, 11월 중 휴머노이드 로봇 '아틀라스'용 액추에이터 시제품 생산을 시작할 예정입니다.",
+      "impact": "로보틱스 부품 양산은 현대모비스의 신사업 포트폴리오 다각화를 의미합니다. 기존 자동차 부품 중심의 생산 인프라가 로봇 부품으로 어떻게 확장되는지, 향후 관련 부품의 공급망 및 물류 체계 변화를 주시해야 합니다.",
       "importance": "높음",
       "detail": {
-        "background": "현대모비스는 그간 AS 사업 부문이 실적을 견인하는 구조였으나, 미래 모빌리티 및 로보틱스 분야로의 사업 확장을 지속적으로 추진해왔음.",
+        "background": "자동차 부품 사업의 수익성 정체 속에서 신성장 동력으로 로보틱스 사업 육성.",
         "key_points": [
-          "2026년 3분기 영업이익 9,141억 원 달성",
-          "11월 중 휴머노이드 로봇 '아틀라스'용 액추에이터 시제품 생산 착수",
-          "로보틱스 및 미래차 공급망 투자 확대"
+          "3분기 영업이익 9,141억 원(전년비 17.2%↑)",
+          "11월 아틀라스용 액추에이터 시제품 생산 착수",
+          "로보틱스 분야로의 사업 확장 본격화"
         ],
-        "what_to_watch": "로봇용 액추에이터의 양산 시점 및 실제 매출 기여도, 기존 자동차 부품 사업과의 기술적 연계성.",
-        "fact_check": "영업이익 9,141억 원 및 11월 시제품 생산 계획은 다수 언론을 통해 확인됨."
+        "what_to_watch": "로봇 부품 사업의 매출 기여도 및 양산 체계 구축 속도.",
+        "fact_check": "11월 시제품 생산 일정 준수 여부."
       },
-      "new_information": "3분기 영업이익 9,141억 원(전년비 17.2%↑) 확정 및 11월 휴머노이드 로봇 '아틀라스'용 액추에이터 시제품 생산 계획 발표.",
-      "source_comparison": "대부분의 매체가 3분기 실적과 로봇 사업 진출을 동일하게 보도했으나, 일부 매체는 핵심 부품 수주 부진을 미국 섀시 모듈 사업으로 만회하려는 전략적 측면을 강조함.",
+      "new_information": "3분기 영업이익 9,141억 원 확정 및 11월 아틀라스용 액추에이터 시제품 생산 계획 발표.",
+      "source_comparison": "대부분의 매체가 3분기 영업이익 9,141억 원과 11월 액추에이터 시제품 생산을 공통적으로 보도함.",
       "news_relation": "신규 뉴스",
       "follow_up": {
         "date": "2026-10-18",
@@ -307,7 +410,7 @@
       },
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "9f4879934f9027cf",
+      "integration_signature": "6442116e086e3bb8",
       "image_url": "",
       "event_cluster": "batch0-n005",
       "original_summary": "현대모비스가 2026년 3분기 영업이익 9,141억 원을 기록하며 전년 동기 대비 17.2% 성장했습니다. 실적 발표와 함께 보스턴다이내믹스의 휴머노이드 로봇 '아틀라스'에 탑재될 관절 구동용 액추에이터 시제품을 다음 달부터 생산할 계획임을 밝혔습니다.",
@@ -320,6 +423,50 @@
         ],
         "what_to_watch": "11월 예정된 액추에이터 시제품 생산의 성공 여부와 향후 로봇 부품 사업의 매출 기여도 및 양산 확대 계획.",
         "fact_check": "3분기 영업이익 9,141억 원 및 11월 시제품 생산 계획은 공식 실적 발표를 통해 확인된 사실임."
+      }
+    },
+    {
+      "id": "fd68512f83c3f2",
+      "title": "현대차, 판매량 11% 줄어도 이익 늘었다…불황 속 돋보인 방어력-IBK - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYi1yUzNKbVBKamNfaWR4RUpkcE9wUk04NDlJdWJGc2tELTFuZi1HWkhETTVHMkdnc1JiU2pZbTlmaDM2MTZZREwyWFg3RXpRZmRQbGpiRlE3VHBoVVBqcmhBUUJqV0hpNU5YaFhLNXE3b19QNy1vRUdnLW9ObGdpbQ?oc=5",
+      "source": "이데일리",
+      "published": "2026-10-30T07:49:33+09:00",
+      "category": "자동차",
+      "description": "현대차, 판매량 11% 줄어도 이익 늘었다…불황 속 돋보인 방어력-IBK 이데일리",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "related_articles": [],
+      "summary": "현대차가 판매량 감소에도 불구하고 수익성을 방어하며 이익이 증가하는 성과를 거두었습니다. 이는 고부가가치 차종 중심의 판매 전략과 비용 효율화가 불황 속에서도 효과를 발휘한 것으로 분석됩니다.",
+      "impact": "완성차의 판매량 감소와 이익 증가가 공존하는 구조는 부품 공급망에도 영향을 미칩니다. 고부가가치 차종 위주의 생산 체계가 현대모비스의 CKD 공급 품목 및 물량에 미치는 영향을 파악해야 합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "글로벌 자동차 시장의 수요 둔화 및 불확실성 증대.",
+        "key_points": [
+          "판매량 11% 감소에도 영업이익 증가",
+          "불황 속 수익성 방어력 입증",
+          "고부가가치 차종 중심의 판매 전략 주효"
+        ],
+        "what_to_watch": "판매량 감소세가 지속될 경우의 생산 물량 조정 가능성.",
+        "fact_check": "판매량 감소폭과 이익 증가폭의 상관관계 분석."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "505a5ebaa87672b5",
+      "image_url": "",
+      "event_cluster": "batch0-n007",
+      "original_summary": "현대차가 판매량 감소에도 불구하고 고부가가치 차종 중심의 판매 전략을 통해 이익 방어에 성공했습니다. IBK투자증권은 불황 속에서도 현대차의 수익성 관리 능력이 돋보였다고 평가했습니다.",
+      "original_detail": {
+        "background": "현대차의 3분기 실적 및 판매량 감소에 대한 증권가 분석.",
+        "key_points": [
+          "판매량 11% 감소에도 영업이익 증가",
+          "고수익 차종 중심의 판매 믹스 개선 효과",
+          "불황기 수익 방어력 입증"
+        ],
+        "what_to_watch": "판매량 감소세 지속 여부 및 향후 생산 계획 조정.",
+        "fact_check": "판매량 감소 수치 및 증권사 분석 리포트 내용 확인."
       }
     },
     {
@@ -338,39 +485,27 @@
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mdUlsVzN3QVdwSGwzdmVwaDIzZlJQdjRPTU9CSzJmQi1GcF9yYTVaZW8xUGhycjlvaFhDWUxhN0J2RVhnekE?oc=5",
           "source": "매일경제",
           "published": "2026-10-30T07:06:39+09:00"
-        },
-        {
-          "title": "현대차, 판매량 11% 줄어도 이익 늘었다…불황 속 돋보인 방어력-IBK - 이데일리",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYi1yUzNKbVBKamNfaWR4RUpkcE9wUk04NDlJdWJGc2tELTFuZi1HWkhETTVHMkdnc1JiU2pZbTlmaDM2MTZZREwyWFg3RXpRZmRQbGpiRlE3VHBoVVBqcmhBUUJqV0hpNU5YaFhLNXE3b19QNy1vRUdnLW9ObGdpbQ?oc=5",
-          "source": "이데일리",
-          "published": "2026-10-30T07:49:33+09:00"
-        },
-        {
-          "title": "[심층진단] 현대차, 3분기 영업이익 2.7조원에도 연간 판매목표 하향…생산 차질·원가 상승에 수익성 방어 시험대 - 뉴스밸류",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JSFh3WmNKcU54OFF0T29CQVZXLVBMY2x5QkpXVTF4OURIcHc5alNYNmpjVjUtdkFsSUhBbXFHWHFSZ1hwMEVCQWg1d0hqS2stdGZFd2N0Z3lUWVJlMzVOT3JsSTVUbDRYWXc?oc=5",
-          "source": "뉴스밸류",
-          "published": "2026-10-30T07:00:00+09:00"
         }
       ],
-      "summary": "현대차의 3분기 매출이 파업과 판매량 감소로 인해 7년 만에 역성장을 기록했습니다. 다만, 판매량 감소에도 불구하고 수익성 방어에 성공하며 영업이익 2.7조 원을 달성했으나, 연간 판매 목표는 하향 조정되었습니다.",
-      "impact": "완성차 업체의 생산 차질 및 판매량 감소는 CKD 물량 및 부품 공급망의 가동률에 직접적인 영향을 줄 수 있으므로, 향후 현대차의 생산 계획 조정 여부를 주시해야 함.",
+      "summary": "현대차가 파업과 판매량 부진의 영향으로 7년 만에 분기 매출 역성장을 기록했습니다. 대내외적인 악재가 겹치며 완성차 생산 및 판매 실적에 직접적인 타격을 준 것으로 보입니다.",
+      "impact": "완성차의 매출 역성장은 부품 공급망 전반의 물동량 감소로 이어질 수 있습니다. 특히 파업으로 인한 생산 차질이 CKD 수출 물량 및 현지 공장 가동률에 미칠 영향을 점검해야 합니다.",
       "importance": "높음",
       "detail": {
-        "background": "글로벌 경기 둔화와 노조 파업 등 생산 차질 요인이 겹치며 현대차의 분기 매출이 7년 만에 감소세로 전환됨.",
+        "background": "노사 갈등에 따른 파업 및 글로벌 수요 둔화.",
         "key_points": [
-          "3분기 매출 역성장 및 연간 판매 목표 하향",
-          "판매량 11% 감소에도 영업이익 2.7조 원 기록",
-          "생산 차질 및 원가 상승에 따른 수익성 방어 시험대"
+          "7년 만의 분기 매출 역성장",
+          "파업으로 인한 생산 차질",
+          "판매량 부진이 실적에 미친 영향"
         ],
-        "what_to_watch": "생산 정상화 시점 및 연간 판매 목표 달성을 위한 하반기 전략.",
-        "fact_check": "매출 역성장 및 영업이익 2.7조 원은 보도된 수치임."
+        "what_to_watch": "파업 종료 후 생산 정상화 속도 및 매출 회복 여부.",
+        "fact_check": "매출 역성장의 구체적인 수치 및 파업 기간 확인."
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "37ba7d6cc454b50c",
+      "integration_signature": "f04e72918acc829e",
       "image_url": "",
       "original_summary": "현대자동차가 파업 여파와 글로벌 판매량 감소로 인해 7년 만에 분기 매출 역성장을 기록했습니다. 생산 차질과 수요 둔화가 실적에 직접적인 타격을 준 것으로 분석됩니다.",
       "original_detail": {
@@ -383,7 +518,40 @@
         "what_to_watch": "생산 정상화 시점 및 향후 분기 판매 회복 여부",
         "fact_check": "7년 만의 매출 역성장 여부 확인"
       },
-      "event_cluster": "batch0-n006"
+      "event_cluster": "batch0-n008"
+    },
+    {
+      "id": "f0470e34a22e15",
+      "title": "Dockworkers at more than 100 ports to strike against arms shipments on Friday - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWWlKcXhtLUoxbjVhMVRzSGJVQnM3RVh2NlJJOS1ReFA1WEJBUzhORUtPczhiRHphbzE0aWNZdFF4QUE3MFdxNWo4VUpWcGJRR2stN0szcnNJa0p4OWM5NXZlX2p0QWk1OWZBREJURS1YWXh1UXEzQm5Gcl9fREZZRW45dU9DYVFHWVp3Qlg0Qk12dUlsM2hPTjZObmlDS2VvR1ViejVPZGc4bkQwV19ISThxdk1VMjU5a21mWHBxMUhGQVVqOHc?oc=5",
+      "source": "Reuters",
+      "published": "2026-10-30T06:52:11+09:00",
+      "category": "CKD·물류",
+      "description": "Dockworkers at more than 100 ports to strike against arms shipments on Friday Reuters",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n010",
+      "related_articles": [],
+      "summary": "전 세계 100개 이상의 항만 노동자들이 무기 선적에 반대하는 파업을 금요일에 진행할 예정이다. 이번 파업은 국제적인 물류 흐름에 영향을 미칠 가능성이 있다.",
+      "impact": "주요 항만 노동자들의 파업은 글로벌 해상 물류의 지연 및 운송 차질을 유발할 수 있어, CKD 부품 수출입 일정 및 공급망 관리에 주의가 필요하다.",
+      "importance": "높음",
+      "detail": {
+        "background": "글로벌 항만 노동자들의 연대 파업이 무기 선적 반대라는 명분으로 추진됨.",
+        "key_points": [
+          "100개 이상의 항만에서 금요일 파업 예정",
+          "무기 선적 반대가 주요 파업 명분",
+          "글로벌 물류망의 일시적 마비 가능성"
+        ],
+        "what_to_watch": "파업 참여 항만의 구체적 범위와 물류 지연 기간",
+        "fact_check": "파업 대상 항만 리스트 및 실제 물류 영향 범위 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "9bf54eca60eb2f1f",
+      "image_url": ""
     },
     {
       "id": "69a98c6c9cbdb2",
@@ -396,26 +564,27 @@
       "priority_markets": [],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "현대모비스가 협력사를 대상으로 금융 지원과 기술 협력을 강화하며 미래차 공급망 생태계 육성에 나섰습니다.",
-      "impact": "협력사 대상 금융 및 기술 지원은 공급망 안정화와 직결되며, 향후 현대모비스의 전동화 부품 공급망 내 협력사 경쟁력 강화로 이어질 것으로 전망됨.",
+      "summary": "현대모비스가 미래차 분야 협력사를 대상으로 금융 및 기술 지원을 강화하며 공급망 경쟁력을 높이고 있다. 이는 지속 가능한 미래차 생태계 조성을 위한 상생 협력 전략의 일환이다.",
+      "impact": "현대모비스의 공급망 지원 정책은 협력사의 기술 고도화와 안정적인 부품 공급 체계 구축에 기여할 것으로 보이며, 향후 CKD 부품 조달 및 품질 관리에도 긍정적인 영향을 미칠 것으로 예상된다.",
       "importance": "보통",
       "detail": {
-        "background": "미래차 전환기에 맞춰 공급망 내 중소·중견 협력사의 기술 경쟁력을 확보하기 위한 상생 경영의 일환임.",
+        "background": "미래차 전환기에 따른 공급망 안정화 및 협력사 동반 성장 필요성 증대.",
         "key_points": [
-          "금융 및 기술 지원을 통한 공급망 강화",
-          "미래차 부품 생태계 육성 전략"
+          "미래차 공급망 강화를 위한 금융·기술 지원",
+          "협력사와의 상생 협력 체계 구축",
+          "미래차 생태계 경쟁력 확보"
         ],
-        "what_to_watch": "지원 대상 협력사의 범위 및 실제 기술 고도화 성과.",
-        "fact_check": "현대모비스의 공급망 지원 정책 관련 보도임."
+        "what_to_watch": "구체적인 지원 프로그램의 규모와 협력사 적용 범위",
+        "fact_check": "지원 대상 협력사 선정 기준 및 구체적 지원 내용 확인"
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "bd1e014eb2218ae5",
+      "integration_signature": "518898881b03e54a",
       "image_url": "",
-      "event_cluster": "batch0-n007",
+      "event_cluster": "batch0-n011",
       "original_summary": "현대모비스가 협력사를 대상으로 금융 및 기술 지원을 강화하며 미래차 공급망 생태계 육성에 나섰습니다. 안정적인 부품 공급망 확보를 위한 상생 협력 모델을 구축하려는 전략입니다.",
       "original_detail": {
         "background": "현대모비스의 공급망 상생 협력 강화",
@@ -438,12 +607,30 @@
       "description": "Why container rates are climbing despite cooling demand FreightWaves",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n008",
+      "event_cluster": "batch0-n012",
       "related_articles": [],
-      "summary": "수요 둔화에도 불구하고 컨테이너 운임이 상승하는 현상에 대한 분석이 제기되었습니다.",
-      "impact": "글로벌 해상 운임 상승은 CKD 수출 물류비용 증가와 직결되므로, 운임 변동 추이를 지속적으로 모니터링하여 물류비 효율화 방안을 검토해야 함.",
-      "importance": "보통",
+      "summary": "수요 둔화에도 불구하고 컨테이너 운임이 상승하는 현상이 나타나고 있다. 이는 글로벌 물류 시장의 복합적인 요인이 작용한 결과로 분석된다.",
+      "impact": "컨테이너 운임 상승은 수출입 물류 비용 증가로 직결되며, CKD 포장 및 운송 원가 관리에 직접적인 부담 요인이 될 수 있다.",
+      "importance": "높음",
       "detail": {
+        "background": "수요와 공급의 불일치 및 글로벌 물류 병목 현상 등 운임 상승 요인 분석.",
+        "key_points": [
+          "수요 둔화 대비 컨테이너 운임 상승세",
+          "물류 시장의 구조적 요인 작용",
+          "운송 비용 상승에 따른 기업 부담 가중"
+        ],
+        "what_to_watch": "주요 항로별 운임 변동 추이 및 물류 적체 현상",
+        "fact_check": "운임 상승의 구체적 원인 및 지속 가능성 확인"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "ae071c6f121048cc",
+      "image_url": "",
+      "original_summary": "수요 둔화에도 불구하고 컨테이너 운임이 상승하는 현상에 대한 분석이 제기되었습니다.",
+      "original_detail": {
         "background": "글로벌 물류 시장의 수급 불균형과 지정학적 리스크 등이 운임 상승의 주요 원인으로 지목됨.",
         "key_points": [
           "수요 둔화와 운임 상승의 비대칭성",
@@ -451,14 +638,7 @@
         ],
         "what_to_watch": "주요 항로별 운임 지수 변동 및 물류 공급망 정상화 시점.",
         "fact_check": "해외 물류 전문 매체 FreightWaves의 분석 내용임."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "709fffcadc635d76",
-      "image_url": ""
+      }
     },
     {
       "id": "aecb1b052b32e1",
@@ -470,12 +650,29 @@
       "description": "현대모비스, KCC 96-89 제압...베즐리 시즌 1호 트리플더블 m.maniareport.com",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n009",
+      "event_cluster": "batch0-n013",
       "related_articles": [],
-      "summary": "현대모비스 농구단이 KCC를 상대로 96-89 승리를 거두었습니다. 이 경기에서 베즐리 선수가 시즌 1호 트리플더블을 기록하며 활약했습니다.",
-      "impact": "스포츠 관련 뉴스로, 현대모비스 기업 홍보 및 브랜드 이미지 제고와 관련된 일반 정보입니다.",
-      "importance": "보통",
+      "summary": "현대모비스 농구단이 KCC를 상대로 승리하였으며, 베즐리 선수가 시즌 1호 트리플더블을 기록했다.",
+      "impact": "스포츠 구단 운영 관련 뉴스로, 자동차 산업 및 CKD 물류 업무와 직접적인 관련이 없음.",
+      "importance": "낮음",
       "detail": {
+        "background": "프로농구 경기 결과 보도.",
+        "key_points": [
+          "현대모비스 96-89 KCC 승리",
+          "베즐리 시즌 1호 트리플더블 달성"
+        ],
+        "what_to_watch": "없음",
+        "fact_check": "경기 결과 사실 확인"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "50055ef959e9ccf8",
+      "image_url": "",
+      "original_summary": "현대모비스 농구단이 KCC를 상대로 96-89 승리를 거두었습니다. 이 경기에서 베즐리 선수가 시즌 1호 트리플더블을 기록하며 활약했습니다.",
+      "original_detail": {
         "background": "현대모비스 프로농구단 경기 결과",
         "key_points": [
           "현대모비스 96-89 KCC 승리",
@@ -483,14 +680,7 @@
         ],
         "what_to_watch": "향후 경기 결과 및 팀 순위 변동",
         "fact_check": "경기 결과 및 기록 확인 완료"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "21f380b76ef857b7",
-      "image_url": ""
+      }
     },
     {
       "id": "c2ccfb96a8c056",
@@ -503,26 +693,26 @@
       "priority_markets": [],
       "section": "일반 뉴스",
       "related_articles": [],
-      "summary": "미·중·러 정상회담 가능성이 제기되면서 국제 정세 변화에 대한 우려가 나오고 있습니다. 특히 한국과 일본 등 주변국들은 이러한 움직임에 대해 경계심을 보이고 있습니다.",
+      "summary": "미·중·러 정상회담 가능성을 둘러싼 국제 정세 변화와 이에 따른 한·일 관계의 복잡한 기류를 다루고 있다. '얄타 2.0'으로 명명된 새로운 국제 질서 재편 가능성이 언급되며 외교적 긴장감이 고조되고 있다.",
       "impact": "",
       "importance": "보통",
       "detail": {
-        "background": "미·중·러 정상회담 추진설 및 주변국 반응",
+        "background": "미·중·러 간의 외교적 움직임이 가속화되면서 과거 얄타 회담과 같은 강대국 중심의 질서 재편 우려가 제기됨.",
         "key_points": [
-          "미·중·러 정상회담 '얄타 2.0' 가능성 제기",
-          "한·일 양국의 외교적 우려 및 경계"
+          "미·중·러 정상회담 추진 가능성 제기",
+          "한·일 외교 관계에 미칠 영향 분석"
         ],
-        "what_to_watch": "실제 정상회담 성사 여부 및 주요국 간 외교적 행보",
-        "fact_check": "언론 보도 기반의 정세 분석"
+        "what_to_watch": "강대국 간의 실제 회담 성사 여부 및 한국의 외교적 대응 전략.",
+        "fact_check": "정상회담 추진은 현재 언론의 분석 및 전망 단계임."
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "affb4a11105c8bba",
+      "integration_signature": "dd08b3c961a78039",
       "image_url": "",
-      "event_cluster": "batch0-n010",
+      "event_cluster": "batch40-n001",
       "original_summary": "미·중·러 정상회담 가능성을 둘러싼 국제 정세 변화와 이에 따른 한·일 양국의 외교적 우려가 제기되고 있습니다. 강대국 간의 새로운 질서 재편 움직임이 동북아 안보 환경에 미칠 영향에 주목하고 있습니다.",
       "original_detail": {
         "background": "미·중·러 간의 외교적 움직임이 과거 얄타 회담과 같은 강대국 중심의 질서 재편으로 이어질지에 대한 국제적 관심이 고조됨.",
@@ -546,26 +736,26 @@
       "priority_markets": [],
       "section": "산업·업무",
       "related_articles": [],
-      "summary": "헝가리 정권 교체 가능성이 제기되면서 현지에 대규모 배터리 공장을 운영 중인 한국과 중국 기업들의 긴장감이 높아지고 있습니다. 정책 변화에 따른 사업 환경 불확실성이 우려되는 상황입니다.",
-      "impact": "유럽 내 배터리 생산 거점인 헝가리의 정치적 변화는 국내 배터리 및 완성차 업계의 공급망 전략에 영향을 줄 수 있는 산업 동향입니다.",
-      "importance": "높음",
+      "summary": "헝가리의 정권 교체 가능성이 현지에 진출한 한국 및 중국 배터리 기업들의 사업 환경에 불확실성을 더하고 있다. 유럽 내 배터리 생산 거점으로서의 헝가리 위상 변화 여부가 주목된다.",
+      "impact": "유럽 내 배터리 생산 거점의 정책 변화는 향후 CKD 물류 및 부품 공급망 전략에 간접적인 영향을 미칠 수 있음.",
+      "importance": "보통",
       "detail": {
-        "background": "헝가리 정권 교체에 따른 외국인 투자 기업 영향",
+        "background": "헝가리는 다수의 배터리 기업이 진출해 있는 유럽의 핵심 생산 기지임.",
         "key_points": [
-          "헝가리 정권 교체 가능성 대두",
-          "현지 진출 韓·中 배터리 기업의 사업 불확실성 증대"
+          "헝가리 정권 교체에 따른 기업 경영 환경 변화 우려",
+          "한·중 배터리 기업의 현지 투자 리스크 점검"
         ],
-        "what_to_watch": "헝가리 차기 정부의 외국인 투자 및 산업 정책 방향",
-        "fact_check": "현지 정치 상황 및 기업 동향 보도"
+        "what_to_watch": "차기 정부의 외국인 투자 및 친환경 에너지 정책 방향.",
+        "fact_check": "정권 교체에 따른 구체적인 정책 변화는 아직 확인되지 않음."
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "4705e88060faaf50",
+      "integration_signature": "0ff446976b7ebb42",
       "image_url": "",
-      "event_cluster": "batch0-n011",
+      "event_cluster": "batch40-n002",
       "original_summary": "헝가리의 정권 교체 가능성이 제기되면서 현지에 대규모 배터리 공장을 운영 중인 한국과 중국 기업들이 긴장하고 있습니다. 정책 변화에 따른 투자 환경 및 보조금 정책의 불확실성이 커지고 있습니다.",
       "original_detail": {
         "background": "헝가리 정권 교체에 따른 배터리 기업 리스크",
