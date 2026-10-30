@@ -1013,6 +1013,20 @@ def main():
         relation=scrap_relationship(a,scraps)
         if relation:a['scrap_relation']=relation
         else:a.pop('scrap_relation',None)
+    # Purge already-published irrelevant articles across all dated public files.
+    # Archives are retained as source records; public day files are corrected.
+    for published_path in DATA.glob('????-??-??.json'):
+        try:
+            public = json.loads(published_path.read_text(encoding='utf-8'))
+            before = public.get('articles', [])
+            after = [a for a in before if not irrelevant_work_article(a)]
+            if len(after) != len(before):
+                public['articles'] = after
+                public['article_count'] = len(after)
+                published_path.write_text(json.dumps(public, ensure_ascii=False, indent=2), encoding='utf-8')
+                print('Removed irrelevant previously published articles:', published_path.name, len(before)-len(after))
+        except (OSError, ValueError, TypeError) as exc:
+            print('Historical cleanup skipped:', published_path.name, exc)
     # Archive first; re-running cannot erase a previously saved AI summary.
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
     # Group ALL current sources first: excluding previously published URLs here
