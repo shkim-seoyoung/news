@@ -15,7 +15,7 @@ NOW = datetime.datetime.now(KST)
 TODAY = NOW.strftime('%Y-%m-%d')
 QUERIES = {
     '자동차': ['global automakers production supply chain Toyota GM Ford Volkswagen', '글로벌 자동차 업계 생산 판매 동향', '현대차 기아 모비스 해외 생산', 'global automotive production Hyundai Kia', '현대자동차 해외공장 생산능력 증설', '현대차 인도 공장 생산 차종', 'Hyundai India plant production capacity'],
-    'CKD·물류': ['Los Angeles Long Beach port terminal strike disruption', 'Savannah Mobile port congestion shipping delay', 'global port strike terminal disruption freight shipping', 'ocean carrier blank sailing port congestion automotive parts', '미국 항만 파업 선적 지연 운송 차질', 'CKD 자동차 부품 수출 물류', 'shipping freight port supply chain', '현대차 기아 해외공장 부품 현지조달', '자동차 부품 선적 해상운임 선복'],
+    'CKD·물류': ['port labor negotiations ILA US east gulf coast terminals', 'port of Savannah Georgia Ports Authority congestion closure vessel delays', 'Port of Mobile Alabama State Port Authority terminal disruption', 'Port of Los Angeles Long Beach ILWU labor disruption terminal operations', 'Busan port strike terminal vessel schedule disruption', 'Ennore Kattupalli Chennai port strike closure congestion', 'Manzanillo Lazaro Cardenas Mexico port congestion strike', 'ocean shipping blank sailings automotive supply chain disruption', 'container shipping Red Sea Suez Panama Canal rerouting delay', 'Los Angeles Long Beach port terminal strike disruption', 'Savannah Mobile port congestion shipping delay', 'global port strike terminal disruption freight shipping', 'ocean carrier blank sailing port congestion automotive parts', '미국 항만 파업 선적 지연 운송 차질', 'CKD 자동차 부품 수출 물류', 'shipping freight port supply chain', '현대차 기아 해외공장 부품 현지조달', '자동차 부품 선적 해상운임 선복'],
     '전동화': ['전기차 배터리 EREV HEV', 'electric vehicle battery industry'],
     '경제·금융': ['한국 경제 금리 환율 증시', 'world economy central bank inflation'],
     '정치·정책': ['한국 정치 정부 정책', 'Trump tariff White House executive order statement'],
@@ -129,9 +129,17 @@ def norm(s):
 def fetch():
     articles = []
     scraps=shared_scraps()
-    sources=[(cat,term,'ko','KR') for cat,terms in {**QUERIES,'관심 키워드':shared_keywords()}.items() for term in terms]
+    sources=[(cat,term,'ko','KR') for cat,terms in QUERIES.items() for term in terms]
     sources += [('해외·'+region,query,lang,country) for region,query,lang,country in MARKET_SEARCHES]
     sources += [('스크랩 추적',query,'ko','KR') for query in scrap_queries(scraps)]
+    sources += [('CKD·물류',q,'en','US') for q in [
+        'port strike terminal disruption ILA ILWU',
+        'Savannah Mobile Los Angeles Long Beach port vessel congestion',
+        'Kattupalli Ennore Chennai port operations strike',
+        'shipping line blank sailings port closure supply chain']]
+    sources += [('CKD·물류',q,'en','IN') for q in [
+        'Chennai Ennore Kattupalli port congestion shutdown strike',
+        'India automotive parts exports shipping port disruption']]
     for category, term, lang, country in sources:
             ceid=country+':'+lang
             url = f'https://news.google.com/rss/search?q={quote(term + " when:2d")}&hl={lang}&gl={country}&ceid={ceid}'
@@ -232,7 +240,7 @@ def summarize(items):
 WORK_CATEGORIES = {'자동차', 'CKD·물류', '전동화', '관심 키워드'}
 AUTO = ('현대차','현대자동차','기아','현대모비스','모비스','자동차','완성차','차량','전기차','배터리','전동화','erev','hev','ckd','hyundai','kia','mobis','automotive','automaker','vehicle','ev production')
 OPERATIONS = ('생산','증산','감산','가동','공장','투자','신설','수출','수입','부품','공급','납품','발주','판매','실적','관세','무역','현지화','조달','파업','중단','리콜','생산량','물량','supply','production','factory','plant','export','tariff','investment','shipment','sales','sourcing')
-LOGISTICS = ('해운','선복','선적','항만','컨테이너','운임','운송','물류','항공화물','화물','공급망','통관','수출규제','shipping','freight','container','port congestion','supply chain','logistics','customs')
+LOGISTICS = ('해운','선복','선적','항만','컨테이너','운임','운송','물류','항공화물','화물','공급망','통관','수출규제','shipping','freight','container','port','terminal','vessel','supply chain','logistics','customs')
 POLICY = ('자동차 관세','부품 관세','전기차 보조금','자동차 규제','무역협정','수입 규제','수출 통제','현지 생산','전기차 정책','자동차 산업','ev tariff','auto tariff','vehicle tariff')
 MAJOR = ('금리 결정','기준금리','환율 급등','환율 급락','증시 급락','증시 폭락','서킷브레이커','금융위기','국가비상사태','대규모 재난','지진','태풍','전쟁','휴전','정상회담','대통령 탄핵','총선 결과','대선 결과','중앙은행','무역 전쟁','긴급 제재','interest rate decision','central bank','ceasefire','earthquake','financial crisis','stock market crash','sanctions')
 PROMOTION = ('축제','페스티벌','런페스타','마라톤','행사 참가','표창','수상','봉사활동','사회공헌','기부','캠페인','홍보대사','도서 출간','신간','책 소개','경제공부','맛집','운세','연예','아이돌','드라마','영화','festival','award ceremony','book review','celebrity')
@@ -272,7 +280,7 @@ def classify(a):
         return '산업·업무'
     if has_any(title, AUTO) and has_any(body, OPERATIONS + LOGISTICS):
         return '산업·업무'
-    if has_any(title, LOGISTICS) and has_any(body, ('운임','선복','선적','지연','중단','혼잡','파업','비용','인상','급등','규제','차질','freight','shipping','delay','disruption','congestion','strike','rates')):
+    if has_any(title, LOGISTICS) and has_any(body, ('운임','선복','선적','지연','중단','혼잡','파업','비용','인상','급등','규제','차질','freight','shipping','delay','disruption','congestion','strike','rates','closure','shutdown','labor talks','negotiations','walkout')):
         return '산업·업무'
     if has_any(title, ('코스피 폭락','증시 폭락','7%대 폭락','미국발 인플레이션','금리 결정','환율 급등','환율 급락','중앙은행','대규모 재난','전쟁','휴전','정상회담')):
         return '일반 뉴스'
@@ -288,6 +296,12 @@ def irrelevant_work_article(a):
 def is_work(a):
     return classify(a) == '산업·업무'
 
+def interest_bonus(a, keywords):
+    """Only a tiny ranking tie-breaker, never a collection or eligibility filter."""
+    content = (a.get('title', '') + ' ' + a.get('description', '')).casefold()
+    return 2 if any(isinstance(k, str) and len(k.strip()) >= 2 and k.strip().casefold() in content
+                    for k in keywords) else 0
+
 def editorial_score(a):
     title = a.get('title','').lower()
     body = title + ' ' + a.get('description','').lower()
@@ -301,13 +315,12 @@ def editorial_score(a):
     if has_any(title, LOGISTICS): score += 15
     if has_any(body, POLICY): score += 18
     if has_any(title, MAJOR): score += 18
-    if a.get('category') == '관심 키워드': score += 0
     if a.get('importance') == '높음': score += 2
     if a.get('priority_markets'): score += min(15,8+3*len(a['priority_markets']))
     if a.get('scrap_relation'): score += 22 if a['scrap_relation']['type']=='후속보도' else 12
     return score
 
-ANALYSIS_VERSION = 'event-diversity-risk-v6-20261029'
+ANALYSIS_VERSION = 'event-first-v10-interest-ranking-20261030'
 
 WORK_PERSPECTIVE_RULES = (
     "업무 뉴스는 자동차 산업·CKD·물류 동향을 파악하는 브리핑이다. 모든 기사를 CKD와 연결할 필요가 없다. "
@@ -501,7 +514,10 @@ def same_day_issue(a, b):
 def merge_same_day_groups(groups):
     """Merge only confidently identical issues within the same section."""
     merged = []
-    for (section, _), members in groups.items():
+    for (section, event_id), members in groups.items():
+        if str(event_id).startswith('ai:'):
+            merged.append({'section':section,'members':list(members),'event_id':event_id})
+            continue
         matched = False
         for entry in merged:
             if entry['section'] != section:
@@ -535,7 +551,66 @@ def representative_score(a):
     return score
 
 
-def choose_for_day(articles, existing, work_limit=None, general_limit=None):
+def ai_event_clusters(articles):
+    """First-pass global event clustering, BEFORE article ranking or summarization.
+
+    AI sees many articles together, not one previously keyword-selected event at a
+    time. Failure leaves the original items available for conservative fallback.
+    """
+    key = os.environ.get('GEMINI_API_KEY', '').strip()
+    if not key or not articles:
+        print('Event clustering: Gemini unavailable; keyword fallback only')
+        return {}
+    model = os.environ.get('GEMINI_MODEL', 'gemini-3.1-flash-lite')
+    endpoint = 'https://generativelanguage.googleapis.com/v1beta/models/' + model + ':generateContent'
+    # Deterministic ordering: articles from different RSS searches can be compared.
+    candidates = sorted(articles, key=lambda a: a.get('published',''), reverse=True)
+    groups = {}
+    # Overlap groups between batches through a rolling set of cluster exemplars.
+    exemplars = []
+    for offset in range(0, len(candidates), 40):
+        batch = candidates[offset:offset+40]
+        prior = [{'event_id':eid,'title':a.get('title',''), 'description':a.get('description','')[:180]}
+                 for eid,a in exemplars[-55:]]
+        payload = [{'id':a['id'], 'title':a.get('title',''), 'description':a.get('description','')[:240],
+                    'published':a.get('published','')[:10]} for a in batch]
+        prompt = ("너는 뉴스 사건 분류 담당자다. 아래 기사를 제목 유사도가 아니라 실제 발표/사건의 동일성으로 묶어라. "
+                  "같은 발표를 서로 다른 관점으로 다룬 기사들은 동일 event_id. 같은 기업의 다른 발표나 "
+                  "다른 날짜의 새로운 조치/사건은 구분. 비슷한 업계 주제라는 이유만으로 합치지 마라. "
+                  "이전 묶음에 같은 사건이 있으면 그 event_id를 재사용하고, 없으면 이번 배치 내에서 "
+                  "새로운 짧은 event_id를 부여한다(접두사 n). 모든 입력 id에 대해 빠짐없이 반환. "
+                  "JSON {\"assignments\":[{\"id\":\"...\",\"event_id\":\"...\"}]}만 출력. "
+                  "이전 사건: " + json.dumps(prior,ensure_ascii=False) +
+                  " 현재 기사: " + json.dumps(payload,ensure_ascii=False))
+        try:
+            r=requests.post(endpoint,headers={'x-goog-api-key':key,'Content-Type':'application/json'},
+              json={'contents':[{'parts':[{'text':prompt}]}],
+                    'generationConfig':{'responseMimeType':'application/json','temperature':0}},timeout=110)
+            r.raise_for_status()
+            response=json.loads(r.json()['candidates'][0]['content']['parts'][0]['text'])
+            valid={a['id']:a for a in batch}
+            current={}
+            for row in response.get('assignments',[]):
+                if not isinstance(row,dict):continue
+                aid=row.get('id');eid=str(row.get('event_id','')).strip()
+                if aid not in valid or not eid or len(eid)>90:continue
+                # Prevent collisions of model-generated IDs between independent batches.
+                if eid.startswith('n'):eid='batch'+str(offset)+'-'+eid
+                current[aid]=eid
+            if len(current)<len(batch)*0.9:raise ValueError('Incomplete AI clustering')
+            groups.update(current)
+            seen=set()
+            for a in batch:
+                eid=current.get(a['id'])
+                if eid and eid not in seen:
+                    seen.add(eid);exemplars.append((eid,a))
+        except Exception as ex:
+            print('Event clustering batch failed; fallback:',str(ex)[:160])
+    print('Event clustering:',len(groups),'articles mapped to',len(set(groups.values())),'events')
+    return groups
+
+
+def choose_for_day(articles, existing, work_limit=None, general_limit=None, event_clusters=None, interest_keywords=None):
     """Select issue representatives; retain up to three source links per issue.
 
     Group source articles before selecting a representative; retain links to
@@ -547,6 +622,7 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None):
             by_id.setdefault(a['id'], dict(a))
 
     groups = {}
+    event_clusters = event_clusters or {}
     source_pool = list(by_id.values())
     # Filter before ranking so older archived items cannot consume daily slots.
     cutoff = NOW - datetime.timedelta(hours=24)
@@ -564,10 +640,13 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None):
         # Anchor-based grouping preserves the work-news classification.
         anchor = event_anchor(a)
         group_section = '산업·업무' if anchor and anchor.startswith('mobis-') else section
-        groups.setdefault((group_section, topic_key(a)), []).append(a)
+        cluster = event_clusters.get(a.get('id'))
+        groups.setdefault(('산업·업무' if cluster else group_section, 'ai:'+cluster if cluster else topic_key(a)), []).append(a)
 
     ranked_groups = []
     for (section, _), members in merge_same_day_groups(groups):
+        if any(classify(m)=='산업·업무' for m in members):section='산업·업무'
+        elif any(classify(m)=='일반 뉴스' for m in members):section='일반 뉴스'
         # Multiple Google News URLs can point to the exact same published
         # story. Keep one per normalized publisher+headline before grouping.
         unique_members = {}
@@ -605,6 +684,7 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None):
             continue
         representative = dict(recent_members[0])
         representative['section'] = section
+        representative['event_cluster'] = event_clusters.get(representative.get('id'),'')
         relation_member=next((m for m in members if m.get('scrap_relation')),None)
         if relation_member:representative['scrap_relation']=relation_member['scrap_relation']
         representative['priority_markets']=sorted(set(t for m in members for t in m.get('priority_markets',[])))
@@ -618,11 +698,11 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None):
              'source': a.get('source', ''), 'published': a.get('published', '')}
             for a in members[:30] if a.get('url') and a.get('id') != representative.get('id')
         ]
-        ranked_groups.append((editorial_score(representative), representative_score(representative), representative))
+        ranked_groups.append((editorial_score(representative), interest_bonus(representative, interest_keywords or []), representative_score(representative), representative))
 
-    ranked_groups.sort(key=lambda x: (x[0], x[1], x[2].get('published', '')), reverse=True)
+    ranked_groups.sort(key=lambda x: (x[0], x[1], x[2], x[3].get('published', '')), reverse=True)
     chosen, counts = [], {'산업·업무': 0, '일반 뉴스': 0}
-    for _, _, a in ranked_groups:
+    for _, _, _, a in ranked_groups:
         section = a['section']
         limit = work_limit if section == '산업·업무' else general_limit
         if limit is not None and counts[section] >= limit:
@@ -651,12 +731,25 @@ def recent_history(days=14):
     return out
 
 
-def same_issue_prior(a, history):
-    """Conservative match: only a recognized issue key or an identical headline."""
+def history_candidates(a, history):
+    """Retrieve broad candidates for AI; never auto-suppress based on this alone."""
     key = topic_key(a)
-    return [h for h in history if (h['article'].get('section') or classify(h['article'])) == a.get('section')
-            and (topic_key(h['article']) == key or same_day_issue(a, h['article']))][:5]
+    def related(h):
+        old=h['article']
+        if topic_key(old)==key or same_day_issue(a,old):return True
+        # Recall broad candidates for AI novelty judgement, not an automatic match.
+        current=set(title_terms(a.get('title','')))
+        previous=set(title_terms(old.get('title','')))
+        return len(current & previous)>=2 and len(current & previous)/max(1,min(len(current),len(previous)))>=0.48
+    return [h for h in history if related(h)][:8]
 
+
+def same_issue_prior(a,history):
+    key=topic_key(a)
+    return [h for h in history if topic_key(h['article'])==key or same_day_issue(a,h['article'])][:5]
+
+def strict_issue_prior(a,history):
+    return same_issue_prior(a,history)
 
 def ai_editorial_review(items, history):
     """AI checks factual novelty against 7-day history and merges same-day RSS snippets.
@@ -674,7 +767,7 @@ def ai_editorial_review(items, history):
         payload = []
         for a in batch:
             related = a.get('group_members') or []
-            previous = same_issue_prior(a, history)
+            previous = history_candidates(a, history)
             payload.append({
                 'id': a['id'], 'event_key':topic_key(a), 'current': [
                     {'title': m.get('title'), 'description': m.get('description'), 'source': m.get('source')}
@@ -719,7 +812,7 @@ def ai_editorial_review(items, history):
             if not x or not isinstance(x.get('summary'), str) or not x['summary'].strip():
                 if not same_issue_prior(a, history): result.append(a)
                 continue
-            if x.get('status') == 'repeat' and same_issue_prior(a, history):
+            if x.get('status') == 'repeat' and history_candidates(a, history):
                 print('Omitting repeated prior-day issue:', a['title'][:75])
                 continue
             b = dict(a)
@@ -734,17 +827,17 @@ def ai_editorial_review(items, history):
                 b['detail'] = x['detail']
             b['new_information'] = norm(x.get('new_information', ''))
             b['source_comparison'] = norm(x.get('source_comparison', ''))
-            previous = same_issue_prior(a, history)
+            previous = history_candidates(a, history)
             if previous and b['new_information']:
                 b['news_relation'] = '후속보도'
                 b['follow_up'] = {'date': previous[0]['date'],
                     'title': previous[0]['article'].get('title', ''),
                     'summary': previous[0]['article'].get('summary', ''),
                     'url': previous[0]['article'].get('url', '')}
-            if previous and not b['new_information']:
+            if previous and not b['new_information'] and x.get('status') == 'repeat':
                 print('Omitting same-event story without new facts:', a['title'][:75])
                 continue
-            elif not previous:
+            else:
                 b['news_relation'] = '신규 뉴스'
             b['ai_summary'] = True
             b['integrated_summary'] = True
@@ -892,7 +985,21 @@ def main():
     # Group ALL current sources first: excluding previously published URLs here
     # would silently remove valuable related reporting from each event.
     history = recent_history(14)
-    chosen = choose_for_day([], list(all_saved.values()))
+    # Global event clustering runs before candidate selection; previously this
+    # stage split identical press releases before the AI could compare them.
+    recent_candidates=[]
+    for candidate in all_saved.values():
+        try:
+            if NOW-datetime.timedelta(hours=48) <= datetime.datetime.fromisoformat(candidate['published']) <= NOW:
+                if classify(candidate):recent_candidates.append(candidate)
+        except (KeyError,ValueError,TypeError):pass
+    clusters=ai_event_clusters(recent_candidates)
+    chosen = choose_for_day([], list(all_saved.values()), event_clusters=clusters, interest_keywords=shared_keywords())
+    print('Collection audit: fetched=',len(articles),'archive=',len(all_saved),
+          'recent_classified=',len(recent_candidates),'clustered=',len(clusters),
+          'event_candidates=',len(chosen),'logistics_candidates=',
+          sum(1 for a in recent_candidates if any(w in (a.get('title','')+' '+a.get('description','')).lower()
+              for w in ('port','항만','terminal','shipping','해운','선적','strike','파업'))))
     chosen = [a for a in chosen if not irrelevant_work_article(a)]
     # Require a genuinely recent publication, not merely a newly collected RSS hit.
     cutoff = NOW - datetime.timedelta(hours=24)
@@ -917,12 +1024,13 @@ def main():
         if cached.get('integrated_summary') and cached.get('integration_signature') == sig:
             saved = dict(cached)
             saved['related_articles'] = a.get('related_articles', [])
+            saved['event_cluster'] = a.get('event_cluster','')
             saved['priority_markets'] = a.get('priority_markets', [])
             if a.get('scrap_relation'):saved['scrap_relation']=a['scrap_relation']
             else:saved.pop('scrap_relation',None)
             saved['source_comparison'] = cached.get('source_comparison', '')
             saved['section'] = a.get('section', saved.get('section'))
-            if same_issue_prior(saved,history) and not saved.get('new_information'):
+            if strict_issue_prior(saved,history) and not saved.get('new_information'):
                 continue
             merged.append(sanitize_editorial(correct_known_name_error(saved)))
         else:
@@ -931,7 +1039,7 @@ def main():
     reviewed = ai_editorial_review(review_needed[:budget], history)
     reviewed_ids = {a['id'] for a in reviewed}
     for a in reviewed:
-        if same_issue_prior(a, history) and not a.get('new_information'):
+        if strict_issue_prior(a, history) and not a.get('new_information'):
             continue
         if a.get('integrated_summary') or a.get('ai_summary'):
             merged.append(a)
@@ -939,7 +1047,7 @@ def main():
             merged.extend(summarize([a]))
     # Preserve unreviewed entries and allow a future run to finish their AI analysis.
     for a in review_needed[budget:]:
-        if same_issue_prior(a, history):
+        if strict_issue_prior(a, history):
             print('Deferring historical event until novelty can be checked:', a['title'][:75])
             continue
         merged.append(a if a.get('ai_summary') else fallback([a])[0])
@@ -956,7 +1064,7 @@ def main():
     # This also collapses legacy cached summaries from earlier buggy runs.
     grouped={}
     for a in merged:
-        k=(a.get('section'),topic_key(a))
+        k=('산업·업무' if a.get('event_cluster') else a.get('section'), 'ai:'+a['event_cluster'] if a.get('event_cluster') else topic_key(a))
         prev=grouped.get(k)
         if prev is None:
             grouped[k]=a
