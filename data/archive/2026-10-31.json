@@ -11,7 +11,7 @@
       "description": "전쟁 길어질수록 하나만 오른다…리스크 대비할 수 있는 최적의 ETF는 매일경제 마켓",
       "priority_markets": [],
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n001",
+      "event_cluster": "batch0-n003",
       "related_articles": [],
       "summary": "지정학적 리스크가 고조되는 상황에서 투자자들이 위험을 회피하기 위해 선택할 수 있는 ETF 전략에 대한 분석입니다. 전쟁 장기화가 금융 시장에 미치는 영향과 이에 대응하는 자산 배분 방안을 다루고 있습니다.",
       "impact": "",
@@ -117,7 +117,7 @@
       "description": "22개국 113개 항만 파업: 함부르크·르아브르·피레우스 영향 - 뉴스 및 통계 IndexBox",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n002",
+      "event_cluster": "batch0-n004",
       "related_articles": [
         {
           "title": "No Law Can Stop Licensed Arms Shipments: Global Dockworkers Strike at 113 Ports Friday - Tech Times",
@@ -177,7 +177,7 @@
       "description": "기아 \"중동 전쟁 오래 갈 줄 몰랐다…EV 인센티브는 내년까지\" 뉴스웍스",
       "priority_markets": [],
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n003",
+      "event_cluster": "batch0-n005",
       "related_articles": [],
       "summary": "기아가 중동 전쟁의 장기화에 따른 경영 불확실성을 언급하며, 전기차(EV) 인센티브 정책을 내년까지 유지하겠다는 방침을 밝혔습니다.",
       "impact": "",
@@ -289,7 +289,7 @@
       "description": "현대차·기아, 3Q 영업익 성장했지만…\"중동 전쟁·환율 부담 속 신중 모드\" 뉴시스",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n005",
+      "event_cluster": "batch0-n007",
       "related_articles": [
         {
           "title": "[심층진단] 현대차, 3분기 영업이익 2.7조원에도 연간 판매목표 하향…생산 차질·원가 상승에 수익성 방어 시험대 - 뉴스밸류",
@@ -310,12 +310,6 @@
           "published": "2026-10-29T14:52:44+09:00"
         },
         {
-          "title": "현대차, 판매량 11% 줄어도 이익 늘었다…불황 속 돋보인 방어력-IBK - 이데일리",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYi1yUzNKbVBKamNfaWR4RUpkcE9wUk04NDlJdWJGc2tELTFuZi1HWkhETTVHMkdnc1JiU2pZbTlmaDM2MTZZREwyWFg3RXpRZmRQbGpiRlE3VHBoVVBqcmhBUUJqV0hpNU5YaFhLNXE3b19QNy1vRUdnLW9ObGdpbQ?oc=5",
-          "source": "이데일리",
-          "published": "2026-10-30T07:49:33+09:00"
-        },
-        {
           "title": "현대차, 3분기 영업익 2조6772억원…판매 감소에도 수익성 방어 - 인더스트리뉴스",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WQjFLQU41SUdydnlQaC01ZVpzQVFtQTR6Ml9IQ3dhRFZIMURTM0N2TUV5cENWdlhZVDdfNTgwUEJMTTJYVWk5TktIMWNzZ1hVdlh3QnIxZ09FMDVqMER2RUFwa3Vrc1BoN3h5S3V1R2NWZw?oc=5",
           "source": "인더스트리뉴스",
@@ -334,10 +328,10 @@
           "published": "2026-10-29T15:10:26+09:00"
         },
         {
-          "title": "현대차·기아 3분기 실적 엇갈리나…영업이익 격차 800억원 아래로 - 현대경제",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tbWlrSEhNZVpuZE1YOEFhbnZLdExtRVBfdGdNS3lmbWJjWE4tX0tUNXA5UWdWZEZpY1Y0SW1fX0RJSlJOc2lrQlAtdnFBZXA4UFNWbG1ablk5dVV6aHdTWENMLTYyZFdpenJz?oc=5",
-          "source": "현대경제",
-          "published": "2026-10-29T07:50:11+09:00"
+          "title": "현대차, 판매 급감에도 하이브리드 선방…3분기 영업이익 5.5%↑ - 아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0Z3VKR3pCUUN4RmkydmRjY2Z0Zk9IcWJxaWZmZ3ZWMEtaZmk2anc1WjhrZ2RvalM3SzF6cWJvUFJtcGZMVG43Y2lnQmJPeERXc3JFQ0xKeDfSAVhBVV95cUxQNGd1Skd6QlFDeEZpMnZkY2NmdGZPSHFicWlmZmd2VjBLWmZpNmp3NVo4a2dkb2pTN0sxenFib1BSbXBmTFRuN2NpZ0JiT3hEV3NyRUNMSng3?oc=5",
+          "source": "아주경제",
+          "published": "2026-10-29T14:10:57+09:00"
         },
         {
           "title": "현대차, 3분기 영업익 2.7조…판매 감소에도 선방 - 스페셜경제",
@@ -346,27 +340,40 @@
           "published": "2026-10-29T17:09:22+09:00"
         },
         {
+          "title": "[종합] 현대차, 3분기 하이브리드·환율 효과에 수익성 개선…판매·수익성 목표 조정 - 이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4Y0FxLWZtc2hvZkZvcklQLTZiX3NNZEpiYVkwcXB2cWtabXV5ZnRYRk9GZ1gwSFAzNnMzTk9ZdHA4Q2toclZ5Z3dnekV4cmJzMnJvUw?oc=5",
+          "source": "이투데이",
+          "published": "2026-10-29T14:18:00+09:00"
+        },
+        {
           "title": "[초점] \"HEV가 살렸다\"…현대차·기아, 3분기 실적 희비 - 뉴스워치",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hREN2NWZqZm53SkpuYUZIVTR2N3dvdTh4cy1adE9iZlgxakJUWVJtQkVyYnZjTFh3MEZRZDJ5am00bHp2NmRxRmo3YUpWWVhHR1VNVldRczFlZmxZMmEtZnpkdUZfQ05uX3c?oc=5",
           "source": "뉴스워치",
           "published": "2026-10-30T17:33:07+09:00"
+        },
+        {
+          "title": "현대차 3분기 실적, 판매와 매출 줄어도 영업이익은 늘어 - 이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtcmlrQ3hNWTNkNW91RWEyNTJhVHlDR1NYOWhCYzZJYlFYQmhLWU1wb2NKYWRDdnBZeWI3b1JkU1haWTQxVmVWZ05Hb0xSbFY2V1d0VnJFdXVJZVJPbE4zMm9mMG8tZnY4cHJIbVRubURwOWts0gF0QVVfeXFMUC1yaWtDeE1ZM2Q1b3VFYTI1MmFUeUNHU1g5aEJjNkliUVhCaEtZTXBvY0phZEN2cFl5YjdvUmRTWFpZNDFWZVZnTkdvTFJsVjZXV3RWckV1dUllUk9sTjMyb2Ywby1mdjhwckhtVG5tRHA5a2w?oc=5",
+          "source": "이뉴스투데이",
+          "published": "2026-10-29T19:31:55+09:00"
         }
       ],
-      "summary": "현대차의 3분기 영업이익은 2조 6,772억 원으로 전년 대비 성장했으나, 글로벌 판매량은 11.3% 감소했습니다. 경영진은 중동 전쟁과 환율 변동성 등 대외 리스크를 이유로 연간 판매 및 수익성 목표를 하향 조정했습니다.",
-      "impact": "판매량 감소에도 불구하고 수익성을 방어한 점은 긍정적이나, 연간 목표 하향은 향후 생산 및 물류 운영 계획의 보수적 조정을 시사합니다.",
+      "summary": "현대차의 3분기 영업이익은 2조 6,772억 원으로 전년 대비 증가했으나, 글로벌 판매량은 11.3% 감소했습니다. 경영진은 중동 전쟁과 환율 변동성 등 대외 리스크를 고려해 연간 판매 및 수익성 목표를 하향 조정했습니다.",
+      "impact": "판매 목표 하향은 향후 CKD 생산 물량 및 부품 발주 계획의 보수적 운영을 시사하며, 환율 변동에 따른 수익성 관리 모니터링이 필요합니다.",
       "importance": "높음",
       "detail": {
-        "background": "3분기 실적 발표를 통해 글로벌 경기 둔화와 지정학적 리스크가 실제 판매 실적에 미친 영향이 확인됨.",
+        "background": "현대차는 하이브리드 모델의 선전과 환율 효과로 수익성을 방어했으나, 글로벌 판매 감소와 대외 불확실성으로 인해 경영 목표를 수정했습니다.",
         "key_points": [
-          "3분기 영업이익 2조 6,772억 원 기록",
+          "3분기 영업이익 2조 6,772억 원 달성",
           "글로벌 판매량 11.3% 감소",
-          "연간 판매 및 수익성 목표 하향 조정"
+          "연간 판매 및 수익성 목표 하향 조정",
+          "하이브리드 차종의 실적 견인"
         ],
-        "what_to_watch": "4분기 판매 회복 여부 및 대외 리스크에 따른 생산 전략 변화.",
-        "fact_check": "공시된 실적 수치와 경영진의 향후 가이던스 재확인."
+        "what_to_watch": "하향 조정된 연간 목표치에 따른 생산 계획 변경 여부",
+        "fact_check": "공시된 3분기 실적 수치 및 경영 목표 수정 내용 확인"
       },
-      "new_information": "3분기 영업이익 2조 6,772억 원 확정 및 연간 판매·수익성 목표 하향 조정 공식화.",
-      "source_comparison": "대부분의 매체가 영업이익 2.7조 원 달성과 판매 목표 하향을 공통적으로 보도함.",
+      "new_information": "3분기 영업이익 2조 6,772억 원 확정 및 연간 판매·수익성 목표 하향 조정 확인.",
+      "source_comparison": "대부분의 매체가 영업이익 2조 6,772억 원과 판매량 11.3% 감소를 공통적으로 보도함.",
       "news_relation": "신규 뉴스",
       "follow_up": {
         "date": "2026-10-30",
@@ -376,8 +383,19 @@
       },
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "5f9674b5965f26de",
-      "image_url": ""
+      "integration_signature": "1e9183d78154417e",
+      "image_url": "",
+      "original_summary": "현대차의 3분기 영업이익은 2조 6,772억 원으로 전년 대비 성장했으나, 글로벌 판매량은 11.3% 감소했습니다. 경영진은 중동 전쟁과 환율 변동성 등 대외 리스크를 이유로 연간 판매 및 수익성 목표를 하향 조정했습니다.",
+      "original_detail": {
+        "background": "3분기 실적 발표를 통해 글로벌 경기 둔화와 지정학적 리스크가 실제 판매 실적에 미친 영향이 확인됨.",
+        "key_points": [
+          "3분기 영업이익 2조 6,772억 원 기록",
+          "글로벌 판매량 11.3% 감소",
+          "연간 판매 및 수익성 목표 하향 조정"
+        ],
+        "what_to_watch": "4분기 판매 회복 여부 및 대외 리스크에 따른 생산 전략 변화.",
+        "fact_check": "공시된 실적 수치와 경영진의 향후 가이던스 재확인."
+      }
     },
     {
       "id": "bc86e4ef978222",
@@ -1898,6 +1916,596 @@
       "category": "경제·금융",
       "description": "美 금리 동결에도 한은 또 '호미' 꺼내나…11월 인상에 무게 연합뉴스",
       "priority_markets": []
+    },
+    {
+      "id": "1ec7e29489fee1",
+      "title": "진성준, 美 '비자 거절' 사흘 만에 발급… 내일 태평양사령부 방문 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjV1hSQnFzMThJZTAyVlBQSHpUR3BuanhUU1NyYzBtUkZDN242eGNhOGMyY1pGelhfbVhZNWFVWHlKbXJST1dPc2VhNElnZlUwV0JUOGk2R3J6SERHVmNhTGxkRXpLbjB2OW96X3FR0gFzQVVfeXFMT0U5SHJxa291bUNLSHpBOXVTc2pPbjVrS2hiRjZ6dEpLOGJIRFNQYlRLcHJvaGdOTnRWMVZoRnFBSGJHMk1VbDdROTNTdkdmSkNNV0hDTXV0djdRMU9NTnN4dVFsVGlpY29uUGpTVUFIUFBUSQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-31T10:09:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "진성준, 美 '비자 거절' 사흘 만에 발급… 내일 태평양사령부 방문 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "fb947e3da2dbda",
+      "title": "카나리아 리포트 | 이용 가이드 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91anprUkNNYVF1NnhaQ1hlSjNXYWZUclM4dzFDQTlPa1I4dWJyQnNvTTRSbjJCNjNoaGQ1QmFZNWcyOUFTNUx5ZDdRdTdaekJiSGdJTEc5MkNOdTVCTy1oYVhpa3EtQjdPSEE0SnJpQ0stM28?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-10-31T10:04:58+09:00",
+      "category": "경제·금융",
+      "description": "카나리아 리포트 | 이용 가이드 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "4b0e5a1ffc905c",
+      "title": "'미국 중간선거' 카운트다운…트럼프 운명에 한국 증시도 긴장 > 뉴스 - 지데일리",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ycnVBcE1GY2hMYVFjVS1Qcld1MDI1WUxyQVZzdTBOblNRLXZfcUlRS3ZyNUFsZllLemQ2Zjc3RmFtY1lGQjc0UTJ3Q0ZURjczUWNZXzdsWXZqNnZUdFFqdDViZVk4Rnc4Vmt2dg?oc=5",
+      "source": "지데일리",
+      "published": "2026-10-31T09:30:00+09:00",
+      "category": "정치·정책",
+      "description": "'미국 중간선거' 카운트다운…트럼프 운명에 한국 증시도 긴장 > 뉴스 지데일리",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "c117f1564925cd",
+      "title": "11월 첫째 주 한국·미국 증시 주요 일정｜AMD·애플 실적부터 미국 중간선거·고용보고서까지 - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UaEx2RUlXNlJsWnJVQTNmNkZjNUdMLXlfZFZzMUl2MmRwU3Y1RExBUGI1b2RoSHVCc2l2Mkc4bWNCdlVkMHRvLXBONmFsejdKSFZBeFp2eUtmWWdwaUM2ZlU0OGpsaEtwSU55YzZkSFZmMzY0Q1F2NnJETElCQQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-10-31T09:10:00+09:00",
+      "category": "경제·금융",
+      "description": "11월 첫째 주 한국·미국 증시 주요 일정｜AMD·애플 실적부터 미국 중간선거·고용보고서까지 네이버 프리미엄콘텐츠",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "5389b396ac30f7",
+      "title": "생산 차질 끝나고 신차 쏟아진다…현대차 4분기 반전 기대 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uWHpNd1FjdVUtUnFpeVVXLWRYQlJKMDQ5a19PX0RMSW1NRFlSaUJNS0JPM0dMbzRsLThDVkR0ODhIR2twV2x5RkZSZkhsZlZRZnZJa1dFSUpXckxWek1nUWVhRnRQZzZrZm5VbnRxZlZCVUdqbHRB0gF3QVVfeXFMTW5Yek13UWN1VS1ScWl5VVctZFhCUkowNDlrX09fRExJbU1EWVJpQk1LQk8zR0xvNGwtOENWRHQ4OEhHa3BXbHlGRlJmSGxmVlFmdklrV0VJSldyTFZ6TWdRZWFGdFBnNmtmblVudHFmVkJVR2psdEE?oc=5",
+      "source": "핀포인트뉴스",
+      "published": "2026-10-31T08:51:03+09:00",
+      "category": "자동차",
+      "description": "생산 차질 끝나고 신차 쏟아진다…현대차 4분기 반전 기대 핀포인트뉴스",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "summary": "현대차가 생산 차질 문제를 해소하고 신차 라인업을 본격적으로 투입함에 따라 4분기 실적 반등이 기대되고 있습니다. 공급망 안정화와 신차 효과가 맞물려 수익성 개선이 예상됩니다.",
+      "impact": "현대차의 생산 정상화는 CKD 물량 공급 및 관련 부품 물류 흐름에 긍정적인 영향을 미칠 것으로 보이며, 신차 출시 일정에 따른 부품 수급 계획 점검이 필요합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "최근 현대차는 생산 차질로 인해 글로벌 판매량이 감소하는 등 어려움을 겪었으나, 4분기부터는 생산 정상화와 신차 효과로 실적 회복을 노리고 있습니다.",
+        "key_points": [
+          "생산 차질 이슈 해소",
+          "신차 라인업 투입 본격화",
+          "4분기 실적 반등 기대감 고조"
+        ],
+        "what_to_watch": "신차 출시 일정에 따른 실제 생산량 증가 추이 및 글로벌 판매 회복 속도",
+        "fact_check": "생산 차질 해소 여부와 신차 출시 라인업 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "c97b6f2b48fffc89",
+      "image_url": ""
+    },
+    {
+      "id": "15f7c413cc4e71",
+      "title": "내년도 예산안, 여야 갈등 심화... 미래대응기금의 향방은? - 공감신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SMl9YTEdfSV9IRGFWUFl0MDRLbkw3TE5zRWpYSFZpTGVfZjVlVHZSQWwwQ3BxRnVOdXRBV25RY3lOT2E1NDdBaHpmODFMMzF2bFpTUGJsZ3pqaVNScXdxVkgwd3Jtckk?oc=5",
+      "source": "공감신문",
+      "published": "2026-10-31T08:32:30+09:00",
+      "category": "정치·정책",
+      "description": "내년도 예산안, 여야 갈등 심화... 미래대응기금의 향방은? 공감신문",
+      "priority_markets": []
+    },
+    {
+      "id": "b08b1fe6964678",
+      "title": "\"2030년 아닌 지금의 경쟁\"... 모빌리티 글로벌 이상민, 한국차 대응 촉구 - 오토트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yeVNNRk9fRUtBNGJjZXlOMFdZRU9vOFlWYVZUTVV5NTJ5UjBZNUJ3T0JwUG4tMVNWWXZubVh0cm9jUEZCSmdvN0pJekhIYkZ0c0NRQmdPTHphLTQ0a2x2YW5SN1Q0SDBMX1JFN25qODA?oc=5",
+      "source": "오토트리뷴",
+      "published": "2026-10-31T07:33:05+09:00",
+      "category": "자동차",
+      "description": "\"2030년 아닌 지금의 경쟁\"... 모빌리티 글로벌 이상민, 한국차 대응 촉구 오토트리뷴",
+      "priority_markets": []
+    },
+    {
+      "id": "8b33dc04c49bba",
+      "title": "중국차 수출 확대…세계 車업계, 원가 절감 경쟁 가속 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa1hSWks1UWRvdnotZlBkdnRJZDF3WFpfMy1XTVRLd3VkSzZwcmNHWW43QWprWldjd1RWZkIwSVNuTy0yZ21jQXFkVkU4c0JCNm1ZU0MtZHFxZ2dJZHMzU0ZtZGdUR0cyYTF5VDJJTGlHdk9KOEZ5Wk9VUkZnYU1FUC0xQkpGLWY4?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-10-31T06:11:16+09:00",
+      "category": "자동차",
+      "description": "중국차 수출 확대…세계 車업계, 원가 절감 경쟁 가속 글로벌이코노믹",
+      "priority_markets": []
+    },
+    {
+      "id": "ae16ab9f90c7bb",
+      "title": "‘기름먹는 차’ 만으론 성장 못한다…세계 1위 자동차 제국마저 판매량 부진 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jUWdOLU83aWdYU3B6SXNMc2NxWVZzaDJZdjZOSmVkSE1ocTU5RER0S3lic3Z0QnVvX2xLdjQ4ZTgtYzg4cVd6TlRvYUhiaV9Bd0E?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-31T06:07:54+09:00",
+      "category": "자동차",
+      "description": "‘기름먹는 차’ 만으론 성장 못한다…세계 1위 자동차 제국마저 판매량 부진 매일경제",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "summary": "내연기관차 중심의 판매 전략만으로는 글로벌 시장 성장에 한계가 있다는 분석이 제기되었습니다. 세계 1위 자동차 기업조차 판매 부진을 겪으며 전동화 전환의 중요성이 강조되고 있습니다.",
+      "impact": "글로벌 완성차 업계의 전동화 전환 가속화는 기존 내연기관 부품 중심의 공급망에서 친환경차 부품 및 배터리 관련 물류 수요 변화를 시사합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "전 세계적으로 전기차 및 하이브리드 등 친환경차 수요가 늘어나는 가운데, 내연기관차 의존도가 높은 업체들의 판매량이 정체되는 현상이 나타나고 있습니다.",
+        "key_points": [
+          "내연기관차 판매 성장 한계 직면",
+          "글로벌 1위 기업의 판매 부진",
+          "전동화 전환의 필수성 대두"
+        ],
+        "what_to_watch": "주요 완성차 업체의 전동화 전환 속도 및 관련 부품 공급망 재편",
+        "fact_check": "글로벌 판매량 데이터 및 업체별 전동화 전략 수정 여부"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "26a806842af0e753",
+      "image_url": ""
+    },
+    {
+      "id": "d673231ee6159b",
+      "title": "더불어민주당 ‘외교안보통일자문회의’ 공식 출범 - 파주민보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLWk5UczJGeE5MeWdJd1pBeXFobDZrMTN2bWdUS0puYUVZVDhuZDRMdTB1ekdsUVZWYzNJX3dLTEFlMFh3VUo2ekRydnpoVW54SzFFNk9Obzh4dk9Wd1R0ZE1mNU41R3ljLVNF?oc=5",
+      "source": "파주민보",
+      "published": "2026-10-30T22:02:18+09:00",
+      "category": "정치·정책",
+      "description": "더불어민주당 ‘외교안보통일자문회의’ 공식 출범 파주민보",
+      "priority_markets": []
+    },
+    {
+      "id": "7656190b58083b",
+      "title": "경찰, AI 조작물 생성부터 유포까지 범행 전 과정 추적··· AI 전문분석관 전국 배치 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Vc3ozc1JTdjNtQjB3V1hnM1pVbDZYR3ZwaDNzSmJhZGtiLVhfUDZSaHJnTWZFNnY4TWJUTWFIUXo2MkpsTjFSZjE1dy13b0dEamlocHpn?oc=5",
+      "source": "Naver Blog",
+      "published": "2026-10-30T20:47:13+09:00",
+      "category": "정치·정책",
+      "description": "경찰, AI 조작물 생성부터 유포까지 범행 전 과정 추적··· AI 전문분석관 전국 배치 : 네이버 블로그 Naver Blog",
+      "priority_markets": []
+    },
+    {
+      "id": "0c214d08ae0a76",
+      "title": "[D-BIZ 기고] 개혁은 깊게, 통합은 넓게, 성장은 고르게...역사의 거울에 비춘 이재명 정부의 성공 조건 - 데일리비즈온",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBucTQxazRSekdTQTVjZHpSSm14NU95T1FjMjJ6LVdVVWRyYUVqYUZuMTBmenp5QzhvOS1JOTFzbnB6VEQwZndJNUZQZWtkZWR6Y2dVTEV1UmVHcEVMRnU1WUVoVWZhbHU2dGxXdg?oc=5",
+      "source": "데일리비즈온",
+      "published": "2026-10-30T19:22:15+09:00",
+      "category": "정치·정책",
+      "description": "[D-BIZ 기고] 개혁은 깊게, 통합은 넓게, 성장은 고르게...역사의 거울에 비춘 이재명 정부의 성공 조건 데일리비즈온",
+      "priority_markets": []
+    },
+    {
+      "id": "2d00f68c8f5132",
+      "title": "행정서비스 1,658개 제출서류 간소화 완료··· 동의하면 서류 제출 생략 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekRFWkkydEgtU3JEV18tUkxLVEczbk1pNUJGQzJZM0hWNUJ1ZF9QSmtFQmo4VjRfblNvSk9CbEJwWk9XTkliN2xaVXJNR0N3R0pQOXdiVGdiM1pHbE5hTk1uRFR1a3pwNWNnaHJKOWx0aGNNamdqNHpTLVlnZmNWc3FuckVYbXJiNFBzc0Vn?oc=5",
+      "source": "Naver Blog",
+      "published": "2026-10-30T18:23:04+09:00",
+      "category": "정치·정책",
+      "description": "행정서비스 1,658개 제출서류 간소화 완료··· 동의하면 서류 제출 생략 Naver Blog",
+      "priority_markets": []
+    },
+    {
+      "id": "add196a3581a25",
+      "title": "원/달러 환율, 수출기업 달러 매도에 소폭 하락 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53UXpXTXRveDhnSnZQcXY1bXk5bURCSUhwN3U3Wkp0MXREaVJ1WExhS2x5N2Q4M1l4SVEzRFppRkJWWWlWUTlXNzFSWjRvbUJBQUZ6eFUwU3pwQ0NyaWo5T0xJSUFPaTlETjZMTUctSC1tQ055T3ZoclN5NlM?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-10-30T16:50:00+09:00",
+      "category": "경제·금융",
+      "description": "원/달러 환율, 수출기업 달러 매도에 소폭 하락 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "e226af1f4e9861",
+      "title": "한국 증시 ‘롤러코스트’의 근본 원인 ‘몇 가지’ - 중소기업투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ObmRITWFiLXRGLXk1MkhGTWFtU0JaZFBjN1V2MkZBYTRhQjVIYkdQV1lEZHFjejhjWk9oTkU3bjdyb1djVlBwdnZER1NWeW5vcFdoVWt2aTZKY2g0RWZ3aDlrY09TOVJv0gFsQVVfeXFMT0dDMmlTWE9DbC1tLUVEUTBFTXZtb255eTllLUY0QmhxVzlLaVBUeHVWTHBUYTZxV3hZOTFZVUJGV2laLXI0cDBLUmVxRDhnTkZ4eldoUG9XRFBVLVJFYllKLUxtNTZzOGhvelYt?oc=5",
+      "source": "중소기업투데이",
+      "published": "2026-10-30T16:26:17+09:00",
+      "category": "경제·금융",
+      "description": "한국 증시 ‘롤러코스트’의 근본 원인 ‘몇 가지’ 중소기업투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "4e2316e6b1014a",
+      "title": "중흥토건‧중흥건설, 겨울철 대비 현장 안전 점검 실시 - 한국건설신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MVmY2MldycE1xZjNpSlJDTEZkS254UHF5bmp1dFVNZ0Fjdi1hVElNeC1IWEZrOEtQTlJGSzRWOWNWZG53eHF2bzIyY1lPTTYxaWtjSlA1VEl6T2RPRk1qb0NHQllYcXVsaTU4?oc=5",
+      "source": "한국건설신문",
+      "published": "2026-10-30T16:12:58+09:00",
+      "category": "국내 주요 사건",
+      "description": "중흥토건‧중흥건설, 겨울철 대비 현장 안전 점검 실시 한국건설신문",
+      "priority_markets": []
+    },
+    {
+      "id": "d6cf270089c242",
+      "title": "오렌지 주스 네덜란드 공급업체·제조사, 무역 및 가격 | 마켓 오버뷰 2026 - Tridge",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90a2lKMEJib00weW1aM2VXVGh3NnBWVW82bGpWekNxLTVqVk52WHZhU0lEQmxGYkptb0RaeDE2MS15MkUxMUlORVBEZkhVc3VEdkk2SGVWbkdfNkRoRkptZWw4aFZSeG5G?oc=5",
+      "source": "Tridge",
+      "published": "2026-10-30T14:07:00+09:00",
+      "category": "CKD·물류",
+      "description": "오렌지 주스 네덜란드 공급업체·제조사, 무역 및 가격 | 마켓 오버뷰 2026 Tridge",
+      "priority_markets": []
+    },
+    {
+      "id": "0d8d06b91968bf",
+      "title": "민주당 35%·국민의힘 30%…이재명 정부 출범 후 최소 격차 - 애드뉴스인천",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6VjFvVy1nUy01V2RIQlNzbFNncW9hVTBkN0NVbmJDSTFHUU92blR5TmdTMkQ5UHRad0FCQWNKc25WOWh1TWIyRy1TTXNuVUZyQ29TSU44SVBmUXBhYlFhTDBaWU5EcEFza05V?oc=5",
+      "source": "애드뉴스인천",
+      "published": "2026-10-30T13:25:00+09:00",
+      "category": "정치·정책",
+      "description": "민주당 35%·국민의힘 30%…이재명 정부 출범 후 최소 격차 애드뉴스인천",
+      "priority_markets": []
+    },
+    {
+      "id": "1624bbb83a52e8",
+      "title": "'하반기 재난대응 안전한국훈련' 실시··· 산불·도로·공연장 등 사고 대비 및 복합재난 대응력 강화 : 네이버 블로그 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGpqTjRCQ0NscWlRcUxoSjM4RHdMY0M2ZEhLS1VrT0llbGhXTU1ncTF3dzVNVDY5enBJVVhyZEw5QVJUczBpd2VHVzdVS29XLU1YamRPQU43TnFxSXFaUkZOcmFTZFhCSkdPTGI5d2N0VHlFendXR3lZYnktOFJDTE95RW52WW9QRlRoS1BB?oc=5",
+      "source": "Naver Blog",
+      "published": "2026-10-30T12:09:47+09:00",
+      "category": "정치·정책",
+      "description": "'하반기 재난대응 안전한국훈련' 실시··· 산불·도로·공연장 등 사고 대비 및 복합재난 대응력 강화 : 네이버 블로그 Naver Blog",
+      "priority_markets": []
+    },
+    {
+      "id": "26ea44dbce5eda",
+      "title": "이재명 대통령 직무 부정 49%···’부동산 정책' 부정 이유 1위 - 더리포트",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lZG16UzF0SVRSZFA1cEgzcGxMYkNweVRCU09EU2prMk0wNFI1VUtyUnBZQU42VEFMZEF4ZG53NldiT0cwbzZlcmcydXh0TUpHeTNwaEk0a3JUcUZHX1g5bUlqRDdZd2RHb3gwYVR3?oc=5",
+      "source": "더리포트",
+      "published": "2026-10-30T11:58:48+09:00",
+      "category": "정치·정책",
+      "description": "이재명 대통령 직무 부정 49%···’부동산 정책' 부정 이유 1위 더리포트",
+      "priority_markets": []
+    },
+    {
+      "id": "18f1ecb22f1879",
+      "title": "이영해 울산시의회 의장, 김상욱에 “SNS 정치보다 의회 소통이 먼저” - 주간한국",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1McTVURnBJTTROeWhqUGRhR1BvOVhqZHN6ZHdnTTc2emhkdVZvMDdES0FkSVdrYm1iQkszeUJMbGVRY1V2QWIyczlrNGJHdDM1QU1NNW1ONmxOUHNYSlRtRDlmb2F2TUhfMDdKdV93U1bSAXRBVV95cUxQQnl5dDU3N1lhZGtkN0VmQm5rd2VkcFQySE1wV0M0VmpOV3VOelhpOVZ4VkRyY1pmdURXNmF3N1N0emtVQlNRN085al9YRjdQVjdmVjBCa1FQYVZjV3I0NnRaS3U1bUQzSmdPMlZtY1NXeFAtTw?oc=5",
+      "source": "주간한국",
+      "published": "2026-10-30T11:46:59+09:00",
+      "category": "정치·정책",
+      "description": "이영해 울산시의회 의장, 김상욱에 “SNS 정치보다 의회 소통이 먼저” 주간한국",
+      "priority_markets": []
+    },
+    {
+      "id": "1915a98175b973",
+      "title": "7명 숨진 울산화력 붕괴…기둥 과다절제·관리 부실이 화 불렀다 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzZTRSUXVadmtyQ250MGVWSmxYTzUwQUVMT0JOalZDYWtuSlktdXJCN3pNaHhBa2h3NF9Ya3ZxakF6VUNHZ1VObnlMbXRGeG5sVGwyOHdvSll5bnRyMWFZbmNmNDVYWjZSYnM3VENR0gFzQVVfeXFMTlBoSkpsUkxtQm12UHNjeVZGMXN3anlJOGY1T2lwVGRZZ3UtNDI5RVRoelJYRXhxVVdFUzJYaXhxMmNRWEU2VjZVNlV4WGJTSVNXYTRlWkZQcDVSdk95RVk2STJBX3dOTjVKUGJWOXlCRjlyWQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-30T10:59:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "7명 숨진 울산화력 붕괴…기둥 과다절제·관리 부실이 화 불렀다 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "d45dea0551cbf2",
+      "title": "[분석] 2026 국감에서 나타난 한국 산업의 5대 과제…기업 경쟁력부터 소상공인 생존까지 - 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xaVpIREJ3ampUYzZoUko3dElmdXc1LTdEVm5lY2tuc3R2TnVfcUQxTTJ2TFdySUtaWFZQb0Nlc3h5WUxWY0I1RV9HcFNCY0xza2tsSVRGNmtkYTRldk44S3JWTUJPNHpzRmd5WkNB?oc=5",
+      "source": "폴리뉴스 Polinews",
+      "published": "2026-10-30T10:30:00+09:00",
+      "category": "정치·정책",
+      "description": "[분석] 2026 국감에서 나타난 한국 산업의 5대 과제…기업 경쟁력부터 소상공인 생존까지 폴리뉴스 Polinews",
+      "priority_markets": []
+    },
+    {
+      "id": "639e4e67f21857",
+      "title": "현대모비스, 3분기 영업익 9141억원·17.2%↑…“11월 아틀라스 액추에이터 시제품 생산” - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JZ2lsQ1Etci1vYjBsX3VBNWtOMWFSQnl6YUU3SFNnd09kaC1ld3ZMRlJyTG1uaHphM09DTm9IaEQ5YXZXQ1BUeWxNTDUxa1NKRDdHUGp3?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-10-30T10:04:44+09:00",
+      "category": "자동차",
+      "description": "현대모비스, 3분기 영업익 9141억원·17.2%↑…“11월 아틀라스 액추에이터 시제품 생산” 헤럴드경제",
+      "priority_markets": []
+    },
+    {
+      "id": "808d9e2ab05d43",
+      "title": "NMIXX, 대한민국 대중문화예술상 문체부 장관 표창 수상 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52Q0hVajNGeEdydnhxVmd0TXdnVnRBemRGMUVET2pPdkN1RF9lYzlMd2x1aGlDNV9Oc2duUzhZcTlrLU1UN1NwdTR1X3VLVFJfSlkxS0F3OTRTVUU0QlB6cVJsTkh4c25Zdy0wNEJGVHEzUQ?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-10-30T09:26:58+09:00",
+      "category": "국내 주요 사건",
+      "description": "NMIXX, 대한민국 대중문화예술상 문체부 장관 표창 수상 톱스타뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "08de252f130018",
+      "title": "파업에 치이고 판매량에 발목잡힌 현대차…7년만에 분기매출 역성장 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mdUlsVzN3QVdwSGwzdmVwaDIzZlJQdjRPTU9CSzJmQi1GcF9yYTVaZW8xUGhycjlvaFhDWUxhN0J2RVhnekE?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-30T07:06:39+09:00",
+      "category": "자동차",
+      "description": "파업에 치이고 판매량에 발목잡힌 현대차…7년만에 분기매출 역성장 매일경제",
+      "priority_markets": []
+    },
+    {
+      "id": "04559808afd6aa",
+      "title": "중국 신에너지차의 '출혈 경쟁'…한국은 준비됐나 [조평규의 중국 본색] - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rMFFMWFpDY2tTWjc1d3VHXzA0UlpScHloWkZpcEMxc3lOTWJqN3RiSWRoU2JZMXRRX3dWaHg3WkFvSGlWUTNEN2tyeVNnMV81dV8zVnN5SjFYZw?oc=5",
+      "source": "한국경제",
+      "published": "2026-10-30T06:30:03+09:00",
+      "category": "자동차",
+      "description": "중국 신에너지차의 '출혈 경쟁'…한국은 준비됐나 [조평규의 중국 본색] 한국경제",
+      "priority_markets": []
+    },
+    {
+      "id": "6490fe3a5ab008",
+      "title": "\"팔 사람은 지금 팔아라\"…미 FOMC 금리 동결·대선 변수 속 증시 향방은 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjTTlUcXNfM1ZBN3piQ1FYYUdaa3RWWmpINWxyUHFkTzdIQlZ0WmNDbEdKeGpZQVpNMW1kTThxdHpyX25ZUTBsdzNUZ0VveEtaWS1aQ0I2SmVoZ19aNmxzZ9IBeEFVX3lxTE91UUtFa0pHRy1BUWZPcmphWU4tSTVmaTEwNGRnRmtQN05zcXdHUFdEc2RuT0lrYlRSUEo5UFJiQnJSSTZSN085eVNCaXR5YnVaRTNURkVFTFBQeHpNc0phcW1oRUpURGNoX2gwWml0cVdQTUk3bGVCeQ?oc=5",
+      "source": "뉴시스",
+      "published": "2026-10-30T06:16:27+09:00",
+      "category": "경제·금융",
+      "description": "\"팔 사람은 지금 팔아라\"…미 FOMC 금리 동결·대선 변수 속 증시 향방은 뉴시스",
+      "priority_markets": []
+    },
+    {
+      "id": "3c56e181014e4a",
+      "title": "민간 로봇의 국방 적용을 막는 장애물들 [AI가 바꾸는 세상] - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82c2RXUm1fVF9XbkE0YkZJcU1JYzk2UlI4dE4tUW00Ykw2dm11M2lBR0M2MHFCd1hwN3NiUWRvN2I3OVRpV1l1UVV6VFRCOER0SXdia3pBSUYxRk15RXF3ZXJwZDIyU2Z4UUZKaWt30gFzQVVfeXFMTlo5UV9NXzdpZE9KRTUxa1N0OTd0ZUVOVlVUcHgwOFlQTnBEaWhUUjFjZF9paFdaNmd5elhEVWN0Z245eldQajFILUNWMW5uZ095Sk1NZ3ZnQ0hxSHloR2RGaU00aGJfenRUdWhXSU5DdzJ5dw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-30T04:30:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "민간 로봇의 국방 적용을 막는 장애물들 [AI가 바꾸는 세상] 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "818a13591fc85b",
+      "title": "[백운산 오늘의 운세] 2026년 10월 30일 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55OVZudXFDeDFrZzR3MU53cE1hdTVVWDRHMkpYNnY1V3NkUFZPa21MRm5FalR4bFEzWklVV1ZLN2E3azhZQThtaEhQSmM5RXM1Y3JYQ2tVUGFlazE2UTQ2c3VsUnBuQVo1TUJadzdR0gFzQVVfeXFMTzgzakd2ZThReUZkQTBWMmxtcVh4MkVtYS0yOW40MzZ0M0hVSUV0TThyRVRRWUstcmFWcGlHd0tJaGZRTkd3dTFySUNOUnBoQ0h5ZHpST010RFlMUzVyU0ZyY0xZQm0wTUNNaXdwcTRDaEthZw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-30T00:00:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "[백운산 오늘의 운세] 2026년 10월 30일 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "629c739a9326b3",
+      "title": "대전시 대한민국 대표 관광지로 도약하길 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84TlVkYVRWV0JKVnlGVkhsMldBZUplU3VCR3NjYVJGaU1aZDFFSnc1Ykt0OGp2ZEtvYk4ydHEwNWlYZHRxTnB4WFdkemFNTlFyMF9ObHc3aXlvNU85?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-10-29T22:33:43+09:00",
+      "category": "국내 주요 사건",
+      "description": "대전시 대한민국 대표 관광지로 도약하길 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "0f0a7233de8221",
+      "title": "현대차 3분기 실적, 판매와 매출 줄어도 영업이익은 늘어 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtcmlrQ3hNWTNkNW91RWEyNTJhVHlDR1NYOWhCYzZJYlFYQmhLWU1wb2NKYWRDdnBZeWI3b1JkU1haWTQxVmVWZ05Hb0xSbFY2V1d0VnJFdXVJZVJPbE4zMm9mMG8tZnY4cHJIbVRubURwOWts0gF0QVVfeXFMUC1yaWtDeE1ZM2Q1b3VFYTI1MmFUeUNHU1g5aEJjNkliUVhCaEtZTXBvY0phZEN2cFl5YjdvUmRTWFpZNDFWZVZnTkdvTFJsVjZXV3RWckV1dUllUk9sTjMyb2Ywby1mdjhwckhtVG5tRHA5a2w?oc=5",
+      "source": "이뉴스투데이",
+      "published": "2026-10-29T19:31:55+09:00",
+      "category": "자동차",
+      "description": "현대차 3분기 실적, 판매와 매출 줄어도 영업이익은 늘어 이뉴스투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "1747d6507ef280",
+      "title": "'판소리 명창' 왕기철 전 교장 구속... 전통예고 교사 채용 억대 뒷돈 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXVzNFaE5jeVVKeTdocG5xNlhRMW9ucWRGTi1sY1R1d1diTlNQZ1k4UFZiSF9xLWl2Rm80ZC1vd1VQdUVfZ3poQnREdVRWcDBXemV4VFUyZTh1UzZoZEtnQUZXa3kzdUFTUU1nakln0gFzQVVfeXFMTzZ6a01VcnJYUDc0NWxYV0YwZGF0MTVFSGNBTzRqbmFXdVFrTUlUWExNWTF2WGdoU0d4eU55OGNBVVlNbWR2T2dEYmFVOXFWWk5xNUtUZ0sxOGhZRDZ3LXMxeVBSYVU0dVdocnYtWDJKNll4TQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-29T19:00:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "'판소리 명창' 왕기철 전 교장 구속... 전통예고 교사 채용 억대 뒷돈 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "49ae745aec172b",
+      "title": "지방우대지수 내년 도입··· 서울서 멀고 소멸위기 클수록 더 지원 - 블로그",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CZ0Vzb0hqaWRvb3hvdDJ0MEJrSUY3Nnp3WmJjbHZMTEg2cHJ2c3hEdEo3VFVJYjRaY2RhaERKX1l2SEEtZGRYbS1TTEpNNU9INUk1THZJS09kNTlnenZrbm5zQ1BzQ2NYazhGakFtYXZMbXVycnl0aDNIeWYtUQ?oc=5",
+      "source": "블로그",
+      "published": "2026-10-29T18:53:33+09:00",
+      "category": "정치·정책",
+      "description": "지방우대지수 내년 도입··· 서울서 멀고 소멸위기 클수록 더 지원 블로그",
+      "priority_markets": []
+    },
+    {
+      "id": "7f92f154f6b073",
+      "title": "[HD포토] 리정, ‘문체부 장관 표창 수상’ (2026 대한민국 대중문화예술상) - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90Q2l1WUEtRjUwM09tZUktSWI3VzNOeFFXdkFGNjNUdjZZUVpVakFua0RtRW1MNERFYzMwdjUzdUtyTVh4NURBQ3h3TzhwVnBLN2daUFRwTnktemczRlZmMUxuQjZXeVdEZk1GVzdlNTFYQQ?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-10-29T18:10:45+09:00",
+      "category": "국내 주요 사건",
+      "description": "[HD포토] 리정, ‘문체부 장관 표창 수상’ (2026 대한민국 대중문화예술상) 톱스타뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "7cff9d5d3511c2",
+      "title": "[심층분석] '승리'를 외쳐도 결론은 오리무중, 이스라엘 선거 - 데일리연합",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90dElpZ1ZOSUtxNzRUVXVRNzVvUjdFWlMtT3RUTUZkejdicjJEY0xmdTd5WVdHRDBkT0ZfOTlVOUpfRHRGbXRSeWhmcVByXy1oSmZzeW5mWEdWcDg?oc=5",
+      "source": "데일리연합",
+      "published": "2026-10-29T18:00:02+09:00",
+      "category": "정치·정책",
+      "description": "[심층분석] '승리'를 외쳐도 결론은 오리무중, 이스라엘 선거 데일리연합",
+      "priority_markets": []
+    },
+    {
+      "id": "5f3d431d1fba66",
+      "title": "\"내년 韓경제는 '변화무쌍'… 5대 변수 몰아친다\" - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GSWQ3dDA1N0NwOHEySlIwck10ZnVNWUd5MFBibGMzaU14akZITTU3Q2tWR2hsYzNoZGdwNkQ1Tmp6cGxTUUlXMW10OUpDbzNoZ0RUTQ?oc=5",
+      "source": "매일경제",
+      "published": "2026-10-29T17:15:53+09:00",
+      "category": "경제·금융",
+      "description": "\"내년 韓경제는 '변화무쌍'… 5대 변수 몰아친다\" 매일경제",
+      "priority_markets": []
+    },
+    {
+      "id": "f17bf5d0660514",
+      "title": "현대차, 美 앨라배마 6000억 추가 투입…HEV 등 생산기반 구축 - 딜사이트",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHOWVBaHpHdUx5eTVXbzg1UDk3aDM2U1ZlemdfWnpzSWw4MjFYRE1md1p3SFJQUzYtZHVDRUdNakFWZmE5blV1QWNGY016eTg?oc=5",
+      "source": "딜사이트",
+      "published": "2026-10-29T16:59:33+09:00",
+      "category": "스크랩 추적",
+      "description": "현대차, 美 앨라배마 6000억 추가 투입…HEV 등 생산기반 구축 딜사이트",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "c68c827049b25b",
+      "title": "코스피, 1.24% 내리며 6,000선 '반납'…원·달러 환율은 소폭 하락 - 청년일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yVTRpS21PWGlmMUNoLXliWjdhSDZWNTF1Rjl3SGgtbDdDbHhZYWdyTEVFU29KRkZXNmlMdllaSDczOXljWnQ2aXdGX2JVNjJLdmM2UTJWRmdnRFNrSkVRMndUc2hMSUtKQ2c?oc=5",
+      "source": "청년일보",
+      "published": "2026-10-29T16:43:36+09:00",
+      "category": "경제·금융",
+      "description": "코스피, 1.24% 내리며 6,000선 '반납'…원·달러 환율은 소폭 하락 청년일보",
+      "priority_markets": []
+    },
+    {
+      "id": "80272547760177",
+      "title": "인천시, 강력범죄 피해자 의료비·생계비 등 맞춤 지원 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xcDBzbXA1dGMwakhaNFBIVHY0WUdEb3gtYjk3WkEwTEFaaVlNX05VXzZjbUJ6TnNDZ0Uyc3J3ZzktdGNzbzV0LW92cTNfblFqZGV5Wm9nXzBIU284V1d3UFQwMV8?oc=5",
+      "source": "매일일보",
+      "published": "2026-10-29T16:05:13+09:00",
+      "category": "국내 주요 사건",
+      "description": "인천시, 강력범죄 피해자 의료비·생계비 등 맞춤 지원 매일일보",
+      "priority_markets": []
+    },
+    {
+      "id": "f45e8f7dc56648",
+      "title": "[증시 레이더] 코스피, 삼성전자 4% 급락에 6천선 하루 만에 반납 - 포커스온경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4NmwyV0ZrM1cxcWhJcS1KVTh2S1o2b1RwXzEtOFZSUmZtY3IzSEdkZDlOSkE0M1FGenNWQ1lBNjNteTdpX0M5NUFmSU82WHNVNXR3TVJZRVVYZ1V5MTB6aA?oc=5",
+      "source": "포커스온경제",
+      "published": "2026-10-29T15:59:54+09:00",
+      "category": "경제·금융",
+      "description": "[증시 레이더] 코스피, 삼성전자 4% 급락에 6천선 하루 만에 반납 포커스온경제",
+      "priority_markets": []
+    },
+    {
+      "id": "1e30b8476499b6",
+      "title": "현대차, 매출 감소에도 영업익 5.5% 증가···연간 목표 판매량 '하향' - 화이트페이퍼",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwOTRQMHpqS1hRSVByemtjOGdCMV9qRVFTRzJ1SmZFUnYxUVI3cVZPYldkdG9aSFRDY0czVHRTZ3dvSkJUUXBwblVCTEdTcVdrOFd2QURRWUlUWURPT21zWGRmVTR4dTZUWW5n0gFzQVVfeXFMTlZPQkZVN1V3bVc3VXJPUXduXzBqYURtb0l3c1NyUjY5VFpVNUY2Yy1vLVJLbHJ6ckkyNVZaZFhoaHliM1ZSb01meW1uRVBfTjJKWW1WajlDR2UxUld3X3daeHhYMkEtUEF2SWZJUkt6UkJQTQ?oc=5",
+      "source": "화이트페이퍼",
+      "published": "2026-10-29T15:44:52+09:00",
+      "category": "자동차",
+      "description": "현대차, 매출 감소에도 영업익 5.5% 증가···연간 목표 판매량 '하향' 화이트페이퍼",
+      "priority_markets": []
+    },
+    {
+      "id": "f035b40284c69b",
+      "title": "'내란우두머리' 尹 2심도 사형 구형…\"국민 배신한 반역\" - 거제저널",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UTDA2SmVvS1BNQXFMRk1nZ3VCUk5RT193bUV5NUNtblFsMExmZTNKY3Boei0walZrSnNTNUdrRkF1UmVfQlNHMjI3c3BGX2ZhWU8xbVNkdGtxYmNIQmZjZXQyb3ZSY1Rlcm1henl1SUtJRWs?oc=5",
+      "source": "거제저널",
+      "published": "2026-10-29T15:24:15+09:00",
+      "category": "국내 주요 사건",
+      "description": "'내란우두머리' 尹 2심도 사형 구형…\"국민 배신한 반역\" 거제저널",
+      "priority_markets": []
+    },
+    {
+      "id": "ff43bb5ffd78b1",
+      "title": "현대차, 美 하이브리드·유럽 전기차 총력 대응 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaWWo4bURqTGU0UFZBTk5XYjRHZzVZTEIyQkg0RXhFSEt5eXoweHJJV244NjYyZk10Mm5UTlVtNDVVOHljbTFUTHU5RkViZw?oc=5",
+      "source": "전자신문",
+      "published": "2026-10-29T15:13:51+09:00",
+      "category": "스크랩 추적",
+      "description": "현대차, 美 하이브리드·유럽 전기차 총력 대응 전자신문",
+      "priority_markets": []
+    },
+    {
+      "id": "42a6b51dbfbfe7",
+      "title": "故신해철에 은관 문화훈장…유재석·한영애·블랙핑크도 문화훈장 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JZW1tNUF0eHB5eUluRkdLdEZjb2ZSRjd5QTJwaWhFRFYzUVl5OXkwVXpwbWphQlZZUUcxcll4OFk5SEtWM01YVURaYTJVSDVnaWxjZmg5NG53NmxYNzY3S3VyMUV3U3NlUEZzZ0NR0gFzQVVfeXFMTTVXZG1zNU1IOTRteWhheUd3ei1MUHQ0alJ1emlvU29BdXM3STl6eWVDSXV3dW5xdkQyaXFwRHVDVVJSTUpKa21hYl80QVU5TG9nbmZmdklOOURCVnhRakpPRDBkVFBMQk5zMWFCZDNRNDNuNA?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-29T14:38:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "故신해철에 은관 문화훈장…유재석·한영애·블랙핑크도 문화훈장 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "a390df3f6cd7fd",
+      "title": "임지락 화순군수 “‘2026년 재난대응 안전한국훈련’ 성황리 마무리” - 국민일보",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUWFJVUTVxckJxdk05YXZkQjdZc21VZUxJdzBnMEFmSWdCRnNYaEoySWZHeVI5STNKV2R3M3oxZW1EMGRXTEpJSFF6eFRjUTNYMDdRVlNkNnY?oc=5",
+      "source": "국민일보",
+      "published": "2026-10-29T14:29:09+09:00",
+      "category": "국내 주요 사건",
+      "description": "임지락 화순군수 “‘2026년 재난대응 안전한국훈련’ 성황리 마무리” 국민일보",
+      "priority_markets": []
+    },
+    {
+      "id": "7272f041c38daf",
+      "title": "현대차, 3분기 영업이익 2조6772억원…전년 比 5.5% 증가 - 이코노뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iWUhfR1JYdG9rR2ZmV3o5SjA5aW5GbjJsWS1pT3QxMjZRQXY1eDcwVWJuSlMyWnlVeWFVTWM0Z2JES090YWNGelFrYnBKNEsyYjM1YXB3b1E2NURmUkpEeFRCTm1HNXUxSkZoeXpn?oc=5",
+      "source": "이코노뉴스",
+      "published": "2026-10-29T14:25:00+09:00",
+      "category": "자동차",
+      "description": "현대차, 3분기 영업이익 2조6772억원…전년 比 5.5% 증가 이코노뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "842c1cbe0fcfaa",
+      "title": "[종합] 현대차, 3분기 하이브리드·환율 효과에 수익성 개선…판매·수익성 목표 조정 - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4Y0FxLWZtc2hvZkZvcklQLTZiX3NNZEpiYVkwcXB2cWtabXV5ZnRYRk9GZ1gwSFAzNnMzTk9ZdHA4Q2toclZ5Z3dnekV4cmJzMnJvUw?oc=5",
+      "source": "이투데이",
+      "published": "2026-10-29T14:18:00+09:00",
+      "category": "스크랩 추적",
+      "description": "[종합] 현대차, 3분기 하이브리드·환율 효과에 수익성 개선…판매·수익성 목표 조정 이투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "7243969b8b0b09",
+      "title": "현대차, 판매 급감에도 하이브리드 선방…3분기 영업이익 5.5%↑ - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0Z3VKR3pCUUN4RmkydmRjY2Z0Zk9IcWJxaWZmZ3ZWMEtaZmk2anc1WjhrZ2RvalM3SzF6cWJvUFJtcGZMVG43Y2lnQmJPeERXc3JFQ0xKeDfSAVhBVV95cUxQNGd1Skd6QlFDeEZpMnZkY2NmdGZPSHFicWlmZmd2VjBLWmZpNmp3NVo4a2dkb2pTN0sxenFib1BSbXBmTFRuN2NpZ0JiT3hEV3NyRUNMSng3?oc=5",
+      "source": "아주경제",
+      "published": "2026-10-29T14:10:57+09:00",
+      "category": "스크랩 추적",
+      "description": "현대차, 판매 급감에도 하이브리드 선방…3분기 영업이익 5.5%↑ 아주경제",
+      "priority_markets": []
+    },
+    {
+      "id": "5b5864aebf6f7f",
+      "title": "GM “PHEV는 완전 전동화로 가는 필수 단계”…효율·주행 유연성 강화 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zaEhjN0lHTWNqLVk0TDNfek5fZE83MHJoc241Ti1KT1FIOFUxMjcweldwWGVtbkhqUDAzVVRRVlhnVU4ySW5hT1J1LUdOem5ha0Z3aXFDSDVFcTh2SGFSU1ZaNkVXZmFW?oc=5",
+      "source": "테크월드",
+      "published": "2026-10-29T14:00:00+09:00",
+      "category": "전동화",
+      "description": "GM “PHEV는 완전 전동화로 가는 필수 단계”…효율·주행 유연성 강화 테크월드",
+      "priority_markets": []
+    },
+    {
+      "id": "5ae414d1cc1bc2",
+      "title": "[오피셜] 황인범-김민재-황희찬, 손흥민과 함께 나란히 발탁…모레노 감독, 11월 A매치 명단 공개 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1djhTTll2ZGh1bERYMUxSaTdnelUxeE5nQ3dfU3ZxWDhsNVJtUzhjR1FnbHdoZkplVlBCbEVwNTJ1aW5HSTJuU1EyWEZJdVljbkpz?oc=5",
+      "source": "네이트",
+      "published": "2026-10-29T13:59:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "[오피셜] 황인범-김민재-황희찬, 손흥민과 함께 나란히 발탁…모레노 감독, 11월 A매치 명단 공개 네이트",
+      "priority_markets": []
+    },
+    {
+      "id": "caae3302d38dc6",
+      "title": "[속보] 현대차, 생산 차질에도 영업익은 5.5% 상승…하이브리드 수익성 방어 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tOTJLLW5OellWenY0TDQ3dTdvdHg0Q0tCcmxDQmpHQnZ4NmhkSzRZRWJyUXVOQWR0QmhtbG9nVVBEOWp3dWJzYjhXaVB1U0x4bVlhd2ZWd3rSAVhBVV95cUxPLTkySy1uTnpZVnp2NEw0N3U3b3R4NENLQnJsQ0JqR0J2eDZoZEs0WUViclF1TkFkdEJobWxvZ1VQRDlqd3Vic2I4V2lQdVNMeG1ZYXdmVnd6?oc=5",
+      "source": "아주경제",
+      "published": "2026-10-29T13:52:37+09:00",
+      "category": "스크랩 추적",
+      "description": "[속보] 현대차, 생산 차질에도 영업익은 5.5% 상승…하이브리드 수익성 방어 아주경제",
+      "priority_markets": []
+    },
+    {
+      "id": "c2e3937c20c849",
+      "title": "현대차, 美 앨라배마공장에 6000억원 투자…하이브리드·EREV 생산 확대 - 아시아타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ORXE0ejRRT3hGTlQyRDJOX2NsLWRfblQ4Mmc5TllveHFzcFlKNFdtc0s3a3pLZDM4Wl9BUzV2ZmlxNzlpa2xZUXdxUXNfazNwMUVBOXV5R04za0hsT1E?oc=5",
+      "source": "아시아타임즈",
+      "published": "2026-10-29T13:06:00+09:00",
+      "category": "스크랩 추적",
+      "description": "현대차, 美 앨라배마공장에 6000억원 투자…하이브리드·EREV 생산 확대 아시아타임즈",
+      "priority_markets": [
+        "미국"
+      ],
+      "scrap_relation": {
+        "type": "관련",
+        "title": "현대차, 美 앨라배마에 6000억원 투자…HEV·EREV 현지 생산 확대 - 이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOUEydndOREZmYmtPM0l6WEVmVnRCMVpVbVgtUnZNZF9TZXNOT3NWcWFKU3oxdDhnTTE4RkpVV0FCVGEycF8zeWhHRTRfV19uUlg4eWpqbkRkb2RydW1kRXR2a2tPTzhtOTNrLWNEQjVqTlVGVFpGc1RZZHJ1eEVTag?oc=5",
+        "scrapped_at": "2026-10-29T23:31:14.890262+00:00"
+      }
     }
   ]
 }
