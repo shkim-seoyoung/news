@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
-  "updated_at": "2026-11-01T07:22:26.367223+09:00",
-  "article_count": 6,
+  "updated_at": "2026-11-01T12:36:21.801572+09:00",
+  "article_count": 5,
   "ai_enabled": true,
   "articles": [
     {
@@ -38,6 +38,39 @@
       "image_url": ""
     },
     {
+      "id": "c77e11796855c7",
+      "title": "웨이모 로보택시 공급망 확대…현대차 이어 토요타 가세 - 초이스스탁US",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OQ1RzSU1ZUHM5YzZxX3AwbDIyQ1d0WkNrT1RTbVBubGtzZFQ5MUVvQm9sUU1CUGRRMU5Xa3FIYS14Z05naUs3SVBIUWFKNC1UUlpONWRkMThUU0lWdDFobEtxNXNjV2c?oc=5",
+      "source": "초이스스탁US",
+      "published": "2026-11-01T04:00:00+09:00",
+      "category": "자동차",
+      "description": "웨이모 로보택시 공급망 확대…현대차 이어 토요타 가세 초이스스탁US",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "summary": "구글의 자율주행 자회사 웨이모가 로보택시 공급망을 다변화하며 현대차에 이어 토요타와 협력을 추진합니다. 이는 특정 완성차 업체에 의존하던 기존 전략에서 벗어나 자율주행 기술의 상용화 속도를 높이려는 행보로 풀이됩니다.",
+      "impact": "자율주행 기술의 표준화 및 공급망 다변화는 향후 자동차 부품 생태계와 전장 부품 수요에 영향을 미칠 수 있는 산업적 변곡점입니다. 완성차 업체의 자율주행 플랫폼 채택 확대가 부품 공급망에 미치는 장기적 파급 효과를 모니터링할 필요가 있습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "웨이모는 그간 재규어 I-PACE 등을 활용해 로보택시를 운영해왔으나, 최근 현대차 아이오닉 5를 공급받기로 하는 등 파트너십을 공격적으로 확대하고 있습니다.",
+        "key_points": [
+          "웨이모가 로보택시 공급망 확대를 위해 토요타와 협력 논의 중",
+          "현대차에 이어 글로벌 완성차 업체와의 파트너십을 통해 자율주행 차량 확보 가속화",
+          "특정 제조사 의존도를 낮추고 로보택시 운영 규모를 확장하려는 전략"
+        ],
+        "what_to_watch": "토요타와의 구체적인 차량 공급 계약 체결 여부 및 웨이모의 로보택시 운영 지역 확대 속도.",
+        "fact_check": "웨이모와 현대차의 협력은 공식 발표되었으나, 토요타와의 협력은 현재 추진 중인 단계로 확인됨."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "c1bb32b005081bd5",
+      "image_url": ""
+    },
+    {
       "id": "761bef1920934d",
       "title": "세계 자동차 산업에 많은 새로운 발전이 이루어지고 있습니다. - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEpEd3NYQXdJNGVGUGhGXzIyNUhQV0ptblJTVXJRM2JYR01ZQVpSdmFaWmRwcnE1LVFLTDRoSFk1aERCYjZXaks0VWhieDMtcXBRN0R1akNIb01Pd3I3R0h4X2Y5NWh4ak1qUXFuLTF0Vzd1ZDZrZXRGRWt6REFSU2FIdkkzZEpBU3Qw?oc=5",
@@ -47,7 +80,7 @@
       "description": "세계 자동차 산업에 많은 새로운 발전이 이루어지고 있습니다. Vietnam.vn",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n002",
+      "event_cluster": "batch0-n003",
       "related_articles": [],
       "summary": "세계 자동차 산업 전반에서 기술 혁신과 시장 변화가 빠르게 진행되고 있습니다. 구체적인 특정 사건보다는 산업의 전반적인 발전 흐름을 다루고 있습니다.",
       "impact": "자동차 산업의 기술적 변화와 시장 트렌드를 지속적으로 모니터링하여 CKD 물류 및 부품 공급 전략에 반영할 필요가 있습니다.",
@@ -79,7 +112,7 @@
       "description": "현대차, 새만금 '기회의 땅'으로…투자 본격화 비즈워치",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n003",
+      "event_cluster": "batch0-n004",
       "related_articles": [],
       "summary": "현대자동차가 새만금 지역에 대한 투자를 본격화하며 사업 확장을 추진하고 있습니다. 이는 지역 경제 활성화와 현대차의 생산 및 물류 거점 다변화 전략의 일환으로 해석됩니다.",
       "impact": "국내 생산 거점의 변화는 향후 CKD 부품 공급망 및 물류 경로 재편에 영향을 줄 수 있으므로, 구체적인 투자 규모와 생산 품목 확인이 필요합니다.",
@@ -111,7 +144,7 @@
       "description": "K-자동차 생산·부품 수출 '동반 후진'… 현대차 목표 하향→공급망 경고등 더퍼블릭",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n004",
+      "event_cluster": "batch0-n005",
       "related_articles": [],
       "summary": "국내 자동차 생산과 부품 수출이 동반 하락세를 보이며 현대차의 목표치 하향 조정 가능성이 제기되었습니다. 이는 글로벌 공급망의 불안정성과 수요 둔화가 복합적으로 작용한 결과로 분석됩니다.",
       "impact": "완성차 생산 목표 하향은 부품 발주 물량 감소 및 CKD 포장 물량 축소로 직결될 수 있어 공급망 관리의 유연성이 요구됩니다.",
@@ -132,73 +165,6 @@
       "ai_summary": true,
       "integrated_summary": true,
       "integration_signature": "528566cb74e1b40b",
-      "image_url": ""
-    },
-    {
-      "id": "8c01c764b17f39",
-      "title": "현대차, 인도 전용 보급형 전기 SUV 개발…‘아이오닉 P’ 유력…배터리 현지화는 단계적 추진. 보급형 SUV로 가격 경쟁력 노린다 - 재경일보",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZSEl3WVZ6dU9JMHBSTllhaTBvRVlnRXJEbmtCcUQ2Wll5UmhBUFlTOUFZTFhNZXZKaEQ4MG5ScWttYWpIWEFoNU5nYw?oc=5",
-      "source": "재경일보",
-      "published": "2026-10-31T11:44:00+09:00",
-      "category": "자동차",
-      "description": "현대차, 인도 전용 보급형 전기 SUV 개발…‘아이오닉 P’ 유력…배터리 현지화는 단계적 추진. 보급형 SUV로 가격 경쟁력 노린다 재경일보",
-      "priority_markets": [
-        "인도"
-      ],
-      "section": "산업·업무",
-      "event_cluster": "batch0-n005",
-      "related_articles": [],
-      "summary": "현대자동차가 인도 시장 공략을 위해 전용 보급형 전기 SUV를 개발 중이며, 모델명으로 '아이오닉 P'가 유력하게 거론되고 있습니다. 가격 경쟁력 확보를 위해 배터리 현지화는 단계적으로 추진할 계획입니다.",
-      "impact": "인도 내 전기차 생산 거점 구축 및 현지화 전략은 향후 CKD 부품 공급망 및 현지 물류 운영 전략에 영향을 미칠 수 있는 주요 지표입니다.",
-      "importance": "높음",
-      "detail": {
-        "background": "인도 전기차 시장의 성장세에 대응하기 위한 현대차의 현지 맞춤형 전략.",
-        "key_points": [
-          "인도 전용 보급형 전기 SUV 개발 추진",
-          "모델명 '아이오닉 P' 유력",
-          "가격 경쟁력 확보를 위한 배터리 현지화 단계적 도입"
-        ],
-        "what_to_watch": "아이오닉 P의 구체적인 생산 일정 및 현지 부품 조달 계획.",
-        "fact_check": "현대차의 공식 발표가 아닌 언론 보도 기반이므로 향후 공식 확인 필요."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "ece319d167e15917",
-      "image_url": ""
-    },
-    {
-      "id": "75a0a3204d3fb2",
-      "title": "일본 9월 산업생산 2.2% 증가…자동차 회복에 반등 - 스페셜경제",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04VU5QeXJnSk80Yk4wRXJtV3h2ZGl5TXVLOENLVFFtd0RvZFp4bUYwdHVzOEFIQTJrNldmaEVfekYzcTAwQXRMd1pzVGxtQm1VSUdoaHcxVEduSGt2elZLN0FzRGs3dkhtNXA2Zg?oc=5",
-      "source": "스페셜경제",
-      "published": "2026-10-31T09:31:08+09:00",
-      "category": "자동차",
-      "description": "일본 9월 산업생산 2.2% 증가…자동차 회복에 반등 스페셜경제",
-      "priority_markets": [],
-      "section": "산업·업무",
-      "event_cluster": "batch0-n007",
-      "related_articles": [],
-      "summary": "일본의 9월 산업생산이 자동차 부문의 회복세에 힘입어 전월 대비 2.2% 증가하며 반등했습니다.",
-      "impact": "일본 자동차 산업의 생산 회복은 글로벌 부품 공급망 및 완성차 시장의 수요 동향을 파악하는 데 중요한 산업 지표입니다.",
-      "importance": "보통",
-      "detail": {
-        "background": "일본 경제 산업생산 지표 발표.",
-        "key_points": [
-          "9월 산업생산 2.2% 증가",
-          "자동차 부문 생산 회복이 반등 견인"
-        ],
-        "what_to_watch": "일본 자동차 생산 회복세가 지속될지 여부.",
-        "fact_check": "일본 경제 지표 발표 내용 확인."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "df0721a2f754e376",
       "image_url": ""
     }
   ]

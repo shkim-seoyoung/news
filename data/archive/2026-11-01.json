@@ -134,7 +134,7 @@
       "description": "세계 자동차 산업에 많은 새로운 발전이 이루어지고 있습니다. Vietnam.vn",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n002",
+      "event_cluster": "batch0-n003",
       "related_articles": [],
       "summary": "세계 자동차 산업 전반에서 기술 혁신과 시장 변화가 빠르게 진행되고 있습니다. 구체적인 특정 사건보다는 산업의 전반적인 발전 흐름을 다루고 있습니다.",
       "impact": "자동차 산업의 기술적 변화와 시장 트렌드를 지속적으로 모니터링하여 CKD 물류 및 부품 공급 전략에 반영할 필요가 있습니다.",
@@ -288,7 +288,7 @@
       "description": "현대차, 새만금 '기회의 땅'으로…투자 본격화 비즈워치",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n003",
+      "event_cluster": "batch0-n004",
       "related_articles": [],
       "summary": "현대자동차가 새만금 지역에 대한 투자를 본격화하며 사업 확장을 추진하고 있습니다. 이는 지역 경제 활성화와 현대차의 생산 및 물류 거점 다변화 전략의 일환으로 해석됩니다.",
       "impact": "국내 생산 거점의 변화는 향후 CKD 부품 공급망 및 물류 경로 재편에 영향을 줄 수 있으므로, 구체적인 투자 규모와 생산 품목 확인이 필요합니다.",
@@ -350,7 +350,7 @@
       "description": "K-자동차 생산·부품 수출 '동반 후진'… 현대차 목표 하향→공급망 경고등 더퍼블릭",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n004",
+      "event_cluster": "batch0-n005",
       "related_articles": [],
       "summary": "국내 자동차 생산과 부품 수출이 동반 하락세를 보이며 현대차의 목표치 하향 조정 가능성이 제기되었습니다. 이는 글로벌 공급망의 불안정성과 수요 둔화가 복합적으로 작용한 결과로 분석됩니다.",
       "impact": "완성차 생산 목표 하향은 부품 발주 물량 감소 및 CKD 포장 물량 축소로 직결될 수 있어 공급망 관리의 유연성이 요구됩니다.",
@@ -1366,6 +1366,483 @@
       "published": "2026-10-30T07:49:33+09:00",
       "category": "자동차",
       "description": "현대차, 판매량 11% 줄어도 이익 늘었다…불황 속 돋보인 방어력-IBK 이데일리",
+      "priority_markets": []
+    },
+    {
+      "id": "aa193179f528f5",
+      "title": "현대차·기아, 세일페스타 참가... BYD, 씨라이언 6 연비 대회 외[시경Today-자동차] - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84YXh5SUY4UXNBR3VzeVpzMTVkVVBNVlNBYXdVQnB4S0ZxZUdZV2t5SzZfMlRoUWNKS3NYU2FkY2xjUXA1c0tNZm5CSzlpSVR1RlZyeURkcndDVzlfeUFnOFRFYzJPQ3FJWjVZbC1sSmU?oc=5",
+      "source": "시장경제신문",
+      "published": "2026-11-01T12:28:06+09:00",
+      "category": "자동차",
+      "description": "현대차·기아, 세일페스타 참가... BYD, 씨라이언 6 연비 대회 외[시경Today-자동차] 시장경제신문",
+      "priority_markets": []
+    },
+    {
+      "id": "89c64d3f136087",
+      "title": "재난 대비 자동 가입하는 '시민안전보험'… 우리동네 보험 꼭 챙기세요 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wMkR5X21QZTRRM0dINGlmaTBoVFVlaUVuajNWZ0RCcjBVMWFqU1hxRDZvY0dEMGp6QjB2WXdGdlY0NFdiOFpVUjJtQmpqZFVmaFM1VTRfYjhMYUNFNk0zVm9TWFl3LVZ6VjRLTUp30gFzQVVfeXFMUE1razdHS3B1ZVhiLTJhNldNQW1rWkt3b3Qya0xXOGV2Slgyc2VHNmNPOXMzYVVTSjNsMzB6cEVxT0hTQXQyelBYQlZNelNMT09haUN0UWk0RVVFbndfV2ZORmZiSlhSWmlfTUZiQW1QZVRJNA?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-01T12:24:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "재난 대비 자동 가입하는 '시민안전보험'… 우리동네 보험 꼭 챙기세요 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "4a250525d734f0",
+      "title": "조국, '동물농장' 비유 판사에 \"검찰정치 끝나자 법원정치\" - OhmyNews",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tRk05OXd4YlBscmJDcWtTZDhmSkpQZ00wM0U5MnJIX0JYRGtaOHdHaF9rSm50RFl4aHNhY1BaMDZFWkhWZl8xemVaZkdyZGZQajQ3QXh1VHhwV2dwWm5CNW5qS04wQVVaaVFGWkIwNm5zWXFIV0pV?oc=5",
+      "source": "OhmyNews",
+      "published": "2026-11-01T12:05:00+09:00",
+      "category": "정치·정책",
+      "description": "조국, '동물농장' 비유 판사에 \"검찰정치 끝나자 법원정치\" OhmyNews",
+      "priority_markets": []
+    },
+    {
+      "id": "9434cf120c6000",
+      "title": "조국 \"사법정치 흐름에 경각심 가져야\"…이재명정부·여당에 '경고' - 뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHWU91WE1mTExFeV85bFpzUHpJZy1QVWJNaFV4MXVEcmw3YXoyOFA1cDlWMTk4ZHZqelZNanpBSWk1Q2RLRkMyMUU2QWJ6cUN4UUhzQ2hndjAzRXJCVGw1MQ?oc=5",
+      "source": "뉴스토마토",
+      "published": "2026-11-01T11:45:54+09:00",
+      "category": "정치·정책",
+      "description": "조국 \"사법정치 흐름에 경각심 가져야\"…이재명정부·여당에 '경고' 뉴스토마토",
+      "priority_markets": []
+    },
+    {
+      "id": "28bfe1f87c0961",
+      "title": "[ 이동현의 ‘이게 머니?’ ] - 자원의 저주 - 뉴스경남",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KNkNYdEJtd00yRWV1eTFXNF82N0o1YnhDLW5WV25KVFFOOTBuUnpZekdORjIySE5xV2hIVGp3NkxadUpzLUxaMndwUW1uRHJnT3RIby14REFnNG1WVGRQOTZJNFlOcThj?oc=5",
+      "source": "뉴스경남",
+      "published": "2026-11-01T11:30:53+09:00",
+      "category": "정치·정책",
+      "description": "[ 이동현의 ‘이게 머니?’ ] - 자원의 저주 뉴스경남",
+      "priority_markets": []
+    },
+    {
+      "id": "2492c828250e44",
+      "title": "北 연쇄 무력시위에 대화 강조…李정부 대북정책 시험대 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ncWkwVXQ2MnVwRVJIWjhDT1h5YTdPNVFzNXZxNzVvX192c0VscXkxQWZLbGFfazhleWRwTTV2YU9qOVRfbWJ3Q1FNRkkxVThnTWVIY3hzeFZzUWdOeWtfcnJqRnY?oc=5",
+      "source": "매일일보",
+      "published": "2026-11-01T11:20:21+09:00",
+      "category": "정치·정책",
+      "description": "北 연쇄 무력시위에 대화 강조…李정부 대북정책 시험대 매일일보",
+      "priority_markets": []
+    },
+    {
+      "id": "c19a6bfb3d5baa",
+      "title": "끝나지 않는 '명청 대전', 난감한 김민석... 與 여성위원장 선거 [노변정담] - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51bGE0dG0tdDFNNjRZS3k5cm1Ubkt4N19ES0xtTkpjOU93Q1p2emVlbVZMb2VvQjhZZnhIQlNlQ2swbEJqZElBdDE2Wnh3X2NOTFN5cmhvaHo2SmJ1U2N6NGlIeTRMdWNWRXM2NTB30gFzQVVfeXFMTjJUVE1JSEVHNUxEWk42R1ZOYVdvZXVQYmJMa2g5MFdFUGlEYnh4YUhqZ1BIX3NyX1lsa3VsMTlSZi1PNWY2Tmc5enByXzZGWThncDFLY1Zwem1XeVVqdnFqaHpjUzRoYXlfeWJHNFZuaElzOA?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-01T11:00:00+09:00",
+      "category": "정치·정책",
+      "description": "끝나지 않는 '명청 대전', 난감한 김민석... 與 여성위원장 선거 [노변정담] 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "ace52bff95c1a4",
+      "title": "안도걸 의원 “서남권 모험자본 생태계 조성”…'서남권투자공사 설립 및 운영에 관한 법률안' 대표발의 - 산경일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yNXFfT2xBR0JnMUx3UW5vQjM5T25QdW9OTEppbkJLOXloaUxGdElxd1JZdkt1LVM2ZDR0VEE5cUpIdnVyTXA3WTAxeDVoTFAxUUhXM3Yzd2NmZlFCQWxDLVhoYlJDdEpwWFNQMEx6b1U?oc=5",
+      "source": "산경일보",
+      "published": "2026-11-01T10:43:49+09:00",
+      "category": "정치·정책",
+      "description": "안도걸 의원 “서남권 모험자본 생태계 조성”…'서남권투자공사 설립 및 운영에 관한 법률안' 대표발의 산경일보",
+      "priority_markets": []
+    },
+    {
+      "id": "d375030007d98f",
+      "title": "장동혁 '李 순방 비판'에 유감 표한 문체부 장관… \"'K컬처' 부정적 인식 당혹\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ieWZId2dYakttT2w0M1J5dldMZDBKaUhuMTJLRjNvdGlJdGdack5DV2ZhR2xZX01mc2xMUVl6U0FnYnVJUk1PdlE5c3NjVXhPVjJCclJEUFRQdHd2VWVEYXhxanN4TW1zaUk2WUNn0gFzQVVfeXFMUGVkcXVnc0tseHI2SXhwcEt5a1JmdzhxR1pQVGtGQXdPMTRSSlBDcWkxU2hwUEROUnNyTk9VTHV2Q0dIVllWRmdWNkprRWVDYmpGM0tyVzktTkRJRExWZzh1eVBRSGhLQzFkeXFRMlNqS29mZw?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-01T10:13:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "장동혁 '李 순방 비판'에 유감 표한 문체부 장관… \"'K컬처' 부정적 인식 당혹\" 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "bc0332d6126b0c",
+      "title": "정부광고 ‘법 위반 언론사 최대 1년 중단’…최민희, 매체별 성적표 공개 추진 - 인천일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oeVFnQzZCSlVpYUtWTHNtRGdOeFdmZjRnTUNSZG0xS0xmUVEyaGtGejZWN1ZDMWZWWTM0MDZwX25tMWZCbHBZRUtWa1ZFSEk1WHlnNm1pZjJFVU93QWE2SW1LX1FVRTZWZ2xkLXZRNFU?oc=5",
+      "source": "인천일보",
+      "published": "2026-11-01T10:07:00+09:00",
+      "category": "정치·정책",
+      "description": "정부광고 ‘법 위반 언론사 최대 1년 중단’…최민희, 매체별 성적표 공개 추진 인천일보",
+      "priority_markets": []
+    },
+    {
+      "id": "4e4de3264dfb64",
+      "title": "[시민칼럼] 프랑스의 분노가 한국에 묻는다...감세로 누구를 살렸는가 - 쓰담미디어",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mSmdjVU8zbWFyOG9aZ2VnT1NadWRXN0UwdXFvRVc1WFpDYlkzQkc3dThHZXNaZ2YwanZ6cGxFaHFxSW1JVHQ2LUIzTHd5a1h5dkNtVUpyeUZyQWgyelMwQVpULVNza0U?oc=5",
+      "source": "쓰담미디어",
+      "published": "2026-11-01T09:37:31+09:00",
+      "category": "정치·정책",
+      "description": "[시민칼럼] 프랑스의 분노가 한국에 묻는다...감세로 누구를 살렸는가 쓰담미디어",
+      "priority_markets": []
+    },
+    {
+      "id": "efeaeed9831632",
+      "title": "30년 만에 깨어난 日 경제…구조적 반등인가 반짝 불꽃놀이인가 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wNmZTN1hqTnNXMU9VQ0VabndhZXVrVU42a3NfVE1kZDZPQjZOemk2X0p1THozUzRUbDdFYjZ6dEVTSnJXZDFvQmdsNHA1dXZ5WG5kbnlUdVAwdGNqeUs3Qm5OdHVEQzFIcll3U201Z0JIVUxlMHVKVNIBeEFVX3lxTE8wNmZTN1hqTnNXMU9VQ0VabndhZXVrVU42a3NfVE1kZDZPQjZOemk2X0p1THozUzRUbDdFYjZ6dEVTSnJXZDFvQmdsNHA1dXZ5WG5kbnlUdVAwdGNqeUs3Qm5OdHVEQzFIcll3U201Z0JIVUxlMHVKVA?oc=5",
+      "source": "뉴시스",
+      "published": "2026-11-01T09:28:07+09:00",
+      "category": "경제·금융",
+      "description": "30년 만에 깨어난 日 경제…구조적 반등인가 반짝 불꽃놀이인가 뉴시스",
+      "priority_markets": []
+    },
+    {
+      "id": "059586aa44ea61",
+      "title": "[社說] 유엔 안전보장이사회 개혁, 거부권 체제는 지속 가능한가 - 월드투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5eTNRb3ZpNHE2dFVLQTk0RVcxbWRuOXdLNkxod3ByaGRiQVlrbXk2WGd4b1BWVnNLNTctdG9EcnY5WjRtd2h1Q2xfeVZtdldwMWlWN0M1QVlCSk1WbG1JTmw4TkVEb3BkeFFJUWpn?oc=5",
+      "source": "월드투데이",
+      "published": "2026-11-01T09:14:55+09:00",
+      "category": "국제·외교",
+      "description": "[社說] 유엔 안전보장이사회 개혁, 거부권 체제는 지속 가능한가 월드투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "82c4c52e825d53",
+      "title": "도금용 산화아연 시장 2035년 전망: 자동차 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0x3XzVIOFF5WWdDeFZmZUVtckhJWHRFLTdlODNhVFNCYW5DLTBzelUxWWJnY0thRDJFZXBpdUx4WTBEOXJBWHNpTWJqclZxNDBNcXZoaWNNay1rc2RjOHVaVVl6bkMtWnNIclludXNaNFNickxpR005V19EQVlodGdNUG4tNUlsdlE3ak00cXRZSWt6bEF0d2RxQmhSdUU1eXA4cnJVS2NMaDkyRDFBMzFMMmkyYVBmajU5eERLVlpVeHluNERn?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-01T09:11:04+09:00",
+      "category": "자동차",
+      "description": "도금용 산화아연 시장 2035년 전망: 자동차 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "f3642c5a0e95b7",
+      "title": "'귀농귀촌 1번지' 함양군, K-FARM 농업박람회 최우수 지자체 선정 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wd19CLVF2SWl3ZWRpaWs3UmtIQzB0RFlXQllzQkdrVUhwdUtMa20wdUk5Vnl2bFhubVZxR2xlaEhuZjIyZVNBV2c2VUFPSjFuYm5nNkhMVW0tdDIxU3E2ODNEN09VMHZSdkhobkd30gFzQVVfeXFMTmdGVWU4RlFORnJZYjdybXJ1V0RtbGdBM2JvbnFZN21QZXdYVUVmb3V5V0FkZWpXeXh1Wk5rRUxCZnhVR1VOUzd4czVnV3pCWVRTQ3R3SWFuM0dITDRIMmUyV3ZzbHUyVHBRWkNld2pGUmhzMA?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-01T09:03:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "'귀농귀촌 1번지' 함양군, K-FARM 농업박람회 최우수 지자체 선정 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "6a6885fd614e4a",
+      "title": "美 FBI, '8.4조원 가상화폐 해킹 사건'배후로 북한 지목 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFanJ0dm05R2dBdHpFdlVYaklDRGFxQmFwVVB1RFpyS2U0SUZMOXQyWEU1T2RvQjZ1eTJwcTd1X3hiRkFZQVlEM2JQUVc2WFFVUldmMkhjYmRsWWoyeEhmQ1RISkxiNC1WWWZIc3J30gFzQVVfeXFMUDVZblp5TjVacER3QUZhX05CbHQxLVZ4RXJwYlp5VEVhVmdZR0t6S25wVGRMbVdzUHUtcWN5OV9QTUNDbVVkVHJvWGRESFExNWV1em1tT21IOFE1X3RCbFA5b0lBOVlsanNjekNPMWRjbkppdw?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-01T08:32:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "美 FBI, '8.4조원 가상화폐 해킹 사건'배후로 북한 지목 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "a828fd3cf5f91c",
+      "title": "2035년 메틸 메타크릴레이트 시장 전망: 건설·자동차 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVHZOX25uYUkwWWhGaXBBVU1nd3pvN1pwdzNaQnAwa1pzb3ZiV2hGNV9rVFBxZzRwYWs2ZktHbnk0eHp3TEF1X0FBbkdFdkxpeUVEelV2b0xsNlpIMWhrTnhpcGxCUXk3X3NPWVJETkVzc2ZJZFBIWGRvYWotSXBHZ2tLLTZCSjB0YXJKYlRYYkdYUzhZcnJwVUdsa2ZwWm9fUGJsYUp0RTRISzE3d0dMWWxocHg2dnhBZEFBajRHNHZWdVAz?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-01T08:31:04+09:00",
+      "category": "자동차",
+      "description": "2035년 메틸 메타크릴레이트 시장 전망: 건설·자동차 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "f6b550f8e992e7",
+      "title": "SLS용 TPU 분말 시장 2035년 전망: 자동차·의료 분야가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbDZlcjVKUUtZZGQwWmhPQ25VNDBCc3RKRFd4NWZVcEVfUmRlQnFoU3VZdmEzN3JlOXNEaHM1bDRvbmJIZmF3c1FtWkk1NDBnTjBrMjBLZVVOSHFXTGVuMjNvU2JSODk5TFE2cFIwOXBORGdELTdIZzZocEZfX2h3U05ycjhvdTJ5Z3EzcGZfUFlkU1RfT1BwNVNjMGVqX1hXdzBrNGdGNFV3VFpBX25TZ29BR3RZMjRfclhQVGptT0Vkemc4QjEyVHU2UXZPQlUtbm9WaWNvb1lMenlzM1E?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-01T07:36:04+09:00",
+      "category": "자동차",
+      "description": "SLS용 TPU 분말 시장 2035년 전망: 자동차·의료 분야가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "aeaa028956e5ea",
+      "title": "고무 컴파운딩 첨가제 시장 2035년 전망: 타이어 수요와 전기차 혁신이 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMTVrMko3YzRmaWRhVWpmZUd6YkZKdUoxSEZObWF4OXotaUFyWlZOem16a0NoX1dEWTJJWDVjZENLYUZmcmx2YVBjTXJwSTd5akVOX2VxRy1UVVNaMkNhaGl4d2w0TDRwWnZUTFhzMEZ3Q2VmY1JLVFB6SVNVZVpQeDMzUUpvZVBGWjJFOExTMm5FajlEYllYYWZwUEp3NzhnVzNZM2ZkQnBaVzJYTWZ6RUk3Y2p5U0ZtV3ZtVU9GejBvMFZ6dzhaenB1WjdfdnRHSFE?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-01T07:21:04+09:00",
+      "category": "자동차",
+      "description": "고무 컴파운딩 첨가제 시장 2035년 전망: 타이어 수요와 전기차 혁신이 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "0681be510f2d45",
+      "title": "3분기 매출 엇갈린 현대차·기아…4분기 공통과제는 수익성 회복 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyUnZBNzhOOGt0bi1lUkFBMkp4UWFrd3BqSVlUTmZyaUV4SUNBYzRJMnNpNmZ5Y0loTHIwUHVCZGZ5VXVFNzJoSWV2dUF3THhLWExobHdBLU5Udm1ROWE2UdIBYEFVX3lxTFAyUnZBNzhOOGt0bi1lUkFBMkp4UWFrd3BqSVlUTmZyaUV4SUNBYzRJMnNpNmZ5Y0loTHIwUHVCZGZ5VXVFNzJoSWV2dUF3THhLWExobHdBLU5Udm1ROWE2UQ?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-11-01T07:01:01+09:00",
+      "category": "자동차",
+      "description": "3분기 매출 엇갈린 현대차·기아…4분기 공통과제는 수익성 회복 연합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "8bd0db5f016df7",
+      "title": "'저PBR 기업' 내일 첫 명단 공개, 기업가치 제고 후속정책 '공시·세제·기관투자자' 주목 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yWXc3LUdSZWxoZTV4ODJvZ3pYWmRlaEtYWkxlSGZiS19LbXNpRW9aSTFsVmJnQ0FWdGtzbGtyXzBWaDRCS0VuYUZTd1pPbXlTZkJmUlU5aHZzeGhvMXlUZW5heTJXdE5BQXNWMXdqckR0SmM?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-11-01T06:00:00+09:00",
+      "category": "정치·정책",
+      "description": "'저PBR 기업' 내일 첫 명단 공개, 기업가치 제고 후속정책 '공시·세제·기관투자자' 주목 비즈니스포스트",
+      "priority_markets": []
+    },
+    {
+      "id": "00022ca5f77e48",
+      "title": "4개월 연속 내린 환율…美 선거·고용 앞두고 시험대[주간외환전망] - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEpnTnZIMDdlZDF5VzVVWVlkMmJHQzluSXktNG0zdzQ2bTFHdmM4UXgyX3FkVXgzWVM4U04zT0VLeGkxajdnVjUyWXVhdHBsZW9YOGZnNExlWTdENjZvczZMSWVNdnN4TUx0Z2ZBTV9Hb0g5OFVhNTFONmdHZk5GMw?oc=5",
+      "source": "이데일리",
+      "published": "2026-11-01T05:00:04+09:00",
+      "category": "경제·금융",
+      "description": "4개월 연속 내린 환율…美 선거·고용 앞두고 시험대[주간외환전망] 이데일리",
+      "priority_markets": []
+    },
+    {
+      "id": "5864efea7c79ba",
+      "title": "와이어 페룰 시장 2035년 전망: 자동화와 재생에너지가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZlVMRy1BZWl3UUFiMmZjaTR3MkltUTBZUEQwejlydExURUpYMHBwU1hQWlZxRWtPNjhvTC1sa1ZKWVNnanRYbjlPTWd1djE5QXZQMnU1UjBvSjNvOFp5R3NSeTVyTklxS21FTENRWDc4cjVPM3Z5QTkybmxrLUdhTEhiU1RtTHg4YU1UX2thWE5UNjFzR0FVZTR6c1RQUEpzazI0eWx5T21iUEpQejZ2VTY2dlliX2RjcXZfR05aeTNYLTJuSFpiblZR?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-01T04:01:03+09:00",
+      "category": "자동차",
+      "description": "와이어 페룰 시장 2035년 전망: 자동화와 재생에너지가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "c77e11796855c7",
+      "title": "웨이모 로보택시 공급망 확대…현대차 이어 토요타 가세 - 초이스스탁US",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OQ1RzSU1ZUHM5YzZxX3AwbDIyQ1d0WkNrT1RTbVBubGtzZFQ5MUVvQm9sUU1CUGRRMU5Xa3FIYS14Z05naUs3SVBIUWFKNC1UUlpONWRkMThUU0lWdDFobEtxNXNjV2c?oc=5",
+      "source": "초이스스탁US",
+      "published": "2026-11-01T04:00:00+09:00",
+      "category": "자동차",
+      "description": "웨이모 로보택시 공급망 확대…현대차 이어 토요타 가세 초이스스탁US",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "summary": "구글의 자율주행 자회사 웨이모가 로보택시 공급망을 다변화하며 현대차에 이어 토요타와 협력을 추진합니다. 이는 특정 완성차 업체에 의존하던 기존 전략에서 벗어나 자율주행 기술의 상용화 속도를 높이려는 행보로 풀이됩니다.",
+      "impact": "자율주행 기술의 표준화 및 공급망 다변화는 향후 자동차 부품 생태계와 전장 부품 수요에 영향을 미칠 수 있는 산업적 변곡점입니다. 완성차 업체의 자율주행 플랫폼 채택 확대가 부품 공급망에 미치는 장기적 파급 효과를 모니터링할 필요가 있습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "웨이모는 그간 재규어 I-PACE 등을 활용해 로보택시를 운영해왔으나, 최근 현대차 아이오닉 5를 공급받기로 하는 등 파트너십을 공격적으로 확대하고 있습니다.",
+        "key_points": [
+          "웨이모가 로보택시 공급망 확대를 위해 토요타와 협력 논의 중",
+          "현대차에 이어 글로벌 완성차 업체와의 파트너십을 통해 자율주행 차량 확보 가속화",
+          "특정 제조사 의존도를 낮추고 로보택시 운영 규모를 확장하려는 전략"
+        ],
+        "what_to_watch": "토요타와의 구체적인 차량 공급 계약 체결 여부 및 웨이모의 로보택시 운영 지역 확대 속도.",
+        "fact_check": "웨이모와 현대차의 협력은 공식 발표되었으나, 토요타와의 협력은 현재 추진 중인 단계로 확인됨."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "c1bb32b005081bd5",
+      "image_url": ""
+    },
+    {
+      "id": "d5779ff51b6de9",
+      "title": "2035년 강철 코일 시장 전망: 건설 및 인프라 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTklfVWJ1Vm1wSlNMZ1A5dHJabFU3R29rRVFsZ1JqWEQ5SFRMRFoxaElTeWNnLUNwY3AzZkNZSl9NTWFyeDl6QVljQ01tNG5SazZyYXNEQTBGbm54TmV5dGpsYm5CUUJtMDEtZE5Ndy1qVjdocmlka2Rma0U5a0RFMkV0VF9MemZiTW9femthU1BqSHpWbGlKeHJPb2FFX05DSzA3amp2cy1JdktQSUJra0JFb0h4bHZTdVlkZ290Xzk5S0lJNzZmTDJmdw?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-01T03:46:03+09:00",
+      "category": "자동차",
+      "description": "2035년 강철 코일 시장 전망: 건설 및 인프라 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "2edab96ac22ca1",
+      "title": "이황화몰리브덴 시장 2035년 전망: 에너지 효율과 소형화 흐름이 수요 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxON3BhT3U5anhaMmIyUzlEcU9pNWNOWTgzUHVnVlNVbEY2S0UwdDZQOEtndDA0MGlEU3h2ck85V29NOHQ3aGZQaEVsV29sTS1zZXNzUVY3ZVBrT2tCNUZod2h1TFFfMHpmSVVwQkc2STFHTlR4UDJnOEpwZ01mLTNibE9IRXgzblliWkc1V0p4RHZOSWVpVGphbDJFUTV6QS1PYUtfcWpQMUR2eWZEckEtYXpOd2Z3ZF9ab0tUUlVfT3RGRV9XQnctU1NQQWQ3REJYQi1KVFdaSFJDNlJ2aGV6bFZNWGRjSlE0bWZnZnFWS0EzWFpu?oc=5",
+      "source": "IndexBox",
+      "published": "2026-10-31T23:56:04+09:00",
+      "category": "자동차",
+      "description": "이황화몰리브덴 시장 2035년 전망: 에너지 효율과 소형화 흐름이 수요 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "27d42dab2c0731",
+      "title": "2035년 접합유리 시장 전망: 안전과 지속가능성이 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbW1KLUtLbmpqYXVnSzFuSGZnSjVKRzA1ZHJjU3VRQTZiMF9DcWhEd2dxVkR5emMzd3RnZ3FVQzdsd1N5ZTdjQjdfQURHYzhnUXF5WHpxeE9ET09zZjlwcjR3aWx0MDIyVUQ3dHpUQlEtUmlZck4zbFFYeUFYMVotMEk3elFHYnJzVFMweGgwUkczTEU5WERxTmxYa0ExanByNVRWR19FcjVUVHBRLVVtSU1EeWoyY3RKOWY4aUkwSk40VWl2dmp5YzdFZExHWkVvX2FiSw?oc=5",
+      "source": "IndexBox",
+      "published": "2026-10-31T23:41:04+09:00",
+      "category": "자동차",
+      "description": "2035년 접합유리 시장 전망: 안전과 지속가능성이 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "ffd248ae929120",
+      "title": "현대차 6400억 승부수... 미국 앨라배마서 대대적으로 찍어낼 '이 車'의 정체 - 이콘밍글",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZHBVaWZyNUVuTTlQcjBfTzRwYW5lem8wYjBRSkFwOUlDZ0x2WVNQUFZwV1F3NlNvX000WHp5RHhKSnJiczBwaFFZVVNpTG9FTE9EcGtjNHI4MWVkWXk2cF9vZFpyTmoxOWtiYlc4bm9CeWJaTVM5WWRGdzRNeDhqMdIBiAFBVV95cUxOejVacTRzOWFtTUxjYTdnMVFXb2QzWXNpdFFua3JacldocjNyRDBzSzJkWFlBRnhyb1JMVGV3Qy1DQllDYzlMVFROblNfTTRFZ3NfWk84QWZ5bEJ2UGdJeTU0RlZha19DbnFwbXNUOGJNdEk0bjdPQWpZTVFaY3d5VnpKWl9GSGJl?oc=5",
+      "source": "이콘밍글",
+      "published": "2026-10-31T22:00:00+09:00",
+      "category": "자동차",
+      "description": "현대차 6400억 승부수... 미국 앨라배마서 대대적으로 찍어낼 '이 車'의 정체 이콘밍글",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "de90f26ebd1c00",
+      "title": "[초점] 무안공항 제주항공 참사 1년여...한국공항공사, 제주공항 안전 ‘나몰라’ 작태 충격 - 일간제주",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HcEtoRFFyTkRKVEJhUWlueHFhX1U2Yk9ZNVRoUUMzb1J1U3ZwYVFMblFTQjVabjJtQ1VkQ1dZVGphRzhDVmM2OER3SEdfQzFwd09LbWlfR1h0YTgtRTZzWUZORDJqLVZoX1k4?oc=5",
+      "source": "일간제주",
+      "published": "2026-10-31T21:17:54+09:00",
+      "category": "국내 주요 사건",
+      "description": "[초점] 무안공항 제주항공 참사 1년여...한국공항공사, 제주공항 안전 ‘나몰라’ 작태 충격 일간제주",
+      "priority_markets": []
+    },
+    {
+      "id": "099af89bd27e14",
+      "title": "[PHP 파장] 미국, 우리나라 등 25개 서버 PHP2셸 공격에 루트 권한 뺏겨 - 보안뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uM25ENTN0T1JRVkc1WU5rbnpIOGxNUUZERnNPUTE0Q1Y1Ri1HLTdzR256Z09yODhxcVJ0Y0pyNWY3SldsTjhlbDJKZElUR2s2cExhV29ZRTNpaXJMUFBqS1lNdUd6eVZob2R3?oc=5",
+      "source": "보안뉴스",
+      "published": "2026-10-31T16:33:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "[PHP 파장] 미국, 우리나라 등 25개 서버 PHP2셸 공격에 루트 권한 뺏겨 보안뉴스",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "f8c343b4593a5c",
+      "title": "대구 최완식 시의원, 민주당 중앙당 전략기획위 부위원장 임명 - 세명일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TNjdJdjFyZVMzaEhHUHBaQnBrdWJia2dNUm8ydEtWOWZmcGlTMlVjV0c1RGl6bFJQS04yVWRyT0VDYS0yWWx6RkdCRVZUaXRkckVPbmFXT1BFQko2aXFENFZVYlJOZTJpQ1N0WkFLc1I?oc=5",
+      "source": "세명일보",
+      "published": "2026-10-31T16:20:00+09:00",
+      "category": "정치·정책",
+      "description": "대구 최완식 시의원, 민주당 중앙당 전략기획위 부위원장 임명 세명일보",
+      "priority_markets": []
+    },
+    {
+      "id": "3501cb64497523",
+      "title": "반도체 실적은 사상 최대인데 증시는 출렁…개인투자자가 살펴야 할 위험 신호 - 한국공공정책신문",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9rblpaWnZNZEY0MWVBSXI3NDNEcmptbzBzdEdWT2w1bTh6S1JPOXpXZy1DbzNTaEtMNTNaSU5JaHJNT0U?oc=5",
+      "source": "한국공공정책신문",
+      "published": "2026-10-31T15:00:59+09:00",
+      "category": "경제·금융",
+      "description": "반도체 실적은 사상 최대인데 증시는 출렁…개인투자자가 살펴야 할 위험 신호 한국공공정책신문",
+      "priority_markets": []
+    },
+    {
+      "id": "714cc7f3fbc867",
+      "title": "李대통령 \"다문화 지원이 불합리·역차별까지 정당화할 수는 없다\" - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CbnlxWlpwdGIyN3o4NzIzTXpONzdmZjFPTGZtSW5GNnRFbXJnaEYxMnFlYWJPdWVyQlp0T3FJOGEzUFlocTlld2hMeFRQQkd0SXNqa0VwLU5VU1E?oc=5",
+      "source": "경기일보",
+      "published": "2026-10-31T13:48:07+09:00",
+      "category": "정치·정책",
+      "description": "李대통령 \"다문화 지원이 불합리·역차별까지 정당화할 수는 없다\" 경기일보",
+      "priority_markets": []
+    },
+    {
+      "id": "fabd084961acd4",
+      "title": "6개월 만에 재소환 김병기 \"악의와 거짓으로 점철된 고발\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdlNtNUVjYVVBZE92UWxrc3hsY3AtT0kzNzBVMVNfckZqa2ZJcEt6b3ZsVy16b1U1Mmpsblk5X2U0Yjg2SFRBeHVSS0ZKaHAyZ0RVUl90bEF0R1Joc19wbkQyVEpDRGE1anJMa2tR0gFzQVVfeXFMTlpfTWw5MUlSOEl3bF9uUC1fMlZCLWpQM0FTVHJTZ2NDUXZDWjR1R3l0SGx5dVJyVHU4M08yZGVBXzk4S1JOZ1prMktnTVc0UHJudUFkaVZWWVJsaHZ1U0ZKb3I5MGZuTmpwUjJMTHpnVXJVcw?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-31T11:25:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "6개월 만에 재소환 김병기 \"악의와 거짓으로 점철된 고발\" 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "dbd3c292eb7d0b",
+      "title": "오세훈 18.6%로 보수 잠룡 선두권…여야 셈법 복잡해졌다[데이터로 본 정치민심] - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhc1F2UEt4ZTl5VHdBY0hrb2xwUlJiLTh4SU1uaWlvdDB5dzh6VEpMY2xUTjZNYUcyTFJMUC1FNWR2bGJYQk9sWDd6ZVJUY3VkbVHSAVNBVV95cUxQVEd3MU5abktUcWtWQTNIcm80VlNudEZJZl9IS3h3VFhmZjYxbXJXTmxGVHIzNnpuZkFYQUxxVlVVUUhZTVZfUWFOZWpTcTBrWDlMSQ?oc=5",
+      "source": "서울경제",
+      "published": "2026-10-31T10:00:00+09:00",
+      "category": "정치·정책",
+      "description": "오세훈 18.6%로 보수 잠룡 선두권…여야 셈법 복잡해졌다[데이터로 본 정치민심] 서울경제",
+      "priority_markets": []
+    },
+    {
+      "id": "7be5281af6b525",
+      "title": "현대차 매출 6년 만에 ’후진’…위기의 K-자동차 - 연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uUFRnWEQwcGs3MVEwQ0ZMVVV4SmFkR3lUSllkQjdIdWNPV2hCamprZnNFVzUtNGhfY2VOaG5VYldDUlpqR2I2ak1yeWpaZVUwZVhyR1ZVLUZEaUV1SUdqV1Y3bmFPMUk?oc=5",
+      "source": "연합뉴스TV",
+      "published": "2026-10-31T09:27:00+09:00",
+      "category": "자동차",
+      "description": "현대차 매출 6년 만에 ’후진’…위기의 K-자동차 연합뉴스TV",
+      "priority_markets": []
+    },
+    {
+      "id": "ec21bc4d10cc3c",
+      "title": "[계양전기 생존방정식]⑤ 단우영, 美공장 신설 추진…투자 타당성 도마위 - Daum",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MM1U3djR1dEJJUjZ0ZWtDX3ZDcV9VZWNIYnhYNC1BN3dvbl9IaGR3Q01nNVNfR25YOWZmWEVVNzUxa2dLT0E?oc=5",
+      "source": "Daum",
+      "published": "2026-10-30T20:46:35+09:00",
+      "category": "자동차",
+      "description": "[계양전기 생존방정식]⑤ 단우영, 美공장 신설 추진…투자 타당성 도마위 Daum",
+      "priority_markets": []
+    },
+    {
+      "id": "2d00f68c8f5132",
+      "title": "행정서비스 1,658개 제출서류 간소화 완료··· 동의하면 서류 제출 생략 - Naver Blog",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekRFWkkydEgtU3JEV18tUkxLVEczbk1pNUJGQzJZM0hWNUJ1ZF9QSmtFQmo4VjRfblNvSk9CbEJwWk9XTkliN2xaVXJNR0N3R0pQOXdiVGdiM1pHbE5hTk1uRFR1a3pwNWNnaHJKOWx0aGNNamdqNHpTLVlnZmNWc3FuckVYbXJiNFBzc0Vn?oc=5",
+      "source": "Naver Blog",
+      "published": "2026-10-30T18:23:04+09:00",
+      "category": "정치·정책",
+      "description": "행정서비스 1,658개 제출서류 간소화 완료··· 동의하면 서류 제출 생략 Naver Blog",
+      "priority_markets": []
+    },
+    {
+      "id": "26077af52364a4",
+      "title": "고양도시관리공사, 유관기관 합동 승강기 갇힘사고 구조훈련 실시 - 내외뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSVHJLbGNKaVpKZVR6UHIwclU1RWRkMlpDMkJaMm83dmdhTGViSXZ5VDVSWmY5d1dwb1NPOUdoUlBHTUR5VnFBWS1yeUdja01RN0hjb2JHaE45dVVUajZXck1fd2tiYnB6LURPLdIBcEFVX3lxTE9TaVNiTzdUdVc5VVBTc3BpV3BqUTZYOEpPc0dzeFRWemFPdGNJRXhmbnFNcVJ1UDBNcE1EMUlGdmxtRXkwdl9Hc0NuTUFxYXlFcUFMNmNOajVxc3NrdEpaZXJZYjNHMHd1MVBHOFIyd2g?oc=5",
+      "source": "내외뉴스통신",
+      "published": "2026-10-30T17:06:17+09:00",
+      "category": "국내 주요 사건",
+      "description": "고양도시관리공사, 유관기관 합동 승강기 갇힘사고 구조훈련 실시 내외뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "1d1cd8213a61ae",
+      "title": "KBS·MBC 故 최불암 기리는 특집 다큐멘터리 긴급 편성 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnelpyTFhaa2JaMG0yZE9SMi1tYi1FUUNYek5zRUJFQUxyVnlJMDZENGhoTG1BblFISUpBVHRqRTJjX1JPYzZCT1daa25pdVo1R1kwUHUzdzJSS1IzbWJUTm9BYUJGY19uYlhaTEVn0gFzQVVfeXFMUHV3Y0p4SGpXMG94LUtxeGFoVW9NUUdBWlNhdURXUzBKdzNvVS1TeUtBVndQOEtsWHo1TGtqYjR6WUluNWhpSEc1YWxLMjViSnJ4OWRPcFh3WXY1cUw4V2ZxWDNyekFQM3llX1p4LXMzRnhFQQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-30T17:00:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "KBS·MBC 故 최불암 기리는 특집 다큐멘터리 긴급 편성 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "0717d620f01297",
+      "title": "이재명 대통령, 최길수 특별감찰관에 임명장 수여…“해야할 일 많아” - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lb0ZteThlRER2WkxHUlhDXzlsQmQ5VzVQX0xuMkk1ZEVUZXNtaERXamNTMk5ZRUpaUXRobmppUDV0VXRkUFdBQzRaUGtQV2dwUjR3N0ZtR3pnclE?oc=5",
+      "source": "경기일보",
+      "published": "2026-10-30T16:41:21+09:00",
+      "category": "정치·정책",
+      "description": "이재명 대통령, 최길수 특별감찰관에 임명장 수여…“해야할 일 많아” 경기일보",
+      "priority_markets": []
+    },
+    {
+      "id": "cac2d1ccbe2cc6",
+      "title": "정쟁은 요란, 검증은 희미…막 내린 국감의 민낯 - 민주신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1meHFXZlAybDNiX3ZqVjF1M0MzZlBsVXJxRmh3dVFaZ213Zks1M0dBWEtZWWlXanlSXzlla3RvQ2lmU29MbmllSnJEemdxNF9HbTd4akk1QTAtUWgxU2dWemJCN2lWV0lf0gFrQVVfeXFMTlh3aDR4eEdIQnBLenZxZjQ4bzhnZlE1TkVmcnFYLVVLcFlvQWM2QVBEQWszd3g4M2NHR1Z5c2p6aVo1RG9WdTdPelR3T1RCdTZSX1RKVUxESVpkRWtaSkhMcmVvMGplcTNNMXc?oc=5",
+      "source": "민주신문",
+      "published": "2026-10-30T16:28:57+09:00",
+      "category": "정치·정책",
+      "description": "정쟁은 요란, 검증은 희미…막 내린 국감의 민낯 민주신문",
+      "priority_markets": []
+    },
+    {
+      "id": "8548f50942af5e",
+      "title": "[인사] 기후에너지환경부 외 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LLXJZUVlYQkdOcUZrbW9QcWRVcWxvTUs1X0xSS2tuYUkzVndpdjZrTC04aHhRNFRoQktNc1RTM3BORjNMWTZ2X01TbFZyQllKa2lXcC1ia3RQY0pWempMb2JuYm5aX1NVR19VVFV30gFzQVVfeXFMTkVCUmdUc1ZmREpfWUk2ZGNkSGRfNEduQy1Sa0E5ekMtTEp2bkdtbW8yM2RxOVhDdEhLeFEydFB6TndYelRtaHZBZkY4M01BZEFOaHRhbzJCSk5Ibk13ZkZtZ2k4MVpTR2hGT1NLNFdibF9yNA?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-30T16:19:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "[인사] 기후에너지환경부 외 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "22a5687044d6a8",
+      "title": "이 대통령, 송영길 김병주에 \"특보 언행, 정부 입장으로 해석될 수 있다\" 유의 당부 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xVHhZOEFBcS13c0ViQ08zRFgyUVVIUHBiUEU3OFNMS2ZaLUZFWDF6am1BOVlSaXg5TEx6TjlTMWV1MGppREdWVUdZYlRreVJPb1BJMHdJdHZvYmxKUEV6VnZtNEh2eGdNUVJEZ1VzTmQyNzjSAXNBVV95cUxPMVR4WThBQXEtd3NFYkNPM0RYMlFVSFBwYlBFNzhTTEtmWi1GRVgxemptQTlZUml4OUxMek45UzFldTBqaURHVlVHWWJUa3lST29QSTB3SXR2b2JsSlBFelZ2bTRIdnhnTVFSRGdVc05kMjc4?oc=5",
+      "source": "한국일보",
+      "published": "2026-10-30T14:45:00+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령, 송영길 김병주에 \"특보 언행, 정부 입장으로 해석될 수 있다\" 유의 당부 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "0f308fc269b419",
+      "title": "달 착륙 후보지 연내 선정…대한민국, 2032년 착륙선 보낸다 - 중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQZ29OT2dWbkdISkNLbVdUWUx5RlZrRFNWQnc4empJM1E0aTB6dFV4elgwRkNpUkpXV0sxX19LVWVqYVJZN2huQWtkT2l4N0JHTnVheDJNaTBMNmlxZEUtUzN5Sm5tYTh0ZXBJblFGQkJ5RGpFTmFLSkhpWTZkU3h6eE9XQjVwMUtOZ3hBZzhtNUJ2eWl6M0hmaVcxMkFiWmpaUU9pajk0Z3dqQjdyMDB2Q1Q3ZzZ0U01fN01ObDd0dXVRM1hab1R3RWR0SGZKZXhEbGg2M2xWRFRmQThfYU1wYjBKOXVMOEtsRzBwV284cGxKX3llV045QlItb1ZHaGpVd3FTNWtDTzMyTjBIN3NRWmRwWXRGZXNIUGFnMDNLbVdaRlNmQTFZSE9VR1BjZE9vWVhtUjN0V1E3UGV6MkszRE84UjNSb25qeWMzbnJCaTBjWnhVQkdRX1IzNmN3VGpQdEQ1UQ?oc=5",
+      "source": "중앙신문",
+      "published": "2026-10-30T13:51:12+09:00",
+      "category": "국내 주요 사건",
+      "description": "달 착륙 후보지 연내 선정…대한민국, 2032년 착륙선 보낸다 중앙신문",
       "priority_markets": []
     }
   ]
