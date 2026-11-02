@@ -41,7 +41,7 @@
       "description": "현대차, 아반떼·투싼 앞세워 판매 회복 총력 동행미디어 시대",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n003",
       "related_articles": [],
       "summary": "현대자동차가 아반떼와 투싼 등 주요 차종을 앞세워 판매 회복에 총력을 기울이고 있습니다. 시장 점유율 방어와 판매량 증대를 위한 전략적 마케팅을 강화하고 있습니다.",
       "impact": "현대차의 주요 차종 판매 전략은 CKD 물량 및 부품 공급 계획과 직결되므로, 해당 차종의 생산 및 판매 추이를 지속적으로 모니터링할 필요가 있습니다.",
@@ -85,12 +85,43 @@
         "인도"
       ],
       "section": "산업·업무",
-      "event_cluster": "",
-      "related_articles": [],
-      "summary": "현대차 인도 법인이 베뉴의 최고 판매 실적을 바탕으로 월간 신기록을 달성했습니다. 향후 바이욘 모델을 추가 투입하여 인도 시장 내 성장세를 더욱 확대할 구상입니다.",
-      "impact": "인도 시장의 판매 호조는 현지 CKD 생산 물량 확대와 연관될 가능성이 높으며, 신규 모델 투입에 따른 부품 공급망 최적화가 중요합니다.",
+      "event_cluster": "batch0-n001",
+      "related_articles": [
+        {
+          "title": "현대차, 인도서 '역대급 질주'…10월 판매 '8만대 돌파' 신기록 - 더구루",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tX2R0MXh5Zm9HSTBaZEJNazlQR0E0T1RJbUlzUXR6ZHZsblVPV3BCUC1QQlgyNVB2MThJenp1WXZ4Tng3QlduWm16NUdzRzh1ZDJ4bHduZHlKTUNlYXc?oc=5",
+          "source": "더구루",
+          "published": "2026-11-02T10:18:17+09:00"
+        },
+        {
+          "title": "현대차, 인도서 두 달 연속 月 최대 판매 경신…\"신차·증산으로 성장세 잇는다\" - 뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2c0xqQm0zVXl3Skc3TS1nbjhUMi16YWxzaFZCRC1PLVB6MEpkbjAyYVRjVzZibndQU2ZySnZpT0NsYU1GTDY2VTBBNkxTNy1BbFYya2x6Y0MtY0ZyN0dOQ9IBeEFVX3lxTE8tSmg2WE9QRHFrSjdsTS1jaEhFWDZqX3I1aXN2ODRkY0Z6eUFPT0o4enpfQmdTdUJwZTRoQ1ZCaElqQTU5bHFHYjJBdDZiY1pKaVZqdkNfempncXVEa2NPeWYySHhwTGtxN2N4Ry1yTTRleUM4bXprcg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-11-02T11:30:11+09:00"
+        }
+      ],
+      "summary": "현대자동차가 인도 시장에서 10월 판매량 8만 대를 돌파하며 월간 최대 판매 기록을 경신했다. 베뉴의 높은 판매고와 더불어 향후 바이욘 등 신차 투입 및 생산 증산을 통해 성장세를 이어갈 계획이다.",
+      "impact": "인도 시장의 판매 호조는 현지 생산 물량 확대와 직결되며, 이는 현대모비스의 인도 현지 CKD 공급 물량 및 부품 조달 수요 증가로 이어질 가능성이 높다.",
       "importance": "높음",
       "detail": {
+        "background": "현대차는 인도 시장 점유율 확대를 위해 SUV 라인업 강화와 생산 능력 증설을 지속적으로 추진 중임.",
+        "key_points": [
+          "10월 인도 시장 판매 8만 대 돌파로 월간 신기록 달성",
+          "베뉴 모델의 판매 호조가 전체 실적 견인",
+          "바이욘 투입 및 증산을 통한 성장 전략 구상"
+        ],
+        "what_to_watch": "인도 현지 생산 능력 증설 속도와 신차 투입에 따른 부품 공급망의 대응 현황.",
+        "fact_check": "현대차 인도법인의 10월 판매 실적은 공식 발표된 수치임."
+      },
+      "new_information": "",
+      "source_comparison": "더구루와 뉴시스는 10월 판매 8만 대 돌파 및 두 달 연속 기록 경신을 강조했으며, 글로벌이코노믹은 베뉴의 성과와 바이욘을 통한 향후 전략에 초점을 맞춤.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "324753ef6a891d21",
+      "image_url": "",
+      "original_summary": "현대차 인도 법인이 베뉴의 최고 판매 실적을 바탕으로 월간 신기록을 달성했습니다. 향후 바이욘 모델을 추가 투입하여 인도 시장 내 성장세를 더욱 확대할 구상입니다.",
+      "original_detail": {
         "background": "현대차 인도 법인의 시장 점유율 확대 및 제품 라인업 강화 전략.",
         "key_points": [
           "베뉴 모델의 인도 시장 내 최고 판매 기록 달성",
@@ -98,14 +129,7 @@
         ],
         "what_to_watch": "인도 시장 내 신규 모델 투입 일정 및 현지 생산 물량 변화",
         "fact_check": "베뉴 판매 기록 및 바이욘 도입 계획에 대한 보도임"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "68627db01f3dffcb",
-      "image_url": ""
+      }
     },
     {
       "id": "c3863640f432a8",
@@ -197,7 +221,7 @@
       "description": "\"북미 하이브리드 판매 56% 증가\"... 현대차, 지역별 실적 공개 오토트리뷴",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n004",
       "related_articles": [],
       "summary": "현대차가 지역별 실적을 공개한 가운데, 북미 시장에서 하이브리드 차량 판매가 전년 대비 56% 증가한 것으로 나타났습니다. 전동화 전환 과정에서 하이브리드 모델의 수요가 견인차 역할을 하고 있습니다.",
       "impact": "북미 시장의 하이브리드 수요 급증은 현대차의 생산 믹스 변화를 의미하며, 관련 부품의 공급 안정성 확보가 중요합니다.",
@@ -229,7 +253,7 @@
       "description": "유럽 ​​여러 항구에서 무기 선적에 항의하는 파업이 벌어지고 있습니다. Vietnam.vn",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n005",
       "related_articles": [],
       "summary": "유럽 내 여러 항구에서 무기 선적에 항의하는 노동자들의 파업이 발생하고 있습니다. 이로 인해 유럽 지역의 물류 흐름에 차질이 빚어질 가능성이 제기됩니다.",
       "impact": "유럽 항만 파업은 글로벌 물류 공급망에 영향을 줄 수 있으며, CKD 부품 수출입 및 현지 물류 운송 지연 가능성을 점검해야 합니다.",
@@ -495,7 +519,7 @@
       "description": "현대차·기아, 'K-세일페스타' 참가...차량 할인, 무이자 할부 판매 생생비즈플러스",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n006",
       "related_articles": [],
       "summary": "현대차와 기아가 국내 소비 진작을 위한 'K-세일페스타'에 참가하여 주요 차종에 대한 할인 혜택과 무이자 할부 프로그램을 제공합니다. 이번 행사를 통해 내수 판매 활성화를 도모하고 고객 부담을 완화할 계획입니다.",
       "impact": "국내 내수 판매 촉진을 통한 완성차 재고 관리 및 판매량 증대 효과가 기대됩니다. 내수 시장의 소비 심리 변화를 모니터링하여 향후 생산 계획 및 물류 흐름에 미칠 영향을 파악할 필요가 있습니다.",
@@ -1288,6 +1312,567 @@
       "published": "2026-10-31T07:33:05+09:00",
       "category": "자동차",
       "description": "\"2030년 아닌 지금의 경쟁\"... 모빌리티 글로벌 이상민, 한국차 대응 촉구 오토트리뷴",
+      "priority_markets": []
+    },
+    {
+      "id": "5e750ab6d1e3ac",
+      "title": "다가구주택 ‘유령 호실’로 27억 가로챈 일당 11명 검거 - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BbndyMTJnSXBoTUNvdHJ0V0Y0NXVYUll5R29ndmd3VWRSNGJlS0I0QUU4RTlITVRheG9rQktHYjZqZUJYM1lveVVZUDZkVTZvWG5nU0d1UkVnY3RtN0s2a3hfNVNhSHBTdkNj?oc=5",
+      "source": "서울뉴스통신",
+      "published": "2026-11-02T12:13:34+09:00",
+      "category": "국내 주요 사건",
+      "description": "다가구주택 ‘유령 호실’로 27억 가로챈 일당 11명 검거 서울뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "ca692a9bf065a1",
+      "title": "李대통령 SNS 정치의 명암…‘서민 소통’인가 ‘소모적 논쟁’인가 - 인디포커스",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQzZyQUtSVklzbG1ZYTlnQmxTX1pJR3pod3NJVk1IS1N5QklqVDNmbGF0WV8ydGp5ME9FUUJhY0NPODQ1NWpjVTdLQThpOGh0ZEhGQzVOWGY3X3MxMUtrSVpRMFpQUVJ2RzV5bXNEX2JRN2h5bjdISGVFeTg4VjlGQTNmVFQ1YWE5emhTU2cwa2o?oc=5",
+      "source": "인디포커스",
+      "published": "2026-11-02T12:07:00+09:00",
+      "category": "정치·정책",
+      "description": "李대통령 SNS 정치의 명암…‘서민 소통’인가 ‘소모적 논쟁’인가 인디포커스",
+      "priority_markets": []
+    },
+    {
+      "id": "1b17752d35e9a8",
+      "title": "“트럼프 지면 삼전닉스도 위험?”…美 중간선거가 무서운 이유 [이슈+] - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xdnY4clVXMEcwTHFpcU5OSDZzbWE1elVqZGxsdGRPRzhILUF2TzRZZEszbmpuQ1ZURnczaTRBdm5TV1EyX0dfV2p5MUVZQkw3czZlZ04xb3hDcEltZGpjTG1KNA?oc=5",
+      "source": "에너지경제신문",
+      "published": "2026-11-02T11:50:46+09:00",
+      "category": "경제·금융",
+      "description": "“트럼프 지면 삼전닉스도 위험?”…美 중간선거가 무서운 이유 [이슈+] 에너지경제신문",
+      "priority_markets": []
+    },
+    {
+      "id": "ef15ff3c32649e",
+      "title": "장동혁 “국민이 듣고 싶은 말 해야”…이 대통령에 정책 전환 촉구 - 일간투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWnNYMHkwUEo1ejFrWHIyX0VRMWR1dklMTDlhX0lGdmZzMTFMZmI0ZEpQenp2SnFtTGtjWnUzdy1RRmptZGRhQ1F2VzVHVHcxamNCYmhhREFaR0FhR2NzTVZKUHpWaDAwanNj?oc=5",
+      "source": "일간투데이",
+      "published": "2026-11-02T11:44:56+09:00",
+      "category": "정치·정책",
+      "description": "장동혁 “국민이 듣고 싶은 말 해야”…이 대통령에 정책 전환 촉구 일간투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "c541420a564e56",
+      "title": "현대차, 인도서 두 달 연속 月 최대 판매 경신…\"신차·증산으로 성장세 잇는다\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2c0xqQm0zVXl3Skc3TS1nbjhUMi16YWxzaFZCRC1PLVB6MEpkbjAyYVRjVzZibndQU2ZySnZpT0NsYU1GTDY2VTBBNkxTNy1BbFYya2x6Y0MtY0ZyN0dOQ9IBeEFVX3lxTE8tSmg2WE9QRHFrSjdsTS1jaEhFWDZqX3I1aXN2ODRkY0Z6eUFPT0o4enpfQmdTdUJwZTRoQ1ZCaElqQTU5bHFHYjJBdDZiY1pKaVZqdkNfempncXVEa2NPeWYySHhwTGtxN2N4Ry1yTTRleUM4bXprcg?oc=5",
+      "source": "뉴시스",
+      "published": "2026-11-02T11:30:11+09:00",
+      "category": "자동차",
+      "description": "현대차, 인도서 두 달 연속 月 최대 판매 경신…\"신차·증산으로 성장세 잇는다\" 뉴시스",
+      "priority_markets": [
+        "인도"
+      ]
+    },
+    {
+      "id": "8bff26732e3a3d",
+      "title": "제주아트센터, ‘2026 대한민국 작곡제전’ 개최 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pdndJYXRuMFpRMUVHVl9iaFUtMW9XNGFYWl9GSDVqbHFKWkIxMUtEbGhHYl9FRjdFZzJYMEgxbXhaeElHc1VzS1o2ZjZ6WmNHaFh4dVhCNjBzekYx?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-11-02T11:26:09+09:00",
+      "category": "국내 주요 사건",
+      "description": "제주아트센터, ‘2026 대한민국 작곡제전’ 개최 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "5ebae35064f854",
+      "title": "현대차·기아 순이익 뒷걸음…中 전기차 한국 공세 확대 [주간 CAR톡] - 조세일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0waFZQQWN2TGkyOVFlSUZ2czNIbnZ0cnRWMVhoQVllYnpDbnQ4SnRSZFZDQWdHZFIyVmhxS2w4S3ZxYVpaVWR5MTc3Qm1VbTU3b0pGOXltQTdVaWlrYTNJM1R3QXplcE00Yi02ekN5QQ?oc=5",
+      "source": "조세일보",
+      "published": "2026-11-02T11:23:48+09:00",
+      "category": "자동차",
+      "description": "현대차·기아 순이익 뒷걸음…中 전기차 한국 공세 확대 [주간 CAR톡] 조세일보",
+      "priority_markets": []
+    },
+    {
+      "id": "2c07b17de63110",
+      "title": "서울시, 회색·녹색 인프라 연계 논의…4일 풍수해 정책 포럼 개최 - 파이낸셜신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fSklINnQ5c3RxZEtNd0JiMFlWZy1HZmZTSDEyT1RCTmcyQmNySUE0TUk3R2VycEpCaWxoLUN5TFl6MExYV3pSX0JtRXNuY0R3SklfMzZNN1NoZzVJVGlpbngySkJVVHh5MUMw?oc=5",
+      "source": "파이낸셜신문",
+      "published": "2026-11-02T11:20:46+09:00",
+      "category": "정치·정책",
+      "description": "서울시, 회색·녹색 인프라 연계 논의…4일 풍수해 정책 포럼 개최 파이낸셜신문",
+      "priority_markets": []
+    },
+    {
+      "id": "a6157b30da1300",
+      "title": "삼성重 건조 17만㎥급 카타르 2차 첫 LNG선, 거제서 명명식 - 한국신용신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5acjJwZVNFLW95dFVTX2JwUFh2NnpCLUtYcnFnT1J6a0FyZjR1bEJBM1R6X2R5V0RLNHQyaDNiMndDS1Awb3UtNW9aaXdMSWJkWE1yc0lKcl9ZVEpoeUgwN2VseTV3VG1oSHBR?oc=5",
+      "source": "한국신용신문",
+      "published": "2026-11-02T11:16:00+09:00",
+      "category": "자동차",
+      "description": "삼성重 건조 17만㎥급 카타르 2차 첫 LNG선, 거제서 명명식 한국신용신문",
+      "priority_markets": []
+    },
+    {
+      "id": "583ee64693b49b",
+      "title": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2UWZhMFozZW9KUjNJUzladVprbjNfdjdkT0t4ZGJIVURRNUdtVFYwellQeHVQWWFlakN2NHcxNEZMLS1falZRaDlxcWlJdXpFVFA2RG43VXprOU91RUdBbFVZb2tEUTI4RzJrMDl6M0VoYnZLX0J30gFzQVVfeXFMUHdhQlpKWlJBQ2NHYkJOWFU0WjE4WXdLbVhsQmdKZEV5blhDVTVpSWV0WDBrcVh5Z2ZfVGVEdmJPMUlXbG00UG5sblE3TjRXX3l5WXlNb2l1cXU2RGtsMU5fTHBHNzJLcl9WbVdiNzVrUlpjTQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-02T11:15:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "육군 \"강원 철원 전방부대 부사관 1명 외상 입고 사망\" 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "198ca6521ee7b3",
+      "title": "[정치pick] 李 대통령, 내년도 예산안 시정연설···역대 최대 821조 편성 - 글로벌E",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IQmxya1Iwcm52NmZ6N0U4Z05BaUtCU0Z0WFMtZEs4eFVETXFNc2hNNU93WVFCRng2aDZEa2hVTTNkSHA2QmtSUU9fdTFsSGhkaXJndEwwSVVFUXlDZzk0TVh0alZ2U1JiZTk3X1Nad9IBb0FVX3lxTE5IQmxya1Iwcm52NmZ6N0U4Z05BaUtCU0Z0WFMtZEs4eFVETXFNc2hNNU93WVFCRng2aDZEa2hVTTNkSHA2QmtSUU9fdTFsSGhkaXJndEwwSVVFUXlDZzk0TVh0alZ2U1JiZTk3X1Nadw?oc=5",
+      "source": "글로벌E",
+      "published": "2026-11-02T11:12:38+09:00",
+      "category": "정치·정책",
+      "description": "[정치pick] 李 대통령, 내년도 예산안 시정연설···역대 최대 821조 편성 글로벌E",
+      "priority_markets": []
+    },
+    {
+      "id": "0380e9727fc0d6",
+      "title": "NH증권 \"2027년 코스피 상고하저..하반기 자본비용 상승\" - 포쓰저널",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpWU1XZXBqNlowVFA5RHhLWEJxZ3oyQmpQbFJsMGlya01Wa284d0JYak40cV9wZVFjWGdidTJ1Mm1WeXA5Zkc2alRwcnRjTUlIbFFnUG9DcVA4ZFJ6X1VoWVpUZF8?oc=5",
+      "source": "포쓰저널",
+      "published": "2026-11-02T10:36:16+09:00",
+      "category": "경제·금융",
+      "description": "NH증권 \"2027년 코스피 상고하저..하반기 자본비용 상승\" 포쓰저널",
+      "priority_markets": []
+    },
+    {
+      "id": "9b2d31a04ab5f6",
+      "title": "인상 사이클인데 국채금리 너무 내렸나…＂주가조정 과잉반영＂ - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN1NDMjFLeFFlOUw0dHdXQ3YyeHJHNGsxOHR6RUFpeVFJOVg3alRkd1dqb0ZFbGMzOGFBdlpBc1NaY3hxeXJ6VG43dFZXbGpBSDVwS1NLQmF4d1pEX3dlREVOanFOTk5HWWNBUDhYZmJvNXRXWXhVOXoxN05sVVEzQQ?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-02T10:31:00+09:00",
+      "category": "경제·금융",
+      "description": "인상 사이클인데 국채금리 너무 내렸나…＂주가조정 과잉반영＂ 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "0f10d330382dc0",
+      "title": "2028년부터 주식 판 돈 ＇다음날＇ 받는다…결제주기 T+1 전환 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oSzFfU1pLQ3dldjFwbXdJd0ZzdEhSdEVGSkZQT0Y2d3pvZm5lVXZnU0U1aU9hVWVTUzk1c2NrSUtOX0RCTkJnRTFaSFJNU1F4am5Vamh4bEZXcEEwNDRwc1Y4d3dlaE84a3Q4TWxOV2ZiOHl4NXZZ?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-02T10:30:00+09:00",
+      "category": "경제·금융",
+      "description": "2028년부터 주식 판 돈 ＇다음날＇ 받는다…결제주기 T+1 전환 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "c2de67bf4b49af",
+      "title": "＂내년 코스피 8,300 간다…올해 4분기 저점 통과＂ - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QT1RENTJ0dDRFQUFvNnBUTE9KaEZqSzBXck5vLTdOWVYtdUdaNDVqNHg0MFR4R2ZYTnNyOFVQUlJNMlZXUkk0SU5ZQW5EN1FPTG43OGcwa1hnRUQxQ0g5UUEza0VNTFlwMXl2OGd2MzVVQk0?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-02T10:28:00+09:00",
+      "category": "경제·금융",
+      "description": "＂내년 코스피 8,300 간다…올해 4분기 저점 통과＂ 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "39aba3146aadb0",
+      "title": "복기왕 의원 \"전기차 수리비 비교할 정비소 없어...제도마련 시급\" - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wS2ttY2daWXdUTFg5LTlvM2pUbHlkNGpod1JsUTNIejRRWkhybFhZYmtuWW04SUZwUmFsZWdBazgwUQ?oc=5",
+      "source": "브레이크뉴스",
+      "published": "2026-11-02T10:27:00+09:00",
+      "category": "전동화",
+      "description": "복기왕 의원 \"전기차 수리비 비교할 정비소 없어...제도마련 시급\" 브레이크뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "ce6ed0c269e6a7",
+      "title": "현대차, 인도서 '역대급 질주'…10월 판매 '8만대 돌파' 신기록 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tX2R0MXh5Zm9HSTBaZEJNazlQR0E0T1RJbUlzUXR6ZHZsblVPV3BCUC1QQlgyNVB2MThJenp1WXZ4Tng3QlduWm16NUdzRzh1ZDJ4bHduZHlKTUNlYXc?oc=5",
+      "source": "더구루",
+      "published": "2026-11-02T10:18:17+09:00",
+      "category": "자동차",
+      "description": "현대차, 인도서 '역대급 질주'…10월 판매 '8만대 돌파' 신기록 더구루",
+      "priority_markets": [
+        "인도"
+      ]
+    },
+    {
+      "id": "308b05efd1aaac",
+      "title": "예측 가능한 상납이냐, 날벼락 같은 상납이냐 - 더칼럼니스트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54RnRHVTEzSFU1MzVOYkZCVjh3c2hOYzJfUEE1LTZPVlVZOUIwLVFQbldxS1cxTm1kQ085WHJVcWhhbGYwc1FzNnp5WW40UnlUZlVJ?oc=5",
+      "source": "더칼럼니스트",
+      "published": "2026-11-02T10:17:36+09:00",
+      "category": "정치·정책",
+      "description": "예측 가능한 상납이냐, 날벼락 같은 상납이냐 더칼럼니스트",
+      "priority_markets": []
+    },
+    {
+      "id": "e66e7a3a6a8c62",
+      "title": "[서재익 기자의 월스트리트 스며들기] 시장이 흔들릴 때 팔지 마라 - 마켓뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VeW9mT1BiMU40c2FpNl9iSEdJcHdhZDNvSi1oQ2hPXzJKNHNZZi1kWGtybGdaZkJiTzFhdWttb01zUmQ0a0dneGhlcnFZZnpOZWNIUUNXbUJjRVFxQmFZMVM5TVRrZG5nVEpMaWpn?oc=5",
+      "source": "마켓뉴스",
+      "published": "2026-11-02T10:15:20+09:00",
+      "category": "경제·금융",
+      "description": "[서재익 기자의 월스트리트 스며들기] 시장이 흔들릴 때 팔지 마라 마켓뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "5b5c4af75209d4",
+      "title": "[경제, 알고 보면] 미국 중간선거에 세계 금융시장이 주목하는 이유 - 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUSEhHbHNvWVNoa0hDZVlucXZYWGYwckg4cEJxdVItaVNfNGtRZURiTjNpOExTQmtZcTljTmhIb1NETTRnUDNJNnExSDhudjFSZ0IzUFNKVzZURm9jNS1vM2d5LWNNcDdhUHp6bFBn?oc=5",
+      "source": "폴리뉴스 Polinews",
+      "published": "2026-11-02T10:08:43+09:00",
+      "category": "경제·금융",
+      "description": "[경제, 알고 보면] 미국 중간선거에 세계 금융시장이 주목하는 이유 폴리뉴스 Polinews",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "dc6fcfc9254fd8",
+      "title": "[리포트 브리핑]현대모비스, '3Q26 Review: 분기 영업이익 1조 시대가 온다' 목표가 500,000원 - 삼성증권 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85WktYa2l3eWpKQWZteWR1S0h0VDUyVEJVLXl1bm1QalVoQXRmVHdNLVMycmJ0WWJRYXd2S0pBZkpzYXh5Wl9CRXMtMnpuSk5RbFViX1ItYnBWWmVM?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-11-02T10:01:00+09:00",
+      "category": "자동차",
+      "description": "[리포트 브리핑]현대모비스, '3Q26 Review: 분기 영업이익 1조 시대가 온다' 목표가 500,000원 - 삼성증권 뉴스핌",
+      "priority_markets": []
+    },
+    {
+      "id": "dd7c048ac3b6f9",
+      "title": "“군비로 먼저 나섰다”…임실군의회, 기본소득 국가책임 촉구 - 임순남타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mZVFrd2UzTUotbDZtRDZDTmNkR3NfSXEtY3gyOFZVQWVvMHYxMHZjTDBzakh1dlE2S09JbmFneENGOTZVcjBTd1EwUmFNS0swVldUVmp0MFhOUjFVLURrNXpPVDJJbWlteV9lWg?oc=5",
+      "source": "임순남타임즈",
+      "published": "2026-11-02T10:00:59+09:00",
+      "category": "정치·정책",
+      "description": "“군비로 먼저 나섰다”…임실군의회, 기본소득 국가책임 촉구 임순남타임즈",
+      "priority_markets": []
+    },
+    {
+      "id": "e17ebf03fcd793",
+      "title": "2035년 유리용 규사 시장 전망: 건설·자동차용 유리 수요가 성장 견인 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDZrd09KTlBYZGRqRTU4NUlOR0tSdlNmOVZ2TlQ1WVBCajl2SkN3cFlsLTE5Y1k3TDRzTExDWEVnYU1Wd2dnMkdwSTZsUHhBcUZnaXFXYkdDNXNWMnpsWndzNm5QbUxlTGMwRExkc1VSOGItZHRPS1VacTIzT1FQSi0za2pEOTNrUDh5TlFPQk1NLVdrcHV2ZjFxVFhqdFNKOGNmVTd2WFhkd21ud2NBSkRFeXFMRFllSGliTmRvMFg0dw?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-02T09:36:04+09:00",
+      "category": "자동차",
+      "description": "2035년 유리용 규사 시장 전망: 건설·자동차용 유리 수요가 성장 견인 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "ef276055843b00",
+      "title": "서대문구, 건강한 노년 설계로 '대한민국 건강도시상' 혁신상 - 서울포커스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIWlFoZG5BYXNDZC12OWI1Q0xGSlJoS2hYdHlYZWZsSUV5YnNBQnR6M1FCQ1NwbGdlc2poQVdMeUl1M1Z2R0twTTBaSUFqdFZBWk41TWwxck11eXpTRm1fQW56ZkRwUThTOVI4cw?oc=5",
+      "source": "서울포커스",
+      "published": "2026-11-02T09:32:45+09:00",
+      "category": "국내 주요 사건",
+      "description": "서대문구, 건강한 노년 설계로 '대한민국 건강도시상' 혁신상 서울포커스",
+      "priority_markets": []
+    },
+    {
+      "id": "228cd470dbd57d",
+      "title": "정지민, 월드클라이밍 시리즈 대회 첫 금메달 쾌거 - 통신일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VSU9sLWhrTUhrUmo4bFY3UDJNcTBubEk2U0xjVEV1V3c4SzBEYURjUXZ4NzJobzdrRkg1RE8wRU1wTENQOEZZc0tIZXN6eGRTYjlvbWpZUWlla3g4NzNFamNjRUFDbnVVUFlN?oc=5",
+      "source": "통신일보",
+      "published": "2026-11-02T09:23:24+09:00",
+      "category": "국내 주요 사건",
+      "description": "정지민, 월드클라이밍 시리즈 대회 첫 금메달 쾌거 통신일보",
+      "priority_markets": []
+    },
+    {
+      "id": "79f50d7d0f86a7",
+      "title": "폴리우레탄 촉매 시장 2035년 전망: 건축 단열재와 자동차 경량화가 수요 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbnZGWkotTVJLX1NPWElIYmZMUmY1dXU2eW9uV2hDRUZjMEtnOGI5ZElWMURpTzlycU1maTJMTzViZXpOUDNubW55eHhXcUFETm54dmU5S2VkYmhkV3lnV0l3ei1neHpkWXNIV2prQmVSaWN2WjVvSjd1QlA2eVBzX3Z4V2FiVDhqemEzRUZLeV9sdWkteVl6R3dYUWVxS1p2MFpSZXFuV3dockRoSzNkTC1DTFZscXNRWXhkanhZUzFURFFLNjZ0Q3NzT1U2ZThxRmFaaWJlZVB4T1lRSGRsVDlJVGY4V1pCQVRZ?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-02T09:21:04+09:00",
+      "category": "자동차",
+      "description": "폴리우레탄 촉매 시장 2035년 전망: 건축 단열재와 자동차 경량화가 수요 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "82bc8fffefc908",
+      "title": "도봉구, 체육시설 복합재난 대비 안전한국훈련 실시 - 서울포커스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05UU1LejJOam43cnJPQkxqaGJtT3kzekVNaUF1TkxtLWREZHJKT0s5RGEwOTdweDFUdUk0R0dHVU9WbnNQNFZkWTNfMWVZZkllWERqWVgtTUg2Y3BORE5TRWprSnBpbkJmc1pvUg?oc=5",
+      "source": "서울포커스",
+      "published": "2026-11-02T09:16:36+09:00",
+      "category": "국내 주요 사건",
+      "description": "도봉구, 체육시설 복합재난 대비 안전한국훈련 실시 서울포커스",
+      "priority_markets": []
+    },
+    {
+      "id": "8b447699925540",
+      "title": "아산시의회 탄소중립특별위원회, 위원 역량 강화 교육 - 충남문화신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TdzNXNU5oa0RmNXRpaDZXVVlrLURXZlBGUFJXRFJDNks0UXgxYmsteTNPQTBvcy1QRzNORFJCOHFFSy1rSWhoLXhMS2JCcVRDTlotb05VcFRURU0xLWh1QWEyWUJZVkJ2VUHSAWxBVV95cUxNaEpudkNNNE5JZkxySWRSc3BENEhjVjVMV0E3RzJFaWRZa2NSYTJ1UEI1bWgzalRzUlV3LUVRRmk4NnY0TUlHR3VFRkY2MnR5MVloT2dyZHF2OUxpalluVkVSS1pSaDRtdlBEcVU?oc=5",
+      "source": "충남문화신문",
+      "published": "2026-11-02T09:07:11+09:00",
+      "category": "정치·정책",
+      "description": "아산시의회 탄소중립특별위원회, 위원 역량 강화 교육 충남문화신문",
+      "priority_markets": []
+    },
+    {
+      "id": "74f13b03f66a49",
+      "title": "이 대통령, 오늘 821조 예산안 국회 시정연설 - 스페셜경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JUWJmRDN6UGNzX1piR3RUamcxYUY4aHBEUkpVeGhPTmI0VjR2eVNHSEpnTDhYT0RFUEpBZjNGNlVmX2ROR3M3enR4bjZrMDhDMjU4aWRoeGlmdTZIdmlqMHVGNGNndVhoMUlIbA?oc=5",
+      "source": "스페셜경제",
+      "published": "2026-11-02T09:03:41+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령, 오늘 821조 예산안 국회 시정연설 스페셜경제",
+      "priority_markets": []
+    },
+    {
+      "id": "62fb174dc5d335",
+      "title": "장동혁 “이재명 대통령, 시정연설서 민생정책 실패 사죄해야” : 정치 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xNkJQUF9PYXdYV0d4MDk3amVqUEJQMHo2S25maVlFMFJpZ25GRko1Q1BoOXd3c1JUeFhONzNpMy04THBkR3QxVmlLUQ?oc=5",
+      "source": "재경일보",
+      "published": "2026-11-02T09:03:12+09:00",
+      "category": "정치·정책",
+      "description": "장동혁 “이재명 대통령, 시정연설서 민생정책 실패 사죄해야” : 정치 재경일보",
+      "priority_markets": []
+    },
+    {
+      "id": "c87a1391c75a3e",
+      "title": "서초구 여의천 수변공간, 2026 대한민국색채대상 '블루상' 수상 - 서울포커스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qOXVxUno2U1lQYVg0c2xmNlZua3oteE9XcFR4dnJaR2lIYmZEMGtIQ2Z6U0M3a1d0aWpIRGNYTEpaTGVVWEd0YW91ZU8wSGc4V29wUW5KX2I1MGNWYlZHdXpKbHNCdFFHMGxRUQ?oc=5",
+      "source": "서울포커스",
+      "published": "2026-11-02T08:51:29+09:00",
+      "category": "국내 주요 사건",
+      "description": "서초구 여의천 수변공간, 2026 대한민국색채대상 '블루상' 수상 서울포커스",
+      "priority_markets": []
+    },
+    {
+      "id": "4369d2f72f608e",
+      "title": "[속보]조국당 2년만 최고지지율…대통령36.9%-리얼미터 - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hbmM5c09MMWw2SS01U1huQ3R5aTJtOVVzTk5VZkRESzVmRUc5MGdzMzRGbHV1ZWlCYUxrOWFuc1h1ckNMTElTaVJQUEJjb0V1?oc=5",
+      "source": "문화일보",
+      "published": "2026-11-02T08:17:31+09:00",
+      "category": "정치·정책",
+      "description": "[속보]조국당 2년만 최고지지율…대통령36.9%-리얼미터 문화일보",
+      "priority_markets": []
+    },
+    {
+      "id": "8722d1ba4e1af8",
+      "title": "30대 73% “한국도 프랑스처럼 거리로”…청년층, 내국인 역차별에 분노 - ABC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pekhPWE5MZWZacjN6dW1MdzNHR0QzYUNFWUZodDNUcnJUTDdqN1U0a09ZbW13OTlUUGtDV2M1QnVfeF9vall4ZG1IM0oxN0twRThmUWxyZUxhRnk2Y3ZNQzlxY9IBZ0FVX3lxTE81RldTaGFyUXNVQmppNE1sUHh4WE9Sd0hjZG9ka3NhanU1ZEo0TG91bDJYMkdDTUotZkViZi1VUm5IVi1PUnlnaHV0QV93Z19jZWl1MHhkRnZ0TTBpMFdONXk4alNoSmc?oc=5",
+      "source": "ABC뉴스",
+      "published": "2026-11-02T08:12:19+09:00",
+      "category": "정치·정책",
+      "description": "30대 73% “한국도 프랑스처럼 거리로”…청년층, 내국인 역차별에 분노 ABC뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "9adec8fd87b102",
+      "title": "현대차는 \"수익성 방어\" 기아는 \"성장\"…현대차그룹, 새만금 9조원 \"AI 승부수\" - 청년일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuS0JpWEM1VFBKaEFSRnlPZmZRaUNOb3I3aU1Sa2U4TkNKOFpOd1g0MzFiUEEyakNleW5HbkFGZVUwa3VRSEpKWXB6WDNscnBaYlVZWjI4Zi14cjlhb3EwdDhFTnNGWlQtWEE?oc=5",
+      "source": "청년일보",
+      "published": "2026-11-02T08:00:02+09:00",
+      "category": "자동차",
+      "description": "현대차는 \"수익성 방어\" 기아는 \"성장\"…현대차그룹, 새만금 9조원 \"AI 승부수\" 청년일보",
+      "priority_markets": []
+    },
+    {
+      "id": "49ccb45aa1678a",
+      "title": "[모닝리포트] 2026년 11월 2일: 하이브, JYP Ent., 현대차, 기아, 현대모비스, 현대글로비스, SOOP, 현대건설, 한미반도체, 삼성전기, 효성중공업, GS건설 - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OUXM3UjJfazB6RDB1N1ExSmR1ekRwQ0I0cy1NeFp4UndzR0U2a3Q5Z2F1SXBTakVvVHpUTGZHSmRFQ3J3SGtBbDFPeE5YbkN1TDExb1hIRmlLWXRMcWcwMTJIRWxDLXBQQVVkcm03d1h2bG1OQU5VUQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-11-02T07:49:00+09:00",
+      "category": "자동차",
+      "description": "[모닝리포트] 2026년 11월 2일: 하이브, JYP Ent., 현대차, 기아, 현대모비스, 현대글로비스, SOOP, 현대건설, 한미반도체, 삼성전기, 효성중공업, GS건설 네이버 프리미엄콘텐츠",
+      "priority_markets": []
+    },
+    {
+      "id": "d2e280b5164fed",
+      "title": "이 대통령, 오늘 국회서 '821조' 내년예산안 시정연설 - 한국NGO신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Uc0hVYmFXNzFOTkJMSEpWckFpNzYtT25ERjE1OGtjYWxrVzZPVDdOdjhRc3ZXMEdKbHhDUXF0NEJPYXp6WDNJRkphUmRzNHdOMVcwdVpVWTFaS0pPNjFBYTRfRXBUU3Bz?oc=5",
+      "source": "한국NGO신문",
+      "published": "2026-11-02T07:48:07+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령, 오늘 국회서 '821조' 내년예산안 시정연설 한국NGO신문",
+      "priority_markets": []
+    },
+    {
+      "id": "86573a213cf366",
+      "title": "구미 출신 초대 외무부장관 장택상, 정치가 아닌 ‘인간 창랑’을 만나다 - 미디어디펜스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hZUI1VjdpeXRYZG9TamZDVXllSldRWE90dU5OUlRoS3FCSHU2b2pxeVNrX3NzMWVhdVNyX3RzRFd5MC1MX3BENUxDZ1VyVnFEVXg0Q2thUkJCa0lBYjNRZTRvNTFpVHlYWlVr?oc=5",
+      "source": "미디어디펜스",
+      "published": "2026-11-02T07:42:23+09:00",
+      "category": "국내 주요 사건",
+      "description": "구미 출신 초대 외무부장관 장택상, 정치가 아닌 ‘인간 창랑’을 만나다 미디어디펜스",
+      "priority_markets": []
+    },
+    {
+      "id": "7fc125ef425187",
+      "title": "반복되는 부실 국정감사, 사후 검증 제도 개선해야 - 교수신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FVFZLSVQtMVRxOXp5NU1LU2daOXlsN05SZWluTENKTElndTl6ejFBZGYyYTdDc2hMMkJ6TFJfc3UzX3YxdmtzSnNJN09GVE9tdzZ6bGNROE1GbThDaHltNUNjQ3gxdWc?oc=5",
+      "source": "교수신문",
+      "published": "2026-11-02T07:36:24+09:00",
+      "category": "정치·정책",
+      "description": "반복되는 부실 국정감사, 사후 검증 제도 개선해야 교수신문",
+      "priority_markets": []
+    },
+    {
+      "id": "7d020172436347",
+      "title": "[IF투자전략] 공화당이 美 중간선거서 이긴다면…금리·달러부터 국내 업종까지 - www.theconnectmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9idjBfZFhlSS1jSXhzS1BzUktwdXh4WU9RaENzc2VicVJsR0FPVElKMWpyaEtwTjg0dVBTNTlBbExWeWlGYlVub1hWdXYwWVpNNlhiSFRrTURhNXhJVE9aOA?oc=5",
+      "source": "www.theconnectmoney.com",
+      "published": "2026-11-02T07:36:00+09:00",
+      "category": "경제·금융",
+      "description": "[IF투자전략] 공화당이 美 중간선거서 이긴다면…금리·달러부터 국내 업종까지 www.theconnectmoney.com",
+      "priority_markets": []
+    },
+    {
+      "id": "85a8db88af55d9",
+      "title": "현대모비스, 저수익 램프 털고 전장·로봇으로 돌파구 찾나 - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94X2xzSzExUXdRanNWZlZHS19wdi1vai02Z0VHUTJ3bFYwODdSRWFUbW8xM0hPYmlJbzd1bXhuTWpaV19VZTh1R0RfWFg0eFJUQXlnVGtaOXdCUEJpMF92V1dvM3F4YnNoX0JV0gFvQVVfeXFMTzB6bTRyUTRpazdCeWZudV85V3pNM29zZEhfOWg3RG5aMVA0VVRuNEh6SnlSaEtST3Vyelg1dGd0X3NaekVvVVpRQk84cTE0Nk5TNjVnOXl2TkNvZXA2NmpxelBBeEt2NUtLYzY5UEU4?oc=5",
+      "source": "한스경제",
+      "published": "2026-11-02T07:30:00+09:00",
+      "category": "자동차",
+      "description": "현대모비스, 저수익 램프 털고 전장·로봇으로 돌파구 찾나 한스경제",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "summary": "현대모비스가 수익성이 낮은 램프 사업부의 구조조정을 검토하고 전장 및 로봇 등 고부가가치 사업으로의 체질 개선을 추진하고 있다. 미래 모빌리티 시장에서의 경쟁력을 확보하기 위한 전략적 사업 재편의 일환으로 풀이된다.",
+      "impact": "전장 및 로봇 부품으로의 사업 전환은 향후 CKD 공급 품목의 변화를 야기할 수 있으므로, 관련 부품의 물류 및 포장 사양 변화 가능성을 모니터링할 필요가 있다.",
+      "importance": "보통",
+      "detail": {
+        "background": "자동차 산업의 전동화 및 자율주행 전환에 따라 기존 내연기관 중심의 부품 사업 수익성이 악화되면서 현대모비스의 사업 구조 개편 필요성이 지속적으로 제기됨.",
+        "key_points": [
+          "저수익 사업인 램프 부문 정리 및 효율화 검토",
+          "전장 부품 및 로봇 사업으로의 포트폴리오 집중",
+          "미래 모빌리티 기술 중심의 체질 개선 전략"
+        ],
+        "what_to_watch": "램프 사업부 매각 또는 분사 등 구체적인 구조조정 실행 여부와 신규 전장 사업의 수주 확대 추이.",
+        "fact_check": "현재 언론을 통해 제기된 사업 재편 가능성으로, 현대모비스의 공식적인 사업 철수 확정 발표는 확인되지 않음."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "380572e4304f7e79",
+      "image_url": ""
+    },
+    {
+      "id": "84571fbdcfe8bf",
+      "title": "평가 보드 시장 2035년 전망: 자동차·산업 자동화가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV25mdVJlRGlSZ29CSjBXNVlhN1RYLXd1LXZyV2I0LUpTQzNMSTlleDZqWV9XLTNSS0RMbXR1Rmk0Rkt2bWY2a1d2ejdSRlBNVTJwY2hucUtpbFdJaUVFMXFDMG5MMFRWaE9yT0s5ZTl2b0tXY3l4aU4yb2dFU2VZWFRzSERyVGFnX0xBQVVXVWxPS0ZUTDlhWW43dTdPUl9HQ2s5ZFdXQnN1cUx1ak8zRUthTW9vdEducnA4bnQtVHQ1Z1h1T005OGdCbU9laG5ZdWlsRXNfSUJVLVoycUdR?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-02T06:56:04+09:00",
+      "category": "자동차",
+      "description": "평가 보드 시장 2035년 전망: 자동차·산업 자동화가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "2528c9874ab4f5",
+      "title": "AI 투자 우려에 뉴욕증시 털썩… 나스닥 2.86%↓-[글로벌 마감 시황] - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42bDB2Tnk1TWZKc2ozYkFzZGV2WjlQY25GakFKSHhld0wyZHdHOXNhd2ZMdGE2aXRyeVc4N05maERyTngzUUdfekxUc3pURWVqXzNCa1E0Qkt0RklLZWFBRGtPNlROeEhzTzZCRnRTT3pHckgwMTJB?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-02T06:55:00+09:00",
+      "category": "경제·금융",
+      "description": "AI 투자 우려에 뉴욕증시 털썩… 나스닥 2.86%↓-[글로벌 마감 시황] 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "a6404ac10b4a82",
+      "title": "[이번주 관전포인트] 물가·美고용 발표…이달 금리 인상 여부 갈린다 - 센트럴경제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAySU5DQS1UYzV5Vy1kLTBlNkJhZWhHTVBGb1pQVlNVdnlydGREZXFOdDBuQXJKRk15TmlMOVFQeFpKdlRONC1RWXZuNF8xNTJkdkxaUE5NbHVKREhoT1VIZFpJSVdYY0dxVmfSAWpBVV95cUxQMklOQ0EtVGM1eVctZC0wZTZCYWVoR01QRm9aUFZTVXZ5cnRkRGVxTnQwbkFySkZNeU5pTDlRUHhaSnZUTjQtUVl2bjRfMTUyZHZMWlBOTWx1SkRIaE9VSGRaSUlXWGNHcVZn?oc=5",
+      "source": "센트럴경제",
+      "published": "2026-11-02T06:03:32+09:00",
+      "category": "경제·금융",
+      "description": "[이번주 관전포인트] 물가·美고용 발표…이달 금리 인상 여부 갈린다 센트럴경제",
+      "priority_markets": []
+    },
+    {
+      "id": "7be78d13a3e9fe",
+      "title": "핀 접점 시장 2035년 전망: 반도체 테스트와 전기차 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaURkWE84bUdlRXVJNExITU1MU19lc2l3WFVmQlFoU2JsR3hvcE9aUXhObEYtTlRIcUpuRFBlN2dnSklVUEJObHRQNzQ5Wm9aLUZyMjhmNE5DLVVBOHNzam82WjlnQjY0aUI5SzZDOTMxX0Y0MV9pd1IybUxPcHFzS1lhMGRQNnczZmY5bWotQzhhNVpRdlAwVzNOSnl2M3NMd2xCMmxtTFY4dXNwUkVwU2xUdmpOQ3A3MzM4?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-02T04:56:03+09:00",
+      "category": "자동차",
+      "description": "핀 접점 시장 2035년 전망: 반도체 테스트와 전기차 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "48a1115a0e2142",
+      "title": "정치 바람 탄 美 의회 바뀌어도 주가는 달렸다... 시장은 백악관 문을 본다 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0RwRFRfSnJWbzRvazFUWFNBLV8yR0o3Y3hEdDJvSEZ6V0hDdHlmWThSdjJQNzhzR1hwRjNybVp0VkV1czFjTGV3RmdrMnFRUEhSaHlVbGw5bzBsamw5NGttVGs3R09OczlDS25ZbFFKa0Q5cE5OdHdaVkFxTU1mTW92NmZTWnpY?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-11-02T03:25:00+09:00",
+      "category": "정치·정책",
+      "description": "정치 바람 탄 美 의회 바뀌어도 주가는 달렸다... 시장은 백악관 문을 본다 글로벌이코노믹",
+      "priority_markets": []
+    },
+    {
+      "id": "9b18023afbc5a1",
+      "title": "[알림]정책토론회-AI 시대의 양극화 현상: 진단과 해법 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NRVRDNkJWc0ozMV8wU3YtVHFlYUxOM0Njd01QbWJiZzhvSlJJZVNCVHRsNmdGclppQnRVT005STlNcGdzdDRKbkdNTHNxRkc4TzhPWGlLcHlKRXVYdzJ30gFfQVVfeXFMTU1FVEM2QlZzSjMxXzBTdi1UcWVhTE4zQ2N3TVBtYmJnOG9KUkllU0JUdGw2Z0ZyWmlCdFVPTTlJOU1wZ3N0NEpuR01Mc3FGRzhPOE9YaUtweUpFdVh3Mnc?oc=5",
+      "source": "경향신문",
+      "published": "2026-11-01T21:40:00+09:00",
+      "category": "정치·정책",
+      "description": "[알림]정책토론회-AI 시대의 양극화 현상: 진단과 해법 경향신문",
+      "priority_markets": []
+    },
+    {
+      "id": "ade9a59d907a87",
+      "title": "[단독] 미 공익감시단체 “쿠팡, 미국 무역정책 무기화해 한국에 부당한 압박” - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85Yjg4eDZoQUQ0SGlaN0VkN3p6N25JQXVrY1hMQWk1UHhYbHlwMUtVM2JvWkZUWlByY1Yzbk9UbUlkellQOFFCT2JUeWkxNDN2UktSRUVaY0FNWXZtbEdiN2xNVzBoOTkzRG5QMWNnQQ?oc=5",
+      "source": "한겨레",
+      "published": "2026-11-01T21:24:00+09:00",
+      "category": "정치·정책",
+      "description": "[단독] 미 공익감시단체 “쿠팡, 미국 무역정책 무기화해 한국에 부당한 압박” 한겨레",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "231dd6cbf773ea",
+      "title": "\"대통령께 묻습니다\"…오세훈이 이재명 정부 향해 꺼낸 말 - 위키트리",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lODNuX0F5cm0tUlAzNVRzR0pyOTZUMkc5TWlRTkR1Zzg2dmVNOUVtRWxPeVZwV1RTMUhoYmE5cHh0bG50Y0hDWXdLVVItNXR2bW5tSUVB?oc=5",
+      "source": "위키트리",
+      "published": "2026-11-01T17:38:00+09:00",
+      "category": "정치·정책",
+      "description": "\"대통령께 묻습니다\"…오세훈이 이재명 정부 향해 꺼낸 말 위키트리",
+      "priority_markets": []
+    },
+    {
+      "id": "1bb92f1b31ffd0",
+      "title": "조국 “검찰정치 끝나자 법원정치 진행되고 있다” - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NQ0p4NU5lN1VVeG5uTHdHdkdMVmVvb2lURFpySlRvZXByOW5wY0prUDVGMlFZNjdWc1ZhUDFaSVRiX0h2b0VjeldqXy1LcHVv?oc=5",
+      "source": "문화일보",
+      "published": "2026-11-01T16:11:47+09:00",
+      "category": "정치·정책",
+      "description": "조국 “검찰정치 끝나자 법원정치 진행되고 있다” 문화일보",
+      "priority_markets": []
+    },
+    {
+      "id": "4ea4aa1bbad78a",
+      "title": "“드론 공격에 통신망 마비되면?”…KT, 복합재난 대응 점검 나서 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYUTc2azBPc1A2dkhvYnRMaWZQZXQ0bkc2ZmZVQk5XRkVtd0FBa1E1bUkzbDUxeU03T180aXdsRXJQS0NxbXFRMG5HYkY5RlExbG56Tw?oc=5",
+      "source": "매일경제",
+      "published": "2026-11-01T14:57:50+09:00",
+      "category": "국내 주요 사건",
+      "description": "“드론 공격에 통신망 마비되면?”…KT, 복합재난 대응 점검 나서 매일경제",
+      "priority_markets": []
+    },
+    {
+      "id": "99d577c577cede",
+      "title": "유리섬유 로빙 시장 2035년 전망: 풍력 블레이드 수요가 성장 견인 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcDI2RkRMRW51UDVXdHR3STk3NC04WXVjaWd0VVZiYkJBdmszbkp0UTZNMVh0SVViTVpZcGs3Uzg0Y1VnTDBhTW1yM21LV0NzNlJoZ0poREZ3aWFiNlprQXJTWFhTWHNOSkpxZmVGWTJqd0Y4WkpDSFRoWTlJQTJ5elRfdHRWY2hsUkFfR1ltVzllYk9qYkhvdy1iMGIyM2hmWlF1Z09xY3Jwdw?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-01T13:26:04+09:00",
+      "category": "자동차",
+      "description": "유리섬유 로빙 시장 2035년 전망: 풍력 블레이드 수요가 성장 견인 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "9369d0652bb72b",
+      "title": "Korea's First Arctic Route Round Trip Cuts 7,000km Off Suez Path — But Shipping Costs Remain Uncertain - diarypoint.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVjh3N1ZlbWplS2J3T1pqa294TkZ0RkxrR0hiaVQzVnlUVlRvRXcyUmROeTIxaUszSU9jckhsQjdJTXVoR1lTdHNxZlpXSi0tR3B0Rko3VXlBWkZCZnFId21zWGZCb1F1d2huVzNoN01uNUVQbzRhSVZncjNLRk5uV0RvU21JVjRLWEZzTFptalM3cGgzWS1waXRwTTVpNzBQcDQ4MExvS1dtN0lNUFF3RjNkaHlQcWVubC1PZw?oc=5",
+      "source": "diarypoint.com",
+      "published": "2026-11-01T11:20:00+09:00",
+      "category": "CKD·물류",
+      "description": "Korea's First Arctic Route Round Trip Cuts 7,000km Off Suez Path — But Shipping Costs Remain Uncertain diarypoint.com",
+      "priority_markets": []
+    },
+    {
+      "id": "d28f64da04ca6e",
+      "title": "\"8.4조 가상화폐 해킹 배후는 북한\"… 美FBI \"이더리움 전환 포착\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFanJ0dm05R2dBdHpFdlVYaklDRGFxQmFwVVB1RFpyS2U0SUZMOXQyWEU1T2RvQjZ1eTJwcTd1X3hiRkFZQVlEM2JQUVc2WFFVUldmMkhjYmRsWWoyeEhmQ1RISkxiNC1WWWZIc3J30gFzQVVfeXFMUDVZblp5TjVacER3QUZhX05CbHQxLVZ4RXJwYlp5VEVhVmdZR0t6S25wVGRMbVdzUHUtcWN5OV9QTUNDbVVkVHJvWGRESFExNWV1em1tT21IOFE1X3RCbFA5b0lBOVlsanNjekNPMWRjbkppdw?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-01T08:32:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "\"8.4조 가상화폐 해킹 배후는 북한\"… 美FBI \"이더리움 전환 포착\" 한국일보",
       "priority_markets": []
     }
   ]

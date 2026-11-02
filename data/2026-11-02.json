@@ -1,9 +1,42 @@
 {
   "date": "2026-11-02",
-  "updated_at": "2026-11-02T07:23:07.684372+09:00",
-  "article_count": 5,
+  "updated_at": "2026-11-02T12:39:49.857844+09:00",
+  "article_count": 6,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "85a8db88af55d9",
+      "title": "현대모비스, 저수익 램프 털고 전장·로봇으로 돌파구 찾나 - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94X2xzSzExUXdRanNWZlZHS19wdi1vai02Z0VHUTJ3bFYwODdSRWFUbW8xM0hPYmlJbzd1bXhuTWpaV19VZTh1R0RfWFg0eFJUQXlnVGtaOXdCUEJpMF92V1dvM3F4YnNoX0JV0gFvQVVfeXFMTzB6bTRyUTRpazdCeWZudV85V3pNM29zZEhfOWg3RG5aMVA0VVRuNEh6SnlSaEtST3Vyelg1dGd0X3NaekVvVVpRQk84cTE0Nk5TNjVnOXl2TkNvZXA2NmpxelBBeEt2NUtLYzY5UEU4?oc=5",
+      "source": "한스경제",
+      "published": "2026-11-02T07:30:00+09:00",
+      "category": "자동차",
+      "description": "현대모비스, 저수익 램프 털고 전장·로봇으로 돌파구 찾나 한스경제",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "summary": "현대모비스가 수익성이 낮은 램프 사업부의 구조조정을 검토하고 전장 및 로봇 등 고부가가치 사업으로의 체질 개선을 추진하고 있다. 미래 모빌리티 시장에서의 경쟁력을 확보하기 위한 전략적 사업 재편의 일환으로 풀이된다.",
+      "impact": "전장 및 로봇 부품으로의 사업 전환은 향후 CKD 공급 품목의 변화를 야기할 수 있으므로, 관련 부품의 물류 및 포장 사양 변화 가능성을 모니터링할 필요가 있다.",
+      "importance": "보통",
+      "detail": {
+        "background": "자동차 산업의 전동화 및 자율주행 전환에 따라 기존 내연기관 중심의 부품 사업 수익성이 악화되면서 현대모비스의 사업 구조 개편 필요성이 지속적으로 제기됨.",
+        "key_points": [
+          "저수익 사업인 램프 부문 정리 및 효율화 검토",
+          "전장 부품 및 로봇 사업으로의 포트폴리오 집중",
+          "미래 모빌리티 기술 중심의 체질 개선 전략"
+        ],
+        "what_to_watch": "램프 사업부 매각 또는 분사 등 구체적인 구조조정 실행 여부와 신규 전장 사업의 수주 확대 추이.",
+        "fact_check": "현재 언론을 통해 제기된 사업 재편 가능성으로, 현대모비스의 공식적인 사업 철수 확정 발표는 확인되지 않음."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "380572e4304f7e79",
+      "image_url": ""
+    },
     {
       "id": "d8f67ddb5d54d1",
       "title": "현대차, 아반떼·투싼 앞세워 판매 회복 총력 - 동행미디어 시대",
@@ -14,7 +47,7 @@
       "description": "현대차, 아반떼·투싼 앞세워 판매 회복 총력 동행미디어 시대",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n003",
       "related_articles": [],
       "summary": "현대자동차가 아반떼와 투싼 등 주요 차종을 앞세워 판매 회복에 총력을 기울이고 있습니다. 시장 점유율 방어와 판매량 증대를 위한 전략적 마케팅을 강화하고 있습니다.",
       "impact": "현대차의 주요 차종 판매 전략은 CKD 물량 및 부품 공급 계획과 직결되므로, 해당 차종의 생산 및 판매 추이를 지속적으로 모니터링할 필요가 있습니다.",
@@ -48,12 +81,43 @@
         "인도"
       ],
       "section": "산업·업무",
-      "event_cluster": "",
-      "related_articles": [],
-      "summary": "현대차 인도 법인이 베뉴의 최고 판매 실적을 바탕으로 월간 신기록을 달성했습니다. 향후 바이욘 모델을 추가 투입하여 인도 시장 내 성장세를 더욱 확대할 구상입니다.",
-      "impact": "인도 시장의 판매 호조는 현지 CKD 생산 물량 확대와 연관될 가능성이 높으며, 신규 모델 투입에 따른 부품 공급망 최적화가 중요합니다.",
+      "event_cluster": "batch0-n001",
+      "related_articles": [
+        {
+          "title": "현대차, 인도서 '역대급 질주'…10월 판매 '8만대 돌파' 신기록 - 더구루",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tX2R0MXh5Zm9HSTBaZEJNazlQR0E0T1RJbUlzUXR6ZHZsblVPV3BCUC1QQlgyNVB2MThJenp1WXZ4Tng3QlduWm16NUdzRzh1ZDJ4bHduZHlKTUNlYXc?oc=5",
+          "source": "더구루",
+          "published": "2026-11-02T10:18:17+09:00"
+        },
+        {
+          "title": "현대차, 인도서 두 달 연속 月 최대 판매 경신…\"신차·증산으로 성장세 잇는다\" - 뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2c0xqQm0zVXl3Skc3TS1nbjhUMi16YWxzaFZCRC1PLVB6MEpkbjAyYVRjVzZibndQU2ZySnZpT0NsYU1GTDY2VTBBNkxTNy1BbFYya2x6Y0MtY0ZyN0dOQ9IBeEFVX3lxTE8tSmg2WE9QRHFrSjdsTS1jaEhFWDZqX3I1aXN2ODRkY0Z6eUFPT0o4enpfQmdTdUJwZTRoQ1ZCaElqQTU5bHFHYjJBdDZiY1pKaVZqdkNfempncXVEa2NPeWYySHhwTGtxN2N4Ry1yTTRleUM4bXprcg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-11-02T11:30:11+09:00"
+        }
+      ],
+      "summary": "현대자동차가 인도 시장에서 10월 판매량 8만 대를 돌파하며 월간 최대 판매 기록을 경신했다. 베뉴의 높은 판매고와 더불어 향후 바이욘 등 신차 투입 및 생산 증산을 통해 성장세를 이어갈 계획이다.",
+      "impact": "인도 시장의 판매 호조는 현지 생산 물량 확대와 직결되며, 이는 현대모비스의 인도 현지 CKD 공급 물량 및 부품 조달 수요 증가로 이어질 가능성이 높다.",
       "importance": "높음",
       "detail": {
+        "background": "현대차는 인도 시장 점유율 확대를 위해 SUV 라인업 강화와 생산 능력 증설을 지속적으로 추진 중임.",
+        "key_points": [
+          "10월 인도 시장 판매 8만 대 돌파로 월간 신기록 달성",
+          "베뉴 모델의 판매 호조가 전체 실적 견인",
+          "바이욘 투입 및 증산을 통한 성장 전략 구상"
+        ],
+        "what_to_watch": "인도 현지 생산 능력 증설 속도와 신차 투입에 따른 부품 공급망의 대응 현황.",
+        "fact_check": "현대차 인도법인의 10월 판매 실적은 공식 발표된 수치임."
+      },
+      "new_information": "",
+      "source_comparison": "더구루와 뉴시스는 10월 판매 8만 대 돌파 및 두 달 연속 기록 경신을 강조했으며, 글로벌이코노믹은 베뉴의 성과와 바이욘을 통한 향후 전략에 초점을 맞춤.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "324753ef6a891d21",
+      "image_url": "",
+      "original_summary": "현대차 인도 법인이 베뉴의 최고 판매 실적을 바탕으로 월간 신기록을 달성했습니다. 향후 바이욘 모델을 추가 투입하여 인도 시장 내 성장세를 더욱 확대할 구상입니다.",
+      "original_detail": {
         "background": "현대차 인도 법인의 시장 점유율 확대 및 제품 라인업 강화 전략.",
         "key_points": [
           "베뉴 모델의 인도 시장 내 최고 판매 기록 달성",
@@ -61,14 +125,7 @@
         ],
         "what_to_watch": "인도 시장 내 신규 모델 투입 일정 및 현지 생산 물량 변화",
         "fact_check": "베뉴 판매 기록 및 바이욘 도입 계획에 대한 보도임"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "68627db01f3dffcb",
-      "image_url": ""
+      }
     },
     {
       "id": "71a2c9ca55e092",
@@ -80,7 +137,7 @@
       "description": "\"북미 하이브리드 판매 56% 증가\"... 현대차, 지역별 실적 공개 오토트리뷴",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n004",
       "related_articles": [],
       "summary": "현대차가 지역별 실적을 공개한 가운데, 북미 시장에서 하이브리드 차량 판매가 전년 대비 56% 증가한 것으로 나타났습니다. 전동화 전환 과정에서 하이브리드 모델의 수요가 견인차 역할을 하고 있습니다.",
       "impact": "북미 시장의 하이브리드 수요 급증은 현대차의 생산 믹스 변화를 의미하며, 관련 부품의 공급 안정성 확보가 중요합니다.",
@@ -112,7 +169,7 @@
       "description": "유럽 ​​여러 항구에서 무기 선적에 항의하는 파업이 벌어지고 있습니다. Vietnam.vn",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n005",
       "related_articles": [],
       "summary": "유럽 내 여러 항구에서 무기 선적에 항의하는 노동자들의 파업이 발생하고 있습니다. 이로 인해 유럽 지역의 물류 흐름에 차질이 빚어질 가능성이 제기됩니다.",
       "impact": "유럽 항만 파업은 글로벌 물류 공급망에 영향을 줄 수 있으며, CKD 부품 수출입 및 현지 물류 운송 지연 가능성을 점검해야 합니다.",
@@ -144,7 +201,7 @@
       "description": "현대차·기아, 'K-세일페스타' 참가...차량 할인, 무이자 할부 판매 생생비즈플러스",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n006",
       "related_articles": [],
       "summary": "현대차와 기아가 국내 소비 진작을 위한 'K-세일페스타'에 참가하여 주요 차종에 대한 할인 혜택과 무이자 할부 프로그램을 제공합니다. 이번 행사를 통해 내수 판매 활성화를 도모하고 고객 부담을 완화할 계획입니다.",
       "impact": "국내 내수 판매 촉진을 통한 완성차 재고 관리 및 판매량 증대 효과가 기대됩니다. 내수 시장의 소비 심리 변화를 모니터링하여 향후 생산 계획 및 물류 흐름에 미칠 영향을 파악할 필요가 있습니다.",
