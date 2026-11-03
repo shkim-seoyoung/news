@@ -1,9 +1,75 @@
 {
   "date": "2026-11-03",
-  "updated_at": "2026-11-03T07:27:49.530377+09:00",
-  "article_count": 9,
+  "updated_at": "2026-11-03T12:37:19.794053+09:00",
+  "article_count": 12,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "8930d9fb34850b",
+      "title": "[세계의 여성리더] 전쟁터 누비며 참상 전한 ‘언론계 전설’ 크리스티안 아만푸어 - 여성신문",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ydW5fRXFXOEZ0dDVCU1hrMnBxNExXcXVUQTdFTi13dEFiSmpSNU82TS1pQzFwRnBsZkdkem54VExrcWRYT3N2Q3A5UTJmMGFXT0hwdmZkbWtNLUszRGU5VXhYajl4Vm9fbVRzeFQ3ZnlKX1HSAXNBVV95cUxPcnVuX0VxVzhGdHQ1QlNYazJwcTRMV3F1VEE3RU4td3RBYkpqUjVPNk0taUMxcEZwbGZHZHpueFRMa3FkWE9zdkNwOVEyZjBhV09IcHZmZG1rTS1LM0RlOVV4WGo5eFZvX21Uc3hUN2Z5Sl9R?oc=5",
+      "source": "여성신문",
+      "published": "2026-11-03T10:23:17+09:00",
+      "category": "국제·외교",
+      "description": "[세계의 여성리더] 전쟁터 누비며 참상 전한 ‘언론계 전설’ 크리스티안 아만푸어 여성신문",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "summary": "언론계의 전설로 불리는 크리스티안 아만푸어의 기자로서의 삶과 업적을 조명한 기사입니다. 전쟁터 등 위험한 현장에서 참상을 전하며 여성 언론인으로서 보여준 리더십을 다루고 있습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "크리스티안 아만푸어의 언론인 경력 및 주요 활동",
+        "key_points": [
+          "전쟁터 등 극한의 현장에서 진실을 보도한 언론인",
+          "여성 언론인으로서의 상징성과 리더십 조명"
+        ],
+        "what_to_watch": "해당 인물의 향후 활동 및 언론계 영향력",
+        "fact_check": "언론 보도 내용 기반"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "cf34fff44287232c",
+      "image_url": ""
+    },
+    {
+      "id": "2d7ad0e19f020b",
+      "title": "기아 거점 인도 안드라로 공급망 넓히는 화신·서연이화, 현지는 유치 공방 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS25lc0JLSHBiWEY2SUJOYTNfWGY5WlFlS3lmaWtGOU1uR0gwWklDRkpFTzRkT3N1MmVRTFZCcEhYbzZ2NHhCQzI5WUdXYWhNTnl1QXdvcVdVVC1vUVMwN0VLSUJZWFF5TDBPZVhVX19qVmdnYmFDenFpcVNBaDJURHVaRWs3MkpH?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-11-03T10:23:12+09:00",
+      "category": "자동차",
+      "description": "기아 거점 인도 안드라로 공급망 넓히는 화신·서연이화, 현지는 유치 공방 글로벌이코노믹",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n003",
+      "related_articles": [],
+      "summary": "기아의 인도 생산 거점 확대에 따라 화신, 서연이화 등 주요 협력사들이 안드라프라데시주 등으로 공급망을 확장하고 있습니다. 현지 주 정부 간의 기업 유치 경쟁이 치열해지고 있는 상황입니다.",
+      "impact": "인도 내 기아 생산 거점 확대에 따른 협력사 동반 진출 및 현지 공급망 구축 현황을 파악할 수 있습니다. CKD 물류 및 현지 부품 조달 전략 수립 시 참고가 필요합니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "기아의 인도 시장 생산 능력 확대 및 공급망 재편",
+        "key_points": [
+          "화신, 서연이화 등 주요 협력사의 인도 안드라프라데시주 진출",
+          "인도 현지 주 정부 간의 자동차 부품사 유치 경쟁 심화"
+        ],
+        "what_to_watch": "협력사들의 구체적인 투자 규모 및 현지 공장 가동 일정",
+        "fact_check": "기아 인도 생산 거점 관련 보도 기반"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "4aea1805908a3904",
+      "image_url": ""
+    },
     {
       "id": "cdc7921f7514e0",
       "title": "자동차 3사 현대-기아-KGM 10월 판매 실적 현대차 큰폭 감소,기아 급증, KGM 급감...현대차 32만9773대,기아 29만1219대,KGM 6537대 판매 - 국민뉴스",
@@ -14,7 +80,7 @@
       "description": "자동차 3사 현대-기아-KGM 10월 판매 실적 현대차 큰폭 감소,기아 급증, KGM 급감...현대차 32만9773대,기아 29만1219대,KGM 6537대 판매 국민뉴스",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n001",
+      "event_cluster": "batch0-n004",
       "related_articles": [
         {
           "title": "“현대차·기아 시장 점유율 91%·양극화 심화”..완성차,10월 글로벌 시장서 68만3221대 판매 - 데일리카",
@@ -60,7 +126,7 @@
       "description": "이재명 “정치 경쟁, 전쟁 돼선 안 돼”…예산안 협치 요청 속 미래대응기금 신경전 https://www.sisaworld.kr/",
       "priority_markets": [],
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n002",
+      "event_cluster": "batch0-n005",
       "related_articles": [],
       "summary": "이재명 대표가 정치권의 협치를 강조하며 예산안 처리를 요청했습니다. 한편, 미래대응기금 조성과 관련하여 여야 간의 신경전이 이어지고 있습니다.",
       "impact": "",
@@ -94,7 +160,7 @@
         "미국"
       ],
       "section": "산업·업무",
-      "event_cluster": "batch0-n004",
+      "event_cluster": "batch0-n006",
       "related_articles": [],
       "summary": "현대차 미국 조지아 공장(HMGMA)이 폐수 배출권 확대 승인을 받으며 본격적인 가동 준비를 마쳤습니다. 이를 통해 연간 20만 대 생산 체제 구축에 속도를 낼 전망입니다.",
       "impact": "현대차의 미국 현지 생산 능력 확대는 북미 시장 공급망 전략의 핵심입니다. 현지 생산 물량 증가에 따른 CKD 부품 공급 및 물류 최적화 전략 점검이 필요합니다.",
@@ -126,7 +192,7 @@
       "description": "[이슈&분석 ]현대차, 내수·수출 겹친 생산 차질…4분기 신차로 판매 회복 추진 코리아포스트 한글판",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n005",
+      "event_cluster": "batch0-n007",
       "related_articles": [],
       "summary": "현대차가 내수와 수출 부문에서 발생한 생산 차질을 극복하기 위해 4분기 신차 출시를 통한 판매 회복을 추진합니다. 생산 효율화와 신차 효과를 결합해 실적 반등을 노리고 있습니다.",
       "impact": "생산 차질 이슈는 부품 공급망의 안정성과 직결됩니다. 신차 출시 일정에 맞춘 CKD 포장 및 물류 공급 계획의 유연한 대응이 요구됩니다.",
@@ -149,6 +215,38 @@
       "image_url": ""
     },
     {
+      "id": "933bfe63627c64",
+      "title": "정부, 이달 중 ‘전기차 산업 경쟁력 강화방안’ 발표...생산세액공제 논의 지속 - 생생비즈플러스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtSDVyNUR3RllGdjlncVJ6eW1oVDBYdkV5bmtYbWt3ZW5hN1dNeVg5eE1MV3hqcFRWWXFaSGRZczdHbzFCTmNOdjFrZUpVR09tM0c4UGdHX0w3UHhveUlGU3NLWUtrNlcyWlhwag?oc=5",
+      "source": "생생비즈플러스",
+      "published": "2026-11-02T17:32:08+09:00",
+      "category": "자동차",
+      "description": "정부, 이달 중 ‘전기차 산업 경쟁력 강화방안’ 발표...생산세액공제 논의 지속 생생비즈플러스",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n008",
+      "related_articles": [],
+      "summary": "정부가 이달 중 전기차 산업 경쟁력 강화 방안을 발표할 예정입니다. 핵심 쟁점인 생산 세액 공제 도입 여부에 대한 논의가 지속되고 있습니다.",
+      "impact": "국내 전기차 생산 환경 및 투자 유인책 변화를 예고합니다. 향후 정책 방향에 따라 국내 생산 거점의 경쟁력과 관련 부품 공급망 전략에 영향을 미칠 수 있습니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "전기차 시장 둔화에 따른 정부의 산업 지원 정책 마련",
+        "key_points": [
+          "정부의 전기차 산업 경쟁력 강화 방안 이달 발표 예정",
+          "생산 세액 공제 도입을 둘러싼 정책 논의 지속"
+        ],
+        "what_to_watch": "정부 발표안의 구체적인 세제 혜택 범위 및 지원 대상",
+        "fact_check": "정부 정책 발표 예고 기반"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "3b0c225977d3dc24",
+      "image_url": ""
+    },
+    {
       "id": "3cf61e726d7318",
       "title": "How Maruti Suzuki Is Growing Exports Despite West Asia Shipping Disruptions - Logistics Insider",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTEtseUtuMTl4WjMwTUg5MWxFQVcybUc5b2s2c1RwaVFnX0M0bVJsLTdBZ3lkNDVocWdQMFF1TjI1LTkzZHZ4RVNSaE1sUm9xN203a3EwMDN2aEdERGJmc0NaUHBrZ0lIbmtJZjZ0WTQzdFJmVWNyYllCWnhXT2t4bkZ0OUtNTWhvdWlOUjBvTGFrcXpGMXdrRlN5M0NSOUFpQXhka0o2bGxEek5H?oc=5",
@@ -158,7 +256,7 @@
       "description": "How Maruti Suzuki Is Growing Exports Despite West Asia Shipping Disruptions Logistics Insider",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n006",
+      "event_cluster": "batch0-n009",
       "related_articles": [],
       "summary": "마루티 스즈키가 서아시아 지역의 해상 물류 차질에도 불구하고 수출 물량을 지속적으로 확대하고 있다. 공급망 불안정 속에서도 효율적인 물류 전략을 통해 수출 성장세를 유지하는 사례로 주목받는다.",
       "impact": "글로벌 완성차 업체의 물류 리스크 대응 사례로서, 해상 운송 차질 상황에서의 공급망 관리 전략을 참고할 필요가 있다.",
@@ -190,12 +288,36 @@
       "description": "중국 샤오미, 전기차 10월 판매 5만 대 돌파⋯EREV 효과 이투데이",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n007",
-      "related_articles": [],
-      "summary": "중국 샤오미의 전기차 부문이 10월 판매량 5만 대를 돌파하며 가파른 성장세를 보이고 있다. 특히 주행거리 연장형 전기차(EREV) 모델의 도입이 판매 확대에 긍정적인 영향을 미친 것으로 분석된다.",
-      "impact": "중국 전기차 시장에서 EREV 기술이 판매량 견인의 핵심 요소로 작용하고 있음을 시사하며, 향후 전동화 전략 수립 시 기술 포트폴리오 다변화 관점에서 참고할 만하다.",
+      "event_cluster": "batch0-n010",
+      "related_articles": [
+        {
+          "title": "중국 샤오미, 전기차 10월 판매 5만 대 돌파⋯EREV 효과 - 이투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxUUxCZlpvQllDSG03elB5VWlqZjBiTG9QX21sWTZYbm9qZmlYanJ0WVBBN3Q5NjkwMlIyUnFiVWQ0ekpRd2NIdlpVV3dxTXZzeVI2ZE9xU0xFQ0hYa3dfUzNSZkc0Mk4yTXRiT3RmTE9rcERP?oc=5",
+          "source": "이투데이",
+          "published": "2026-11-02T15:35:00+09:00"
+        }
+      ],
+      "summary": "중국 샤오미의 전기차 부문이 10월 판매량 5만 대를 돌파하며 급성장하고 있습니다. 특히 주행거리 연장형 전기차(EREV) 모델의 인기가 판매 실적을 견인한 것으로 분석됩니다.",
+      "impact": "중국 전기차 시장 내 EREV 모델의 수요 확대 추세를 보여줍니다. 글로벌 전기차 시장의 기술 트렌드 변화와 경쟁사 동향 파악에 유의미합니다.",
       "importance": "보통",
       "detail": {
+        "background": "샤오미의 전기차 시장 진입 및 판매 실적 추이",
+        "key_points": [
+          "샤오미 전기차 10월 판매 5만 대 돌파",
+          "EREV(주행거리 연장형 전기차) 모델의 판매 기여도 확대"
+        ],
+        "what_to_watch": "샤오미의 생산 능력 확대 및 EREV 시장 점유율 추이",
+        "fact_check": "샤오미 10월 판매 실적 발표 기반"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "591607105415d6b1",
+      "image_url": "",
+      "original_summary": "중국 샤오미의 전기차 부문이 10월 판매량 5만 대를 돌파하며 가파른 성장세를 보이고 있다. 특히 주행거리 연장형 전기차(EREV) 모델의 도입이 판매 확대에 긍정적인 영향을 미친 것으로 분석된다.",
+      "original_detail": {
         "background": "중국 내 전기차 시장 경쟁 심화 및 주행거리 불안 해소를 위한 EREV 모델 선호 현상.",
         "key_points": [
           "샤오미 전기차 10월 판매량 5만 대 돌파",
@@ -203,13 +325,47 @@
         ],
         "what_to_watch": "샤오미의 생산 능력 확대 속도 및 EREV 모델의 지속적인 시장 점유율 유지 여부.",
         "fact_check": "10월 판매량 5만 대 돌파 사실 및 EREV 모델의 구체적인 판매 비중 확인."
+      }
+    },
+    {
+      "id": "65c72f01a2b31b",
+      "title": "현대차, 인도서 두 달 연속 월간 최대 판매…신차·증산으로 성장세 잇는다 - 와이드경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQUxKMEtmSE8tUHpWT1Z6Z1diYTMzTG16ZHcySEdRcnJ4cGFkeGVlS19oSDA4RkFocTExTjN4ZEZCaXVRZ0NuN1dFWk14WmFWT3ZwckNNT0xkT3U5T0JvVDZ3T3pudngybGYxdQ?oc=5",
+      "source": "와이드경제",
+      "published": "2026-11-02T15:30:02+09:00",
+      "category": "자동차",
+      "description": "현대차, 인도서 두 달 연속 월간 최대 판매…신차·증산으로 성장세 잇는다 와이드경제",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n011",
+      "related_articles": [
+        {
+          "title": "현대차, 인도서 두 달 연속 月 최대 판매 경신…\"신차·증산으로 성장세 잇는다\" - 뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2c0xqQm0zVXl3Skc3TS1nbjhUMi16YWxzaFZCRC1PLVB6MEpkbjAyYVRjVzZibndQU2ZySnZpT0NsYU1GTDY2VTBBNkxTNy1BbFYya2x6Y0MtY0ZyN0dOQ9IBeEFVX3lxTE8tSmg2WE9QRHFrSjdsTS1jaEhFWDZqX3I1aXN2ODRkY0Z6eUFPT0o4enpfQmdTdUJwZTRoQ1ZCaElqQTU5bHFHYjJBdDZiY1pKaVZqdkNfempncXVEa2NPeWYySHhwTGtxN2N4Ry1yTTRleUM4bXprcg?oc=5",
+          "source": "뉴시스",
+          "published": "2026-11-02T11:30:11+09:00"
+        }
+      ],
+      "summary": "현대자동차가 인도 시장에서 두 달 연속 월간 최대 판매 기록을 경신하며 성장세를 이어가고 있습니다. 신차 출시와 생산량 증대를 통해 인도 내 시장 점유율 확대 전략을 지속하고 있습니다.",
+      "impact": "인도 시장의 판매 호조는 현지 생산 및 CKD 물량의 안정적 공급과 직결되는 지표로, 향후 인도 내 생산 능력 확충에 따른 부품 공급망 관리의 중요성이 커질 것으로 보입니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차의 인도 시장 판매 실적 추이 및 성장 전략",
+        "key_points": [
+          "두 달 연속 인도 시장 월간 최대 판매 기록 경신",
+          "신차 라인업 강화 및 생산량 증대 전략 추진"
+        ],
+        "what_to_watch": "인도 시장 내 지속적인 판매 성장세 유지 여부 및 현지 생산 설비 가동률",
+        "fact_check": "판매 기록 경신 여부 확인"
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "a880f2883403b839",
+      "integration_signature": "2b7e47ea6b435e8c",
       "image_url": ""
     },
     {
@@ -222,8 +378,14 @@
       "description": "현대차 생산라인 또 멈췄다…G80 신차 투입 인력 놓고 노사 충돌 - 머니투데이 머니투데이",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n003",
+      "event_cluster": "batch0-n001",
       "related_articles": [
+        {
+          "title": "\"제네시스 신차 투입 막아선 노조\"... 현대차 울산공장 생산라인 또 멈췄다 - 토픽트리",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPczhxMDZmeURyakI5bTlfVktRc3BZRk03bHpVMjFkZXdVVGdxQVE1bGp5M2E1WXg4NTFyS0hQblJ4NXRPb0pEWHkwdU5TR3hPRUVYOUxhWGEwSTVJdTVpY1Z1OWJ0VXJIclFRWVZycUJCOXpEbjhVcWRzU0lCd3dfalhpa9IBiwFBVV95cUxOclVUdkVlR0hMaWhaOFI1aDBnTV9yUklESmh1UlFSTVgxdnFIUWZ0Yjh4ME1wNkxyaGVZLTctejVDZ05lemVISHdLX0htRTF0WGRPVVFFcmY4a3pkaFlhbGhoZXhUVmJ6NmVlOTh5QW41Rm9hVUVGTTlVSVRMak1YUVBZdWxaOFoyalZv?oc=5",
+          "source": "토픽트리",
+          "published": "2026-11-03T11:19:00+09:00"
+        },
         {
           "title": "현대차 울산공장 제네시스 라인, 신차 테스트 노사 갈등으로 가동 중단 - 생생비즈플러스",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QdWc1UzloMkYyQUlnZG11a3JKZk9wSnFOZWRGQW9sMlJHMUVUUDJYcmdVeS0wUzRkeHVjYWIxdXdnZEFGLTAxd3RKM0ktYzktYjJhRThSY3laRjhlTVVyaFFPOVBYMTVCVEktcQ?oc=5",
@@ -249,10 +411,28 @@
           "published": "2026-11-02T17:40:00+09:00"
         }
       ],
-      "summary": "현대차 울산공장 제네시스 생산라인이 신차(G80) 시험차 투입 인력 문제를 둘러싼 노사 갈등으로 가동이 중단되었다. 노조 측의 반발로 인해 신차 테스트 및 생산 일정에 차질이 발생하고 있다.",
-      "impact": "국내 생산 거점의 노사 갈등은 생산 효율성 및 신차 출시 일정에 직접적인 영향을 미치며, 향후 CKD 물량 공급 및 생산 계획 수립 시 리스크 요인으로 작용할 수 있다.",
+      "summary": "현대자동차 울산공장에서 제네시스 G80 신차 시험 생산 투입을 둘러싼 노사 갈등으로 인해 생산 라인이 일시적으로 가동 중단되었습니다. 노조 측의 신차 투입 반대와 사측의 생산 계획 간의 이견이 주요 원인입니다.",
+      "impact": "국내 생산 라인의 가동 중단은 단기적으로 완성차 공급 차질을 유발할 수 있으며, 노사 관계 변화에 따른 생산 안정성 모니터링이 필요합니다.",
       "importance": "높음",
       "detail": {
+        "background": "현대차 울산공장 제네시스 생산 라인 노사 갈등",
+        "key_points": [
+          "제네시스 G80 신차 시험 생산 투입 관련 노사 갈등 발생",
+          "울산공장 생산 라인 가동 중단 사태",
+          "신차 투입 인력 및 절차에 대한 노조의 반발"
+        ],
+        "what_to_watch": "노사 간 협의를 통한 생산 라인 정상화 시점 및 향후 신차 양산 일정 영향",
+        "fact_check": "생산 중단 사유 및 노사 입장 차이 확인"
+      },
+      "new_information": "",
+      "source_comparison": "여러 매체에서 노사 갈등으로 인한 생산 중단 사실을 공통적으로 보도하고 있으며, 갈등의 핵심 원인을 G80 시험차 투입 과정에서의 인력 배치 및 절차 문제로 지목하고 있습니다.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "b8b08d705ba58be3",
+      "image_url": "",
+      "original_summary": "현대차 울산공장 제네시스 생산라인이 신차(G80) 시험차 투입 인력 문제를 둘러싼 노사 갈등으로 가동이 중단되었다. 노조 측의 반발로 인해 신차 테스트 및 생산 일정에 차질이 발생하고 있다.",
+      "original_detail": {
         "background": "현대차 울산공장 내 신차 투입 시 인력 운영 및 공정 배치를 둘러싼 노사 간의 고질적인 갈등.",
         "key_points": [
           "제네시스 생산라인 가동 중단",
@@ -261,14 +441,7 @@
         ],
         "what_to_watch": "노사 협의를 통한 생산라인 재가동 시점 및 신차 생산 정상화 여부.",
         "fact_check": "가동 중단 기간 및 노사 협의 진행 상황 확인."
-      },
-      "new_information": "",
-      "source_comparison": "여러 매체에서 동일하게 노사 간 신차 시험차 투입 인력 갈등을 가동 중단의 핵심 원인으로 보도함.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "cecc082080d1e4d2",
-      "image_url": ""
+      }
     },
     {
       "id": "8d6919b2c647cd",
@@ -280,7 +453,7 @@
       "description": "[산업pick] 현대차, 내달 새만금AI데이터센터 법인 설립···9조 투자 구체화 글로벌E",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n009",
+      "event_cluster": "batch0-n012",
       "related_articles": [],
       "summary": "현대차가 새만금 AI 데이터센터 구축을 위해 내달 법인을 설립하고 9조 원 규모의 투자를 구체화한다. 이번 투자는 현대차의 미래 모빌리티 및 AI 기술 역량 강화를 위한 전략적 행보로 풀이된다.",
       "impact": "현대차의 대규모 인프라 투자는 미래 모빌리티 생태계 구축의 일환으로, 향후 관련 산업 동향 및 현대차의 기술 투자 방향성을 파악하는 데 중요한 지표가 된다.",
@@ -300,54 +473,6 @@
       "ai_summary": true,
       "integrated_summary": true,
       "integration_signature": "54c5548885225172",
-      "image_url": ""
-    },
-    {
-      "id": "ce6ed0c269e6a7",
-      "title": "현대차, 인도서 '역대급 질주'…10월 판매 '8만대 돌파' 신기록 - 더구루",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tX2R0MXh5Zm9HSTBaZEJNazlQR0E0T1RJbUlzUXR6ZHZsblVPV3BCUC1QQlgyNVB2MThJenp1WXZ4Tng3QlduWm16NUdzRzh1ZDJ4bHduZHlKTUNlYXc?oc=5",
-      "source": "더구루",
-      "published": "2026-11-02T10:18:17+09:00",
-      "category": "자동차",
-      "description": "현대차, 인도서 '역대급 질주'…10월 판매 '8만대 돌파' 신기록 더구루",
-      "priority_markets": [
-        "인도"
-      ],
-      "section": "산업·업무",
-      "event_cluster": "batch0-n008",
-      "related_articles": [
-        {
-          "title": "현대차, 인도서 두 달 연속 月 최대 판매 경신…\"신차·증산으로 성장세 잇는다\" - 뉴시스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2c0xqQm0zVXl3Skc3TS1nbjhUMi16YWxzaFZCRC1PLVB6MEpkbjAyYVRjVzZibndQU2ZySnZpT0NsYU1GTDY2VTBBNkxTNy1BbFYya2x6Y0MtY0ZyN0dOQ9IBeEFVX3lxTE8tSmg2WE9QRHFrSjdsTS1jaEhFWDZqX3I1aXN2ODRkY0Z6eUFPT0o4enpfQmdTdUJwZTRoQ1ZCaElqQTU5bHFHYjJBdDZiY1pKaVZqdkNfempncXVEa2NPeWYySHhwTGtxN2N4Ry1yTTRleUM4bXprcg?oc=5",
-          "source": "뉴시스",
-          "published": "2026-11-02T11:30:11+09:00"
-        },
-        {
-          "title": "현대차, 인도서 두 달 연속 월간 최대 판매…신차·증산으로 성장세 잇는다 - 와이드경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQUxKMEtmSE8tUHpWT1Z6Z1diYTMzTG16ZHcySEdRcnJ4cGFkeGVlS19oSDA4RkFocTExTjN4ZEZCaXVRZ0NuN1dFWk14WmFWT3ZwckNNT0xkT3U5T0JvVDZ3T3pudngybGYxdQ?oc=5",
-          "source": "와이드경제",
-          "published": "2026-11-02T15:30:02+09:00"
-        }
-      ],
-      "summary": "현대자동차가 인도 시장에서 10월 한 달간 8만 대 이상의 판매량을 기록하며 역대 월간 최대 판매 기록을 경신했습니다. 이는 두 달 연속 기록 경신으로, 신차 효과와 현지 생산 증산 전략이 주효한 것으로 분석됩니다.",
-      "impact": "인도 시장 내 현대차의 판매 호조는 현지 생산 거점의 가동률 상승과 부품 공급망의 안정적 운영을 시사합니다. 향후 인도 내 생산 능력 확대에 따른 CKD 물량 및 현지 조달 부품의 흐름을 지속적으로 모니터링할 필요가 있습니다.",
-      "importance": "높음",
-      "detail": {
-        "background": "현대차는 인도 시장 점유율 확대를 위해 생산 시설 증설 및 신차 라인업 강화를 추진해 왔습니다.",
-        "key_points": [
-          "10월 인도 시장 판매량 8만 대 돌파로 역대 월간 최대치 기록",
-          "두 달 연속 월간 판매 기록 경신하며 성장세 지속",
-          "신차 투입 및 현지 생산 증산이 주요 성장 동력으로 작용"
-        ],
-        "what_to_watch": "인도 시장의 지속적인 수요 증가에 따른 현대차의 추가 생산 능력 확충 계획 및 현지 부품 공급망 대응 현황.",
-        "fact_check": "10월 판매량 8만 대 돌파 및 두 달 연속 기록 경신 여부 확인 완료."
-      },
-      "new_information": "",
-      "source_comparison": "더구루는 8만 대 돌파라는 구체적 수치를 강조했으며, 뉴시스와 와이드경제는 두 달 연속 기록 경신과 향후 증산 전략에 초점을 맞추어 보도함.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "1ca11c2ac0775993",
       "image_url": ""
     }
   ]
