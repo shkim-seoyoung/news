@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-04",
+  "updated_at": "2026-11-04T07:27:48.797839+09:00",
+  "article_count": 4,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "600624e51dc5af",
+      "title": "현대차그룹, 멈추지 않는 배터리 내재화…베트남 음극재 1000억 투자 추진 [biz-플러스] - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5TWpkMDRmNG5yRkZTRkFtSWNDdDR5eFp0OU50NWlJc2FhQ0YyeC13R1EzU3ZZX2E2Z09MU0dta0hxajRpWlJhNlFrQ2lIN3JiUlHSAVNBVV95cUxOZTRMb0FkZld6LTFiMlByTEIyUENJQTdYOUtXTmRaT2tHMzZHTXZhVHg2QkFoaVRraWVUVDlqaTMzTzEyUFVoVXRpa2xBQlVGcUdRdw?oc=5",
+      "source": "서울경제",
+      "published": "2026-11-04T06:31:02+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, 멈추지 않는 배터리 내재화…베트남 음극재 1000억 투자 추진 [biz-플러스] 서울경제",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "summary": "현대차그룹이 배터리 내재화 전략의 일환으로 베트남에 음극재 생산 시설 구축을 위한 1,000억 원 규모의 투자를 추진 중이다. 이번 투자는 공급망 다변화와 배터리 핵심 소재의 안정적인 확보를 위한 행보로 풀이된다.",
+      "impact": "배터리 소재 내재화는 향후 현대차그룹의 전기차 생산 원가 절감 및 공급망 안정성에 기여할 것으로 보이며, 관련 부품 및 소재 물류 체계 변화 가능성을 주시할 필요가 있다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차그룹은 전기차 경쟁력 강화를 위해 배터리 셀뿐만 아니라 소재 분야까지 내재화 범위를 넓히고 있음.",
+        "key_points": [
+          "베트남 내 음극재 생산 시설 투자 추진",
+          "투자 규모 약 1,000억 원 수준",
+          "배터리 공급망 내재화 전략 가속화"
+        ],
+        "what_to_watch": "실제 투자 확정 여부 및 베트남 현지 생산 시설의 가동 시점과 생산 능력.",
+        "fact_check": "투자 추진 단계로 최종 확정 여부 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "47ac1206e9d89c36",
+      "image_url": ""
+    },
+    {
+      "id": "6f9549d6620ec4",
+      "title": "기아, 인도 현지 생산 확대 속도…아난타푸르 제2공장 추진 - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTC1seXFNTUJKaHA1Q2t0c1gzUC1veEtqWmVJb3FUYldEOVJXdDNGSFhDUS0xZXNoYmNON2ttbnJTRHZyYUkzZnVyWk93c1NMR1AzRHBKRHd1WWZjZXFXYk52MmMtbjNwX2k5YkFBVU5HVTR1WmNMQmdPTUQyWEZRTg?oc=5",
+      "source": "이데일리",
+      "published": "2026-11-03T15:16:09+09:00",
+      "category": "자동차",
+      "description": "기아, 인도 현지 생산 확대 속도…아난타푸르 제2공장 추진 이데일리",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "summary": "기아가 인도 시장 내 생산 능력 확대를 위해 아난타푸르 공장에 이어 제2공장 건설을 추진하고 있다. 인도 내수 및 수출 물량 증가에 대응하기 위한 전략적 결정으로 분석된다.",
+      "impact": "인도 생산 거점 확대는 기아의 글로벌 생산 네트워크 재편을 의미하며, 향후 CKD 물량 및 부품 공급망의 현지화 전략에 영향을 미칠 수 있다.",
+      "importance": "높음",
+      "detail": {
+        "background": "인도 자동차 시장의 급성장과 기아의 현지 판매 호조에 따른 생산 능력 한계 도달.",
+        "key_points": [
+          "아난타푸르 제2공장 신설 추진",
+          "인도 현지 생산 확대 전략",
+          "글로벌 생산 거점 다변화"
+        ],
+        "what_to_watch": "제2공장 부지 확정 및 착공 시기, 연간 생산 목표치.",
+        "fact_check": "공장 추진 계획 단계로 구체적인 투자 규모와 일정 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "13e6f7b14c3b302d",
+      "image_url": ""
+    },
+    {
+      "id": "2f23dc0a8270d7",
+      "title": "\"제네시스 신차 투입 막아선 노조\"... 현대차 울산공장 생산라인 또 멈췄다 - 토픽트리",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPczhxMDZmeURyakI5bTlfVktRc3BZRk03bHpVMjFkZXdVVGdxQVE1bGp5M2E1WXg4NTFyS0hQblJ4NXRPb0pEWHkwdU5TR3hPRUVYOUxhWGEwSTVJdTVpY1Z1OWJ0VXJIclFRWVZycUJCOXpEbjhVcWRzU0lCd3dfalhpa9IBiwFBVV95cUxOclVUdkVlR0hMaWhaOFI1aDBnTV9yUklESmh1UlFSTVgxdnFIUWZ0Yjh4ME1wNkxyaGVZLTctejVDZ05lemVISHdLX0htRTF0WGRPVVFFcmY4a3pkaFlhbGhoZXhUVmJ6NmVlOTh5QW41Rm9hVUVGTTlVSVRMak1YUVBZdWxaOFoyalZv?oc=5",
+      "source": "토픽트리",
+      "published": "2026-11-03T11:19:00+09:00",
+      "category": "자동차",
+      "description": "\"제네시스 신차 투입 막아선 노조\"... 현대차 울산공장 생산라인 또 멈췄다 토픽트리",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n003",
+      "related_articles": [
+        {
+          "title": "현대차 제네시스 생산라인 이틀째 가동 중단…신차 투입 놓고 노사 충돌 - PRESS9",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tY1RVRDI0UlVEVmRhZ1NGYVFQMWhYQmktWXZoMnIzblZfZjczVlhIQXpiMHlwNXR4WHFxNm1tbHpFRlFyYW82UnZvMllSYlBxVlNsQ0J4S3l3Sk50bUtHSEdCb24?oc=5",
+          "source": "PRESS9",
+          "published": "2026-11-03T15:06:07+09:00"
+        }
+      ],
+      "summary": "현대차 울산공장에서 제네시스 신차 투입을 둘러싼 노사 갈등으로 생산 라인이 이틀째 가동 중단되는 사태가 발생했다. 노조 측의 반발로 인해 신차 생산 준비 과정에 차질이 빚어지고 있다.",
+      "impact": "생산 라인 가동 중단은 단기적으로 부품 공급망 및 물류 흐름에 영향을 미칠 수 있으며, 신차 출시 일정 준수 여부가 관건이다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차 울산공장 내 신차 투입을 위한 생산 라인 조정 과정에서 노사 간 이견 발생.",
+        "key_points": [
+          "제네시스 신차 투입 관련 노사 갈등",
+          "울산공장 생산 라인 이틀째 가동 중단",
+          "생산 차질에 따른 공급망 영향 우려"
+        ],
+        "what_to_watch": "노사 협상 타결 시점 및 생산 라인 정상화 여부.",
+        "fact_check": "노조의 구체적인 반대 사유와 사측의 대응 방안 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "토픽트리와 PRESS9 모두 노사 갈등으로 인한 생산 중단을 보도하고 있으며, PRESS9은 이틀째 가동 중단이라는 구체적인 기간을 명시함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "697ef4463a7209f9",
+      "image_url": ""
+    },
+    {
+      "id": "aeebc54199c8a1",
+      "title": "[환율 전망] 환율 급등 배후, 외국인 환헤지가 업계의 정설 - KB Think",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EZXhLQ1BGOHdKdG8tR0h1SXVRWWJkLU55MHRQbjdmNU5KbW5Ld3EyV0lLOXB2R0RtbFdRZno5V1NZNmE4dVVUSkI0TGdzR2N0UElxdm9KeEtEbjZobF9ubA?oc=5",
+      "source": "KB Think",
+      "published": "2026-11-03T08:03:51+09:00",
+      "category": "경제·금융",
+      "description": "[환율 전망] 환율 급등 배후, 외국인 환헤지가 업계의 정설 KB Think",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n005",
+      "related_articles": [],
+      "summary": "최근 환율 급등의 주요 원인으로 외국인 투자자의 환헤지 수요가 지목되고 있다. 업계에서는 이를 환율 변동성을 키우는 핵심 요인으로 분석하고 있다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "최근 외환 시장의 변동성 확대와 외국인 자금 흐름에 대한 시장의 우려.",
+        "key_points": [
+          "환율 급등의 배후로 외국인 환헤지 지목",
+          "시장 내 지배적인 분석 의견",
+          "환율 변동성 확대에 따른 경제적 영향"
+        ],
+        "what_to_watch": "외환 당국의 시장 개입 여부 및 환율 추이.",
+        "fact_check": "환헤지 수요가 환율 급등의 유일한 원인은 아니며 복합적인 요인 고려 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "e523c7f08b73c173",
+      "image_url": ""
+    }
+  ]
+}
