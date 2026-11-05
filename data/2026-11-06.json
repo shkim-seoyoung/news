@@ -1,0 +1,174 @@
+{
+  "date": "2026-11-06",
+  "updated_at": "2026-11-06T07:34:35.731826+09:00",
+  "article_count": 5,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "8398e9d2fd45b2",
+      "title": "현대차, 인도네시아 공장 가동률 50%…7인승 EV 2종으로 반전 꾀한다 - 한국신용신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IZHhsOVhyXzFESi1aVHVScWt6M2ExTnV6Tzhpa19kRXliME9Qa3lfSlg0Sm12aWJKR2FuaU8ybW1NS1lnT2hlZlp1amg2bS0xamRTVzhUT1A2dHA2TWhRNUUzNW05cVNUNUdZ?oc=5",
+      "source": "한국신용신문",
+      "published": "2026-11-05T20:51:00+09:00",
+      "category": "자동차",
+      "description": "현대차, 인도네시아 공장 가동률 50%…7인승 EV 2종으로 반전 꾀한다 한국신용신문",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "summary": "현대차 인도네시아 공장의 가동률이 50% 수준에 머물고 있는 가운데, 7인승 전기차 2종을 투입해 가동률 회복과 시장 점유율 확대를 꾀하고 있다. 현지 수요에 맞춘 전략 차종 투입을 통해 생산 효율성을 제고하려는 전략이다.",
+      "impact": "인도네시아 생산 거점의 가동률 변화는 향후 CKD 부품 공급 물량 및 현지 조달 비중 조정에 영향을 줄 수 있는 요소로, 현지 생산 차종 확대에 따른 부품 공급망 변화를 모니터링할 필요가 있음.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차 인도네시아 공장은 동남아 시장 공략의 핵심 거점이나, 현재 가동률이 기대에 미치지 못하는 상황임.",
+        "key_points": [
+          "인도네시아 공장 가동률 50% 수준 기록",
+          "7인승 전기차 2종 투입을 통한 가동률 반전 추진"
+        ],
+        "what_to_watch": "신규 투입되는 7인승 전기차의 현지 시장 반응 및 실제 공장 가동률 개선 여부.",
+        "fact_check": "인도네시아 공장 가동률 및 신규 투입 차종에 대한 공식 발표 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "13a658caea987e4a",
+      "image_url": ""
+    },
+    {
+      "id": "cf033a4e4e9b21",
+      "title": "Even if Congress flips, the ‘15% tariff’ cannot be broken… Is the ‘real bill’ for K-automakers headed to domestic plants? - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zSTd3UGNBRlJuS0h1VGV4YjhISnI5emRLNjdZR2NjQ2c3N2k0c3o5ekoxaExjUS1wVHFsWmNHcWVqOWdra1dRbEpkOU13UnZodFNHQUUwa3g1dnNjRHc?oc=5",
+      "source": "경향신문",
+      "published": "2026-11-05T17:00:00+09:00",
+      "category": "전동화",
+      "description": "Even if Congress flips, the ‘15% tariff’ cannot be broken… Is the ‘real bill’ for K-automakers headed to domestic plants? 경향신문",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "summary": "미국 의회 구성 변화와 관계없이 15% 관세 장벽이 유지될 가능성이 제기되면서, 국내 자동차 업계의 대미 수출 전략에 비상이 걸렸다. 관세 부담이 현실화될 경우 국내 생산 물량의 가격 경쟁력 약화가 우려된다.",
+      "impact": "미국의 관세 정책 변화는 글로벌 공급망 재편 및 국내 생산 물량의 수출 채산성에 직접적인 영향을 미칠 수 있는 산업 동향임.",
+      "importance": "높음",
+      "detail": {
+        "background": "미국 내 보호무역주의 강화 기조에 따라 자동차 관세 인상 가능성이 지속적으로 거론됨.",
+        "key_points": [
+          "15% 관세 장벽 유지 가능성 제기",
+          "국내 생산 자동차의 대미 수출 경쟁력 약화 우려"
+        ],
+        "what_to_watch": "미국 차기 행정부의 실제 관세 정책 확정 및 국내 자동차 업계의 대응 전략.",
+        "fact_check": "관세 관련 법안의 구체적인 내용 및 적용 범위 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "5f7eb12f641261fe",
+      "image_url": ""
+    },
+    {
+      "id": "f50f064f918eaf",
+      "title": "디와이에이, 인도 자동차 부품사 NDR과 현지 합작법인 설립 추진 - 더스탁(The Stock)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfVE5wZW9WRUN0cWxtMldUWERKN1hhMnFQTV9MZnQ1UkVFd2dvT0UtQ3ZHZDhuYVVTb1NNaWZOTHlESVpDN0NfUlIyUE9CT0tHYTdWTk1qU0M4aThyTGNOSzJVNkJhX3JmUEE?oc=5",
+      "source": "더스탁(The Stock)",
+      "published": "2026-11-05T15:02:10+09:00",
+      "category": "자동차",
+      "description": "디와이에이, 인도 자동차 부품사 NDR과 현지 합작법인 설립 추진 더스탁(The Stock)",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n003",
+      "related_articles": [],
+      "summary": "자동차 부품사 디와이에이가 인도 현지 업체인 NDR과 합작법인 설립을 추진하며 인도 시장 진출을 본격화한다. 이번 협력을 통해 현지 생산 거점을 확보하고 인도 자동차 시장 내 부품 공급망을 강화할 계획이다.",
+      "impact": "인도 자동차 시장의 성장과 함께 국내 부품사들의 현지 진출이 가속화되고 있으며, 이는 향후 인도 내 부품 공급망 생태계 변화를 시사함.",
+      "importance": "보통",
+      "detail": {
+        "background": "인도 자동차 시장의 급성장에 따라 국내 부품사들의 현지화 전략이 활발히 전개되고 있음.",
+        "key_points": [
+          "디와이에이-NDR 인도 현지 합작법인 설립 추진",
+          "인도 시장 내 부품 공급망 확대 전략"
+        ],
+        "what_to_watch": "합작법인 설립의 구체적인 일정 및 생산 품목, 현지 공급망 구축 성과.",
+        "fact_check": "합작법인 설립 계약 체결 여부 및 구체적인 투자 규모 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "668d085f1f4a433a",
+      "image_url": ""
+    },
+    {
+      "id": "6f9403d52d7a63",
+      "title": "현대글로비스, 방글라데시와 자동차 공급망·스마트 물류 사업 실무팀 구성 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kcEVBem13SkpZS1BSZzJZdlRUQXc0LUE1eEJrUnRlbmxXZGk4Y3JWdVExcVl3Q3puaVZCclNhWDViZzJMMElUQThaNF9sd1hnMVJxMDJNRmUzV3R0eXU2Yw?oc=5",
+      "source": "더구루",
+      "published": "2026-11-05T11:09:49+09:00",
+      "category": "CKD·물류",
+      "description": "현대글로비스, 방글라데시와 자동차 공급망·스마트 물류 사업 실무팀 구성 더구루",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n005",
+      "related_articles": [],
+      "summary": "현대글로비스가 방글라데시 정부와 자동차 공급망 및 스마트 물류 사업 협력을 위한 실무팀을 구성했다. 양측은 현지 물류 인프라 현대화와 자동차 산업 생태계 구축을 위한 구체적인 방안을 논의할 예정이다.",
+      "impact": "방글라데시 내 자동차 물류 거점 확보 및 공급망 최적화 가능성을 시사하며, 향후 CKD 물류 및 현지 부품 공급망 진출 기회로 작용할 수 있음.",
+      "importance": "보통",
+      "detail": {
+        "background": "방글라데시는 최근 자동차 산업 육성을 위해 물류 효율화와 공급망 개선을 추진 중임.",
+        "key_points": [
+          "현대글로비스-방글라데시 정부 간 실무팀 구성",
+          "자동차 공급망 및 스마트 물류 협력 추진",
+          "현지 물류 인프라 현대화 논의"
+        ],
+        "what_to_watch": "실무팀 논의를 통해 구체적인 물류 사업 모델이나 현지 투자 계획이 도출되는지 확인 필요.",
+        "fact_check": "현대글로비스의 방글라데시 진출 의지 및 실무팀 구성 사실 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a7ee0cccb76d8afa",
+      "image_url": ""
+    },
+    {
+      "id": "da8ce0dcbcf7e5",
+      "title": "태국, 수입 전기차 소비세 10→35% 인상 … 현대차·기아 현지 전략 시험대 - 뉴데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnJoa0RTazgxeThoRkpRbTdKRkJWVDJSckRHQjl4ZS04SU81WFkwc1ZMT2xhSHNCT3RucVZmSGwtdk1VajktSjkydGtVZk4zeVNwS3ZNdkpiRDZ2S0NYWVc1a3ZZcjNwVG52YURNbGRlNTdmSEd6RHQxWVpnVnlYNtIBgAFBVV95cUxNNnJoa0RTazgxeThoRkpRbTdKRkJWVDJSckRHQjl4ZS04SU81WFkwc1ZMT2xhSHNCT3RucVZmSGwtdk1VajktSjkydGtVZk4zeVNwS3ZNdkpiRDZ2S0NYWVc1a3ZZcjNwVG52YURNbGRlNTdmSEd6RHQxWVpnVnlYNg?oc=5",
+      "source": "뉴데일리",
+      "published": "2026-11-05T11:01:00+09:00",
+      "category": "CKD·물류",
+      "description": "태국, 수입 전기차 소비세 10→35% 인상 … 현대차·기아 현지 전략 시험대 뉴데일리",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n006",
+      "related_articles": [],
+      "summary": "태국 정부가 수입 전기차에 대한 소비세를 기존 10%에서 35%로 대폭 인상했다. 이번 조치로 태국 시장 내 가격 경쟁력이 약화된 현대차와 기아의 현지 판매 및 생산 전략 수정이 불가피해졌다.",
+      "impact": "동남아 전기차 시장의 관세 장벽 강화로 인해 완성차 수출 중심 전략에서 현지 생산(CKD 포함) 전환 필요성이 커짐.",
+      "importance": "높음",
+      "detail": {
+        "background": "태국은 동남아 최대 자동차 생산국으로, 자국 내 전기차 생산 유도를 위해 수입차 규제를 강화하는 추세임.",
+        "key_points": [
+          "태국 수입 전기차 소비세 10%에서 35%로 인상",
+          "현대차·기아의 가격 경쟁력 하락 우려",
+          "현지 전략 재검토 필요성 대두"
+        ],
+        "what_to_watch": "현대차·기아의 태국 내 대응 전략(현지 생산 검토 여부 등) 및 판매량 변화.",
+        "fact_check": "태국 정부의 전기차 소비세 인상 정책 내용 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "02b9355d2bdd435a",
+      "image_url": ""
+    }
+  ]
+}
