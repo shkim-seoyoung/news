@@ -1,0 +1,204 @@
+{
+  "date": "2026-11-10",
+  "updated_at": "2026-11-10T07:33:31.647231+09:00",
+  "article_count": 5,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "b99436c5f6e3bd",
+      "title": "인도, 현대차·벤츠 주목받는 자동차 수출 허브로 부상 : 기업·산업 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0wVjEtYTl1ZUVOMVJYWkJxcE4wYVlqbUNhQjVDLVdnWVBQMk5KS3E0MDluZ3N1cHl5MnJHR0stS09mSU9VYUpMMEZZQQ?oc=5",
+      "source": "재경일보",
+      "published": "2026-11-10T07:12:00+09:00",
+      "category": "자동차",
+      "description": "인도, 현대차·벤츠 주목받는 자동차 수출 허브로 부상 : 기업·산업 재경일보",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [
+        {
+          "title": "인도, 글로벌 자동차 수출 허브 부상…현대차 이어 벤츠도 주목 - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKSGJpSGVGMzAzeHZMRmdrWmk4ZTZ0V3lQQ1l1dzdUUkNnOWpqc3BndEN1VkY0WTVLdVhjajFsc1lvS1pKcGszaTVsNGxXVEJXVExfNkdUZURtSm_SAWBBVV95cUxNak9FUTJrS3ROZVlQcmIzWWxTZWx6ZlU5Rmk1bEFBcVJKZVdoaWJ4R2xHN0tNaGI2cmVmdjlyTjVQTDd5UFBXMnA1V3NlbUJQQllRVmtzUUFNaGFBY1ZRUHc?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-11-10T06:15:01+09:00"
+        }
+      ],
+      "summary": "인도가 현대차와 벤츠 등 글로벌 완성차 업체의 주요 수출 허브로 부상하고 있습니다. 현지 생산 거점을 활용한 수출 확대 전략이 강화되면서 인도의 자동차 산업 내 위상이 높아지고 있습니다.",
+      "impact": "인도 내 생산 거점의 수출 허브화는 CKD 물류 및 현지 부품 공급망의 중요성을 시사합니다. 향후 인도발 수출 물량 증가에 따른 물류 최적화 및 공급망 대응 전략 점검이 필요합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "인도 정부의 제조 육성 정책과 글로벌 기업들의 생산 다변화 전략이 맞물려 인도 시장의 전략적 가치가 상승 중입니다.",
+        "key_points": [
+          "현대차 및 벤츠의 인도 생산 거점 활용 확대",
+          "인도의 글로벌 자동차 수출 허브로서의 위상 강화"
+        ],
+        "what_to_watch": "인도 생산 차량의 수출 대상국 확대 및 현지 부품 조달 비중 변화",
+        "fact_check": "인도 내 현대차와 벤츠의 구체적인 수출 물량 및 생산 계획 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "재경일보와 연합뉴스 모두 인도의 수출 허브 부상을 다루고 있으며, 현대차와 벤츠를 주요 사례로 언급하는 등 내용상 차이가 없습니다.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "b2e548954aeb74fe",
+      "image_url": ""
+    },
+    {
+      "id": "8dc4041ee7b28a",
+      "title": "전기차 실내 재설계와 경량화 규제가 이끄는 자동차 내장 플라스틱 부품 시장 2035년 전망 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVW9vbzR4SWZLSXRlaDdrSlVLRi1pckdZdkNlUk1xN3N3X3NITG5vVVhhXzU4dnNBR2xmU1hSNFUweXVDSHM4MXFHM2cxQlJYM3NPMWdCVl9rdjBSV0VmcFdBYW9pa25qc0lYM0xGMkVSZXo2eW1GSFRTT2RvanoxamRTZ0pfUVdIV09MWlBQa3FMaXlCa3lhNXFqOUxGUmhhdXNkOVZrY1RXZ2p0Y0NEZXQ5UFJCWFBrWUZ1ZVFkdUVXYXNMemZHeDFyOGI0MDhHUGFjeEdqOG03bHZDY3diR25Xb1FrYk1lM2tuSFhIV0wtYUE?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-09T22:31:04+09:00",
+      "category": "자동차",
+      "description": "전기차 실내 재설계와 경량화 규제가 이끄는 자동차 내장 플라스틱 부품 시장 2035년 전망 IndexBox",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n003",
+      "related_articles": [],
+      "summary": "전기차 실내 재설계와 경량화 규제가 자동차 내장 플라스틱 부품 시장의 성장을 견인하고 있습니다. 2035년까지 해당 시장의 변화와 전망이 제시되었습니다.",
+      "impact": "전기차 경량화 요구에 따른 내장재 소재 변화는 부품 공급망의 기술적 요구사항을 변화시킬 수 있습니다. 향후 경량화 소재 적용 확대에 따른 부품 포장 및 물류 효율성 검토가 필요합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "전기차의 주행거리 연장을 위한 경량화와 실내 공간 활용성 증대가 내장재 시장의 핵심 동인입니다.",
+        "key_points": [
+          "전기차 실내 재설계 트렌드",
+          "경량화 규제에 따른 플라스틱 부품 수요 변화",
+          "2035년까지의 시장 전망"
+        ],
+        "what_to_watch": "경량화 소재 기술 발전 및 관련 규제 강화 추이",
+        "fact_check": "IndexBox의 시장 전망 보고서 근거 확인"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "51b8a62e20de3645",
+      "image_url": ""
+    },
+    {
+      "id": "1d21ac79ce3bd8",
+      "title": "‘Ocean freight rates will come down eventually, we have seen this before’: DP World COO - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdjRManFpcy1kQXhURV9HYncwTl9nbWJKWHZfZEw3eE1WS1Vvb3lGV3I5d1k0VHNSc0REM0VkbWN3dUotMk56SnR0OTRhT043a25TdHQ0Y0ZYQ1dzbHR6bi1jR0ZoU0VpVnV5X281OWRJQjZ6WXo3azhUS1QtN28wa1Zsb2pVS3Boa3BEcFJTeFpfRklleFBYdDZzR0VLb28yS0pZQU1YOFl2YjN0TkxiZjBNVDRjMDZOZTEyZzUwSUhhRkdCbTJxX0gxTlFQZFUxaGZkd0swWG9qTDczcS1hdVprdi1vQmwteW9taFB6Sl9SMGVXcmtv0gH8AUFVX3lxTE5GQ2NQcVBrQm8xaHpoMFFVeWpsM0hFaS1kcERnLWtRazZMaHUzVG9OS1A2cUNXekNDekpaNUVNS0dEclQ1S3AxVEltU2hQSmQtMUdVaTRzcWgtYzBOeWZEaVhpY0JsSGpDbFkzQ3Q3Yk5aamZXQzN2d29LMUhQNVpseENmcXFGcTNibjg3Z1p3NVRxSHV1STZ0QU4xdUk1NVFyZFhKX005bWR0d0RWUTFSajZXbEU4ZzFUOVZHaTFfOFZTVkhPYng1NXk5NUYtLWtCREJXTjV4dmxLbjJBSlZMc2NyX1FqdzMzR1NvazcydjlVVE9yM0JhSjRNeA?oc=5",
+      "source": "The Economic Times",
+      "published": "2026-11-09T20:20:38+09:00",
+      "category": "CKD·물류",
+      "description": "‘Ocean freight rates will come down eventually, we have seen this before’: DP World COO The Economic Times",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n004",
+      "related_articles": [
+        {
+          "title": "Shipping cost crunch persists - KLSE Screener",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeWh6Mk1EWWdNVGJSSTlDSlEzYkF2SzRBQS1zNm9NOUN3aGdKejN0b000TlFieFFxT2N1NWFZd2JWSmtmY19XLUZ1amsxOXIxZ0NsSU1vLXp0OFF4ZzNHSWJSLVVMb2xzVHhteXI5NU1DaG9yRW9CLTctdm5HV2pjNm5VbDh3Zw?oc=5",
+          "source": "KLSE Screener",
+          "published": "2026-11-09T15:00:00+09:00"
+        }
+      ],
+      "summary": "DP World COO는 해상 운임이 결국 하락할 것이라는 전망을 내놓았으나, 시장에서는 여전히 운송 비용 부담이 지속되고 있다는 분석이 공존합니다. 글로벌 물류 비용의 변동성이 여전히 높은 상황입니다.",
+      "impact": "해상 운임의 변동성은 CKD 수출 물류비에 직접적인 영향을 미칩니다. 운임 추이를 모니터링하여 물류비 절감 방안 및 항로 운영 효율화를 지속적으로 검토해야 합니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "글로벌 공급망 불안과 해상 운임의 등락이 반복되면서 물류 비용 관리가 기업의 주요 과제로 부상했습니다.",
+        "key_points": [
+          "해상 운임 하락 가능성에 대한 업계 전망",
+          "현재 지속되는 운송 비용 부담",
+          "글로벌 물류 시장의 불확실성"
+        ],
+        "what_to_watch": "주요 항로별 운임 지수 변화 및 물류 공급망 안정화 시점",
+        "fact_check": "DP World COO 발언의 구체적 맥락 확인"
+      },
+      "new_information": "",
+      "source_comparison": "DP World는 낙관적인 장기 전망을 제시한 반면, KLSE Screener는 현재의 비용 압박이 지속되고 있음을 강조하여 시각 차이를 보입니다.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "5c41c49227b986a5",
+      "image_url": ""
+    },
+    {
+      "id": "30090ed3c93a7c",
+      "title": "현대차, 인도 판매 16.7% 늘었는데 이익은 뒷걸음 - 자본시장뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKLUJhRU40QXZWcmExcVlja1FuWnNCWlJrYjdMd252VW5GUjF3Z3lHQXljRzFHMlVFaGtNR2E3Z3hTaW5tTnotMjBzTWRsVkxiV0hjSjV0cDY5bmQ5ZWREVHg5b2E2VUE?oc=5",
+      "source": "자본시장뉴스",
+      "published": "2026-11-09T18:00:00+09:00",
+      "category": "자동차",
+      "description": "현대차, 인도 판매 16.7% 늘었는데 이익은 뒷걸음 자본시장뉴스",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n005",
+      "related_articles": [
+        {
+          "title": "인도서 판매 신기록 쓴 현대차·기아…“내년 현지화 전략에 성패 달렸다” - 한양경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUzBCa3ZLcFJUc2N3VmtpRWJBSnJkN0VnWWNwZ1BBdjVmcUQ2b3VRNjBlMnpIU2pBWHRpLVRwYktNbXFBVTBRbnlqcnVoYjhmWFc2bzlSSlhtZjI1aWZqOGJmZVdBUXJ3cTBlLTAxWV96QQ?oc=5",
+          "source": "한양경제",
+          "published": "2026-11-09T17:28:10+09:00"
+        },
+        {
+          "title": "현대차·기아 판매 희비…국산 전기차 점유율 50% 붕괴 [주간 CAR톡] - 조세일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OODdTbldMdmtrV1dNN0NwcFowUWFYUE9LVVR2d1k1YnJnVzJyb0JnQTZZVlZ5bFoteF9sdVhoNGxUZnZzTUR6S01jNnNDVnYyaXF0ZmNNaEJtY19RN29uU1dfWVN3bEJCVnZad3ZjUQ?oc=5",
+          "source": "조세일보",
+          "published": "2026-11-09T13:51:13+09:00"
+        }
+      ],
+      "summary": "현대차의 인도 판매량이 전년 대비 16.7% 증가했음에도 불구하고 이익은 감소하는 현상이 나타났습니다. 향후 인도 시장에서의 성패는 현지화 전략에 달려 있다는 분석이 제기되었습니다.",
+      "impact": "판매량 증가와 이익 감소의 괴리는 현지 생산 비용 및 마케팅 비용 증가를 시사합니다. 인도 시장의 수익성 개선을 위한 CKD 부품 현지화율 제고 및 물류 효율화가 중요합니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "인도 시장은 현대차·기아의 핵심 성장 동력이지만, 치열한 경쟁과 비용 구조 변화로 인해 수익성 확보가 과제로 떠올랐습니다.",
+        "key_points": [
+          "인도 판매량 16.7% 증가",
+          "판매량 대비 이익 감소 현상",
+          "현지화 전략의 중요성 대두"
+        ],
+        "what_to_watch": "현대차 인도 법인의 수익성 개선 대책 및 현지화율 변화",
+        "fact_check": "판매량 증가율 및 이익 감소폭에 대한 재무적 근거 확인"
+      },
+      "new_information": "",
+      "source_comparison": "판매량 증가와 이익 감소라는 현상을 공통적으로 지적하며, 향후 현지화 전략의 중요성을 강조하고 있습니다.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "81c158d7f5fbf1ce",
+      "image_url": ""
+    },
+    {
+      "id": "1c862f0766e1ee",
+      "title": "기아, 인도에 2조원 '베팅'…현지 공장 생산능력 '30만→50만대' 확대 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VbjFETVFtTVB6Nm0xWU1JcG0yLVZJX2F6eUQzdlVFd1BtcHFKaGhWUmNqWWJvQWJJeGxQeW1HbDRrRnYyR2RQelFTbkYyem9zRWJzRUNRZ1hYZHF6TWhUWHRBNA?oc=5",
+      "source": "더구루",
+      "published": "2026-11-09T15:08:55+09:00",
+      "category": "자동차",
+      "description": "기아, 인도에 2조원 '베팅'…현지 공장 생산능력 '30만→50만대' 확대 더구루",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n006",
+      "related_articles": [],
+      "summary": "기아가 인도 현지 공장의 생산 능력을 기존 30만 대에서 50만 대로 확대하기 위해 2조 원 규모의 투자를 단행합니다. 이번 투자는 인도 시장 내 점유율 확대와 생산 거점 강화를 위한 전략적 결정으로 풀이됩니다.",
+      "impact": "인도 현지 생산 능력 확대는 향후 CKD 부품 공급 물량 및 물류 수요 변화에 영향을 줄 수 있으므로, 현지화율 정책과 연계된 부품 공급망 전략 점검이 필요합니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "인도 자동차 시장의 급성장에 대응하기 위한 기아의 생산 거점 확장 전략입니다.",
+        "key_points": [
+          "인도 공장 생산 능력 30만 대에서 50만 대로 확대",
+          "총 2조 원 규모의 대규모 투자 결정"
+        ],
+        "what_to_watch": "투자 집행 시기 및 구체적인 생산 라인 증설 일정, 현지 부품 공급망 변화.",
+        "fact_check": "기아의 인도 공장 생산 능력 확대 계획 및 투자 규모 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "7b75742ecb0f20eb",
+      "image_url": ""
+    }
+  ]
+}
