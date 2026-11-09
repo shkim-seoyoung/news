@@ -143,7 +143,7 @@
       "description": "15% Tariff on South Korean Autos to Remain; Hyundai Motor Plans Production Expansion : Industry : JKN 재경일보",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n001",
+      "event_cluster": "batch0-n004",
       "related_articles": [],
       "summary": "한국산 자동차에 대한 15% 관세가 유지될 전망인 가운데, 현대자동차가 인도 시장 내 생산 확대를 계획하고 있다. 이는 글로벌 시장의 보호무역주의 기조 속에서 현지 생산 거점을 강화하려는 전략으로 풀이된다.",
       "impact": "인도 내 생산 확대는 현대차의 글로벌 공급망 전략 변화를 의미하며, 향후 현지 부품 조달 및 CKD 물량 흐름에 영향을 줄 수 있어 모니터링이 필요하다.",
@@ -285,7 +285,7 @@
       "description": "테슬라 국내 판매차량 중국산 재편 가능성 스페셜경제",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n002",
+      "event_cluster": "batch0-n005",
       "related_articles": [],
       "summary": "테슬라가 국내 판매 차량의 생산지를 중국산으로 재편할 가능성이 제기되고 있다. 이는 원가 절감 및 공급망 효율화를 위한 전략적 선택으로 분석된다.",
       "impact": "테슬라의 생산지 변경은 국내 전기차 시장의 가격 경쟁 구도에 영향을 미칠 수 있으며, 수입 전기차의 공급망 다변화 사례로 주목된다.",
@@ -357,7 +357,7 @@
       "description": "증시 급락에 한은 금리 인상 셈법 복잡…추가 긴축 부담 가중 아주경제",
       "priority_markets": [],
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n003",
+      "event_cluster": "batch0-n006",
       "related_articles": [],
       "summary": "최근 증시 급락으로 인해 한국은행의 금리 인상 결정에 대한 부담이 가중되고 있다. 경기 침체 우려와 긴축 정책 사이에서 통화 정책의 셈법이 복잡해진 상황이다.",
       "impact": "",
@@ -1000,6 +1000,397 @@
       "published": "2026-11-07T07:34:12+09:00",
       "category": "경제·금융",
       "description": "\"韓증시 바닥쳤나\"…코어위브·엔비디아 등 빅 이벤트 '주목' KB Think",
+      "priority_markets": []
+    },
+    {
+      "id": "f40f9a85b2e71d",
+      "title": "[경제pick] 5대 은행 가계대출 2.8조 증가···한은, 주택시장 예의주시 - 글로벌E",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GNnozczJ4dHpjWlRiT1c1T2RTRElRTDEyWnlubGtDOTZjV1pHanVrMmxxeWRFQno5a2NwLVZRekhJZnY0OW1NZXoxU2lLVTR2Sjl0ZGpvMFRYX1FuTGdaUllGUjFzdUNJcXJ30gFvQVVfeXFMTzhsNE5XWFh4TXFBdFJYaUtyXzV0MWljNXhqSmZiNlhLdTFrWEpSNEItOXNRNTlxdW1QbVRMTDV4Y2ZaeFdDMy0xTUdiYmFUejNpeUJxOW1BazJGYXVOYnhFdFc2MkcwY21MVnJtV3RJ?oc=5",
+      "source": "글로벌E",
+      "published": "2026-11-09T11:47:46+09:00",
+      "category": "경제·금융",
+      "description": "[경제pick] 5대 은행 가계대출 2.8조 증가···한은, 주택시장 예의주시 글로벌E",
+      "priority_markets": []
+    },
+    {
+      "id": "165f141aaf2350",
+      "title": "나경원 \"태권도, 유네스코 '北 단독 등재' 위기… 망신 넘어 외교참사\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83UXlOMWU1eGtyLWxKU0Z6R2Q4aXhST044VUtiQk5XcUJReVRmTkVxWG1kNmoyV2RVSTB4UWxJZWIzdnNKWEtwZHVaQ19xbFd6OGk2dXozcDVXclhpVVZXYlZibVZLZ2R5VGxZWE1B0gFzQVVfeXFMUHBlOWo1M2lIb1dHV2dxRDM3UHd1dTFkOVdTdkpuOERQY0h6OVhLVzRna3MtU0c4SUlGVVBibWJuV3JkYi04bEYyS1JHVUl0czdodFhmMHlLa1hWTUVQRWJlcWZGbVR6VlVXOFVDUEhEWkVzSQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-09T11:31:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "나경원 \"태권도, 유네스코 '北 단독 등재' 위기… 망신 넘어 외교참사\" 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "cf10b6a2b9b3fa",
+      "title": "김강헌 의원 \"정책 믿고 작목 바꾼 농가 피해 막아야\" - 남도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KNU0xMlpkbU1lYklZUXRMcVhVREN6X2VpQ0FBcE5aQnVodFAzM2t5MXlfRnpoUmJucUpXc2p0czY0M1g0S2xscWZ2MF9nbjB2eF8xWUR5clI0dElWRThzcm56VGU4TUJjelZ1YtIBcEFVX3lxTFBBVHNkb2lvT2JORzI5LTRGcHVTc2RZSFloU2JnTlEyTHNaRXRaamx1cmxublRxMXFuWl83aWVkNE9xanRNRXhKY2Q4M3NpWmpYWmN3WjluOVNnOVc4a1Uycm9pM2l4YmZVQkRQUFB6MmY?oc=5",
+      "source": "남도일보",
+      "published": "2026-11-09T11:30:00+09:00",
+      "category": "정치·정책",
+      "description": "김강헌 의원 \"정책 믿고 작목 바꾼 농가 피해 막아야\" 남도일보",
+      "priority_markets": []
+    },
+    {
+      "id": "4ec577106d2d78",
+      "title": "[COP31] 정상들이 안보인다…기후위기보다 위태로운 기후정치 - ESG경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CWV92c19SNkNzdC1icl9UUGRqYU1JczhvWUJYQmVGSUJsLW4teEtmTVFmd1UwM1l4VmZDN2tPNU5VdmRIQUVNbGlLeDByQ0ppaGdkSWRvbGNiSWc1b1E4V3N4VmR1cWJlbWduMw?oc=5",
+      "source": "ESG경제",
+      "published": "2026-11-09T11:17:52+09:00",
+      "category": "정치·정책",
+      "description": "[COP31] 정상들이 안보인다…기후위기보다 위태로운 기후정치 ESG경제",
+      "priority_markets": []
+    },
+    {
+      "id": "23a4bbdcbe6974",
+      "title": "현대차그룹, WHE 2026 전시 성료... 현대모비스, 청소년 공학 리더 페스티벌 개최 외[시경Today-자동차] - 시장경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EeDctMzVHUE9CUzZEaFNEWV9GTmttdTRtbm1LcDBBOVFCVXBmcGkzdDIwQkpUb1pHZlNyUk82RUd0MG5weE5GM0JFbmo4MXVuQzRIWWkyNTdDNlRQd1JhTFBPQXU5QlpmSF9BaXk4UmU?oc=5",
+      "source": "시장경제신문",
+      "published": "2026-11-09T11:13:10+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, WHE 2026 전시 성료... 현대모비스, 청소년 공학 리더 페스티벌 개최 외[시경Today-자동차] 시장경제신문",
+      "priority_markets": []
+    },
+    {
+      "id": "a685551245bfa5",
+      "title": "[정치pick] 증시 급락에 민주당·정부 긴급 간담회···불공정 거래 대응 촉구 - 글로벌E",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VX0d3cy1DeEVQUnJTM282cndwZWpkaUg1OWlyZ2QtaGYtZ2Z2aFdjemZ6UmZoTXpxNzVCbjNtTjcybnhXR0lvWFE3aEM5OXBFUmhIcExoa0dPb0w0MTEzTDdQdVV2RUVFYVA3V09rY9IBb0FVX3lxTE1VX0d3cy1DeEVQUnJTM282cndwZWpkaUg1OWlyZ2QtaGYtZ2Z2aFdjemZ6UmZoTXpxNzVCbjNtTjcybnhXR0lvWFE3aEM5OXBFUmhIcExoa0dPb0w0MTEzTDdQdVV2RUVFYVA3V09rYw?oc=5",
+      "source": "글로벌E",
+      "published": "2026-11-09T11:10:01+09:00",
+      "category": "정치·정책",
+      "description": "[정치pick] 증시 급락에 민주당·정부 긴급 간담회···불공정 거래 대응 촉구 글로벌E",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "summary": "최근 증시 급락 사태와 관련해 더불어민주당과 정부가 긴급 간담회를 열고 시장 안정화 방안을 논의했습니다. 정치권은 불공정 거래 행위에 대한 엄정한 대응과 시장 감시 강화를 촉구했습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "국내외 증시의 급격한 하락세로 인해 투자자 불안이 가중되자 정치권과 정부가 대응책 마련에 나섰습니다.",
+        "key_points": [
+          "민주당과 정부의 긴급 시장 점검 간담회 개최",
+          "불공정 거래 행위에 대한 강력한 대응 촉구",
+          "시장 안정화를 위한 정책적 협력 논의"
+        ],
+        "what_to_watch": "정부의 구체적인 시장 안정화 조치 발표 여부 및 증시 변동성 지속 여부.",
+        "fact_check": "정치권의 요구 사항이 실제 금융 당국의 정책으로 이어지는지 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "44b6888538d8e11d",
+      "image_url": ""
+    },
+    {
+      "id": "279140c3f91f50",
+      "title": "증시 급락 속 금리전망 설왕설래...'피벗 시기상조론'부터 '반도체 급락효과론'까지 - 파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ibWtNSThKY3ZUNTVWRTRKeG1IdHYwVjdRdmF1Q3dTdVl6V0tzSkJNTWduTEtXODc5Q1liS2l4Y040ejNGZVRCSlV6OWRNSWtBSUtLZU02bGc0cFJsb0hSSzM5UTNuZHMyanFBLV9qUnNjcmFJ?oc=5",
+      "source": "파이낸셜포스트",
+      "published": "2026-11-09T11:08:18+09:00",
+      "category": "경제·금융",
+      "description": "증시 급락 속 금리전망 설왕설래...'피벗 시기상조론'부터 '반도체 급락효과론'까지 파이낸셜포스트",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "summary": "증시 급락의 원인을 두고 금리 인하 시점에 대한 시장의 해석이 엇갈리고 있습니다. 일각에서는 피벗(통화정책 전환) 시기상조론을 제기하는 한편, 반도체 섹터의 급락이 시장 전반에 미친 영향에 주목하고 있습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "글로벌 경기 침체 우려와 반도체 업황에 대한 불확실성이 증시 하락의 주요 요인으로 지목되고 있습니다.",
+        "key_points": [
+          "금리 인하 시점에 대한 시장 내 이견 발생",
+          "반도체 섹터 급락이 증시 전반에 미치는 파급 효과 분석",
+          "통화 정책 방향성에 대한 불확실성 증대"
+        ],
+        "what_to_watch": "향후 발표될 주요 경제 지표와 중앙은행의 통화 정책 기조 변화.",
+        "fact_check": "시장 전문가들의 다양한 분석이 실제 경제 데이터와 어떻게 부합하는지 모니터링."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "ca56cc3e55d894a5",
+      "image_url": ""
+    },
+    {
+      "id": "66b13f9e0ef658",
+      "title": "인하대 정책대학원, 2027학년도 1학기 신입생 모집 - 더뉴스코리아",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ycEc5ZzdoaThJdmFWS2JLRzJUOWZ4XzVVb2hKLU9XVjFJejlsd2RxSE1GTTgwSVJDcGJjdXFVRFdISC1kNjFqRXBR?oc=5",
+      "source": "더뉴스코리아",
+      "published": "2026-11-09T10:54:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "인하대 정책대학원, 2027학년도 1학기 신입생 모집 더뉴스코리아",
+      "priority_markets": []
+    },
+    {
+      "id": "de64cb6958f637",
+      "title": "대전 전 연인 살해 사건 피의자…43세 권종필 신상 공개 - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hc20wMGRHOUN5TF9PLUNYZjE0S3poRmlLcFhNZDVvRnpQQTV1M2d6T0h6Mzhmc0txUldGUUdLdldFQmxZMGRGam80Q2pseXg4b3gzWGs5Rk1IaWFTOWFmR0FyazJKbTg4RVpJ?oc=5",
+      "source": "서울뉴스통신",
+      "published": "2026-11-09T10:47:21+09:00",
+      "category": "국내 주요 사건",
+      "description": "대전 전 연인 살해 사건 피의자…43세 권종필 신상 공개 서울뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "30d79434697939",
+      "title": "파주소방서 의용소방대, 거제소방서 방문해 재난대응 경험 공유 - 내외뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10SHA1ZklDX2t3RWwtSGZ6RHhfYjVIZUJiaU5TY0k5SEZVWHNpaC1VUGN0SW9zMWdTZ3laUTN3RktfVFNwczJKWjF4N2d0NFdOOXNBTHU1Y3BTN0s3X2ZDOW5CYnc1djFBUnRJTXdR0gFwQVVfeXFMTkRubXFEZ3VyYUdZMVEzMEpTdFhTVXgxTmVwLWRlLXI3ZEkxZnBzU3dNWFJjNVFMX0xLZUtGbkFibTY4ZjRiN1FUazItZjRvbjJpdGh0T3k5NTJ3dGpDajV2cDBvWFFYRmxYNnNSRXRVMg?oc=5",
+      "source": "내외뉴스통신",
+      "published": "2026-11-09T10:43:23+09:00",
+      "category": "국내 주요 사건",
+      "description": "파주소방서 의용소방대, 거제소방서 방문해 재난대응 경험 공유 내외뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "a8dde7255650ed",
+      "title": "'줄기세포 논문 조작' 황우석 박사, UAE 국적 취득… 韓 국적 상실 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSaUNzdmJOaEQzTlhZRUE1SEF5dlZDZXE1aGc2SVVteEtCY01JUlJOUUY1aExjUUJvVDVCaE9YT1NTdHZyTlNsejlDUXFqcTBSVENBajZrWWZ6OEkxWDUtY0N2bldCZmphdGFabTFB0gFzQVVfeXFMTzlFRDZkRzdEbEZYcE9vQ0V0aFV1YTBKYXZGTWxBWmhMVjJiOE9tci12NHV4RXRUdnpBMHhUamlQODd5SWRDeEN6NS1ReXM0SnhKTDRXeXllM2VXd0ZWaS1KTkFpMHdlaDUwUkNuYmljeExtTQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-09T10:30:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "'줄기세포 논문 조작' 황우석 박사, UAE 국적 취득… 韓 국적 상실 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "16772850dd21ea",
+      "title": "서귀포 성산읍, '4·3은 대한민국의 역사입니다' 인문학 강의 10일 개최 - 헤드라인제주",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CcV9tSjJRaUItbE5BVVJaSlR2MS1oenBhSmhSMHZqUEVPMUlZT0ZRbGFraFNiTlVDWHFlWG96ajlsZ0d0bXMwN2F6c3NTR3VFalU5Vm1XYmRBS2tzTjdFRzl2ZWtUcE04SEhEWWZ1NUIxNUU?oc=5",
+      "source": "헤드라인제주",
+      "published": "2026-11-09T10:21:11+09:00",
+      "category": "국내 주요 사건",
+      "description": "서귀포 성산읍, '4·3은 대한민국의 역사입니다' 인문학 강의 10일 개최 헤드라인제주",
+      "priority_markets": []
+    },
+    {
+      "id": "91459100905684",
+      "title": "[칼럼]이재명 정부의 '머니 무브', 누구를 위한 정책인가 - 중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPOGxjMnBiLVJpai1kbDBBbUNWQnRXb1A1bld6bW85MjgxeXJZY20tRVU5X3RGVUVENEFuWXZ1UnMwVW9nVEdSMXVGdThjU1Iwd3FibXdwN2JwV0xld2FPel91QU02VTh3VTFHc3JReVI2XzhGMEZQeFF0cUJkZzBIOUNBSmx3YVVRTW5wM19relVPd0YtOGd1cm9SUGdzb1pXdWZvcWh6MnNHU0x5R1hVYWJJMGxMSUhzc3UxYkxBT1g2aVdaaHZHTnQtb1M0S1hRQmpYYVp2MkpRdk9WX0JLNl9HeDNSVE5jS2xvNEJ5NDlObjBZWDhQc2RrS3ZEUkZrdkNBSHY1cXgyXzNxNzg3bFRDRFA1Z01KbW14Rl9mMXV0ZHFBcUJfTEtCd1lJSkNhRzBGbFJKb1lKOWFVN19tTVZtSGJ4dw?oc=5",
+      "source": "중앙신문",
+      "published": "2026-11-09T10:00:23+09:00",
+      "category": "정치·정책",
+      "description": "[칼럼]이재명 정부의 '머니 무브', 누구를 위한 정책인가 중앙신문",
+      "priority_markets": []
+    },
+    {
+      "id": "bc90616c010f51",
+      "title": "접착제 도포기 시장 2035년 전망: 자동차 경량화와 전자기기 소형화가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWjBBaHZEVDZmbzRZVEtPOTVNUk5WejIwMFBOcXpNVEV3YU5icDZBMVBSQzdJdzhNQ2VNYjU1V2FxOWhLRE43aDVLWDd0aDdieGxPUldqZzlkNGYxNTJ2OHAtbXl0LXNyb1hPUVBqWU1GN0R6Sng1T3ZnVUNxSkxqR2xTUlplMUFsOElBa2V6Yk9ZQmdNZmx3N2gwMTJMNmpFTHFIYzRPSENnSlZGc29OeFZlaVppN0pWbHRGb3Z3eVpaMGl0dmhCN1I3TlJyNTcwYWFERG1fbGtZZmMyT0stVQ?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-09T09:31:03+09:00",
+      "category": "자동차",
+      "description": "접착제 도포기 시장 2035년 전망: 자동차 경량화와 전자기기 소형화가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "a2f925d38d0609",
+      "title": "NH투자증권 11월 기준금리 25bp 인상 전망 - 공감신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3eFZqYnV0dGdnczBNdXlsUkNxV2hUQkIxWlZCc0VEaHVkWnhuVUszRnNSLWkyWTlYY1JHTVR4SXlQU3J4ZF9yQkRZQlNYbTFNbEZ1SlZXZmI3MUhGVkk3SkozaVZ6c1U?oc=5",
+      "source": "공감신문",
+      "published": "2026-11-09T09:29:55+09:00",
+      "category": "경제·금융",
+      "description": "NH투자증권 11월 기준금리 25bp 인상 전망 공감신문",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n003",
+      "related_articles": [],
+      "summary": "NH투자증권은 향후 경제 상황을 고려할 때 11월 기준금리가 25bp 인상될 것이라는 전망을 내놓았습니다. 이는 시장의 금리 인하 기대감과는 상반되는 분석으로 주목받고 있습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "시장 내 금리 인하 기대와 인상 전망이 공존하는 가운데 증권사의 구체적인 금리 전망치가 제시되었습니다.",
+        "key_points": [
+          "NH투자증권의 11월 기준금리 25bp 인상 전망",
+          "시장 컨센서스와 차별화된 통화 정책 예측",
+          "금리 인상 근거에 대한 시장의 해석 필요"
+        ],
+        "what_to_watch": "한국은행의 실제 금리 결정 및 향후 통화 정책 방향성.",
+        "fact_check": "증권사의 전망이 실제 금리 결정 과정에서 어떤 근거로 작용하는지 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "2673a3a9d2e4f80d",
+      "image_url": ""
+    },
+    {
+      "id": "b8f4a5eadcc82f",
+      "title": "[오늘 금시세]AI 규제 우려에 환율 ‘껑충’…국내 금값 1.86% ↑ - 남도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBscTlwQmp6VWtVSlZCamdKczNYNkNVYTJOc1dDRl9TLS1yUlhRTGJWZi14OGVVdGg5cDRMSDRfemZCVzFwT3poaFVUT3JBREo2ZzFhcjVHQXlMVHE5Q1NrTTlsMzh5UUg1VUx5cNIBcEFVX3lxTE5LeWtHcXc1NU0wT2JCNkNmQ3VqdTV1N05pY3ZaYUc5T2d1SnUtNWJHYnd4QTBYTTliT1JqMUR1MGVDZkZmcGY3TU0wdHhiR0pURU5nQk5RdzFFQ1Fna0NLSWlRZWh5Q3lUZUo5d2VYR00?oc=5",
+      "source": "남도일보",
+      "published": "2026-11-09T09:14:00+09:00",
+      "category": "경제·금융",
+      "description": "[오늘 금시세]AI 규제 우려에 환율 ‘껑충’…국내 금값 1.86% ↑ 남도일보",
+      "priority_markets": []
+    },
+    {
+      "id": "5ad15aa577d02a",
+      "title": "삼성·현대차 경영진 첫 교류…미래차 협력 확대 주목 - 스페셜경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qbEh0TUZyRFNOa1VFWDZ2bEwzazBuVjQwbjhVcl9yN29URy1qWTFsVzNmbUVrbjBRWVhmMjlzNmdqaFZtckZHX1ZyR0lGbXZJdmFxRG1Rc1VaRFRRVGZEeDc5d25yR0xjOWhGag?oc=5",
+      "source": "스페셜경제",
+      "published": "2026-11-09T09:12:37+09:00",
+      "category": "자동차",
+      "description": "삼성·현대차 경영진 첫 교류…미래차 협력 확대 주목 스페셜경제",
+      "priority_markets": []
+    },
+    {
+      "id": "913bd6954a8e46",
+      "title": "美 중간선거 뒤 더 복잡해진 한국의 셈법…‘민주당 의회·강경 트럼프’ 동시에 상대해야 - https://www.sisaworld.kr/",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SSjRiVGpmSlFYUUhuaXczOUx6cmY3dTdKbFVvWUN3Tm9PbkI2UjBiM2lXaFNsdEVvSUFqN0hRUXBfSUd2bG1EajJMQjhiQTdJY0k5Y2RGUHhJSnpfeGlXdDVpVm5QZ05uN2c?oc=5",
+      "source": "https://www.sisaworld.kr/",
+      "published": "2026-11-09T08:54:06+09:00",
+      "category": "정치·정책",
+      "description": "美 중간선거 뒤 더 복잡해진 한국의 셈법…‘민주당 의회·강경 트럼프’ 동시에 상대해야 https://www.sisaworld.kr/",
+      "priority_markets": []
+    },
+    {
+      "id": "ca0086d33415cc",
+      "title": "'줄기세포 논문 조작'으로 파면됐는데…황우석 '뜻밖의 근황' - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUS0JlQzZGNHJfelhwdEYyZVhMNS1WTURUMkx4Yk5fdGVnUU5jRmlrV3U5Q1IwTU10blIzRUVVOG14S3dLRDBQN2xiUUhxUXpWUmppVlFGLVZqUQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-11-09T08:27:39+09:00",
+      "category": "국내 주요 사건",
+      "description": "'줄기세포 논문 조작'으로 파면됐는데…황우석 '뜻밖의 근황' 한국경제",
+      "priority_markets": []
+    },
+    {
+      "id": "05eeba27d26327",
+      "title": "영등포구, 전국 최초 '헌법도시' 조례 제정·공포 - 서울포커스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zTTl6NTNhcjVoR3BpQjVUU0RkN3dIZDdLZ0NNVTBWMk5CZURZSW5zbm9TcmkzMmFWUDQ4Ny1vVmNtaXJWeUNyTVBpSnlYRko1cWEtNE4zb3U3bjFEQVQ4LTRoTnRvbFFCTTNUSg?oc=5",
+      "source": "서울포커스",
+      "published": "2026-11-09T08:01:25+09:00",
+      "category": "국내 주요 사건",
+      "description": "영등포구, 전국 최초 '헌법도시' 조례 제정·공포 서울포커스",
+      "priority_markets": []
+    },
+    {
+      "id": "548816fd1bd5c8",
+      "title": "[인터뷰] 이윤희 삼성운용 채권본부장 ＂빨라진 금리 하락…전략 재점검＂ - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaWRrQkx4cXZBdFk1djJWN0o4NTNUcE8xUUhObUVTc19WZzRzN1RTOXV3bkt0cEtsRFZPVGhBN3lQYkRBVVVxdVV5bXRMQlRRcDRrRmhpR1BnalRDTHAyNF8yc2NKQ3QxUzR2NkpXNGhGYU5LTTE5NWw2OU1BVzkyTw?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-09T08:00:00+09:00",
+      "category": "경제·금융",
+      "description": "[인터뷰] 이윤희 삼성운용 채권본부장 ＂빨라진 금리 하락…전략 재점검＂ 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "f1bb71c47f34ba",
+      "title": "11/9 [뉴욕증시 마감브리핑] - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNTZFUUxHQlRWSHRzdWFld1VMLTFuNl9PY18xTVFRa3R4OHhXTWVNZUpOdDFwdmp4c09XbmphTWxNYkJvZHpxTTIxUklUNUZ2WGllS0trWEsyeF9qRlFoTXVqODczNFZNQ01lZGNVNC1oeUlxWWtjMkoxOVB2bXc1REVXNW9ack4tREs4?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-11-09T07:51:25+09:00",
+      "category": "경제·금융",
+      "description": "11/9 [뉴욕증시 마감브리핑] 네이버 프리미엄콘텐츠",
+      "priority_markets": []
+    },
+    {
+      "id": "ade8b08efd26a8",
+      "title": "미국 정치 변화 속 한국의 외교·경제 과제: 트럼프의 새로운 카드는? - 공감신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5na2Z0YUFBUUhaYU5LLXQ3VUtvQlNfZFBxNVNOLWVfZmNvandQQWRMZlh0S0t4NmVKSGdJZ2dZcklFbGV5RjJqYUFTQmJNMUVPQXVmTWt5WDdEeEdMVWZ3c1N5MDN2MHQ4?oc=5",
+      "source": "공감신문",
+      "published": "2026-11-09T07:47:07+09:00",
+      "category": "정치·정책",
+      "description": "미국 정치 변화 속 한국의 외교·경제 과제: 트럼프의 새로운 카드는? 공감신문",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "846a180a23da91",
+      "title": "[KFT 모닝 브리프] 2026.11.09 — 오늘 꼭 알아야 할 국내외 경제뉴스 - 금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oeHBoV3hiWUstXzJmSWs3WGhNV1N1WUtBdjEyaVNnUkwybUV5WFlZeUhOSlgtQ3UyQkxCMk9ENWlzRXBlU3JvUUFHcF92U3NkdzNyTlJ4RHM2NFVub1BDZEEzVHFJdGJMZTRZNGNwS3RiLXV6UDA2VjlwNlA?oc=5",
+      "source": "금융신문",
+      "published": "2026-11-09T07:26:34+09:00",
+      "category": "경제·금융",
+      "description": "[KFT 모닝 브리프] 2026.11.09 — 오늘 꼭 알아야 할 국내외 경제뉴스 금융신문",
+      "priority_markets": []
+    },
+    {
+      "id": "de01bce993fdc2",
+      "title": "합성 에스테르 윤활유 시장 2035년 전망: 항공·풍력 에너지가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS29HU0RSNkdfMTN6WmJYMC1rY3hRNTJvcl9WTEdaN1RCc1V4MkNvS0xTYW84WG4xVUZhLWgxV0ZBOTdobk4yNFpodWQxVnB0dUVJdC1SMEV5RnRaTXEyVWtaLTdBZEtCMGJPaF9NRUtiVzJOdVd0ZkhwSW1HMEplZDQ5cTZlZGdOTDhnR18zdElqc2ljTGNqTmktQ293RUZWbVVybmFlNGRJWDllLXdwNGFXLVFub1dCUUVJcE93eUpGU0E?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-09T07:21:03+09:00",
+      "category": "자동차",
+      "description": "합성 에스테르 윤활유 시장 2035년 전망: 항공·풍력 에너지가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "6e5c980fa9e90b",
+      "title": "\"기후재난 생존 원정대\"…금천구, 보드게임 개발 - 서울포커스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QUUpZemNyWkd6MGhIaV9WX3pKUFdwQmt6QjE1OWI2MnZsYndqc05URUtoM19hR1ZycEhfQ3ZzaW9KeHBZaEZ3WHY2Q25IYndac2x2b2RLN01NZHV4Q0xsQ3F2X3dKU256T2JlQQ?oc=5",
+      "source": "서울포커스",
+      "published": "2026-11-09T06:17:37+09:00",
+      "category": "국내 주요 사건",
+      "description": "\"기후재난 생존 원정대\"…금천구, 보드게임 개발 서울포커스",
+      "priority_markets": []
+    },
+    {
+      "id": "55657bb6aec215",
+      "title": "[나연수의 투자칼럼] — 국민연금이 환율 노출을 기본으로 둔 이유 - 르몽드디플로마티크",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iQUdEdmdvaVB0VHFrNU9LX3FEOFRsTFFOS2gwcGNHdW03V3J6T3JENHcyX0hvMGZPRWtQQURWYVpISDVUVXpxbjVUcnYtRmQ5LTdoYTZMSlZzcDdlczc2YmF3cE9zcHdfcFh4SUVB0gFuQVVfeXFMT2JBR0R2Z29pUHRUcWs1T0tfcUQ4VGxMUU5LaDBwY0d1bTdXcnpPckQ0dzJfSG8wZk9Fa1BBRFZhWkhINVRVenFuNVRydi1GZDktN2hhNkxKVnNwN2VzNzZiYXdwT3Nwd19wWHhJRUE?oc=5",
+      "source": "르몽드디플로마티크",
+      "published": "2026-11-08T22:23:29+09:00",
+      "category": "경제·금융",
+      "description": "[나연수의 투자칼럼] — 국민연금이 환율 노출을 기본으로 둔 이유 르몽드디플로마티크",
+      "priority_markets": []
+    },
+    {
+      "id": "7fa74c76ad2955",
+      "title": "美 블루웨이브 덮친 외환시장…1360원대 환율 방향 가를 변수는 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41RjRpOTBoMl8wR21sWldwYUZNa0FkQWN3TTh1Ty1QX2dpLUFRZ0xvNFlDRkoxWWZxeG1XdHY4eFQ2LWtxNThXTW5UR2JWejduVDRIVDh3RzNUbGp1NGpqVWtROEFLOXVkWXYtTkRsUzHSAXBBVV95cUxONUY0aTkwaDJfMEdtbFpXcGFGTWtBZEFjd004dU8tUF9naS1BUWdMbzRZQ0ZKMVlmcXhtV3R2OHhUNi1rcTU4V01uVEdiVno3blQ0SFQ4d0czVGxqdTRqalVrUThBSzl1ZFl2LU5EbFMx?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-08T13:03:18+09:00",
+      "category": "경제·금융",
+      "description": "美 블루웨이브 덮친 외환시장…1360원대 환율 방향 가를 변수는 - 머니투데이 머니투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "b3ebbb8e228c80",
+      "title": "\"제주서 나눔문화 확산\"…카카오, 국무총리표창 수상 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KSWs4YV83RDRTUTAxWE9aRm9KUUJvLXQxYXk3dEdIRk1rSzhuUTNyT3JZYzNZV3Jwd0s3VnJQdGJiT2dBWkI0MXpiWVRCYWRQcUtFVkRPSnNRYkkza2MzQ2ktZ0hZMGFUb0p0RlpB0gFzQVVfeXFMTXdlRHlMRGpMYVZBZXh1N2VZT0s3akQ3WXVCbFdwWmpwMlJDa0tiMkJXMF9SWTZnV2lfVTBIZG1PdHRPdkN5aTZtcDF6OUtMS3Z2a3NnVVpuLUh5X2tRbVJzV0ZLZ1NmTk5ZajFBc3RSOWUxOA?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-08T12:49:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "\"제주서 나눔문화 확산\"…카카오, 국무총리표창 수상 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "f4aab67173f1e9",
+      "title": "입지 좁아진 트럼프…북미 대화 등 공세적 외교에 나서나 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQamcyanhfNWNHbVF3eGZWamFUbjlXSGNJQzUxVW5QY25FUFphd0JURVF0QkRiczg2OVRiZTI4OTh2cjFPTFhteDJDY3BaSGx4dmxCNjVXeXV1YXhJS0NoZtIBYEFVX3lxTFBQamcyanhfNWNHbVF3eGZWamFUbjlXSGNJQzUxVW5QY25FUFphd0JURVF0QkRiczg2OVRiZTI4OTh2cjFPTFhteDJDY3BaSGx4dmxCNjVXeXV1YXhJS0NoZg?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-11-08T09:28:37+09:00",
+      "category": "정치·정책",
+      "description": "입지 좁아진 트럼프…북미 대화 등 공세적 외교에 나서나 연합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "23cbf32579b705",
+      "title": "대형 증권사 3분기 실적 '반토막'…주가도 줄줄이 연저점 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fNG9wcks1TGZCVnFKV0JpbmNoZkZRZnNzSXhZWGliUUgxem1YZmViZWE3MTBIZkFCUmtJa29SaHNOWlVzeFNXbFNrQjgyU3ItcGRzYzIxRVdjZ0xNSG5uTdIBYEFVX3lxTE1fNG9wcks1TGZCVnFKV0JpbmNoZkZRZnNzSXhZWGliUUgxem1YZmViZWE3MTBIZkFCUmtJa29SaHNOWlVzeFNXbFNrQjgyU3ItcGRzYzIxRVdjZ0xNSG5uTQ?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-11-08T06:40:00+09:00",
+      "category": "경제·금융",
+      "description": "대형 증권사 3분기 실적 '반토막'…주가도 줄줄이 연저점 연합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "557b1433963b81",
+      "title": "李, 연평부대 위문열차 공연 성사에 \"장병들 작은 바람에도 귀 기울이겠다\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDY1dsUlpCenBBdmxXNVZJU0ZfSWh5b1JsZFNhUVU3NjE4U3V2VW9hSElhbmNiLTdUQkY4Yjl1UElydDcxNXhFWjdoUFZ2VFNFam1oUGVUckVLUzhkcmFQZk00TTQyeVpVRGwyci1R0gFzQVVfeXFMTjZWUGZSdE82RXJ0R1ZzcGx4UTQwSTh3cU9YQ2VhZmRKMGhPWmE0eWE5Uk5yQ2Z4RUdIb01oaE9sdkQ5R3BoTDJheFZyakc4ODh2Qlk0Zi01STh3YlFfYW8wSllBeEtHV3AzV0pLeEZCTS1oWQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-07T14:20:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "李, 연평부대 위문열차 공연 성사에 \"장병들 작은 바람에도 귀 기울이겠다\" 한국일보",
       "priority_markets": []
     }
   ]
