@@ -33,19 +33,28 @@
         "브라질"
       ],
       "section": "일반 뉴스",
-      "event_cluster": "",
+      "event_cluster": "batch0-n001",
       "related_articles": [],
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
+      "summary": "브라질 중앙은행의 갈리폴루 이사는 외부의 경제적 압력에도 불구하고 인플레이션 억제를 위한 긴축 통화 정책 기조를 유지할 것임을 시사했습니다. 이는 브라질 내 금리 정책의 불확실성을 해소하고 물가 안정을 우선시하겠다는 의지로 풀이됩니다.",
       "impact": "",
       "importance": "보통",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "background": "브라질 중앙은행은 인플레이션 대응을 위해 고금리 정책을 고수하고 있으나, 정부 및 시장 일각에서는 경기 부양을 위한 금리 인하 압박이 지속되고 있음.",
+        "key_points": [
+          "갈리폴루 이사, 경제적 압박에도 긴축 기조 유지 강조",
+          "물가 안정 목표 달성을 위한 통화 정책의 독립성 유지",
+          "브라질 중앙은행의 향후 금리 결정 방향성 시사"
+        ],
+        "what_to_watch": "브라질 중앙은행의 차기 금리 결정 회의 결과 및 인플레이션 지표 추이",
+        "fact_check": "갈리폴루 이사의 발언이 브라질 중앙은행의 공식 입장과 일치하는지 확인 필요"
       },
       "source_comparison": "",
-      "image_url": ""
+      "image_url": "",
+      "new_information": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "7cb320264d858d30"
     },
     {
       "id": "33fa811cb1977e",
@@ -281,19 +290,28 @@
       "description": "​완성차 임단협 끝났지만 부품사 파업 지속…생산라인 새 변수 글로벌이코노믹",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n002",
       "related_articles": [],
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
-      "impact": "AI 분석 대기 중",
-      "importance": "보통",
+      "summary": "완성차 업계의 임단협 타결에도 불구하고 일부 부품사들의 파업이 이어지면서 완성차 생산 라인 가동에 차질이 발생하고 있습니다. 부품 공급망의 불안정성이 완성차 생산 계획 전반에 새로운 변수로 작용하고 있습니다.",
+      "impact": "부품사 파업으로 인한 공급망 차질은 완성차 생산 물량 감소 및 CKD 수출 물량의 납기 지연 가능성을 높입니다. 생산 라인 가동률 변동에 따른 부품 수급 현황을 실시간으로 모니터링해야 합니다.",
+      "importance": "높음",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "background": "완성차 업체들은 임단협을 마무리하며 생산 정상화를 기대했으나, 하위 부품사들의 노사 갈등이 생산 병목 현상을 유발하는 상황임.",
+        "key_points": [
+          "완성차 임단협 타결 이후에도 부품사 파업 지속",
+          "부품 공급 차질로 인한 완성차 생산 라인 가동 불안정",
+          "공급망 리스크가 완성차 생산 및 수출에 미치는 영향 확대"
+        ],
+        "what_to_watch": "파업 중인 부품사의 협상 타결 시점 및 완성차 생산 라인 정상화 속도",
+        "fact_check": "파업 중인 부품사의 구체적인 사명과 해당 부품이 공급되는 차종 및 생산 라인 확인 필요"
       },
       "source_comparison": "",
-      "image_url": ""
+      "image_url": "",
+      "new_information": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "b0e7b3af9c1db437"
     },
     {
       "id": "5987f25d4579c4",
@@ -1391,6 +1409,372 @@
       "published": "2026-11-09T07:51:25+09:00",
       "category": "경제·금융",
       "description": "11/9 [뉴욕증시 마감브리핑] 네이버 프리미엄콘텐츠",
+      "priority_markets": []
+    },
+    {
+      "id": "4874b80f4e8cf8",
+      "title": "정점식 \"집값 폭등 책임은 李 정부…부동산 정책 전면 수정해야\" - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lR3E0ZzVRRGJja0N1bGxMU1FISWNiTzZIQ0hHSjg1ei1BRVVMZVNGTVVCUEFJUFJIbnIxSmlIZXhqZlpoZHB1SXVUTko0YlZXRmZlWEswM3paVzNhblhfbG1ueVZEOFlLWHl3?oc=5",
+      "source": "BBS불교방송",
+      "published": "2026-11-11T12:17:03+09:00",
+      "category": "정치·정책",
+      "description": "정점식 \"집값 폭등 책임은 李 정부…부동산 정책 전면 수정해야\" BBS불교방송",
+      "priority_markets": []
+    },
+    {
+      "id": "3e4db93814000b",
+      "title": "용인시, '2026 대한민국 지방자치단체 행정대상' 친환경·에너지 부문 대상 수상 - 중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQeFlhdkNNa1lhMDhsang1WmJzbkVIVVZNWS1FQU94MDlpNURBa0ZNZmJkSWJaNkhWbFlRcU43ZDU3OGthRHJuVXlPeFFRcnNoeGNucTFHWEpPRVdwVjlxeW1CcV9LS0FYYWlHYU1kQ2Q3UGZvRGVXbUYxNnBLVjNMR0FuN3F6c2lma01qWDFCWU52ZTVDWGxmOEQ2aVNmcVl6eVA0RDVfLU94N1B4RkJuM3EzQ0FhdXZxSjNGN3R4UW5wNHhEYXhXSkxnb3RsRGwwZTVRb09pZkluenlCWWxUSV9uMXlnU3g1eHR5YkdveWVRTm1FUk1uazVIV1VkRUlORDlYY3VQbkFUcWNNcVpIUHNRbl85cTZsRHQ3Yl9zaGRUX1N0dTRkT3Ntd0FCVEtrZG9NNlFuWGE5UW9yNnZ0Z3RMNVlaNHRUT3loREExNlZlX1M1YTNHenJ3OUh0NWtuV2JUQld3QnBmU0JDbnBBMnA2elVkMnBzZU85UzdsSTVyNXhMVEpKdEM2UGRKU0FQN2RteUk3VUFlNWJJREZraGkzVkxfdEZZOFE1UFdvMmN1NUFmQ3hqbFkyUVJFLVdrYTdCUGR3?oc=5",
+      "source": "중앙신문",
+      "published": "2026-11-11T11:55:45+09:00",
+      "category": "국내 주요 사건",
+      "description": "용인시, '2026 대한민국 지방자치단체 행정대상' 친환경·에너지 부문 대상 수상 중앙신문",
+      "priority_markets": []
+    },
+    {
+      "id": "32320ae1c226d3",
+      "title": "최경환 \"시장 이기는 정부 없다\"…李정부 부동산 정책 전환 촉구 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1RF9uT0JSTU4ydXVzTVFPY2thYzhHb29BeTZWMGczaGdpUjNISk5CaXRmejVqakxzaXFWaWxBeXNVZUFrbUlHaFZCWVhybWMzWG1FRkl4dHo5ZGNpU056Vw?oc=5",
+      "source": "아시아경제",
+      "published": "2026-11-11T11:34:47+09:00",
+      "category": "정치·정책",
+      "description": "최경환 \"시장 이기는 정부 없다\"…李정부 부동산 정책 전환 촉구 아시아경제",
+      "priority_markets": []
+    },
+    {
+      "id": "e95a4c7bfadda5",
+      "title": "이 대통령, 농업인의날 맞아 \"CPTPP 현장 목소리 담아 추진\"...농심에 구애 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pUXBveFZxeENtc2FPbDJIZllrMDNYUTZMdkUtQVJ3Z2ZESVpzU0hmVWRzbldnejFWaC1mN1Rvc1JtTUNaeHBWSGpLX3BUTWtyVXhuc01qWGZhSjB5ejdHVzBNMExZS1FxMGlSakxn0gFzQVVfeXFMTXFsUGtINURrVWdUOHBBQzc3UWhlekQ0NXNhUGg0WkR0LUV0YUd4LUJXTHRxTTVNZ2JhT1l4bUJ0ODJFRGgtaFZycTV1OGVtNVRmc3l6c1FfUUlsT005ZnUzT0tWZ2YwZmlJZlROVWVEa203VQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-11T11:34:00+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령, 농업인의날 맞아 \"CPTPP 현장 목소리 담아 추진\"...농심에 구애 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "81ca0ed89a4507",
+      "title": "독일차 빈틈 노리는 현대차···美 쏠림은 부담 - 시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14QlQzUkVrVFNrb2pxN3BsRGJXWTFOb1JqelBTUzNRMzFZQlBqS3dwam5KejhJQ19tWkJwSkdhWXp5ZzFLZlNoY3FWekUtYUs3MTdPX2htTEdfTUhEUFdOVVI4cmlucHFSZl9tWnEzcnoyRC0zVUHSAXZBVV95cUxNeEJUM1JFa1RTa29qcTdwbERiV1kxTm9SanpQU1MzUTMxWUJQakt3cGpuSno4SUNfbVpCcEpHYVl6eWcxS2ZTaGNxVnpFLWFLNzE3T19obUxHX01IRFBXTlVSOHJpbnBxUmZfbVpxM3J6MkQtM1VB?oc=5",
+      "source": "시사저널e",
+      "published": "2026-11-11T11:25:55+09:00",
+      "category": "자동차",
+      "description": "독일차 빈틈 노리는 현대차···美 쏠림은 부담 시사저널e",
+      "priority_markets": []
+    },
+    {
+      "id": "57ae9bacf910a1",
+      "title": "미 물가·금리 부담 속 국내 증시 오름세 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xdUU2ZWtHRTgzTjlGSld2NFdNeUlKa2hLS1dZbVZ4UmVaZ1hSZm1PZERSUzFFaktoYXFuMi1SNzZJVHdIamtKRmJKWTUzQVJyZktKWmVHdTlkUU1oV1BVRG5BUm9OQXNTS1A0blVOUEN4dw?oc=5",
+      "source": "한겨레",
+      "published": "2026-11-11T11:12:00+09:00",
+      "category": "경제·금융",
+      "description": "미 물가·금리 부담 속 국내 증시 오름세 한겨레",
+      "priority_markets": []
+    },
+    {
+      "id": "727955dfeff03b",
+      "title": "영국 26년 만에 신차 규제 빗장 ‘해제’…현대차·기아 ‘족쇄’ 벗었지만 ‘中 가격전’ 비상 - 더퍼블릭",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kTjNtREV4RWFqUVY3c3JDaGFBRHFFN2dpRHhIN3hNdlVGZjVGMXF2UWxIX0ltdFkyb1k2UnY5ZlJ6ZHlvNmVpdzRIb3Zfb3I3S3dzOG1PVHhTazlYZkwyeUMtRURqWXhyQ1ZB0gFvQVVfeXFMTUZOdF9uV2c2cHBWdlJ1bUVNUHFrRzZyaU41bURId2xZM1FkenJEM1d4QmZrX0I0Ung0UnNzRlhxNkdnQWFEa1FlelE4c0ZzOHhFRU9oeFczZUhXQjZaVTJHbWd3ZGdmc0h1aVh5cHE0?oc=5",
+      "source": "더퍼블릭",
+      "published": "2026-11-11T10:55:10+09:00",
+      "category": "자동차",
+      "description": "영국 26년 만에 신차 규제 빗장 ‘해제’…현대차·기아 ‘족쇄’ 벗었지만 ‘中 가격전’ 비상 더퍼블릭",
+      "priority_markets": []
+    },
+    {
+      "id": "decb0456c0a799",
+      "title": "美물가 충격 비껴간 환율, 1330원대로 하락 - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSlA3SnNJbmwzTHB6N1RnQmdRSU5ZbS1aa3ZQaU0yUjhMWWFyNy1ZYzI4NVpUTk52bng2MDFmd0FSUFBiOU1yTVdOTlpnLUVncEZaeUpGcTEySmcyZDIxNUdDNUZ6a2U1YmxrUzZMS0FGU2lnX0FkYjA2dGZOM1RwMA?oc=5",
+      "source": "이데일리",
+      "published": "2026-11-11T10:34:45+09:00",
+      "category": "경제·금융",
+      "description": "美물가 충격 비껴간 환율, 1330원대로 하락 이데일리",
+      "priority_markets": []
+    },
+    {
+      "id": "d1db51c4bcf85d",
+      "title": "[블루웨이브 청구서⑤] 한국 정부 규제에 맞서던 미국 공화당 힘 빠져, 쿠팡 김범석 제재 대응에 부담 커지나 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zdE1YbkFpUWhjWTJXTWk5YktjVGhjYkFlX1piWHpVUzlYVHlVeENpZGZkVmF2bnBNV3pZV3Q2Z3dyam1UWWl3blBLYjdyX1ZsTGd5UGd5VW1FR3hOZDZ3ZnhzUlprNGpZWWZyS1JHM0tpOXc?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-11-11T10:30:17+09:00",
+      "category": "정치·정책",
+      "description": "[블루웨이브 청구서⑤] 한국 정부 규제에 맞서던 미국 공화당 힘 빠져, 쿠팡 김범석 제재 대응에 부담 커지나 비즈니스포스트",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "69f49be461c2c2",
+      "title": "[굿모닝퓨처] 먹통의 정치와 활통의 정치 : 사람과 소통의 두 얼굴 - 굿모닝충청",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tQTNiNXJ4VG40ZnJERkRqaWxpYjZ6OEFEMzlhRGJWd0RnTERJYVEtbjhWQTNUa2QyS01XX2ptMEs0MFFoZVpHeDlQWG1hWDI4RlZGTlROLU5FSE9fZnJja2Zud0FoMWpxTVNUQTZ0YWdXZw?oc=5",
+      "source": "굿모닝충청",
+      "published": "2026-11-11T10:25:24+09:00",
+      "category": "정치·정책",
+      "description": "[굿모닝퓨처] 먹통의 정치와 활통의 정치 : 사람과 소통의 두 얼굴 굿모닝충청",
+      "priority_markets": []
+    },
+    {
+      "id": "641fafbb9cd511",
+      "title": "정읍시, 제22회 대한민국 지방자치경영대전에서 행정안전부 장관상 수상 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yejRoTTdWVUczUlFnSW5DTFk5NHNKR2htcEtmVkZsaWNaaU9NMUVaNENmWTdhM2VtNVVEaDhpV0tMR3ozNDQzWl9yc1l1dHlLaHp4cVlkTUF2blpz?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-11-11T10:24:31+09:00",
+      "category": "국내 주요 사건",
+      "description": "정읍시, 제22회 대한민국 지방자치경영대전에서 행정안전부 장관상 수상 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "0dcacb05e5fb71",
+      "title": "지자체 최초 청년부상제대군인상담센터, 인빅터스 게임 국가대표 5명 배출 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16MGZiTkhSSFJ6dDBoVDRBbDYxZW5CSkg3OU9IQ3JUblg2SmxKYU84b25FMzdVWFpvaDRrSW93Z1RucGhxbThyLTI5QlJaMDd0NUFCZlRvQmRDeks3?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-11-11T10:24:21+09:00",
+      "category": "국내 주요 사건",
+      "description": "지자체 최초 청년부상제대군인상담센터, 인빅터스 게임 국가대표 5명 배출 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "431ca3a1e54c20",
+      "title": "[위클리오늘] 코스피 5200선 출발···환율 1340원대 - 위클리오늘",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1NEJOcl9Hb05uMmZUSGNNbFNGX2xfMFViRHZpNVlRWVFESmNlMXJNWmVrQ2pBVnV2ZFZONlJYWHlkdDB1WEl4aVBkbW9haTNOWnJRX1J2TEl3d3prUDBpU3JTMTZvOVk4RVFGZm93?oc=5",
+      "source": "위클리오늘",
+      "published": "2026-11-11T10:05:52+09:00",
+      "category": "경제·금융",
+      "description": "[위클리오늘] 코스피 5200선 출발···환율 1340원대 위클리오늘",
+      "priority_markets": []
+    },
+    {
+      "id": "15e551f66c5fe2",
+      "title": "김형동 \"전력망, 대한민국 근간…에너지 정책에 정치 개입 안 돼\" - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1bE92VE14UHI1clFIOTQxbTJ0dVZfSG1LSFRSbFI3VE1SMzk4YndDanBBaG1HU1JYcUNHcDVGYy03LV9VdnducnFpX0J0WE1DVkd2Ug?oc=5",
+      "source": "뉴스1",
+      "published": "2026-11-11T09:50:33+09:00",
+      "category": "정치·정책",
+      "description": "김형동 \"전력망, 대한민국 근간…에너지 정책에 정치 개입 안 돼\" 뉴스1",
+      "priority_markets": []
+    },
+    {
+      "id": "f8cdf89fc389bf",
+      "title": "영양군, 영양형기본사회 실천 방안 모색 '영양군 포럼 2026'개최 - 포커스데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSdTZzSFBjNVRra1dyN201UkE2N2N5b1liRER1c1RfSDNBMGVSeEtZU2FJdkZkZmI2UnNXTEhjWnlraDM3MGlwN2I4Q3VPNkVRd1pLb1JFSVFvVk5SRmNOOS1ub3BWZw?oc=5",
+      "source": "포커스데일리",
+      "published": "2026-11-11T09:31:27+09:00",
+      "category": "정치·정책",
+      "description": "영양군, 영양형기본사회 실천 방안 모색 '영양군 포럼 2026'개최 포커스데일리",
+      "priority_markets": []
+    },
+    {
+      "id": "60704fbb933259",
+      "title": "2035년 절대압 센서 시장 전망: 자동차 배출가스 규제와 산업 자동화가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdU81Zy1tYUF4NnR0RGVkQU1Ea3JEbkROdmViOENaVW5GMThFYUQwRGlGbjl0anpRYzdWSnRobWNJUGlackl0UUE1N0ZoQlNpdTdiaXEyMDZqNVVDSHZ1cGpoMWZqekdvb0JBLW0wTHA1dFF6OFN5ajhfaHViVjg4cEctU2JjY184OWJ6TWR5dVVYNGdRQlk5ODc2S3ZrTFc4bzU0a1MwTmtGV09rMnBaTHd3bHlGZjZtX2dCZFZCOHd2WVctdXBLalN4VWhONE54VjRPcm93aklCV3owYnVWSE5nQ0d5RU51Y0E?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-11T09:26:04+09:00",
+      "category": "자동차",
+      "description": "2035년 절대압 센서 시장 전망: 자동차 배출가스 규제와 산업 자동화가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "0820d369c946f3",
+      "title": "구로구, 폭설·한파 대비 '겨울철 종합대책' 추진 - 서울포커스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yRE9wNWZFcENWbkJvSGRKUmxwZXF2bUx3akpPLTB2QWc1WG1KTndWY3pRR0pVQWV3NTd6dDNXdG1VaEs1eEx1dmRiMFNLNVp1Y3NwQUtHYWptWEZOTERUbmNIaFJxdElnaWlfSg?oc=5",
+      "source": "서울포커스",
+      "published": "2026-11-11T08:55:32+09:00",
+      "category": "국내 주요 사건",
+      "description": "구로구, 폭설·한파 대비 '겨울철 종합대책' 추진 서울포커스",
+      "priority_markets": []
+    },
+    {
+      "id": "942c747c3738ac",
+      "title": "구재이 세무사회장 \"국민 삶 실질적으로 바꾸려면 세금 아는 정치인 필요\" - 한국세정신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vM2xGOW5lWHRRUS1EaWZVTVpTUzZIMGwwcW9IXy01eW9zVWxpNEl3QkdoeDM1blpwQUFMRkdwN0hOc3NfYnZLMG1Uei1SUFpMd3BpWHJYRGNQaTR0OTJmcFozTlk?oc=5",
+      "source": "한국세정신문",
+      "published": "2026-11-11T08:24:20+09:00",
+      "category": "정치·정책",
+      "description": "구재이 세무사회장 \"국민 삶 실질적으로 바꾸려면 세금 아는 정치인 필요\" 한국세정신문",
+      "priority_markets": []
+    },
+    {
+      "id": "9d320c86ac400d",
+      "title": "2035년 단조 윤활제 시장 전망: 항공우주 정밀 단조와 자동차 경량화가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSjYxbkJDWUI1RzB4ZHR5WW1HOGVsTThRX2JyS0FjSWxGVFpPNmpOTzZkLW1fV3pkNzhVWE1PY3lGWXQ0YmJYVHJfOXBwamNqdTZ2Y3A5dTkxcVQ4SjNkZjQ1bVFnQUFrclNDSGxpZlpvOEFIUS1uRUQtbXlzaS0zSUQzcURSS3JpUE42SU9WRUZqcUt4RXhSbDFuVk5NcEswbkw4U21oZVFUeHA3ZzlESXl1bWtuWUFJcmo1Y05UcEt1LUdaR3JFWmlaN294c2doWjhSV241Qlh0a29wVmowQWIyUWdPNTlpWm00?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-11T08:16:04+09:00",
+      "category": "자동차",
+      "description": "2035년 단조 윤활제 시장 전망: 항공우주 정밀 단조와 자동차 경량화가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "c82ce95d2b095c",
+      "title": "\"40년 전 끌어내렸는데\"…인하대 이승만 동상 복원 갈등 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54OWZZTXRFVmhKVDQzWkNoMXdfNzE1Qm01RjhGQkxLREI5N0RLbVVGNXZJQ1ZnN1ZNVGppUkNLUFk1NDljNko4MnZoQk1WLXFtYUd3TVkwMDZ4dw?oc=5",
+      "source": "한국경제",
+      "published": "2026-11-11T08:01:19+09:00",
+      "category": "국내 주요 사건",
+      "description": "\"40년 전 끌어내렸는데\"…인하대 이승만 동상 복원 갈등 한국경제",
+      "priority_markets": []
+    },
+    {
+      "id": "81a7dbfbdf70b7",
+      "title": "美 물가 쇼크·엔비디아 악재…반도체주 바닥론 시험대 [오늘 아침 당신이 알아야 할 7가지] - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pbFE2LVJEVUx5YnltOWk2S1dXQ1plSUFPMVVobDgwLUx0bDdtU0dIc1dxSWNoclhlUE5HdFRWd2FGa29YMmFkYzlma1lWdFZRa1BFRDdGUXcxQQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-11-11T07:42:39+09:00",
+      "category": "경제·금융",
+      "description": "美 물가 쇼크·엔비디아 악재…반도체주 바닥론 시험대 [오늘 아침 당신이 알아야 할 7가지] 한국경제",
+      "priority_markets": []
+    },
+    {
+      "id": "a075b5e5ae0de7",
+      "title": "경북도, 포항 북극항만 AI 특화 육성 - 세명일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTaHFtLVJuX0NhM3drWmY1M1pDT3FodWhQR3J6UnA0aGo3U0JwejJ3SXFnSk1TdWVVVVZKNHZ2UWJhZUExb2NZNUNnQlY3MDV3Z21fbzdOVE5lVmJTWC1XeGRtd0dLOWR6T01hSGt3cjA?oc=5",
+      "source": "세명일보",
+      "published": "2026-11-11T07:09:00+09:00",
+      "category": "정치·정책",
+      "description": "경북도, 포항 북극항만 AI 특화 육성 세명일보",
+      "priority_markets": []
+    },
+    {
+      "id": "caff7e8827cc82",
+      "title": "미국증시 하락 마감…CPI 충격에 나스닥 0.74%↓·엔비디아 5.47% 급락, 브로드컴은 상승 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YOV9ZQmx1WTNuLWZCcDE1ZnFwTUxINmd2WTZZVXlJakdsRDRUVjhlclNCZElOY1JuWVFKM0xQQWRObU9IWFo3SS1QVFV0QjZFU25TYTE4ODZ4RTVDVDhRYzBlaVlieXJZQ0FXYWEzNWhaZw?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-11-11T07:06:47+09:00",
+      "category": "경제·금융",
+      "description": "미국증시 하락 마감…CPI 충격에 나스닥 0.74%↓·엔비디아 5.47% 급락, 브로드컴은 상승 톱스타뉴스",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "001f30da5a1660",
+      "title": "美증시, 예상치 웃돈 10월 CPI에 일제히 하락-[글로벌 마감 시황] - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10akNId1lDYWhsRnJiZlZ4djJuMExmZU9BM2Vhem9BZlVqU05pWjk5UnFrZ1RuaG5FS2Q4SVdPZ1l6RGEtckRXak9jbVlRbkozd0JzSzdrVXlFUlNzU2FlcFdNVzBSNnhiYS1zckFmOUJPRklVbGdz?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-11T07:01:00+09:00",
+      "category": "경제·금융",
+      "description": "美증시, 예상치 웃돈 10월 CPI에 일제히 하락-[글로벌 마감 시황] 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "bb5b6956bff5bf",
+      "title": "[서진형의 부동산포커스] 부동산의 정치, 가격안정을 위한 현 정부의 고민 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQV0NVT0Z1NzlvSU9QMDYtSTg4YWktMDRrSzFQWkVEZ0QyX2twcG85cE5DQUpGenpWQ2FQazQ0SjF1a2xmdkhOVVBDaEJSUUNGOWUxUUxhcGtQZzQyb2xLUnh1WVV1V0p6UUFCWU45ZzBHajU3MGlab1pRSWM0STdMRmQ2TUE2OUxFN2VXVnpzVVQzaVExQ0tXX2lfbVI4ekNGZjRRb1RiQ0pFT1dHb0tBVW5YMFljT2IybGtSU0xJakY3M01yTkpxLVBkdTJCNlVzMGRIczBySllpQjdubm5iRnNnT0VyamFuZFlTeEN4RHdwLVR5WUR3VGlmcGtGN083RWQ1MTZWMUxzVjlJdTlpaXBHak0zOVR2VDI2LXg4bHhOVFk?oc=5",
+      "source": "데일리안",
+      "published": "2026-11-11T07:00:00+09:00",
+      "category": "정치·정책",
+      "description": "[서진형의 부동산포커스] 부동산의 정치, 가격안정을 위한 현 정부의 고민 데일리안",
+      "priority_markets": []
+    },
+    {
+      "id": "24ba34f382539f",
+      "title": "세정용 산 시장 2035년 전망: 자동차·식품 위생 수요로 성장 가속 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMV8wU1FzUmJ2bDJlRFBpQlZjc3RFOFZqRnc3UlB4em9TNEJqbUN5bllWclFKMzBXUGRzeHJkakZTWjhpYng5RTVKM0FzemQ2aXdKZTdmZ2hSbnEyZzl6VDhydTZ2alFmbldxUzJzTWNkbEFUTG8yVElCUF9renItUGs5cmFscmpnXzAxSGgtTmdmVk9rWUVXLXpoZy1ETHpGa09HeDdPanB1Z0N3MWY1MVZveDVnaEFGQUpKQ2VyV1JGTkhXNnA1UlhR?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-11T06:31:04+09:00",
+      "category": "자동차",
+      "description": "세정용 산 시장 2035년 전망: 자동차·식품 위생 수요로 성장 가속 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "97dc984c5738b9",
+      "title": "글로벌 완성차 업계 지각변동… 현대차·벤츠가 인도에 수조 원 쏟아붓는 ‘숨은 노림수’ - 네이트뷰",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MRU53YTBrSmhGLVJNdDF2dFJHOXNCaGdxXzc1NUhHQm5MelNaYTg3bjFBVHZsSDdUQURGNWZEWHZlc3BnZHROSmtsMHJ0MTZlM2U3SVdR0gFWQVVfeXFMTUxFTndhMGtKaEYtUk10MXZ0Ukc5c0JoZ3FfNzU1SEdCbkx6U1phODduMUFUdmxIN1RBREY1ZkRYdmVzcGdkdE5Ka2wwcnQxNmUzZTdJV1E?oc=5",
+      "source": "네이트뷰",
+      "published": "2026-11-11T06:21:00+09:00",
+      "category": "자동차",
+      "description": "글로벌 완성차 업계 지각변동… 현대차·벤츠가 인도에 수조 원 쏟아붓는 ‘숨은 노림수’ 네이트뷰",
+      "priority_markets": [
+        "인도"
+      ]
+    },
+    {
+      "id": "4bca3934579b0d",
+      "title": "[오늘의 주요일정] 정치·정부 (11일, 수) - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2SF81c0RlMUkzUkdLaktMY0t1elV2YmJuM3VmSGZ5dnhxaUhuQWZta1EweFVQX0d6SEhfRjZUd2tCWXFFajkxUXR1TlJSRjlJVmJoekkxYnRlZw?oc=5",
+      "source": "뉴스1",
+      "published": "2026-11-11T05:00:00+09:00",
+      "category": "정치·정책",
+      "description": "[오늘의 주요일정] 정치·정부 (11일, 수) 뉴스1",
+      "priority_markets": []
+    },
+    {
+      "id": "075af52162f914",
+      "title": "여소야대·분점·동거·연립정부로 요동치는 주권자 선택[한국의 창(窓)] - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LX3N0alhXSkU3emgyemw1Nld5LTRKNkhUT0VfOTVzMGV5QklXYWFVRHpxVlppVlp4N0c1V28tc21NcGJzUjdlUUU0cDFOYk9JTlVFOTNxUTJQVHFMVnpRWHUwY3QzeUptTzB0SnpB?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-11T04:30:00+09:00",
+      "category": "정치·정책",
+      "description": "여소야대·분점·동거·연립정부로 요동치는 주권자 선택[한국의 창(窓)] 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "ff559ecf0f224b",
+      "title": "당청 '종부세' 이견 속… 이 대통령, 내일 김민석·한병도 만난다 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkLWE5SHd0XzVvWEUxcWFJd0g2c0NFdnZ0S3BsSGt3akVLa2ZnaTlKajEyUVB1dWtyYVM4X19HQVAxT294YnpjU2tHSHpxQVE4aUp1T1lMM1FFUEpRWWl4S2h5TVhQekpfRzR0V0Jn0gFzQVVfeXFMT0E5TzNEaGhTaE9IS2NoT0EyUHJPcHNDMEVyMld5c0s0TW1TWkF2bWhyOHQ1MzNVMHR5Wjh1N0E0UmpZMEZibXMyUFNqY1JiTk42SFl1cWJ2VEwycUdaZkstZXNHTWQ0TWtqWFJrakxXdVBEWQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-10T22:42:00+09:00",
+      "category": "정치·정책",
+      "description": "당청 '종부세' 이견 속… 이 대통령, 내일 김민석·한병도 만난다 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "d0de4443fd008b",
+      "title": "[이상헌의 밸류체인지]리스크 이미 반영된 한국 증시, 조만간 바닥 확인 가능 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfaFZtUHI4d0JDa1lPcUlndWdxZXJidTByNmM0T1hNWFBTQjluRDEyYUZ5Rm01NlFKRDZldTFaQnl6bmFlRkkwenFTSlFUSlBJUnY4bXAxTEs3UdIBX0FVX3lxTE5HQ3BLZmRtOFpadkUtUTJVUTlidHZHLUFzVDFPQ0xPUWhJUzl6NTFzc00wVG9rZ3hMRWNobjMxX3ZEd0Z5SDN3SlA1OHRhS1pEODZrSFhXRjNfSFVWXzhF?oc=5",
+      "source": "경향신문",
+      "published": "2026-11-10T20:26:00+09:00",
+      "category": "경제·금융",
+      "description": "[이상헌의 밸류체인지]리스크 이미 반영된 한국 증시, 조만간 바닥 확인 가능 경향신문",
+      "priority_markets": []
+    },
+    {
+      "id": "e075397e2a0c47",
+      "title": "[정치현안] 이훈기 '주가누르기 방지법', 대통령 재검토 지시에도 정부와 충돌 - 인천뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VT0hNaUJ1d3ZWMWs4SW5fSjFMOUxsY3hncWVqQzhSRnpHbkwydVRNTWpuc3l5cHlJQ2hWV2RzaU5BVXlBbXR1eTRERGVXamxJVktaeTBFbVZsdU9nZDllUXZmUlFScVJoVHQ2U2xMRQ?oc=5",
+      "source": "인천뉴스",
+      "published": "2026-11-10T17:27:12+09:00",
+      "category": "정치·정책",
+      "description": "[정치현안] 이훈기 '주가누르기 방지법', 대통령 재검토 지시에도 정부와 충돌 인천뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "e00c1770ec113f",
+      "title": "북 김여정, 유엔 사무총장에 \"지뢰 사고 전가하는 파렴치 한국 대변\" - YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YbGtsM2ZSRlZrOVA1Wnl6RHgzN2l0X1Z3T3Jwa0d6WjFsNWpBakR0b0ZxeUVxVmF1RGMzMm1HX3JqRnhCRVJuTVRUdjFxZlVraXc4UFZQYmhOX1M4UFE?oc=5",
+      "source": "YTN",
+      "published": "2026-11-10T15:37:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "북 김여정, 유엔 사무총장에 \"지뢰 사고 전가하는 파렴치 한국 대변\" YTN",
+      "priority_markets": []
+    },
+    {
+      "id": "b413e5955bdc77",
+      "title": "10월 채권발행 91조원…외국인 순매수 증가 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrR2pyejlPUmhCSlJDNXBZTUlZNFdGOFF2ZURGalg2bHR6MGhVMXdKQVd3b3V5X1J1NjV3SzVYTnhsd3J4Sm5NMTdBaXFVcW1tYUFRcDZHbHFONWh6OEV5dU8yUHVUUmF1aURKd3hmcDRNMlp2VHUw?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-10T13:13:00+09:00",
+      "category": "경제·금융",
+      "description": "10월 채권발행 91조원…외국인 순매수 증가 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "a8f31cdf566d1f",
+      "title": "출발증시 1부 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb1F1b0N2MHozb3lwRFBycVpOM01nT3oxS3VsOWpMbGJlRm1PR0VXazFHS1RId0NNV0xyR1JxODdIQzRGYVZwVDRERzlOdmQ4RERTQnNwT2VlZ2Y4R3RsUXNsOFlKOFVfdXRfYktZeEQtMUttZmtIOXJYTEcxMEk1Uk5TNTUxWU5hb3h2X1prUU9PZTVuWW4tcl9VTVkzMDNCb1hv?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-10T08:24:42+09:00",
+      "category": "경제·금융",
+      "description": "출발증시 1부 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "2ca9f34a45089d",
+      "title": "계기판이 옵션? 현대차 위기설의 실체 [한방이슈] - YTN",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0Qkx2aUFnalVMZmE1QlpSZzlBRmxRLTJOZGoyd1B0RlNYLUlCbTRkM1R5NWFEdUQ4UVdGelgxUmhFa2FaY0N1YnlZdlFmSm83UTZrZno2WHc1WUJlTFVJ?oc=5",
+      "source": "YTN",
+      "published": "2026-11-09T16:11:00+09:00",
+      "category": "CKD·물류",
+      "description": "계기판이 옵션? 현대차 위기설의 실체 [한방이슈] YTN",
       "priority_markets": []
     }
   ]
