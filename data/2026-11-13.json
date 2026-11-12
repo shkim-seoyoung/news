@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13T07:32:19.599257+09:00",
+  "article_count": 4,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "844b410b560f4b",
+      "title": "로이터 \"기아 인도 자동차 공장 증설에 20억 달러 투자\", 연산 63만 대 목표 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84Q2l0UW4xOE1hRGxhZVJ5cmd5TXgwenNfaUw1bmN5eXBZRVdKUy1sR2Z1bE5vU085amFvSGR4R1pPRU5ZbmhrX3BmQTdZdUFoT0hkVnkwUnhkWHFSM3hmZFFhbjJ2QnZ5YkV4UUJHZnRuTEE?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-11-12T17:22:06+09:00",
+      "category": "자동차",
+      "description": "로이터 \"기아 인도 자동차 공장 증설에 20억 달러 투자\", 연산 63만 대 목표 비즈니스포스트",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [
+        {
+          "title": "기아, 인도에 20억달러 투자해 제2공장 건설…연산 60만대 체제 구축 - 이투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1saUtwQVVJUWszSG9Da2dPcFVrdlNFQ3hJYU9FN1p6aXJEZkhZWDktRDEtbkZSbVdxVi1CYnhRZ0U2WnBDTE52Tm1vUGJ6QlFMU3pkbmc1VXVoY2NhVUY1X2dPU2I2RmNvWXg1dkdB?oc=5",
+          "source": "이투데이",
+          "published": "2026-11-12T18:24:00+09:00"
+        },
+        {
+          "title": "기아, 印 공장에 2조8000억원 투자…연산 63만대로 확대 - 한국신용신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PLVd3d3RFekZ3VFBNZWxNSGNtc3BmT2hqNEloNkRjQm1jYnRDcmxYa2tpY3ZRQm8zSmxQalRpTS1fdF8wMUIwTEpmOW9CYXYxOHBPb2JPUThSdVdreTJYeDhTbWFIMTd5Zk1z?oc=5",
+          "source": "한국신용신문",
+          "published": "2026-11-12T17:39:00+09:00"
+        }
+      ],
+      "summary": "기아가 인도 공장 증설을 위해 약 20억 달러(한화 약 2조 8천억 원) 규모의 투자를 단행할 계획이다. 이번 투자를 통해 기존 생산 능력을 확대하여 연간 63만 대 생산 체제를 구축하는 것을 목표로 한다.",
+      "impact": "인도 시장 내 기아의 생산 거점 확대는 CKD 부품 공급 물량 및 현지 물류 인프라 수요의 증가로 이어질 가능성이 있어 지속적인 모니터링이 필요하다.",
+      "importance": "높음",
+      "detail": {
+        "background": "기아는 인도 시장 점유율 확대를 위해 아난타푸르 공장을 중심으로 생산 능력 증대를 지속적으로 추진해왔음.",
+        "key_points": [
+          "투자 규모 약 20억 달러(2조 8천억 원) 투입",
+          "연간 생산 능력 63만 대 목표",
+          "인도 내 생산 거점 경쟁력 강화"
+        ],
+        "what_to_watch": "실제 투자 집행 시기 및 공장 증설에 따른 부품 공급망 재편 여부.",
+        "fact_check": "보도 매체별로 제시된 연간 생산 목표 수치(60만 대 vs 63만 대)의 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "비즈니스포스트와 한국신용신문은 연산 63만 대를 목표로 제시했으나, 이투데이는 60만 대 체제 구축으로 보도하여 생산 목표 수치에 차이가 있음.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "227da4ce0455f0d8",
+      "image_url": ""
+    },
+    {
+      "id": "c46f0aabd59f57",
+      "title": "내연기관 대신 전기차로, 국내 자동차 산업은 어디로? - 참여와혁신",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TbkdiWFRwc0RUTGRJcEdFc25Hc3VIcDJSbHZ0Y0FEOFQ5cjBvOXlWcVFlRnVaOVpQZE54ZWI2TTgwLTNmZThkMW90MG1Sd2ZydHFpVC1zZWw4TGl5Ml9YWm85cVBqeFBDQUVISVFR?oc=5",
+      "source": "참여와혁신",
+      "published": "2026-11-12T17:02:43+09:00",
+      "category": "자동차",
+      "description": "내연기관 대신 전기차로, 국내 자동차 산업은 어디로? 참여와혁신",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "summary": "국내 자동차 산업이 내연기관 중심에서 전기차 중심으로 전환되는 과정에서의 산업 구조 변화와 고용 및 공급망 이슈를 다루고 있다. 전동화 전환에 따른 부품 생태계의 변화와 대응 전략이 주요 논점이다.",
+      "impact": "전동화 전환은 기존 내연기관 부품 공급망의 축소와 신규 전동화 부품 물류 수요 발생을 의미하며, 산업 전반의 공급망 전략 재검토가 요구되는 시점이다.",
+      "importance": "보통",
+      "detail": {
+        "background": "글로벌 완성차 업계의 전동화 가속화에 따른 국내 자동차 부품 산업의 구조적 변화.",
+        "key_points": [
+          "내연기관에서 전기차로의 산업 패러다임 전환",
+          "전동화 전환에 따른 부품사 생태계 영향",
+          "미래차 전환을 위한 산업 정책 및 대응 과제"
+        ],
+        "what_to_watch": "정부의 미래차 전환 지원 정책 및 부품사들의 전동화 전환 속도.",
+        "fact_check": "전동화 전환에 따른 고용 및 산업 구조 변화에 대한 구체적 데이터 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "0ee680e26c089fd8",
+      "image_url": ""
+    },
+    {
+      "id": "eef54de582b9f6",
+      "title": "기아 인도법인, 아난타푸르 공장에 15억 달러 투자 추진… 연산 50만 대 체제 구축 - 다나와 자동차",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQUmdyeDdkVi14RlktRHRhMTJlOHdxUzl5cDYwSUxKSDh6bTJ6NjRnYnFEWDd3T2lyMWppdDFJcDZVRWpxaUd6SDhsNTVsOUZtTlRQLXdwdDBMR2FtdndjUDRQblBRRWxfaTZKMmVjVmYzUDN4eXRGOEE0d2ZMUVctWUpOa0RCRWFwMi13WkxoTE1iQjNRMzdnSVJmZTNzR0F1V01UWWFxZnZKTmVXNno1WU0xeU12ZC02NVNacXN3cWoxekR0R0dWd2w4YlRfNmRMSzdkcFJVaXdVTzBCQjM2Z1d5RTEwdGtzaTdIZ2x1SndnR3NWVVVnNE9LS3Fhb28zTi1VX0FnbFN3bHBLVHFTQ3VnbENwYlNWTkFhQ0V3d3lmQ2Zrd2w0aExsQWpyU18zUDNycGtRX21NdnZ3LXpINEx2NDQ4azAwcFdvV3hoVXd0elYy?oc=5",
+      "source": "다나와 자동차",
+      "published": "2026-11-12T11:31:18+09:00",
+      "category": "자동차",
+      "description": "기아 인도법인, 아난타푸르 공장에 15억 달러 투자 추진… 연산 50만 대 체제 구축 다나와 자동차",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n003",
+      "related_articles": [],
+      "summary": "기아 인도법인이 아난타푸르 공장에 15억 달러를 투자하여 연산 50만 대 생산 체제를 구축할 계획이다. 이는 인도 시장 내 생산 효율성을 높이기 위한 전략적 결정으로 풀이된다.",
+      "impact": "인도 생산 거점의 생산 능력 확대는 해당 지역으로의 CKD 수출 및 현지 조달 부품 물류망의 변화를 유발할 수 있다.",
+      "importance": "보통",
+      "detail": {
+        "background": "기아의 인도 시장 점유율 확대 전략의 일환으로 추진되는 공장 증설 계획.",
+        "key_points": [
+          "아난타푸르 공장 15억 달러 투자 추진",
+          "연산 50만 대 생산 체제 구축 목표"
+        ],
+        "what_to_watch": "기아의 인도 투자 계획이 15억 달러와 20억 달러 중 어떤 규모로 최종 확정되는지 여부.",
+        "fact_check": "투자 규모 및 생산 목표 수치의 일관성 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "앞선 20억 달러 투자 보도와 비교 시 투자 금액과 목표 생산량에 차이가 있어, 동일 프로젝트의 단계별 계획인지 별도 계획인지 확인이 필요함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "02262683295b518a",
+      "image_url": ""
+    },
+    {
+      "id": "c7c552e9af20a7",
+      "title": "美 HEV에 힘 싣는 현대트랜시스···현지화 가속도 - 시사저널e",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zRGdESmhscGlTV2l5Y2VpVnA3X2lBYXpMSjlpS1M4SW10NlhFYjkxdFBhR2xQeHJqeVFiNmFHTV9LLUp6R0NEdVllMHJKNmRvQzlVVW1ScVZMLWJOVDlNR1NfbkE1ZXFXdVZmSVhBTlR4Z9IBdkFVX3lxTE4yQktnVkRPdjhpLUIwR0VvLUdtQVFkY0t4LTY5SDgzS0Z0OHoxSUd1R0Vtd1ZrVlltNGd1SWV3X3RhR2hERHhPamRUVTZTVUdnN2xfa1c3RHoweWY2R2hiN1NLUUF1dENRNzJvdFRkbnhwNy13bnc?oc=5",
+      "source": "시사저널e",
+      "published": "2026-11-12T11:12:03+09:00",
+      "category": "자동차",
+      "description": "美 HEV에 힘 싣는 현대트랜시스···현지화 가속도 시사저널e",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n004",
+      "related_articles": [],
+      "summary": "현대트랜시스가 미국 시장 내 하이브리드(HEV) 차량 수요 증가에 대응하여 현지화 전략을 가속화하고 있다. 이는 북미 시장의 전동화 및 친환경차 전환 흐름에 맞춘 대응으로 평가된다.",
+      "impact": "현대트랜시스의 북미 현지화 확대는 관련 부품의 현지 조달 비중 변화를 의미하며, 향후 북미 물류 및 공급망 운영 전략에 영향을 줄 수 있다.",
+      "importance": "보통",
+      "detail": {
+        "background": "북미 시장 내 하이브리드 차량 판매 호조에 따른 부품 공급 전략 변화.",
+        "key_points": [
+          "미국 HEV 시장 성장세 대응",
+          "현대트랜시스의 현지화 전략 강화"
+        ],
+        "what_to_watch": "현대트랜시스의 북미 현지 생산 품목 확대 및 공급망 변화.",
+        "fact_check": "현지화 가속화의 구체적인 실행 방안 및 투자 규모 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "f5698feae5f3c280",
+      "image_url": ""
+    }
+  ]
+}
