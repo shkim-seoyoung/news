@@ -67,11 +67,36 @@
       ],
       "section": "산업·업무",
       "event_cluster": "batch0-n001",
-      "related_articles": [],
-      "summary": "국내 주요 제조업체들의 미국 현지 생산 확대가 가속화되면서 국내 산업 기반 약화와 일자리 감소에 대한 우려가 제기되고 있습니다. 자동차, 철강, 조선 등 핵심 산업의 해외 이전이 국내 고용 생태계에 미칠 영향이 주목받고 있습니다.",
-      "impact": "국내 제조업의 해외 이전은 장기적으로 국내 부품 공급망 및 CKD 물량에 영향을 줄 수 있는 산업적 구조 변화로 모니터링이 필요합니다.",
+      "related_articles": [
+        {
+          "title": "자동차 공장·조선소 미국행…국내 제조업 기반·일자리 감소 ‘경보’ - 한겨레",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5idWxQbURwSmVJUkxmRkRhc0h1cGVIRkgwM3ZZYnJwWndnV0dndGFOMWZwbGI5LXN3SUwzb3VvRjQ2dEtTSkRMSFhpTVF6Q1RwZ2pwdmFLbDVmVGxXelpkV3JBVmdTTVloaVR4RC05REMyQQ?oc=5",
+          "source": "한겨레",
+          "published": "2026-11-12T07:24:00+09:00"
+        }
+      ],
+      "summary": "국내 주요 제조업체들이 미국 현지 생산 시설을 확대함에 따라 국내 산업 기반 약화와 일자리 감소에 대한 우려가 제기되고 있습니다. 자동차, 제철, 조선 등 핵심 산업의 해외 이전이 가속화되면서 국내 제조업 생태계의 공동화 현상이 심화될 것이라는 경고가 나오고 있습니다.",
+      "impact": "국내 제조업의 해외 이전은 장기적으로 국내 부품 공급망 및 물류 수요에 영향을 미칠 수 있는 산업 동향입니다. 향후 국내 생산 물량 변화가 CKD 수출 및 관련 물류 인프라 운영에 미칠 영향을 모니터링할 필요가 있습니다.",
       "importance": "보통",
       "detail": {
+        "background": "미국 인플레이션 감축법(IRA) 등 현지 생산을 유도하는 글로벌 통상 환경 변화로 인해 국내 기업들의 미국 투자가 급증하고 있습니다.",
+        "key_points": [
+          "자동차, 제철, 조선 등 주력 제조업의 미국 현지 공장 증설 가속화",
+          "국내 제조업 기반 약화 및 고용 창출력 저하 우려",
+          "산업 공동화 방지를 위한 국내 투자 유인책 필요성 대두"
+        ],
+        "what_to_watch": "정부의 국내 제조업 경쟁력 강화 대책 및 기업들의 국내외 생산 비중 조정 추이",
+        "fact_check": "제조업 해외 이전이 실제 국내 고용 및 생산에 미치는 구체적인 수치와 영향력 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "d42af7b33678a10b",
+      "image_url": "",
+      "original_summary": "국내 주요 제조업체들의 미국 현지 생산 확대가 가속화되면서 국내 산업 기반 약화와 일자리 감소에 대한 우려가 제기되고 있습니다. 자동차, 철강, 조선 등 핵심 산업의 해외 이전이 국내 고용 생태계에 미칠 영향이 주목받고 있습니다.",
+      "original_detail": {
         "background": "미국 인플레이션 감축법(IRA) 등 현지 생산을 유도하는 정책 환경 변화로 인해 국내 기업들의 대미 투자 및 생산 시설 이전이 증가하는 추세입니다.",
         "key_points": [
           "자동차, 철강, 조선 등 주력 제조업의 미국 현지 생산 비중 확대",
@@ -80,14 +105,7 @@
         ],
         "what_to_watch": "정부의 국내 제조업 경쟁력 강화 대책 및 기업들의 국내외 생산 배분 전략 변화",
         "fact_check": "제조업 해외 이전이 실제 국내 고용 및 협력사 물량에 미치는 구체적 수치 확인 필요"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "75f9744c3a554a76",
-      "image_url": ""
+      }
     },
     {
       "id": "6d89ed3ea492c1",
@@ -669,7 +687,7 @@
         "미국"
       ],
       "section": "산업·업무",
-      "event_cluster": "batch0-n004",
+      "event_cluster": "batch0-n005",
       "related_articles": [],
       "summary": "현대차가 미국 현지에서 투싼 하이브리드 모델을 생산하기로 결정하며 정의선 회장의 현지화 전략이 구체화되고 있습니다. 이에 따라 국내 울산 공장의 생산 물량 및 수출 전략에 대한 재검토 필요성이 제기됩니다.",
       "impact": "미국 현지 생산 확대는 국내 수출 물량의 변화를 의미하며, 이는 CKD 포장 및 물류 운영 계획에 영향을 미칠 수 있는 요소입니다.",
@@ -1411,6 +1429,331 @@
       "priority_markets": [
         "미국"
       ]
+    },
+    {
+      "id": "4280d64be86947",
+      "title": "반도체 호황인데 체감경기 달라…정부, 양극화 대응 TF 가동 - 위클리서울",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42ODV4Y2hvNXhQMUJCd0w3YjBWQU5YcWhZRmlGb2owcHNMWEMtWmxmVXNEdUluTU5YOUQ0cHE5TU11bkdldWJlN2NEVjNmZ18zQjdUQ3I4VVl2Y1QzSHB1b0d2SVF4M2xUeTlweg?oc=5",
+      "source": "위클리서울",
+      "published": "2026-11-12T11:54:36+09:00",
+      "category": "정치·정책",
+      "description": "반도체 호황인데 체감경기 달라…정부, 양극화 대응 TF 가동 위클리서울",
+      "priority_markets": []
+    },
+    {
+      "id": "dc1183e2e1b843",
+      "title": "與 김영진 \"집값 상승 고려…종부세 조정, 특별한 문제 안돼\" - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteDlkMHZSNTJGYVlRZDVfNmdFUm9UZGFiMV9OaGNWNVRkQjQ2Wl9PN19vVHE2V3h4VllaQ2Y0eDdZa29SQ1MzMXJ0S2FlOXNFRDlMSHB5T0paZw?oc=5",
+      "source": "한국경제",
+      "published": "2026-11-12T11:12:17+09:00",
+      "category": "정치·정책",
+      "description": "與 김영진 \"집값 상승 고려…종부세 조정, 특별한 문제 안돼\" 한국경제",
+      "priority_markets": []
+    },
+    {
+      "id": "291a96160195ab",
+      "title": "태안 격렬비열도 인근 해상서 1t 밍크고래 혼획 - 굿모닝충청",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xS2x3YUxiV2w4TDBFa3NsaV9meGltZ2FCVUVNbExVNlNRaTYzYzUtUGwwVzVub2RSWmJ4SWNpamwwTHZYS3ZGeFZLcVZWVF9ZczVyUXhtWk1ib0s2YU9PUGhwNnRmYlI0b2lDUEJDV3dfZw?oc=5",
+      "source": "굿모닝충청",
+      "published": "2026-11-12T10:56:50+09:00",
+      "category": "국내 주요 사건",
+      "description": "태안 격렬비열도 인근 해상서 1t 밍크고래 혼획 굿모닝충청",
+      "priority_markets": []
+    },
+    {
+      "id": "88f0a1ade5cba4",
+      "title": "거주하면 14억, 안 살면 12억…엇갈린 종부세 공제액 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0el9zN2dYZ3ltOGg2MjFWbjlJVmtIZUxHSWEtZGVlRkQwdlNzRjBFUmh0RkZZOXY0cFY3RWlXSWd6YlVtMHlwRHkyT2JxUVlZQkRWRmJHcUNFQQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-11-12T10:32:00+09:00",
+      "category": "정치·정책",
+      "description": "거주하면 14억, 안 살면 12억…엇갈린 종부세 공제액 한국경제",
+      "priority_markets": []
+    },
+    {
+      "id": "13c9562f90f8e9",
+      "title": "성북 15살 소녀 살해·분당 연쇄 추돌...이번주 주요 사건사고 [뉴스퀘어10] - YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PQUExeXI1NkVWUVI3ME1Nam9jUDVMZWs1OHJ5WFBtNm02WkRIWXREdzNRLWpCcmltbGJwb3FtTEEtR1lIWXNfTkpBZm1IY05tNXliXzBZWnBQVVc1dlE?oc=5",
+      "source": "YTN",
+      "published": "2026-11-12T10:32:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "성북 15살 소녀 살해·분당 연쇄 추돌...이번주 주요 사건사고 [뉴스퀘어10] YTN",
+      "priority_markets": []
+    },
+    {
+      "id": "c2508597788b58",
+      "title": "나란히 선 이 대통령-이재용... 삼성전자 온양 캠퍼스서 메가프로젝트 '첫 삽' - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DTzJGQlQ3RXhkTDZvU09jYVU5N0xkT0pHMExDcl9QY1NteWFTR1BDTGprM2wxMmlfa0xsV3NONVFqaEN4U29jZUlCT3E0TVlTU0wzSWpGUHY3eHhneGFmVDk3UlBiUlpnZFVJSzZn0gFzQVVfeXFMTXljUmYwWGtKUWZhQ3NUVjROVjhQdHFqSHo3VHp0N21YY1pVTjlTMWNoTUVKN09LcXRyRDBkRHJuREZFYWl0c3FpRFYtWUtIUjRaeVJmQnlSTjcxdHVxeGtkU3NkMlV1VFJCVFo5b1U5Z2NPWQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-12T10:32:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "나란히 선 이 대통령-이재용... 삼성전자 온양 캠퍼스서 메가프로젝트 '첫 삽' 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "25d4c79527f7a6",
+      "title": "美 연준 12월 금리 인상 기정사실화…인상폭 주목 - 스페셜경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSS3NPYUg5WlUzLTZIX21haFJxWnNsVWMxRmdnRjhvYVE0TGstMjNlUTkxZ1lvQk9VQVlpN2JnQWRRdFllTUFHYTh3WTZBNW1xZzI1UnUtX055R2RCTHJCZTl4V3RSNEViZW1YMA?oc=5",
+      "source": "스페셜경제",
+      "published": "2026-11-12T10:09:35+09:00",
+      "category": "경제·금융",
+      "description": "美 연준 12월 금리 인상 기정사실화…인상폭 주목 스페셜경제",
+      "priority_markets": []
+    },
+    {
+      "id": "79a4f49e01c171",
+      "title": "이 대통령, APEC·아세안 참석차 16일 출국...시진핑 만난다 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Sd2d3YmRHODZPREhndjd3MmVqZVozbHU2bG5rd19XOGJYMi1HLUlEN1poRDBwWHQzYW9DT3M0bzIxTEk1ZjFJUVRjT1VFZy1SbFE5NDdaeFVxb1lEcVJnUGxTMnZjY05KY0Zpcm530gFzQVVfeXFMTkVkMHg2VTI2RDRnd1FKSTVKZktzRTRuMjViZHJnZVFqejdfNmhfdFNmVWxzcXdmczdEbFlXMXIyUE9zSThLOUxQVmxYTDJ6bnFKaV85ZXh5bm1scV9yeXhvQkctTzVSRlZ2aXR5UC1CTWZVUQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-12T09:35:00+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령, APEC·아세안 참석차 16일 출국...시진핑 만난다 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "a7fa8d8442d0d1",
+      "title": "아들 연루 사건 맡은 경찰관, 직무유기 혐의 수사 - 굿모닝충청",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tU1ZCWF9XM05OdXB4cERIUHl4aHNMRVVXS2tGZFVQWl9nSVV0VzdmUzczeEVURlgwcmJtek1FSThSTm5YcjFsTXZHR1FwUU1CbTYwZ21aOEhyVlZMRXRQaEloMXg1Y0JNTXpRT0wtSV9OZw?oc=5",
+      "source": "굿모닝충청",
+      "published": "2026-11-12T09:22:08+09:00",
+      "category": "국내 주요 사건",
+      "description": "아들 연루 사건 맡은 경찰관, 직무유기 혐의 수사 굿모닝충청",
+      "priority_markets": []
+    },
+    {
+      "id": "95237302e85107",
+      "title": "\"삼양식품, 베트남 공장 증설로 중장기 매출 6조원 돌파 가능\"-키움 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtLVVRQi0xSVBZTFRQOVhSYnFaVmduTUtwWnBkZG4xc2ZwbkhueGloOXRoN3F5Nmo0WHFOcTJrYW8xQlpCU25WS3VjZDFOaWx3azVYOTVTUFZ5UUswamhFc051eGJ5NWtC0gFuQVVfeXFMUDZuOExvTzhCb2VLMWNGaW1xNzVBbVo5UjlQdGNMYmY4TzktTm1nMjR6cFdOTFBTWG1ZdUxkaGhWalFzZnZaaXAxZ2xXbmFpNjF1aWp3U2dIdDdBVWVoaEFmdGVXYVZQRURvWlZza3c?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-12T08:46:48+09:00",
+      "category": "자동차",
+      "description": "\"삼양식품, 베트남 공장 증설로 중장기 매출 6조원 돌파 가능\"-키움 - 머니투데이 머니투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "4e5d96945966f5",
+      "title": "안성 평택제천고속도로 금광1터널서 차량 화재…제천방향 한때 통제 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UNjNtdTJIbFlSaWpMeG5TbzA2bEdqMWlVU2MxYjlqeURtTGlXaXlqYmtNek1jV0pLcjFkd0NBdFpHWXRScGM2Sm1nMEE1SVpEbnRaQTh5QWJaSWM?oc=5",
+      "source": "경기일보",
+      "published": "2026-11-12T08:27:02+09:00",
+      "category": "국내 주요 사건",
+      "description": "안성 평택제천고속도로 금광1터널서 차량 화재…제천방향 한때 통제 경기일보",
+      "priority_markets": []
+    },
+    {
+      "id": "6cd4fc7ff1451a",
+      "title": "‘Two giants, Samsung and Hyundai Motor’ join hands to shake up the global EV ‘playing field’ - 스포츠경향",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YWmVoM05sa1JoelgtbnI3bExTSmhDZUJCLXN5NXJ5UlhSTXRRZU9CT3JPYnNFRHMteF81YWdsYU9PWm4wWTRfclhld2hiUkpMR0pVSEJrMjZEMTUtM1FpUlFn?oc=5",
+      "source": "스포츠경향",
+      "published": "2026-11-12T07:32:00+09:00",
+      "category": "자동차",
+      "description": "‘Two giants, Samsung and Hyundai Motor’ join hands to shake up the global EV ‘playing field’ 스포츠경향",
+      "priority_markets": []
+    },
+    {
+      "id": "86a3abb5cdedbb",
+      "title": "자동차 공장·조선소 미국행…국내 제조업 기반·일자리 감소 ‘경보’ - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5idWxQbURwSmVJUkxmRkRhc0h1cGVIRkgwM3ZZYnJwWndnV0dndGFOMWZwbGI5LXN3SUwzb3VvRjQ2dEtTSkRMSFhpTVF6Q1RwZ2pwdmFLbDVmVGxXelpkV3JBVmdTTVloaVR4RC05REMyQQ?oc=5",
+      "source": "한겨레",
+      "published": "2026-11-12T07:24:00+09:00",
+      "category": "자동차",
+      "description": "자동차 공장·조선소 미국행…국내 제조업 기반·일자리 감소 ‘경보’ 한겨레",
+      "priority_markets": [
+        "미국"
+      ]
+    },
+    {
+      "id": "d4fb990a40764f",
+      "title": "포화 폴리에스터 수지 시장 2035년 전망: 코팅·복합소재가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMk9Ta3lZemxTRWtGUGhGNXNxQ0JMdndiYTVfUzUzWmp6S0hsRFVKNXI2TFo2eXFvbHVMVExGcjh4QXRwWTVNeFlrYWdQSEJ6bnN6SXpfc1FsaXk5UWtJUmF2TnBSMndOS3pCdjVqUTR5ZnZYM3RjWTN5ZUdBVGc0UG5iaWFtSHo0Q0NjM0gwczFwQnNfX0I3WEkxeFJQV1pOdmF3TC1WUFVLWjBISXNWUzVqYjBBY2drMml6SVd0Smo?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-12T07:16:03+09:00",
+      "category": "자동차",
+      "description": "포화 폴리에스터 수지 시장 2035년 전망: 코팅·복합소재가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "9036015665bed2",
+      "title": "터미널 페룰 시장 2035년 전망: 자동화와 전기화가 수요 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYjR4Q25nMF9UR25md0piQ2RyX2ZGalhUTjRjZGNMMUoxQ1h2cnNxaWptQWN5aUxpcVhRUmd3cXJ6SGdIZ3VaSGpTS0FIM244VzcwczZtenAzM1JpeGtrenVzTFFSU1ZzdUd4T0thYUI5LUszUDhvc1Q2TlR0dkY2anVJNFNfU1ROWmpxSnBtTnNFUU5Za0RDdkxoQ1VBS0pJTkhRcy00LU9JVk9IeUFDUzlJM3N3d2FuYVRzNkFqREliV0hvX2N6Q1ZZNVJNZm5NMlE?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-12T07:11:04+09:00",
+      "category": "자동차",
+      "description": "터미널 페룰 시장 2035년 전망: 자동화와 전기화가 수요 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "85fb31493192b3",
+      "title": "2035년 고온용 실 시장 전망: 항공우주 수요와 효율 개선이 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmJJVHVISlczNnkyZG83elpxUE9vR0wzUWVjSDBZMWhuaWxtcHVsaWxvLXVDYUl2Y3ZFUFpPU2pnT05HX2wzeU1ZT1ZWd2o1SWtiRHUzeUhPZW01bjNGM2xtQ2ZyWEc3eGxnREpKLWszVUJGdU0yakJESVFzX21TenpoOXBKVzFPZHlNZGRyOUVXVmRlWjZ4UEktNWtVN0c1TktIVHRwa2ZvUXpsUHQxbEJDbFNLZnYyN2E1c3JScVVleVRVLU5nMlZkMHdxQ3Q4eE5zdGt0cw?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-12T07:06:04+09:00",
+      "category": "자동차",
+      "description": "2035년 고온용 실 시장 전망: 항공우주 수요와 효율 개선이 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "e9a2a13fb9dfbf",
+      "title": "폴리에스터 방적사 시장, 패스트패션 수요와 테크니컬 텍스타일 성장에 힘입어 2035년까지 확대 전망 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObWI1YlBpVkJBUUR3dzNxdWJIYTl3M3pUNl9hRnE3QWZUYVUwMUR3c0Q2ZVFiQk5ONmQ2WlRxekxzYy1FM2NpcnBMaFhfVGFEMzMyb3N2R0lOdjV4VFZYeXJvSE5xeHlFRXM0cHVFV000UWgtM2tnZGhoVkFPbS16Y1BXVDFSN3V4STM5eFo2UUZfTlpHTk1RNnJGU1Eza0t3QzJFNU4wTDY4eF9WTTJTcEtRUmlkMmlDZVJaM0stS1c5d2VWLTVmMDBidTY1cEk4XzRXNmdjU1hFdktMckl6RmxsMFo?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-12T06:11:03+09:00",
+      "category": "자동차",
+      "description": "폴리에스터 방적사 시장, 패스트패션 수요와 테크니컬 텍스타일 성장에 힘입어 2035년까지 확대 전망 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "25f7d15497b277",
+      "title": "2035년 투명 디스플레이 시장 전망: 리테일·자동차 융합으로 수요 가속 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYlN0cXgxZTlvOHVlakxZOVFCZFNXVjRVd1hSa3dwdk1ReVZSYWpzTDVESDZTVlR2Rjl1Qy1mT0NTX3F5UVBjTi1wTUFVVHFCVmtXWERSRndiM1VSRWhDeXQzWi1yQWpKQnZsRGo5MUNoYWYwTktBUzhNMUJnTVVwdDJoMHhZWEFZbjM2RTViMEs3R0tzTWhVOUZFQzhoM1YyVk9WMEhlU0NmUTRYSWhIVVgwbk9VTFRFZElNWjFKUVlBSlI0Qkx5VmFlTS15ekZOYkJ3aFJB?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-12T05:16:04+09:00",
+      "category": "자동차",
+      "description": "2035년 투명 디스플레이 시장 전망: 리테일·자동차 융합으로 수요 가속 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "b49dbf5be1761b",
+      "title": "美빅스텝 공포 뚫고 韓증시 반도체 앞세워 상승… 불안은 여전 - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iTVl6SjY1eXgzMk9VZXQyc1MyTWJTbGlJNmtVOS0xb2NzTVBYR3NlczdpNFFxQ2FnOFFqMjdlTHJyWGNLc1B5WnhycVdXa3ZqTDRUUUZxT2xycTNHQS1SUkltbkIwbzJlMzYzSy1qTHhOZ2RXUmFpbFJ3c1FjQQ?oc=5",
+      "source": "서울신문",
+      "published": "2026-11-12T00:58:00+09:00",
+      "category": "경제·금융",
+      "description": "美빅스텝 공포 뚫고 韓증시 반도체 앞세워 상승… 불안은 여전 서울신문",
+      "priority_markets": []
+    },
+    {
+      "id": "4334fc6d1247fc",
+      "title": "법무부, 비엔나·홍콩·서울서 ISDS 국제 세미나 개최…법무 외교 시동 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0WFhJLURPTkc2RU5GVDFaYTcyd3pRd1k0WFhhT1hDZFNyaFlKVk1nejJZUkkzSGZQcDRFaV9ySlltdkRLc0xjY1pOLUZacHZJOHZ6MzlzeDjSAVhBVV95cUxQdFhYSS1ET05HNkVORlQxWmE3Mnd6UXdZNFhYYU9YQ2RTcmhZSlZNZ3oyWVJJM0hmUHA0RWlfckpZbXZES3NMY2NaTi1GWnB2STh2ejM5c3g4?oc=5",
+      "source": "아주경제",
+      "published": "2026-11-11T16:45:02+09:00",
+      "category": "국제·외교",
+      "description": "법무부, 비엔나·홍콩·서울서 ISDS 국제 세미나 개최…법무 외교 시동 아주경제",
+      "priority_markets": []
+    },
+    {
+      "id": "6ab55a89ebd410",
+      "title": "한국증시 급락에 정부 3개월 긴급 방어막력 총력 - 영남경제",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUa05kTXh4SEFNUUVkSTdWdWUtVk80REptclZncWdfNlZHbjB3VmNvNWVJZEdEd2F3QTZTZ1lIRklhTkhIZVNzOURUN2lXLWdTeUszVlhkOUZtbUkteVZ1U2ViOTVlX1k?oc=5",
+      "source": "영남경제",
+      "published": "2026-11-11T15:50:59+09:00",
+      "category": "경제·금융",
+      "description": "한국증시 급락에 정부 3개월 긴급 방어막력 총력 영남경제",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n004",
+      "related_articles": [],
+      "summary": "한국 증시의 급격한 하락세에 대응하기 위해 정부가 향후 3개월간 긴급 시장 방어 조치를 시행하기로 했습니다. 금융 시장의 변동성을 완화하고 투자 심리를 회복시키기 위한 총력 대응 체계를 가동할 방침입니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "최근 국내 증시가 대내외적 요인으로 인해 큰 폭의 하락세를 보이면서 시장 안정화 조치의 필요성이 커졌습니다.",
+        "key_points": [
+          "정부의 3개월 집중 시장 방어 조치 시행",
+          "금융 시장 변동성 완화 및 투자자 보호 강화",
+          "시장 상황에 따른 추가 대응책 마련 가능성"
+        ],
+        "what_to_watch": "정부의 구체적인 시장 안정화 정책 내용 및 증시 반응",
+        "fact_check": "정부의 긴급 방어막 정책의 구체적인 실행 방안과 시장 영향력 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "8831b54c74cd7bb1",
+      "image_url": ""
+    },
+    {
+      "id": "c17b38d7fa417c",
+      "title": "김영빈 \"지천댐 일방 추진은 행정폭력…주민 설득이 먼저\" - 굿모닝충청",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VUkRUVUFZTFliT1VYeXdlSXBmc283VlMydF8yOUREOG9jdjRqMEdlVEN4LUtfd0owVHdDcHFibEJMeFhMVWd1RGh4ZHFZbGlIa3gzYzY0bm14M2t6X1BxQzZpWUFWMnpveHQyd3hLcEcyZw?oc=5",
+      "source": "굿모닝충청",
+      "published": "2026-11-11T15:40:43+09:00",
+      "category": "정치·정책",
+      "description": "김영빈 \"지천댐 일방 추진은 행정폭력…주민 설득이 먼저\" 굿모닝충청",
+      "priority_markets": []
+    },
+    {
+      "id": "3985d9416be80d",
+      "title": "국산 태양광 무인기, 성층권 170시간 비행 성공…세계 두 번째 장기 체공 기록 - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ROUFfMWQ5Y2pLX2xNQVpRUmY1d25IcmNoN2NYX2NVNWQwZkQxVktuNVR1QWJwT0dQU2xmeEk4YVdvT3haRl94YlFKcEVka2RSLWNqSHBEcDhXOEY1M2RKX1lHYzMycmlrVS00?oc=5",
+      "source": "서울뉴스통신",
+      "published": "2026-11-11T15:00:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "국산 태양광 무인기, 성층권 170시간 비행 성공…세계 두 번째 장기 체공 기록 서울뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "57ae9bacf910a1",
+      "title": "미 물가·금리 부담 속 국내 증시 오름세 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xdUU2ZWtHRTgzTjlGSld2NFdNeUlKa2hLS1dZbVZ4UmVaZ1hSZm1PZERSUzFFaktoYXFuMi1SNzZJVHdIamtKRmJKWTUzQVJyZktKWmVHdTlkUU1oV1BVRG5BUm9OQXNTS1A0blVOUEN4dw?oc=5",
+      "source": "한겨레",
+      "published": "2026-11-11T11:12:00+09:00",
+      "category": "경제·금융",
+      "description": "미 물가·금리 부담 속 국내 증시 오름세 한겨레",
+      "priority_markets": []
+    },
+    {
+      "id": "af63bd5330a111",
+      "title": "＂12월 0.5%p 인상＂ 빅스텝까지… 뉴욕증시 하루 만에 냉기 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrMVloTUN4LURzdlRuampQNGdrT1pqV0tXX1cwZTJoRUo0MlpsTjVFZ3IzenZFcEJkN1VXRWNaS3ZrMW5JUnJYZzlOQ1o3TldfR1lraVpMNzl1LVhka21BSEFLTGt5Q2NlQXZEWHVoYndMUG1NZzF3?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-11T06:22:00+09:00",
+      "category": "경제·금융",
+      "description": "＂12월 0.5%p 인상＂ 빅스텝까지… 뉴욕증시 하루 만에 냉기 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "33fa811cb1977e",
+      "title": "밀레이 긴축정책에 경종 울렸나…교황, 약자·노동자 권리 역설 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9raWxlWTNWMWJYaUh3SkNpOGh1SHpCR1Z6Y2djaWV5VS1oUDdIY1Z6ejNPaU5RaEVrdmh4bnJoUl92U2ZrMjlHTS1BTHRDSE8xNmVJdVh3dzJJWFdqcERFSNIBYEFVX3lxTE9raWxlWTNWMWJYaUh3SkNpOGh1SHpCR1Z6Y2djaWV5VS1oUDdIY1Z6ejNPaU5RaEVrdmh4bnJoUl92U2ZrMjlHTS1BTHRDSE8xNmVJdVh3dzJJWFdqcERFSA?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-11-11T04:51:19+09:00",
+      "category": "정치·정책",
+      "description": "밀레이 긴축정책에 경종 울렸나…교황, 약자·노동자 권리 역설 연합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "e3b088bdbe1b52",
+      "title": "[사설] 與 신천지 조직적 입당 정황, 뭉개다간 특검 간다 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YYXFYVXM1cmxkc2dsNlVmMUVoRFRtSHN4VFNvQzNMYWZMWWFIZEgyOW9YWWdpMzNsOGhzMC1hZ3NXdXAycE4zMXBUUGFCcEhic3JDc09mdHZQUUxOb3lmSHNBaWkxa3JNcXhlNF9R0gFzQVVfeXFMTmdqMzhyajhvdzlBandPMElMZkVkY2ExNm9oZTZHbHlNc2VTRWkxZjFmc2lKY0VKSHFKZjYya2xBNFk3LS04enNMdWtJQUVLNWpNVGJQMUtmLXh5Q0tzeEhYNEY5eGgzSktxeERQdEtJdUpLRQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-11T00:10:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "[사설] 與 신천지 조직적 입당 정황, 뭉개다간 특검 간다 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "e059ccc9557554",
+      "title": "[이상헌의 밸류체인지]리스크 이미 반영된 한국 증시, 조만간 바닥 확인 가능 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HQ3BLZmRtOFpadkUtUTJVUTlidHZHLUFzVDFPQ0xPUWhJUzl6NTFzc00wVG9rZ3hMRWNobjMxX3ZEd0Z5SDN3SlA1OHRhS1pEODZrSFhXRjNfSFVWXzhF0gFfQVVfeXFMTkdDcEtmZG04Wlp2RS1RMlVROWJ0dkctQXNUMU9DTE9RaElTOXo1MXNzTTBUb2tneExFY2huMzFfdkR3RnlIM3dKUDU4dGFLWkQ4NmtIWFdGM19IVVZfOEU?oc=5",
+      "source": "경향신문",
+      "published": "2026-11-10T20:26:00+09:00",
+      "category": "경제·금융",
+      "description": "[이상헌의 밸류체인지]리스크 이미 반영된 한국 증시, 조만간 바닥 확인 가능 경향신문",
+      "priority_markets": []
+    },
+    {
+      "id": "83ed07a882bf8e",
+      "title": "증시 반등에 원/달러 환율 이틀째 하락…1330원대 재진입 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLUExNc0JiNm1US1VQQktPWVcxeHhoNERDUk1EUTh2b3gxcm1UNXNsWVVZOFRTbUc5eFAzTkhYNFZSSlJSLW5YbUxISjVsSlJtcTlINmxtY05WVHJsV2QzejBPMUNwbFg1ajkwcWE4cm3SAXBBVV95cUxQS1BMTXNCYjZtVEtVUEJLT1lXMXh4aDREQ1JNRFE4dm94MXJtVDVzbFlVWThUU21HOXhQM05IWDRWUkpSUi1uWG1MSEo1bEpSbXE5SDZsbWNOVlRybFdkM3owTzFDcGxYNWo5MHFhOHJt?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-10T16:40:41+09:00",
+      "category": "경제·금융",
+      "description": "증시 반등에 원/달러 환율 이틀째 하락…1330원대 재진입 - 머니투데이 머니투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "e00c1770ec113f",
+      "title": "북 김여정, 유엔 사무총장에 \"지뢰 사고 전가하는 파렴치 한국 대변\" - YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YbGtsM2ZSRlZrOVA1Wnl6RHgzN2l0X1Z3T3Jwa0d6WjFsNWpBakR0b0ZxeUVxVmF1RGMzMm1HX3JqRnhCRVJuTVRUdjFxZlVraXc4UFZQYmhOX1M4UFE?oc=5",
+      "source": "YTN",
+      "published": "2026-11-10T15:37:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "북 김여정, 유엔 사무총장에 \"지뢰 사고 전가하는 파렴치 한국 대변\" YTN",
+      "priority_markets": []
     }
   ]
 }

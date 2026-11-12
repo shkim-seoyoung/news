@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
-  "updated_at": "2026-11-12T07:39:35.241431+09:00",
-  "article_count": 4,
+  "updated_at": "2026-11-12T12:39:22.141805+09:00",
+  "article_count": 5,
   "ai_enabled": true,
   "articles": [
     {
@@ -17,11 +17,36 @@
       ],
       "section": "산업·업무",
       "event_cluster": "batch0-n001",
-      "related_articles": [],
-      "summary": "국내 주요 제조업체들의 미국 현지 생산 확대가 가속화되면서 국내 산업 기반 약화와 일자리 감소에 대한 우려가 제기되고 있습니다. 자동차, 철강, 조선 등 핵심 산업의 해외 이전이 국내 고용 생태계에 미칠 영향이 주목받고 있습니다.",
-      "impact": "국내 제조업의 해외 이전은 장기적으로 국내 부품 공급망 및 CKD 물량에 영향을 줄 수 있는 산업적 구조 변화로 모니터링이 필요합니다.",
+      "related_articles": [
+        {
+          "title": "자동차 공장·조선소 미국행…국내 제조업 기반·일자리 감소 ‘경보’ - 한겨레",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5idWxQbURwSmVJUkxmRkRhc0h1cGVIRkgwM3ZZYnJwWndnV0dndGFOMWZwbGI5LXN3SUwzb3VvRjQ2dEtTSkRMSFhpTVF6Q1RwZ2pwdmFLbDVmVGxXelpkV3JBVmdTTVloaVR4RC05REMyQQ?oc=5",
+          "source": "한겨레",
+          "published": "2026-11-12T07:24:00+09:00"
+        }
+      ],
+      "summary": "국내 주요 제조업체들이 미국 현지 생산 시설을 확대함에 따라 국내 산업 기반 약화와 일자리 감소에 대한 우려가 제기되고 있습니다. 자동차, 제철, 조선 등 핵심 산업의 해외 이전이 가속화되면서 국내 제조업 생태계의 공동화 현상이 심화될 것이라는 경고가 나오고 있습니다.",
+      "impact": "국내 제조업의 해외 이전은 장기적으로 국내 부품 공급망 및 물류 수요에 영향을 미칠 수 있는 산업 동향입니다. 향후 국내 생산 물량 변화가 CKD 수출 및 관련 물류 인프라 운영에 미칠 영향을 모니터링할 필요가 있습니다.",
       "importance": "보통",
       "detail": {
+        "background": "미국 인플레이션 감축법(IRA) 등 현지 생산을 유도하는 글로벌 통상 환경 변화로 인해 국내 기업들의 미국 투자가 급증하고 있습니다.",
+        "key_points": [
+          "자동차, 제철, 조선 등 주력 제조업의 미국 현지 공장 증설 가속화",
+          "국내 제조업 기반 약화 및 고용 창출력 저하 우려",
+          "산업 공동화 방지를 위한 국내 투자 유인책 필요성 대두"
+        ],
+        "what_to_watch": "정부의 국내 제조업 경쟁력 강화 대책 및 기업들의 국내외 생산 비중 조정 추이",
+        "fact_check": "제조업 해외 이전이 실제 국내 고용 및 생산에 미치는 구체적인 수치와 영향력 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "d42af7b33678a10b",
+      "image_url": "",
+      "original_summary": "국내 주요 제조업체들의 미국 현지 생산 확대가 가속화되면서 국내 산업 기반 약화와 일자리 감소에 대한 우려가 제기되고 있습니다. 자동차, 철강, 조선 등 핵심 산업의 해외 이전이 국내 고용 생태계에 미칠 영향이 주목받고 있습니다.",
+      "original_detail": {
         "background": "미국 인플레이션 감축법(IRA) 등 현지 생산을 유도하는 정책 환경 변화로 인해 국내 기업들의 대미 투자 및 생산 시설 이전이 증가하는 추세입니다.",
         "key_points": [
           "자동차, 철강, 조선 등 주력 제조업의 미국 현지 생산 비중 확대",
@@ -30,14 +55,7 @@
         ],
         "what_to_watch": "정부의 국내 제조업 경쟁력 강화 대책 및 기업들의 국내외 생산 배분 전략 변화",
         "fact_check": "제조업 해외 이전이 실제 국내 고용 및 협력사 물량에 미치는 구체적 수치 확인 필요"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "75f9744c3a554a76",
-      "image_url": ""
+      }
     },
     {
       "id": "f7ee415ab2a2f8",
@@ -106,6 +124,39 @@
       "image_url": ""
     },
     {
+      "id": "6ab55a89ebd410",
+      "title": "한국증시 급락에 정부 3개월 긴급 방어막력 총력 - 영남경제",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUa05kTXh4SEFNUUVkSTdWdWUtVk80REptclZncWdfNlZHbjB3VmNvNWVJZEdEd2F3QTZTZ1lIRklhTkhIZVNzOURUN2lXLWdTeUszVlhkOUZtbUkteVZ1U2ViOTVlX1k?oc=5",
+      "source": "영남경제",
+      "published": "2026-11-11T15:50:59+09:00",
+      "category": "경제·금융",
+      "description": "한국증시 급락에 정부 3개월 긴급 방어막력 총력 영남경제",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n004",
+      "related_articles": [],
+      "summary": "한국 증시의 급격한 하락세에 대응하기 위해 정부가 향후 3개월간 긴급 시장 방어 조치를 시행하기로 했습니다. 금융 시장의 변동성을 완화하고 투자 심리를 회복시키기 위한 총력 대응 체계를 가동할 방침입니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "최근 국내 증시가 대내외적 요인으로 인해 큰 폭의 하락세를 보이면서 시장 안정화 조치의 필요성이 커졌습니다.",
+        "key_points": [
+          "정부의 3개월 집중 시장 방어 조치 시행",
+          "금융 시장 변동성 완화 및 투자자 보호 강화",
+          "시장 상황에 따른 추가 대응책 마련 가능성"
+        ],
+        "what_to_watch": "정부의 구체적인 시장 안정화 정책 내용 및 증시 반응",
+        "fact_check": "정부의 긴급 방어막 정책의 구체적인 실행 방안과 시장 영향력 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "8831b54c74cd7bb1",
+      "image_url": ""
+    },
+    {
       "id": "b7e625a94f8d0a",
       "title": "[현대차 인사이드] 미국서 투싼 하이브리드 만든다…정의선의 현지화 전략, 울산 생산은 어떻게 되나 - S저널",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yVlhETG1FMmhPczBlQ3RKckU1dGpjV1JqZ193T3lKTEpLbDQwamNMUnZOdGs2Rlg1M0JqOXdxbktGbEE5TW9qcWNDZUtUdjNsaVNObDVLVHBJZmlyaElKZEo2Q0JJTnd6a0dqU29R?oc=5",
@@ -117,7 +168,7 @@
         "미국"
       ],
       "section": "산업·업무",
-      "event_cluster": "batch0-n004",
+      "event_cluster": "batch0-n005",
       "related_articles": [],
       "summary": "현대차가 미국 현지에서 투싼 하이브리드 모델을 생산하기로 결정하며 정의선 회장의 현지화 전략이 구체화되고 있습니다. 이에 따라 국내 울산 공장의 생산 물량 및 수출 전략에 대한 재검토 필요성이 제기됩니다.",
       "impact": "미국 현지 생산 확대는 국내 수출 물량의 변화를 의미하며, 이는 CKD 포장 및 물류 운영 계획에 영향을 미칠 수 있는 요소입니다.",
