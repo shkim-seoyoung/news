@@ -310,6 +310,30 @@
       "event_cluster": "batch0-n001",
       "related_articles": [
         {
+          "title": "기아, 인도에 2조6000억원 들여 두 번째 공장 짓는다... 연간 생산능력 46% 확대 - 인사이트",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nQVZodmFiSEJUX1VhT3JQQ2NEUDZEMy14RG1WM0ozY0JYVmlSbGljMWNzZHlXYzVHZjAyNlVPRWRUMHhMUGYyVEdWYWlmQQ?oc=5",
+          "source": "인사이트",
+          "published": "2026-11-13T10:05:43+09:00"
+        },
+        {
+          "title": "Kia to Invest $2 Billion in Second India Plant, Targeting 2030 Opening - 알파경제",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBESWdZVzVkMW5OXzZfWUtsVmVaWGYtMHI1UWI4Z19WY0VhUFdiVHNGUVJucVVPbjlJQ1k5U0JZSTU1TWZYQ0lVQnNibXQyeFVheTJpNzVDTjFUT19uMm5QazgzQzBmeGJyTjNBTnZ3?oc=5",
+          "source": "알파경제",
+          "published": "2026-11-13T06:00:00+09:00"
+        },
+        {
+          "title": "현대차그룹, 인도 연산 177만대 체제 추진⋯기아도 20억달러 들여 제2공장 - 엠투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0UVJSdUQ0aUR5b2NXdWFPSTBMRjFab0JQdko3U2psMG9fNnZ3SUY3ekx3T2pud0F3MWQxS0tiNWswZXc1V1BFaEY1eW5lam9fUU40OENlQ1ZFR1F0Vm5qcHdNLUl2MVE2M0VQNTY1TQ?oc=5",
+          "source": "엠투데이",
+          "published": "2026-11-13T08:10:00+09:00"
+        },
+        {
+          "title": "기아, 인도에 2.6조원 투자해 제2공장 건설…연 63만대 생산체제 구축 - 헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10aC01VGZYdjBmV2I3VHJhYk9SeEIxUWtDN0NSRzVHdEJWRGJXb1ZaclBMT3hPSTgzS3B0ZVpNODI0T1phWG9zNkMyQjBEYjBsYXluWENR?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-11-13T11:01:07+09:00"
+        },
+        {
           "title": "기아, 인도에 20억달러 투자해 제2공장 건설…연산 60만대 체제 구축 - 이투데이",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1saUtwQVVJUWszSG9Da2dPcFVrdlNFQ3hJYU9FN1p6aXJEZkhZWDktRDEtbkZSbVdxVi1CYnhRZ0U2WnBDTE52Tm1vUGJ6QlFMU3pkbmc1VXVoY2NhVUY1X2dPU2I2RmNvWXg1dkdB?oc=5",
           "source": "이투데이",
@@ -322,10 +346,28 @@
           "published": "2026-11-12T17:39:00+09:00"
         }
       ],
-      "summary": "기아가 인도 공장 증설을 위해 약 20억 달러(한화 약 2조 8천억 원) 규모의 투자를 단행할 계획이다. 이번 투자를 통해 기존 생산 능력을 확대하여 연간 63만 대 생산 체제를 구축하는 것을 목표로 한다.",
-      "impact": "인도 시장 내 기아의 생산 거점 확대는 CKD 부품 공급 물량 및 현지 물류 인프라 수요의 증가로 이어질 가능성이 있어 지속적인 모니터링이 필요하다.",
+      "summary": "기아가 인도 내 생산 능력 확대를 위해 약 20억 달러(한화 약 2조 6천억 원~2조 8천억 원) 규모의 투자를 단행하여 제2공장을 건설할 계획이다. 이번 투자를 통해 기아는 인도 내 연간 생산 능력을 63만 대 수준으로 끌어올려 시장 점유율을 확대할 방침이다.",
+      "impact": "인도 시장 내 기아의 생산 거점 확대는 향후 CKD 부품 공급 물량 및 현지 물류 인프라 수요 증가로 이어질 가능성이 높다. 현대차그룹의 인도 내 총 생산 능력 177만 대 체제 구축 전략과 연계하여 현지 공급망 최적화 및 부품 조달 전략을 점검할 필요가 있다.",
       "importance": "높음",
       "detail": {
+        "background": "인도 자동차 시장의 급격한 성장과 현대차그룹의 글로벌 생산 전략에 따라 기아가 인도 내 생산 시설 확충을 추진함.",
+        "key_points": [
+          "기아 인도 제2공장 건설을 위한 20억 달러 규모 투자 확정",
+          "연간 생산 능력 63만 대 체제 구축 목표",
+          "현대차그룹 전체 인도 생산 능력 177만 대 체제 추진의 일환"
+        ],
+        "what_to_watch": "기아의 공식적인 투자 발표 시점과 제2공장 가동 일정, 구체적인 생산 차종 및 현지화율 계획.",
+        "fact_check": "투자 금액 20억 달러 및 생산 목표 63만 대에 대한 기아 공식 입장 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "투자 금액은 20억 달러로 공통적이나, 한화 환산액이 매체별로 2조 6천억 원에서 2조 8천억 원까지 다소 차이가 있음. 연간 생산 목표치 또한 60만 대와 63만 대로 보도마다 일부 상이함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "c10b190335458a46",
+      "image_url": "",
+      "original_summary": "기아가 인도 공장 증설을 위해 약 20억 달러(한화 약 2조 8천억 원) 규모의 투자를 단행할 계획이다. 이번 투자를 통해 기존 생산 능력을 확대하여 연간 63만 대 생산 체제를 구축하는 것을 목표로 한다.",
+      "original_detail": {
         "background": "기아는 인도 시장 점유율 확대를 위해 아난타푸르 공장을 중심으로 생산 능력 증대를 지속적으로 추진해왔음.",
         "key_points": [
           "투자 규모 약 20억 달러(2조 8천억 원) 투입",
@@ -334,14 +376,7 @@
         ],
         "what_to_watch": "실제 투자 집행 시기 및 공장 증설에 따른 부품 공급망 재편 여부.",
         "fact_check": "보도 매체별로 제시된 연간 생산 목표 수치(60만 대 vs 63만 대)의 확인 필요."
-      },
-      "new_information": "",
-      "source_comparison": "비즈니스포스트와 한국신용신문은 연산 63만 대를 목표로 제시했으나, 이투데이는 60만 대 체제 구축으로 보도하여 생산 목표 수치에 차이가 있음.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "227da4ce0455f0d8",
-      "image_url": ""
+      }
     },
     {
       "id": "8308fcd8c60e92",
@@ -1381,6 +1416,494 @@
       "published": "2026-11-11T08:16:04+09:00",
       "category": "자동차",
       "description": "2035년 단조 윤활제 시장 전망: 항공우주 정밀 단조와 자동차 경량화가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "4affff2e99139c",
+      "title": "주식 불안하니 부동산으로?…집값보다 '먼저 봐야 할 것' [공간 이야기] - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZEhlLU1zcFNJU0tRcWJxNVdOMGQtcW1TNWJMa1BCQnM1bFhwWmR1MmZPVXB0cXhRLXpqTGU2ZTJ6VDViakJ3N3JzQnpkNURYTnotM2FxLVZ2Zw?oc=5",
+      "source": "한국경제",
+      "published": "2026-11-13T11:35:24+09:00",
+      "category": "경제·금융",
+      "description": "주식 불안하니 부동산으로?…집값보다 '먼저 봐야 할 것' [공간 이야기] 한국경제",
+      "priority_markets": []
+    },
+    {
+      "id": "fdb3f54083d421",
+      "title": "대구한의대 푸드케어약선학과, 대한민국치유식품대전 참가자 전원 수상 - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sZUZxQVNibmE2TGpJWFNqRTBYcVV3dHY3U1NQNGNlU1VEM01jeUZUS0NtUk5JdDhSVXIxdmM5dmNnZXVjLWhyM0xVM05PQnNGS1FtZm9YdkpoUQ?oc=5",
+      "source": "한국경제",
+      "published": "2026-11-13T11:34:22+09:00",
+      "category": "국내 주요 사건",
+      "description": "대구한의대 푸드케어약선학과, 대한민국치유식품대전 참가자 전원 수상 한국경제",
+      "priority_markets": []
+    },
+    {
+      "id": "fb44902bea242d",
+      "title": "정읍시, 대한민국 지방자치단체 행정대상 도내 유일 2년 연속 수상 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xX2tBSW5XXzdjakxuTUppc3ZjV1R3RnpkV1ZxT0ZlN09iWDdyRVlORTBkYU5WV2h2WUEzVGttblFJZDBTU3Z2SHNZTW1tSjdRcnozWm84a0psZFdD?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-11-13T11:24:36+09:00",
+      "category": "국내 주요 사건",
+      "description": "정읍시, 대한민국 지방자치단체 행정대상 도내 유일 2년 연속 수상 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "cb2c7c35aed80a",
+      "title": "[속보] ‘빨간 넥타이’ 매고 등장한 李대통령…“산이 높으면 골이 깊더라” - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZjVtOE5DSW1SbXlBX3E3em9rcTkwUEctMFZVa3RxMl9GaVphWU5BT0VDaURjUVpLXzVDcExFQWVSUGtXMC0tMTI0UGlva0xSLW9IeTAwTkFrUkk?oc=5",
+      "source": "경기일보",
+      "published": "2026-11-13T11:18:55+09:00",
+      "category": "정치·정책",
+      "description": "[속보] ‘빨간 넥타이’ 매고 등장한 李대통령…“산이 높으면 골이 깊더라” 경기일보",
+      "priority_markets": []
+    },
+    {
+      "id": "4d65cb8e6672a9",
+      "title": "李대통령 \"골이 깊으면 산도 높지 않겠나\"…증시 침체에도 낙관론 - 한국NGO신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4RnFKNFg2T1JnVlpHV1NZQnFtN1pJWHEzdDNsekJqMlRDUnpPRjJGTlloM2xEeW9qRjRsTHRDczRhV292NHRZeklPYXNCQkdkcjJ6VFJTampUZFdqbkJtc2N1R2FzZ3dk?oc=5",
+      "source": "한국NGO신문",
+      "published": "2026-11-13T11:16:36+09:00",
+      "category": "정치·정책",
+      "description": "李대통령 \"골이 깊으면 산도 높지 않겠나\"…증시 침체에도 낙관론 한국NGO신문",
+      "priority_markets": []
+    },
+    {
+      "id": "75d84ffb3aa01d",
+      "title": "GS건설, 대한민국 조경·색채대상서 4개 작품 수상 - 한국면세뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wZER5Rlg4b092Nmd3eHBlTE1KM25Cc3V0ZFlpWVlBcHdvM2dDOWE2NnFoZDJhTTNPNXpXdGdmcjByWkNDRXhBOVFaNy14aEtnUVV3czNXZll3bEJlQ0VQS1MzeExVQUdjYmc?oc=5",
+      "source": "한국면세뉴스",
+      "published": "2026-11-13T11:15:31+09:00",
+      "category": "국내 주요 사건",
+      "description": "GS건설, 대한민국 조경·색채대상서 4개 작품 수상 한국면세뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "fa41cac16aa177",
+      "title": "이 대통령 “한국 기업이라 주식 저평가…불합리한 비정상” - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rVm9pVm5zUUVlVHRwT1kyLVJkYl8tMktHek9pX2hwUTZiSzltMDg3NVJmY2VHelFXT3RDV05INlBiel82WDJjZUxHdDlzVlZ1N1RoZUVCYTlWNHBWOGVRZlExcFdKQzE1MjVv?oc=5",
+      "source": "한겨레",
+      "published": "2026-11-13T11:02:00+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령 “한국 기업이라 주식 저평가…불합리한 비정상” 한겨레",
+      "priority_markets": []
+    },
+    {
+      "id": "4889054463fe88",
+      "title": "기아, 인도에 2.6조원 투자해 제2공장 건설…연 63만대 생산체제 구축 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10aC01VGZYdjBmV2I3VHJhYk9SeEIxUWtDN0NSRzVHdEJWRGJXb1ZaclBMT3hPSTgzS3B0ZVpNODI0T1phWG9zNkMyQjBEYjBsYXluWENR?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-11-13T11:01:07+09:00",
+      "category": "자동차",
+      "description": "기아, 인도에 2.6조원 투자해 제2공장 건설…연 63만대 생산체제 구축 헤럴드경제",
+      "priority_markets": [
+        "인도"
+      ]
+    },
+    {
+      "id": "c97460ec68cbc4",
+      "title": "삼성바이오 노사, 17일 교섭 재개…한국노총 가입 투표도 진행 - 중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOUUdZYzFWZ3hiR0FxbkFQQzBBcUM0Wk41QWdzTkkzd3pWaHNBLXJxNFVSakRBMEVROWFHQnFRZlRlWG81UmZKRHVGU25xMjVNNU5sSldaTnNzbGx4a0NmczhoZEd0bWtOanQzRlY3UWY3N2MtVmR0ZjRpbGtta2Y0SEZTbHpxSlRBOHllM3o2bnlfZktLWUU2U09ra1JDSk5IVjdUaGlzdGhjQ0hpNHZncG9pWF95VXI3bnpmZ0VWTmFDVXc1SC1wWTVtYzNwektMYTVMWGpzNGVLVnQ0UzBsY2paZmQ4a3FLb1NTVUhvcFBIVHFWNWp0N2ZUSGgxYTd5SzJ6NlZIbHI0ZDkyRFRKamJxcy1HMERpQlZ3NTBuME03d2lQWVNPQ0dpZlROcWc3OUNGaE9sTTBxb1BKaUlCM3llSUJULWlHcl93cjFhYUU5aFhYc1ZVakpzLVo4RlV1NWV2VE4xRzkwNVhpSVVCTEwycFBnMTNEUHc?oc=5",
+      "source": "중앙신문",
+      "published": "2026-11-13T10:43:21+09:00",
+      "category": "국내 주요 사건",
+      "description": "삼성바이오 노사, 17일 교섭 재개…한국노총 가입 투표도 진행 중앙신문",
+      "priority_markets": []
+    },
+    {
+      "id": "1b9b42e321f0a1",
+      "title": "이재명 대통령 \"자본시장 정상화는 확고한 국정 방향\"…불공정 엄단·부실기업 퇴출 강조 - www.sisaworld.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xSG5CYko5WEJQbGx1OC14VWpiNEZKdU9CVlRIemVDbFRnWmFvU053MXFRbVZEVmxRcXkxbE1scXNQY1h0RThJalhJUHVrN0tLbnI2RWJSU2RKYkRlNWxva3VKOW9pa08xVlE?oc=5",
+      "source": "www.sisaworld.kr",
+      "published": "2026-11-13T10:40:47+09:00",
+      "category": "정치·정책",
+      "description": "이재명 대통령 \"자본시장 정상화는 확고한 국정 방향\"…불공정 엄단·부실기업 퇴출 강조 www.sisaworld.kr",
+      "priority_markets": []
+    },
+    {
+      "id": "4ca79ab56152d3",
+      "title": "李대통령 국정 지지율 39%…지난 조사 대비 2%p 하락 [한국갤럽] - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41UW45eWl1X3J3dVdIeThhWEpzcXBLM2h3MkQxQlhkZW00RlppYU1EOTB0WnZsR01yYzlCU3N1Ykh0ZE9iczlUU3BWM3libk1UOHJoemlfamM4LWs?oc=5",
+      "source": "경기일보",
+      "published": "2026-11-13T10:38:54+09:00",
+      "category": "정치·정책",
+      "description": "李대통령 국정 지지율 39%…지난 조사 대비 2%p 하락 [한국갤럽] 경기일보",
+      "priority_markets": []
+    },
+    {
+      "id": "3056274cd49b4b",
+      "title": "李 “정부·與, 노력했지만 여전히 부족…자본시장 신뢰 회복에 집중” - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ObGd4aVB3a3pzQm9INjJwQWdtS04yVlFLVzRPNkxZT0lFLWFwblVzTjB6d25JUlRzTHpwRWZFUmxTbUYyV1dQOFVyMi1fUQ?oc=5",
+      "source": "전자신문",
+      "published": "2026-11-13T10:37:52+09:00",
+      "category": "정치·정책",
+      "description": "李 “정부·與, 노력했지만 여전히 부족…자본시장 신뢰 회복에 집중” 전자신문",
+      "priority_markets": []
+    },
+    {
+      "id": "76d017425ab6f8",
+      "title": "이 대통령 \"자본시장 정상화 의지 확고…주가조작 엄정 단속\" - 경북도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GaDRKcktvSlFXaHZ4OTcySmwwQjk5bjEzX2hpbTdQNDhfaG9HNUx4S2p4bXJXNExreVB1MjNxX20xcVYyV1J3VnE1YjhGelY2WDhoUlQ1aUx0VXNKekxySk1GVGlobUNlanc?oc=5",
+      "source": "경북도민일보",
+      "published": "2026-11-13T10:34:39+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령 \"자본시장 정상화 의지 확고…주가조작 엄정 단속\" 경북도민일보",
+      "priority_markets": []
+    },
+    {
+      "id": "9a0613db3a6ec5",
+      "title": "김현기표 강남 재건축 신화 프로젝트, 대한민국 주거도시정비의 새 모델로 주목 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kRG9yT25HN3MwbVgyZ1ROLXFINzN3al81bnYyazEwOG1ia3QtVC0xQlNZMF96SXIzOWNCRk9KLUZiQS1fSVl2cFBzd2J4VVdSMkVuZW90TTJqVkI3?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-11-13T10:33:56+09:00",
+      "category": "국내 주요 사건",
+      "description": "김현기표 강남 재건축 신화 프로젝트, 대한민국 주거도시정비의 새 모델로 주목 아시아뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "9d7ed947cbf098",
+      "title": "기아, 인도에 2조6000억원 들여 두 번째 공장 짓는다... 연간 생산능력 46% 확대 - 인사이트",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nQVZodmFiSEJUX1VhT3JQQ2NEUDZEMy14RG1WM0ozY0JYVmlSbGljMWNzZHlXYzVHZjAyNlVPRWRUMHhMUGYyVEdWYWlmQQ?oc=5",
+      "source": "인사이트",
+      "published": "2026-11-13T10:05:43+09:00",
+      "category": "자동차",
+      "description": "기아, 인도에 2조6000억원 들여 두 번째 공장 짓는다... 연간 생산능력 46% 확대 인사이트",
+      "priority_markets": [
+        "인도"
+      ]
+    },
+    {
+      "id": "976cc0b73debc2",
+      "title": "“11월 14일 1000만 국민 총집결”…자유대한민국 수호 총력전 - 자유일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51R2hsMG1HU1BFck5BSkstYm9UZnpsS0Z0ZF9lMTNFNGgxd29TcndWYlU1a2RtSTN1NEJwTFNOYUVZLS1YYVZ6X3IyWDJnQXRRTjhXTWE4RGZ3MlhidmJNOFJYaTNCUGJZU1hr0gFvQVVfeXFMTnVlNDlJSDlkRnk5Ykw2a2Jyc3RMeC1LZmtmLUt4MkJVOGlrU0tJSDFLNmQwR3d4OWlVbUUteXItMXl0QU5IbG5EcnNCcGpoRGJ3RXZwU09uN05OeFNTUl96LW81clJncDgxdU83SEJr?oc=5",
+      "source": "자유일보",
+      "published": "2026-11-13T09:41:57+09:00",
+      "category": "국내 주요 사건",
+      "description": "“11월 14일 1000만 국민 총집결”…자유대한민국 수호 총력전 자유일보",
+      "priority_markets": []
+    },
+    {
+      "id": "d8a263d1481af5",
+      "title": "대한민국특례시시장협의회 용인 에버랜드 제2회 정기회의 - 중앙신문",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPZ3h5ZVpieHZSdU5fRWJtYVBReUs0clVTeXZpNHBtX0U3X3d5U1U3YVdtbk9pcWw4aUF4TFktOTB6YmtLX182bFk1TTBRdElkcW5hSV9ta0hKSmQ2S2h1MjRGT2VKVzFEbXN5S0hUeDFIX2ViNG5BNDg2QmFpM0NqakQzdEV4Z2VQNnlhbDhNTmFtS2Q4S0tDbUthMk0yQkVMSDJnYTQ2SVl6dWlQRVJCYWJiRndiTWp6aGpJdW4wOFRrb0xYM2xHeTdscGdlRjROXzFLNGVvUzUwYXNwMkh0Q1dUTUxGbUdCeFVTV18xYWduaWE2NVNreXlEQVhXUThlZlIzeVE1TzljNTR5NzBzUzZTSEY4ZWJTZzNLRmZIdjJZcURTZTNHRjN3U0FiTE9lQXRheml3M2prZExJeG9teXhVemF5WTVLM29wY2ppVUx3MDBNejZZZlJQMkFzb2t3bzRuaFNaWElvQ3VhZHNWNDdSMA?oc=5",
+      "source": "중앙신문",
+      "published": "2026-11-13T09:39:11+09:00",
+      "category": "국내 주요 사건",
+      "description": "대한민국특례시시장협의회 용인 에버랜드 제2회 정기회의 중앙신문",
+      "priority_markets": []
+    },
+    {
+      "id": "919a5c8d8de915",
+      "title": "최현만 전 미래에셋증권 회장 광주경총포럼 \"AI 성장의 그늘, 경제 양극화 커진다\" - 광주드림",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DS1ZSSDlHdmZWSWtBeVkwbVg0c1dIdEl3SDNVc3gzMWJSaEszdTZvRHhxV2JtMjJBUXFLd2V6cWRlQWxHR2dhUXdxLUtFVGJscnF5cVZEbktSS21nbk1adU5oNnRlaEZFaFE?oc=5",
+      "source": "광주드림",
+      "published": "2026-11-13T09:38:37+09:00",
+      "category": "경제·금융",
+      "description": "최현만 전 미래에셋증권 회장 광주경총포럼 \"AI 성장의 그늘, 경제 양극화 커진다\" 광주드림",
+      "priority_markets": []
+    },
+    {
+      "id": "59758af39d6311",
+      "title": "野 \"종부세 반란쇼, 4일 천하로 끝나..총선용 정치쇼\" - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12LXV6eUhxamNyRVc3aDU1Q1lYRE5aZHV6Y0xPNkpkaFZSVDNRTUZXQjk3X3B2QmhWakNXUHBCa29USEpzRWx5Q2gxMFZSNUxFVmVlWUhZRTEwZw?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-11-13T09:35:45+09:00",
+      "category": "정치·정책",
+      "description": "野 \"종부세 반란쇼, 4일 천하로 끝나..총선용 정치쇼\" 파이낸셜뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "55486223b1f9a5",
+      "title": "Can BYD Beat Tesla at Its Own EV Ecosystem Game? - autoelectronics.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tdUhlMlRGZm5xZk1PWlo1WFRaaVBzQTctQmFUaTVGV2hLVnFoTDBZN3BUS2ZqenJ1ekZtSmdlUU9ZcC1LTldEbExFSHZFYmUxRXhESVJTRVRhVlU2NFRJa2Nyb2VQY3lSSlhnSDl5dElMZXpL?oc=5",
+      "source": "autoelectronics.co.kr",
+      "published": "2026-11-13T09:29:58+09:00",
+      "category": "전동화",
+      "description": "Can BYD Beat Tesla at Its Own EV Ecosystem Game? autoelectronics.co.kr",
+      "priority_markets": []
+    },
+    {
+      "id": "5c4fe796f133ac",
+      "title": "EPAG 최종 마감재 시장 2035년 전망: 자동차 전자장치 밀도가 이끄는 성장 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdVdUZUt0eHBEMGFvZzZOYjNPMFU2RWM5M3VFejVCT1dFSlZhWGc5OHgxbFBkc2ozT2hVZ2xBY20wVEQ1NWFwRHdPWmpaM1c4UFJuSEpsNmo5SG1xWmFEcDZNNEFrNVZrSktzbkR4Q3FmQVBTQ2p4Y1g1TzZmeFJWWlZGbTVLbkVDMk95MmVRNWJzeTlqbEhhanRtVU0wZFpUaFd1b25VUUFfSV92T1lFNi0zVi1NMkVqNHlfTzFFUmozdzdjclNiVkdzclRzQy1aSUVVYkVpdw?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-13T09:21:04+09:00",
+      "category": "자동차",
+      "description": "EPAG 최종 마감재 시장 2035년 전망: 자동차 전자장치 밀도가 이끄는 성장 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "571f03bd195227",
+      "title": "노인 6.8% 아파도 병원 못 가…의료비 부담에 치료 포기 - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xTGRrUE10MEpObU4xa2k1S0NnMzUzU002UWpPcVJHRHYzbWdNanJla1IzaHU2MXVHd0tkRnQzRXlSRTdUM1R4WWdsMHNRdGE2UzBQUTlHUzNmQjFaWFBhUkYzUEV0LVd4YXhr?oc=5",
+      "source": "서울뉴스통신",
+      "published": "2026-11-13T08:40:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "노인 6.8% 아파도 병원 못 가…의료비 부담에 치료 포기 서울뉴스통신",
+      "priority_markets": []
+    },
+    {
+      "id": "3381a53cf2b327",
+      "title": "무술배우 황정리 별세… '취권'서 성룡과 호흡한 액션 전설 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53ODZldXUtMHBBRkV3VmdWd0Q3N0lNODR4S3lTaHJBaGpvYjRULXVZYWE4VmNKMUpXbjNISTZuWmJIa3l5dV9wWDdMaGlSQlJKdldHZUdlNnJULV85V3hxVHkydGxyUDdGQUhFRHln0gFzQVVfeXFMT255eTR2ZWZ0a09Pb013SFV4M2F4NUE3a1FhVUFFTFA2OV9tNWZKek5UdnJzVFV2Um5pVTdSTXN4blh6LXdES0JMdGptT3pEOHVOUjNIV1gzWWN6Z2ZZbUlia1BKR1FzYXpaTjZhVjRkUXN1MA?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-13T08:27:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "무술배우 황정리 별세… '취권'서 성룡과 호흡한 액션 전설 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "95ce704599f6d6",
+      "title": "용산구, '용산형 생활안심디자인'으로 대한민국 범죄예방대상 경찰청장 표창 수상 - 서울포커스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiUlhOdmpuSUF1dFJuSWs4eV9nYkVHSFRkWkJqTTZTSGhOVmpGVDZWOEt3RkJYYlhpcW81aG9VSHRBYXRPV0pEQ2x2TUVRVnNCemNqek5saXdoZGl6WExvcGloMkNHRF9FemNLWg?oc=5",
+      "source": "서울포커스",
+      "published": "2026-11-13T08:12:53+09:00",
+      "category": "국내 주요 사건",
+      "description": "용산구, '용산형 생활안심디자인'으로 대한민국 범죄예방대상 경찰청장 표창 수상 서울포커스",
+      "priority_markets": []
+    },
+    {
+      "id": "5f6fc7b1a48373",
+      "title": "현대차그룹, 인도 연산 177만대 체제 추진⋯기아도 20억달러 들여 제2공장 - 엠투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0UVJSdUQ0aUR5b2NXdWFPSTBMRjFab0JQdko3U2psMG9fNnZ3SUY3ekx3T2pud0F3MWQxS0tiNWswZXc1V1BFaEY1eW5lam9fUU40OENlQ1ZFR1F0Vm5qcHdNLUl2MVE2M0VQNTY1TQ?oc=5",
+      "source": "엠투데이",
+      "published": "2026-11-13T08:10:00+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, 인도 연산 177만대 체제 추진⋯기아도 20억달러 들여 제2공장 엠투데이",
+      "priority_markets": [
+        "인도"
+      ]
+    },
+    {
+      "id": "659bed937291be",
+      "title": "EU 보호무역 강화에 정부·기업 공동 대응...박정성, 한국 기업 피해 최소화 총력 - M이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93REMxMEYwOUxBN3NUNWNlRkJlcUdPTkktN0lpZG1sUWE2NzM1TEdsUXBIMlJvNUdYSEVncjNiTnhrd2lEd1c1bXVsQjdHRjRMVWVTY2ZPSkZiU000SUFXR01pb2RTVFk?oc=5",
+      "source": "M이코노미뉴스",
+      "published": "2026-11-13T07:47:50+09:00",
+      "category": "정치·정책",
+      "description": "EU 보호무역 강화에 정부·기업 공동 대응...박정성, 한국 기업 피해 최소화 총력 M이코노미뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "c36a83ee45c9f3",
+      "title": "美증시, 젠슨 황 퇴진·유가 급등에 일제히 하락-[글로벌 마감 시황] - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wZFBmR3ZlWGxYY1RyT29UVUt1OUxMSGliSUtsQ0ZORVBsYU9KZ1QxNTdhYmwwUWtCb3J4XzlfcUtvdUFFbVUtZFQ0UTQyVFctelRqTWo3ZVlHVmx6VWNXMWg0UGVyVFJVcXRtR0FPTDJvcklZMHZ3?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-13T07:01:00+09:00",
+      "category": "경제·금융",
+      "description": "美증시, 젠슨 황 퇴진·유가 급등에 일제히 하락-[글로벌 마감 시황] 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "d1006245eb4861",
+      "title": "수능 강사 이도 “무책임했다”, 자필 사과…기자들에 ‘하이에나 떼들’ 최민희, 명예훼손 혐의 고발 [주간사건일지] - TWIG",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OMC1iMjE2aEZSRjBvVzZYQXVfakVXczhBUDFDcTlHQ2pLaE5EZ0Z1YWktNVdtSks3QjhxWWFlbTdpOEdrYmlEQy00dGxpcV91U2lGc0tETFJKQ2VobFh5bENMNmNQUkRWU0RPRzVKYUc4NDA?oc=5",
+      "source": "TWIG",
+      "published": "2026-11-13T06:57:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "수능 강사 이도 “무책임했다”, 자필 사과…기자들에 ‘하이에나 떼들’ 최민희, 명예훼손 혐의 고발 [주간사건일지] TWIG",
+      "priority_markets": []
+    },
+    {
+      "id": "7af5024c8c66d3",
+      "title": "“첫 한국 여행, 무지했다”…‘여성 신체 몰카’ 中 관광객, 선처 호소 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBERmcxRHItR1RTQ2hJTXQyNGJBd0lBTGhMem45VUR3TTRCRWpFRVNxdGY1ZFZRdXNidnVyNVhNZ0tfblhLUWIxS3Z5U1h2SjRyUXFITg?oc=5",
+      "source": "매일경제",
+      "published": "2026-11-13T06:13:05+09:00",
+      "category": "국내 주요 사건",
+      "description": "“첫 한국 여행, 무지했다”…‘여성 신체 몰카’ 中 관광객, 선처 호소 매일경제",
+      "priority_markets": []
+    },
+    {
+      "id": "add9d2da4dbaa3",
+      "title": "Kia to Invest $2 Billion in Second India Plant, Targeting 2030 Opening - 알파경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBESWdZVzVkMW5OXzZfWUtsVmVaWGYtMHI1UWI4Z19WY0VhUFdiVHNGUVJucVVPbjlJQ1k5U0JZSTU1TWZYQ0lVQnNibXQyeFVheTJpNzVDTjFUT19uMm5QazgzQzBmeGJyTjNBTnZ3?oc=5",
+      "source": "알파경제",
+      "published": "2026-11-13T06:00:00+09:00",
+      "category": "자동차",
+      "description": "Kia to Invest $2 Billion in Second India Plant, Targeting 2030 Opening 알파경제",
+      "priority_markets": [
+        "인도"
+      ]
+    },
+    {
+      "id": "f2c4ac87ad580a",
+      "title": "현대차가 중국서 양팔로봇을? - 서플 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uLVlQcDdQRVNmc3FIMDlGM1J0bnZLZ21xSGw0YjZXNW5xdDFGcG5mYjZrbkRXYWZmUTNvS1h4U0ltbGd4b2pya1lnRDdqNndOeFR6dXpXRDBJRDdQ?oc=5",
+      "source": "서플 뉴스",
+      "published": "2026-11-13T05:50:00+09:00",
+      "category": "CKD·물류",
+      "description": "현대차가 중국서 양팔로봇을? 서플 뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "50784a2eaacacf",
+      "title": "[오늘의 주요일정] 정치·정부 (13일, 금) - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82NE40RlZhOURIbkh2UDNObVBKRVBIVEFsMHVKTlF1b0tlUHdZOVgwYTZMU0pES0tKdWJXRWpEbFZvcTNBWXZ2UU5RLUd0YTZLYWoxTXVrVUJvUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-11-13T05:03:01+09:00",
+      "category": "정치·정책",
+      "description": "[오늘의 주요일정] 정치·정부 (13일, 금) 파이낸셜뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "71181bc74fe2ad",
+      "title": "환율, 수출업체 달러매도 등에 1,320원대로 하락 - 매일경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zSHpwdUhIdWw0azhIRlZTUzlhVFY0dlJoTkp5MEVFYjhWYXE3eDBUVlFYY1RONThMVW41VjlzVlEzaWxpdnlLandhVE5USGdkSzZIVXM0WWY4TWJ1NUd5M1FCXzBaQ2Jz?oc=5",
+      "source": "매일경제TV",
+      "published": "2026-11-12T17:53:00+09:00",
+      "category": "경제·금융",
+      "description": "환율, 수출업체 달러매도 등에 1,320원대로 하락 매일경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "6b059923315094",
+      "title": "이 대통령 \"국내 자본시장, 여전히 저평가된 매력적 투자대상\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DdzkyT2Rrb3ZieXJRQjhDYkh0ZnNOZmZucVFxWUN2dDVVZTR5ak85SmVtVWg2RVo2U2tUdzREQm13NnUwTGxGVlZFR18zZ1BYdTV5U2pfSVdSUmpySHVkMlRHSU5LSHpsUmZhYmtB0gFzQVVfeXFMTnBjbmZxQXdLZ0xBWndzeEJwcy15Rmx2cVI3ZFE1clNFaVRiRzd6eVlPc1loeFBBXzBqc0tVekdwS05GOVpkcGd1VUV4OC1HOHUyeERFWUdqYnVlTDJUaHhpM2lXMm40TVdORU9sOWlGTVRNdw?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-12T15:33:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "이 대통령 \"국내 자본시장, 여전히 저평가된 매력적 투자대상\" 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "49eb487d46decd",
+      "title": "국내 증시서 떠나는 외국인…주식 자금 193.1억 달러↓ - 산경일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15Sk5LaVVQdUljTjluYXRvVm1KeEhYTDNtTHliWGEzc2I1RG55em5Fa21ORjZHbl9DbkhTTlNkdzcyd29OUHk4TG5WUDlGcVB4OTAwdm5iaXcwUUk5bGpOVVBjRGpmbDhQbkZWSjV6UDE?oc=5",
+      "source": "산경일보",
+      "published": "2026-11-12T14:38:36+09:00",
+      "category": "경제·금융",
+      "description": "국내 증시서 떠나는 외국인…주식 자금 193.1억 달러↓ 산경일보",
+      "priority_markets": []
+    },
+    {
+      "id": "b1c55367414a68",
+      "title": "부동산·주식 혼란 키우는 정책 편향성[포럼] - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SNjNXZlNIVEtFMmh6djhYMk1nWVFkQ3hfeC1YcW83R1ZmNVV1djFOc2pWMkJDVjMzVXBXWkZOazk0N3hYZ3V0b2RSakVWdUhz?oc=5",
+      "source": "문화일보",
+      "published": "2026-11-12T11:48:53+09:00",
+      "category": "정치·정책",
+      "description": "부동산·주식 혼란 키우는 정책 편향성[포럼] 문화일보",
+      "priority_markets": []
+    },
+    {
+      "id": "d3a300c1495d60",
+      "title": "[환율 전망] 반도체 주도의 수출 호황, 여전히 풍부한 달러 - KB Think",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LR0Z3LTFQZjFLSng1RmFyckdrY1pIVlZzMjZ5eFQzWm5CVGhMajFlcEpXY3JpX3J3VUJyYjRQVC1HcUI4cXZmZERJUklLeFl6WTlzd05NdjZ2NXJrM0pPWg?oc=5",
+      "source": "KB Think",
+      "published": "2026-11-12T08:11:45+09:00",
+      "category": "경제·금융",
+      "description": "[환율 전망] 반도체 주도의 수출 호황, 여전히 풍부한 달러 KB Think",
+      "priority_markets": []
+    },
+    {
+      "id": "85fb31493192b3",
+      "title": "2035년 고온용 실 시장 전망: 항공우주 수요와 효율 개선이 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWmJJVHVISlczNnkyZG83elpxUE9vR0wzUWVjSDBZMWhuaWxtcHVsaWxvLXVDYUl2Y3ZFUFpPU2pnT05HX2wzeU1ZT1ZWd2o1SWtiRHUzeUhPZW01bjNGM2xtQ2ZyWEc3eGxnREpKLWszVUJGdU0yakJESVFzX21TenpoOXBKVzFPZHlNZGRyOUVXVmRlWjZ4UEktNWtVN0c1TktIVHRwa2ZvUXpsUHQxbEJDbFNLZnYyN2E1c3JScVVleVRVLU5nMlZkMHdxQ3Q4eE5zdGt0cw?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-12T07:06:04+09:00",
+      "category": "자동차",
+      "description": "2035년 고온용 실 시장 전망: 항공우주 수요와 효율 개선이 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "b6b689f59a184e",
+      "title": "달러 인덱스, 19개월 만에 최고...기술주 상승·빅스텝 가능성까지 달러 땔감 [글로벌 머니플로우] - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zdnA4NlZMVXN3V09vbDl1T1ByLS1PZnRyTzUyblZ3bkhyeEc2V3ZkNnRSSlp5aktnZ3pCR1RpU3VWWHA5LWRIVWw4eHJaS3RmRFBvUldzSUhWaDdzWHdEWmZnMmpnX1BDS0JzR3JGN19rWkNEMjUw?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-12T07:05:00+09:00",
+      "category": "경제·금융",
+      "description": "달러 인덱스, 19개월 만에 최고...기술주 상승·빅스텝 가능성까지 달러 땔감 [글로벌 머니플로우] 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "6cfcaa08d6ee3a",
+      "title": "코어위브발 AI 투자심리 회복에 뉴욕증시 일제히 상승-[글로벌 마감 시황] - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93aEZVT25KXzl4bDFWTUw5eURZRk5QODNhem9ZOU1ubGRJbDk5YXFjek1PN00zZEoyc09nR2E1R0FvLUh4VHB2T2ltREk1bVJ5MFBncTBQVkJwY3daTzhUZmxUWExKT3pGR3M0b1V4czN6LU1IdXVr?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-12T07:04:00+09:00",
+      "category": "경제·금융",
+      "description": "코어위브발 AI 투자심리 회복에 뉴욕증시 일제히 상승-[글로벌 마감 시황] 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "3dc86b5e43ca2c",
+      "title": "[오늘의 주요일정] 정치·정부 (12일, 목) - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00ZEpNWFdDWXozTlQzT3dTck1KQnlQM1dsQUJNQnNCbU9SYVo1a3E4S1h2TUd5MVh2S2txVXpzVHprb2JvcVlmVEhpYlRhbE56aHgtSTJHTTl4QQ?oc=5",
+      "source": "뉴스1",
+      "published": "2026-11-12T05:00:00+09:00",
+      "category": "정치·정책",
+      "description": "[오늘의 주요일정] 정치·정부 (12일, 목) 뉴스1",
+      "priority_markets": []
+    },
+    {
+      "id": "6d89ed3ea492c1",
+      "title": "美 금리 인상 공포도 꺾은 AI 투자 열기…코어위브 급등에 글로벌 증시 반등 - 지이코노미",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OamVENk9VNzViMHZ6MGx4SzF1Q21JTjBORlRjcmpiUno3TFhEaHhBQjAzdUFzUlpieV83TEMta1lpS1IxWENrOE0xSVRTdWpsQ0pFd0MzbnM3d2QwblNxZDZDeElYa3c?oc=5",
+      "source": "지이코노미",
+      "published": "2026-11-12T04:53:48+09:00",
+      "category": "경제·금융",
+      "description": "美 금리 인상 공포도 꺾은 AI 투자 열기…코어위브 급등에 글로벌 증시 반등 지이코노미",
+      "priority_markets": []
+    },
+    {
+      "id": "fe941de15d67ec",
+      "title": "[사설] 정부 만능 곳간으로 전락하는 미래대응기금 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LLTJDOTNGV29CaXdyZGRsMEJDSmVRUV9iMXIwV0RRbUhOdERNZXVqMTFkdmxVeU42N1BwOHJkR1ZmUkhUeklQY2xXZy1CUWFaTjl6bGRiS3gyX3hoZU5kdVl5TEdKU1g4NS1iYjdn0gFzQVVfeXFMT1gtQkFCX0p6bHRmOTFNT20wb210S1g3YVh3czJMVHdwUmNUM0VCRGo0SWdFQm92cjF3eFZoRUl6cFRYODMxLXlHcnA4WElfdnZOYlZYMG5QZ09PY28zVGE0WUpzc0xGT09DSlM4NWZVU0V4Zw?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-12T00:10:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "[사설] 정부 만능 곳간으로 전락하는 미래대응기금 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "afdbbd53e9c9be",
+      "title": "2035년 스태킹 머신 시장 전망: 창고 자동화와 전자상거래가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVHFiZXU1YjRXajJuV280NG10UzFIOVlVVDZiczBhVVdhUVBzT3VWTk05bk5Sb0Vrb0ZnbjkxWUljWkNfTzBZMkJ3dWtnejdHWjk2bXVjMEsyWEt0ME0zMUJsN25RbGwteFZyTU8wUXUyVTdaOXBqTS1MTC01WUdTSzlIa2plb09KckpNU1E5S2NQSmlsd3F4YllGdi0zQlJWZ0ZVdk1mZmFWZVRNTUxISHZEVURLeGR0YlhjQ0pvUEZfeVNmTl94ZGJtcEpFcW8?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-11T23:16:04+09:00",
+      "category": "자동차",
+      "description": "2035년 스태킹 머신 시장 전망: 창고 자동화와 전자상거래가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": []
+    },
+    {
+      "id": "a67d097d44cd3d",
+      "title": "'사드기밀 유출' 징역형 구형에 정의용 \"尹정부 정치보복\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pUDVmenliVDBxVVBNMWY0R0lOd2t5QmFYaGZFS1F6cTJpd2RIX0NncDhiTUdXM0doQm9xakdvX1UwSFZQRTZWdlBjQ1Y2Nm9kMFhDY2VhSEgwck9JcU1WRNIBYEFVX3lxTE9pUDVmenliVDBxVVBNMWY0R0lOd2t5QmFYaGZFS1F6cTJpd2RIX0NncDhiTUdXM0doQm9xakdvX1UwSFZQRTZWdlBjQ1Y2Nm9kMFhDY2VhSEgwck9JcU1WRA?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-11-11T18:56:56+09:00",
+      "category": "정치·정책",
+      "description": "'사드기밀 유출' 징역형 구형에 정의용 \"尹정부 정치보복\" 연합뉴스",
+      "priority_markets": []
+    },
+    {
+      "id": "728d917c03038c",
+      "title": "野, \"빚내서 집 사라\" 최경환 초청... \"미친 규제\" 이재명 정부 부동산 정책 직격 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PelRDdC13R1ZabEVUQWtTdmw0dW9lYWI1cGZ4ZU1SU0ViSmNxRFFsdVJVdGpjODd6RUhwUWoxcVFXc2FPRTNFeTV4TkRfRnNlSDNZQmZFSW5MRDA0Y2ZUdlF2d2tXaGJvQ2lGU21RYVREalnSAXNBVV95cUxNT3pUQ3Qtd0dWWmxFVEFrU3ZsNHVvZWFiNXBmeGVNUlNFYkpjcURRbHVSVXRqYzg3ekVIcFFqMXFRV3NhT0UzRXk1eE5EX0ZzZUgzWUJmRUluTEQwNGNmVHZRdndrV2hib0NpRlNtUWFURGpZ?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-11T17:48:00+09:00",
+      "category": "정치·정책",
+      "description": "野, \"빚내서 집 사라\" 최경환 초청... \"미친 규제\" 이재명 정부 부동산 정책 직격 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "23277cc63d56a1",
+      "title": "한국기업평가 美 재정 우려 지속되면 환율 현재 수준 유지 - SBS Biz",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vQWxyOXdXaVQtTmpFUTl4c0d1THdOMkdyZjJCaTIybjRvNkxvekE0MGx5a0JZdENWWjZPSHptaDhjYlExenJ1T2F6LWtvZkJNRGNz0gFYQVVfeXFMT0pNOHBYZ2pnUWZ2c2lROGxRdUZHU2xYb2ZlOVB1MjIyU3Zza3dfdDlPeTY4VzUwbENxZm85cFkzd1hENzJEZG5sMFRjZVEtSi1MMmJOQ3IwNw?oc=5",
+      "source": "SBS Biz",
+      "published": "2026-11-11T15:56:00+09:00",
+      "category": "경제·금융",
+      "description": "한국기업평가 美 재정 우려 지속되면 환율 현재 수준 유지 SBS Biz",
+      "priority_markets": []
+    },
+    {
+      "id": "ce67f2659ca5da",
+      "title": "7월부터 상황 ＇역전＇...외국인 ＇귀환＇ 트리거는? - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03YkMtZTFGaHN2Q0hhNTNFS2FjTWFCb0txcmxlRVJmUEhRc2hBeHJUTWJ6OFF6YnRSLXE0Y2VZNFBLX2lHYURZNTQxZEtFWnVvY19FblBST1ZDb0pzd3NEc0ZXZENObzUxMVoyUVhLVVR5enVDQ25j?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-11T15:46:00+09:00",
+      "category": "경제·금융",
+      "description": "7월부터 상황 ＇역전＇...외국인 ＇귀환＇ 트리거는? 한국경제TV",
       "priority_markets": []
     }
   ]

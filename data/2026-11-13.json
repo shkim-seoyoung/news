@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
-  "updated_at": "2026-11-13T07:32:19.599257+09:00",
-  "article_count": 4,
+  "updated_at": "2026-11-13T12:39:16.123295+09:00",
+  "article_count": 2,
   "ai_enabled": true,
   "articles": [
     {
@@ -19,6 +19,30 @@
       "event_cluster": "batch0-n001",
       "related_articles": [
         {
+          "title": "기아, 인도에 2조6000억원 들여 두 번째 공장 짓는다... 연간 생산능력 46% 확대 - 인사이트",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nQVZodmFiSEJUX1VhT3JQQ2NEUDZEMy14RG1WM0ozY0JYVmlSbGljMWNzZHlXYzVHZjAyNlVPRWRUMHhMUGYyVEdWYWlmQQ?oc=5",
+          "source": "인사이트",
+          "published": "2026-11-13T10:05:43+09:00"
+        },
+        {
+          "title": "Kia to Invest $2 Billion in Second India Plant, Targeting 2030 Opening - 알파경제",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBESWdZVzVkMW5OXzZfWUtsVmVaWGYtMHI1UWI4Z19WY0VhUFdiVHNGUVJucVVPbjlJQ1k5U0JZSTU1TWZYQ0lVQnNibXQyeFVheTJpNzVDTjFUT19uMm5QazgzQzBmeGJyTjNBTnZ3?oc=5",
+          "source": "알파경제",
+          "published": "2026-11-13T06:00:00+09:00"
+        },
+        {
+          "title": "현대차그룹, 인도 연산 177만대 체제 추진⋯기아도 20억달러 들여 제2공장 - 엠투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0UVJSdUQ0aUR5b2NXdWFPSTBMRjFab0JQdko3U2psMG9fNnZ3SUY3ekx3T2pud0F3MWQxS0tiNWswZXc1V1BFaEY1eW5lam9fUU40OENlQ1ZFR1F0Vm5qcHdNLUl2MVE2M0VQNTY1TQ?oc=5",
+          "source": "엠투데이",
+          "published": "2026-11-13T08:10:00+09:00"
+        },
+        {
+          "title": "기아, 인도에 2.6조원 투자해 제2공장 건설…연 63만대 생산체제 구축 - 헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10aC01VGZYdjBmV2I3VHJhYk9SeEIxUWtDN0NSRzVHdEJWRGJXb1ZaclBMT3hPSTgzS3B0ZVpNODI0T1phWG9zNkMyQjBEYjBsYXluWENR?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-11-13T11:01:07+09:00"
+        },
+        {
           "title": "기아, 인도에 20억달러 투자해 제2공장 건설…연산 60만대 체제 구축 - 이투데이",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1saUtwQVVJUWszSG9Da2dPcFVrdlNFQ3hJYU9FN1p6aXJEZkhZWDktRDEtbkZSbVdxVi1CYnhRZ0U2WnBDTE52Tm1vUGJ6QlFMU3pkbmc1VXVoY2NhVUY1X2dPU2I2RmNvWXg1dkdB?oc=5",
           "source": "이투데이",
@@ -31,10 +55,28 @@
           "published": "2026-11-12T17:39:00+09:00"
         }
       ],
-      "summary": "기아가 인도 공장 증설을 위해 약 20억 달러(한화 약 2조 8천억 원) 규모의 투자를 단행할 계획이다. 이번 투자를 통해 기존 생산 능력을 확대하여 연간 63만 대 생산 체제를 구축하는 것을 목표로 한다.",
-      "impact": "인도 시장 내 기아의 생산 거점 확대는 CKD 부품 공급 물량 및 현지 물류 인프라 수요의 증가로 이어질 가능성이 있어 지속적인 모니터링이 필요하다.",
+      "summary": "기아가 인도 내 생산 능력 확대를 위해 약 20억 달러(한화 약 2조 6천억 원~2조 8천억 원) 규모의 투자를 단행하여 제2공장을 건설할 계획이다. 이번 투자를 통해 기아는 인도 내 연간 생산 능력을 63만 대 수준으로 끌어올려 시장 점유율을 확대할 방침이다.",
+      "impact": "인도 시장 내 기아의 생산 거점 확대는 향후 CKD 부품 공급 물량 및 현지 물류 인프라 수요 증가로 이어질 가능성이 높다. 현대차그룹의 인도 내 총 생산 능력 177만 대 체제 구축 전략과 연계하여 현지 공급망 최적화 및 부품 조달 전략을 점검할 필요가 있다.",
       "importance": "높음",
       "detail": {
+        "background": "인도 자동차 시장의 급격한 성장과 현대차그룹의 글로벌 생산 전략에 따라 기아가 인도 내 생산 시설 확충을 추진함.",
+        "key_points": [
+          "기아 인도 제2공장 건설을 위한 20억 달러 규모 투자 확정",
+          "연간 생산 능력 63만 대 체제 구축 목표",
+          "현대차그룹 전체 인도 생산 능력 177만 대 체제 추진의 일환"
+        ],
+        "what_to_watch": "기아의 공식적인 투자 발표 시점과 제2공장 가동 일정, 구체적인 생산 차종 및 현지화율 계획.",
+        "fact_check": "투자 금액 20억 달러 및 생산 목표 63만 대에 대한 기아 공식 입장 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "투자 금액은 20억 달러로 공통적이나, 한화 환산액이 매체별로 2조 6천억 원에서 2조 8천억 원까지 다소 차이가 있음. 연간 생산 목표치 또한 60만 대와 63만 대로 보도마다 일부 상이함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "c10b190335458a46",
+      "image_url": "",
+      "original_summary": "기아가 인도 공장 증설을 위해 약 20억 달러(한화 약 2조 8천억 원) 규모의 투자를 단행할 계획이다. 이번 투자를 통해 기존 생산 능력을 확대하여 연간 63만 대 생산 체제를 구축하는 것을 목표로 한다.",
+      "original_detail": {
         "background": "기아는 인도 시장 점유율 확대를 위해 아난타푸르 공장을 중심으로 생산 능력 증대를 지속적으로 추진해왔음.",
         "key_points": [
           "투자 규모 약 20억 달러(2조 8천억 원) 투입",
@@ -43,14 +85,7 @@
         ],
         "what_to_watch": "실제 투자 집행 시기 및 공장 증설에 따른 부품 공급망 재편 여부.",
         "fact_check": "보도 매체별로 제시된 연간 생산 목표 수치(60만 대 vs 63만 대)의 확인 필요."
-      },
-      "new_information": "",
-      "source_comparison": "비즈니스포스트와 한국신용신문은 연산 63만 대를 목표로 제시했으나, 이투데이는 60만 대 체제 구축으로 보도하여 생산 목표 수치에 차이가 있음.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "227da4ce0455f0d8",
-      "image_url": ""
+      }
     },
     {
       "id": "c46f0aabd59f57",
@@ -83,72 +118,6 @@
       "ai_summary": true,
       "integrated_summary": true,
       "integration_signature": "0ee680e26c089fd8",
-      "image_url": ""
-    },
-    {
-      "id": "eef54de582b9f6",
-      "title": "기아 인도법인, 아난타푸르 공장에 15억 달러 투자 추진… 연산 50만 대 체제 구축 - 다나와 자동차",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQUmdyeDdkVi14RlktRHRhMTJlOHdxUzl5cDYwSUxKSDh6bTJ6NjRnYnFEWDd3T2lyMWppdDFJcDZVRWpxaUd6SDhsNTVsOUZtTlRQLXdwdDBMR2FtdndjUDRQblBRRWxfaTZKMmVjVmYzUDN4eXRGOEE0d2ZMUVctWUpOa0RCRWFwMi13WkxoTE1iQjNRMzdnSVJmZTNzR0F1V01UWWFxZnZKTmVXNno1WU0xeU12ZC02NVNacXN3cWoxekR0R0dWd2w4YlRfNmRMSzdkcFJVaXdVTzBCQjM2Z1d5RTEwdGtzaTdIZ2x1SndnR3NWVVVnNE9LS3Fhb28zTi1VX0FnbFN3bHBLVHFTQ3VnbENwYlNWTkFhQ0V3d3lmQ2Zrd2w0aExsQWpyU18zUDNycGtRX21NdnZ3LXpINEx2NDQ4azAwcFdvV3hoVXd0elYy?oc=5",
-      "source": "다나와 자동차",
-      "published": "2026-11-12T11:31:18+09:00",
-      "category": "자동차",
-      "description": "기아 인도법인, 아난타푸르 공장에 15억 달러 투자 추진… 연산 50만 대 체제 구축 다나와 자동차",
-      "priority_markets": [
-        "인도"
-      ],
-      "section": "산업·업무",
-      "event_cluster": "batch0-n003",
-      "related_articles": [],
-      "summary": "기아 인도법인이 아난타푸르 공장에 15억 달러를 투자하여 연산 50만 대 생산 체제를 구축할 계획이다. 이는 인도 시장 내 생산 효율성을 높이기 위한 전략적 결정으로 풀이된다.",
-      "impact": "인도 생산 거점의 생산 능력 확대는 해당 지역으로의 CKD 수출 및 현지 조달 부품 물류망의 변화를 유발할 수 있다.",
-      "importance": "보통",
-      "detail": {
-        "background": "기아의 인도 시장 점유율 확대 전략의 일환으로 추진되는 공장 증설 계획.",
-        "key_points": [
-          "아난타푸르 공장 15억 달러 투자 추진",
-          "연산 50만 대 생산 체제 구축 목표"
-        ],
-        "what_to_watch": "기아의 인도 투자 계획이 15억 달러와 20억 달러 중 어떤 규모로 최종 확정되는지 여부.",
-        "fact_check": "투자 규모 및 생산 목표 수치의 일관성 확인 필요."
-      },
-      "new_information": "",
-      "source_comparison": "앞선 20억 달러 투자 보도와 비교 시 투자 금액과 목표 생산량에 차이가 있어, 동일 프로젝트의 단계별 계획인지 별도 계획인지 확인이 필요함.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "02262683295b518a",
-      "image_url": ""
-    },
-    {
-      "id": "c7c552e9af20a7",
-      "title": "美 HEV에 힘 싣는 현대트랜시스···현지화 가속도 - 시사저널e",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zRGdESmhscGlTV2l5Y2VpVnA3X2lBYXpMSjlpS1M4SW10NlhFYjkxdFBhR2xQeHJqeVFiNmFHTV9LLUp6R0NEdVllMHJKNmRvQzlVVW1ScVZMLWJOVDlNR1NfbkE1ZXFXdVZmSVhBTlR4Z9IBdkFVX3lxTE4yQktnVkRPdjhpLUIwR0VvLUdtQVFkY0t4LTY5SDgzS0Z0OHoxSUd1R0Vtd1ZrVlltNGd1SWV3X3RhR2hERHhPamRUVTZTVUdnN2xfa1c3RHoweWY2R2hiN1NLUUF1dENRNzJvdFRkbnhwNy13bnc?oc=5",
-      "source": "시사저널e",
-      "published": "2026-11-12T11:12:03+09:00",
-      "category": "자동차",
-      "description": "美 HEV에 힘 싣는 현대트랜시스···현지화 가속도 시사저널e",
-      "priority_markets": [],
-      "section": "산업·업무",
-      "event_cluster": "batch0-n004",
-      "related_articles": [],
-      "summary": "현대트랜시스가 미국 시장 내 하이브리드(HEV) 차량 수요 증가에 대응하여 현지화 전략을 가속화하고 있다. 이는 북미 시장의 전동화 및 친환경차 전환 흐름에 맞춘 대응으로 평가된다.",
-      "impact": "현대트랜시스의 북미 현지화 확대는 관련 부품의 현지 조달 비중 변화를 의미하며, 향후 북미 물류 및 공급망 운영 전략에 영향을 줄 수 있다.",
-      "importance": "보통",
-      "detail": {
-        "background": "북미 시장 내 하이브리드 차량 판매 호조에 따른 부품 공급 전략 변화.",
-        "key_points": [
-          "미국 HEV 시장 성장세 대응",
-          "현대트랜시스의 현지화 전략 강화"
-        ],
-        "what_to_watch": "현대트랜시스의 북미 현지 생산 품목 확대 및 공급망 변화.",
-        "fact_check": "현지화 가속화의 구체적인 실행 방안 및 투자 규모 확인 필요."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "f5698feae5f3c280",
       "image_url": ""
     }
   ]
