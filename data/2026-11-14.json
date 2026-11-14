@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "updated_at": "2026-11-14T07:31:18.699483+09:00",
-  "article_count": 8,
+  "updated_at": "2026-11-14T12:35:55.771661+09:00",
+  "article_count": 4,
   "ai_enabled": true,
   "articles": [
     {
@@ -14,7 +14,7 @@
       "description": "그리스 건 시장 2035년 전망: 차량 정비와 산업 가동률이 성장 견인 - 뉴스 및 통계 IndexBox",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n001",
       "related_articles": [],
       "summary": "IndexBox의 보고서에 따르면 그리스 건설 시장은 2035년까지 차량 정비 수요와 산업 가동률 상승에 힘입어 지속적인 성장이 전망된다. 건설 기계 및 관련 차량의 유지보수 시장 확대가 전체 산업 성장을 견인할 것으로 분석된다.",
       "impact": "유럽 내 건설 기계 및 상용차 정비 시장의 성장 가능성을 시사하며, 관련 부품 물류 및 애프터마켓 수요 변화를 모니터링할 필요가 있음.",
@@ -47,12 +47,37 @@
       "description": "\"벤츠도 독일공장 문 닫아\"... 연간 174만 대 생산하는 현대차도 결국 백기 드나 오토트리뷴",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "",
-      "related_articles": [],
-      "summary": "메르세데스-벤츠의 독일 공장 가동 중단 및 생산 효율화 움직임이 보도되면서, 현대차의 해외 생산 비중 확대 전략에 대한 시장의 우려와 분석이 제기되고 있다. 고비용 구조를 탈피하려는 글로벌 완성차 업계의 생산 거점 재편 흐름이 주목받고 있다.",
-      "impact": "글로벌 완성차 업체의 생산 거점 이전은 CKD 물량 및 공급망 전략에 직접적인 영향을 미칠 수 있으므로, 현대차의 해외 생산 가속화에 따른 물류 및 부품 공급망 변화를 주시해야 함.",
-      "importance": "높음",
+      "event_cluster": "batch0-n002",
+      "related_articles": [
+        {
+          "title": "벤츠 \"독일서 차 안 만든다“…현대차도 ‘해외 생산' 가속화 - 중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yaU41YkhmSTAxTllaTHJwTklXN1hFbFRyZmh3ZVZXaWRvX3ZBUldUa0YzeHZZbmVJN3I0c0o1dzVFT0w5TkVQUEctOVRsSjk5X2U2eDh3?oc=5",
+          "source": "중앙일보",
+          "published": "2026-11-13T15:06:37+09:00"
+        }
+      ],
+      "summary": "메르세데스-벤츠가 독일 내 생산 시설 축소 및 해외 이전 움직임을 보이면서, 현대차그룹의 해외 생산 전략에 대한 시장의 관심이 높아지고 있습니다. 고비용 구조와 전동화 전환 부담으로 인해 글로벌 완성차 업체들의 생산 거점 재편이 가속화되는 추세입니다.",
+      "impact": "글로벌 완성차 업체의 생산 거점 해외 이전은 CKD 물량 및 공급망 전략에 장기적인 변화를 줄 수 있는 산업 동향입니다. 다만 특정 업체의 생산지 변경이 즉각적인 현대모비스의 CKD 발주 물량 변화로 직결되지는 않으므로 추이를 관찰할 필요가 있습니다.",
+      "importance": "보통",
       "detail": {
+        "background": "유럽 내 높은 인건비와 에너지 비용 상승으로 인해 독일 완성차 업체들이 생산 효율화를 위한 거점 이전을 검토하고 있음.",
+        "key_points": [
+          "메르세데스-벤츠의 독일 내 생산 시설 축소 및 해외 이전 검토",
+          "현대차그룹의 글로벌 생산 거점 최적화 전략에 대한 시장의 주목",
+          "글로벌 완성차 업계의 고비용 구조 탈피를 위한 생산 전략 변화"
+        ],
+        "what_to_watch": "주요 완성차 업체의 생산 거점 이전이 글로벌 공급망 및 부품 조달 체계에 미치는 영향",
+        "fact_check": "벤츠의 독일 공장 폐쇄 여부 및 현대차의 구체적인 생산 전략 변경 사항 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "오토트리뷴은 현대차의 대응에 초점을 맞춘 반면, 중앙일보는 벤츠의 독일 생산 축소를 기점으로 한 글로벌 완성차 업계의 해외 생산 가속화 현상을 강조함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "861a3f4d4641d243",
+      "image_url": "",
+      "original_summary": "메르세데스-벤츠의 독일 공장 가동 중단 및 생산 효율화 움직임이 보도되면서, 현대차의 해외 생산 비중 확대 전략에 대한 시장의 우려와 분석이 제기되고 있다. 고비용 구조를 탈피하려는 글로벌 완성차 업계의 생산 거점 재편 흐름이 주목받고 있다.",
+      "original_detail": {
         "background": "유럽 내 고비용 생산 구조로 인한 완성차 업계의 생산 거점 재편",
         "key_points": [
           "메르세데스-벤츠의 독일 내 생산 축소 및 효율화",
@@ -61,47 +86,7 @@
         ],
         "what_to_watch": "현대차의 향후 해외 생산 거점별 생산량 조정 및 국내 수출 물량 변화",
         "fact_check": "벤츠의 독일 공장 운영 효율화 이슈와 현대차의 해외 생산 전략을 연결한 분석 기사"
-      },
-      "new_information": "",
-      "source_comparison": "중앙일보(48e6cdb32c8dc8)와 동일한 이슈를 다루고 있으나, 본 기사는 현대차의 대응 전략에 대한 시장의 우려를 강조함.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "da820ed5a39c46a6",
-      "image_url": ""
-    },
-    {
-      "id": "48e6cdb32c8dc8",
-      "title": "벤츠 \"독일서 차 안 만든다“…현대차도 ‘해외 생산' 가속화 - 중앙일보",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yaU41YkhmSTAxTllaTHJwTklXN1hFbFRyZmh3ZVZXaWRvX3ZBUldUa0YzeHZZbmVJN3I0c0o1dzVFT0w5TkVQUEctOVRsSjk5X2U2eDh3?oc=5",
-      "source": "중앙일보",
-      "published": "2026-11-13T15:06:37+09:00",
-      "category": "자동차",
-      "description": "벤츠 \"독일서 차 안 만든다“…현대차도 ‘해외 생산' 가속화 중앙일보",
-      "priority_markets": [],
-      "section": "산업·업무",
-      "event_cluster": "",
-      "related_articles": [],
-      "summary": "메르세데스-벤츠의 독일 생산 축소와 현대차의 해외 생산 가속화 전략을 비교 분석한 기사이다. 글로벌 완성차 업체들이 비용 절감과 시장 접근성을 위해 생산 거점을 해외로 이전하는 추세가 심화되고 있다.",
-      "impact": "글로벌 완성차 업체의 생산 거점 이전은 CKD 물량 및 공급망 전략에 직접적인 영향을 미칠 수 있으므로, 현대차의 해외 생산 가속화에 따른 물류 및 부품 공급망 변화를 주시해야 함.",
-      "importance": "보통",
-      "detail": {
-        "background": "글로벌 완성차 업계의 생산 거점 재편 흐름",
-        "key_points": [
-          "벤츠의 독일 생산 축소 결정",
-          "현대차의 해외 생산 비중 확대 가속화",
-          "글로벌 완성차 업계의 생산 전략 변화"
-        ],
-        "what_to_watch": "현대차의 해외 생산 거점별 생산량 조정 및 국내 수출 물량 변화",
-        "fact_check": "벤츠의 독일 공장 운영 효율화 이슈와 현대차의 해외 생산 전략을 연결한 분석 기사"
-      },
-      "new_information": "",
-      "source_comparison": "오토트리뷴(a6ec0de1d0784a)과 동일한 사건을 다루며, 새로운 사실관계 추가 없음.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "3edd8886a2920c91",
-      "image_url": ""
+      }
     },
     {
       "id": "366e9beba245c0",
@@ -115,7 +100,7 @@
         "인도"
       ],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n003",
       "related_articles": [],
       "summary": "기아, 도요타, 스즈키 등 글로벌 완성차 업체들이 인도 시장 내 생산 기지 확보를 위해 치열한 경쟁을 벌이고 있다. 인도의 내수 시장 성장과 수출 허브로서의 가치가 높아짐에 따라 각 사의 생산 설비 증설 및 투자 계획이 잇따르고 있다.",
       "impact": "인도 내 완성차 생산 확대는 현대모비스의 현지 CKD 공급 및 물류 인프라 수요와 직결될 수 있음. 인도 생산 거점의 생산 능력 변화를 지속적으로 모니터링하여 물류 대응 전략을 수립해야 함.",
@@ -139,40 +124,6 @@
       "image_url": ""
     },
     {
-      "id": "2df4c3b72dc460",
-      "title": "기아, 인도에 20억달러 추가 투자… 제2공장 신설 - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZ2UwV0NOQnVCWGZrTERVcUNfZzBCWmlOdU5iZDhXVThIQVJzcXRvY2lFQzlhQnJnZ2ZoOTBXeGJwNEdNUHBUNElmbm91aUhtSFVsQlIyVXUtZw?oc=5",
-      "source": "파이낸셜뉴스",
-      "published": "2026-11-13T14:45:27+09:00",
-      "category": "자동차",
-      "description": "기아, 인도에 20억달러 추가 투자… 제2공장 신설 파이낸셜뉴스",
-      "priority_markets": [
-        "인도"
-      ],
-      "section": "산업·업무",
-      "event_cluster": "",
-      "related_articles": [],
-      "summary": "기아가 인도 시장 공략을 위해 20억 달러 규모의 추가 투자를 단행하고 제2공장을 신설하기로 결정했습니다. 이번 투자는 인도 내 생산 거점을 확대하여 현지 수요에 적극 대응하기 위한 전략입니다.",
-      "impact": "인도 내 생산 능력 확대에 따른 CKD 물량 및 현지 부품 공급망 변화 가능성을 모니터링할 필요가 있습니다.",
-      "importance": "높음",
-      "detail": {
-        "background": "인도 자동차 시장의 급성장에 따라 현대차그룹 차원의 현지 생산 역량 강화가 추진되고 있습니다.",
-        "key_points": [
-          "기아 인도 제2공장 신설 확정",
-          "약 20억 달러 규모의 대규모 투자 단행"
-        ],
-        "what_to_watch": "제2공장 착공 시점 및 구체적인 생산 차종 라인업",
-        "fact_check": "투자 금액 및 공장 신설 계획 확인"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "9bdc21c85a09d91d",
-      "image_url": ""
-    },
-    {
       "id": "3bd314cbc26663",
       "title": "기아, 인도 제2공장에 2.6조… 현대차그룹 ‘21조 투자’ 구체화 - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmFxdXRKSzVuTXlibGFZVEIwa2lGaTlxUDdCd2xOYy1CUlgxVjFQeXhSd2RRQmdRbHZuVjVDaHFJclBjRjd3TEJhVnhxNzhKaTUybW5mRVdkTzE1a0VHR1ppd0oxT3hCa3hzdGVCNk95VEwxZ2R0OXZoTDR2bG9jNElpaXF6NjhraGFCZ3VlSUo4U0XSAZMBQVVfeXFMTzZhcXV0Sks1bk15YmxhWVRCMGtpRmk5cVA3QndsTmMtQlJYMVYxUHl4UndkUUJnUWx2blY1Q2hxSXJQY0Y3d0xCYVZ4cTc4Smk1Mm1uZkVXZE8xNWtFR0daaXdKMU94Qmt4c3RlQjZPeVRMMWdkdDl2aEw0dmxvYzRJaWlxejY4a2hhQmd1ZUlKOFNF?oc=5",
@@ -184,19 +135,43 @@
         "인도"
       ],
       "section": "산업·업무",
-      "event_cluster": "",
+      "event_cluster": "batch0-n004",
       "related_articles": [
         {
-          "title": "기아, 인도 2공장에 20억달러 투자⋯현대차그룹 현지 연산 177만대 체제 - 엠투데이",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0UVJSdUQ0aUR5b2NXdWFPSTBMRjFab0JQdko3U2psMG9fNnZ3SUY3ekx3T2pud0F3MWQxS0tiNWswZXc1V1BFaEY1eW5lam9fUU40OENlQ1ZFR1F0Vm5qcHdNLUl2MVE2M0VQNTY1TQ?oc=5",
-          "source": "엠투데이",
-          "published": "2026-11-13T08:10:00+09:00"
+          "title": "기아, 인도에 20억달러 추가 투자… 제2공장 신설 - 파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZ2UwV0NOQnVCWGZrTERVcUNfZzBCWmlOdU5iZDhXVThIQVJzcXRvY2lFQzlhQnJnZ2ZoOTBXeGJwNEdNUHBUNElmbm91aUhtSFVsQlIyVXUtZw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-11-13T14:45:27+09:00"
+        },
+        {
+          "title": "기아, 인도에 2.6조원 투자…2030년 연산 63만대 '제2공장' 짓는다 - 뉴시안",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WX2F3TVhhWDhVSDdmdHhDcDJrb3hfM0NJVDJUY3dZNUUwZkJERWFOdjJGT2FKMkRJcTktR0ItR255UTFCaU5rRGRYYWRHejk5NENVYldhWkN4ZS0xbl91WEZrenBNYWVfcFZnOQ?oc=5",
+          "source": "뉴시안",
+          "published": "2026-11-13T13:37:19+09:00"
         }
       ],
-      "summary": "기아가 인도 제2공장에 약 2.6조 원을 투자하며, 이를 통해 현대차그룹은 인도 현지에서 연산 177만 대 생산 체제를 구축하게 됩니다. 이번 투자는 현대차그룹의 인도 내 21조 원 투자 계획의 일환으로 구체화되었습니다.",
-      "impact": "현대차그룹의 인도 생산 거점 통합 운영에 따른 물류 및 CKD 공급망 효율화 전략을 검토해야 합니다.",
+      "summary": "기아가 인도 제2공장 신설을 위해 약 2조 6천억 원(20억 달러) 규모의 투자를 결정했습니다. 이번 투자를 통해 2030년까지 인도 내 연간 생산 능력을 63만 대 규모로 확대할 계획입니다.",
+      "impact": "인도 내 생산 능력 확대는 현대차그룹의 현지 시장 점유율 강화와 직결되며, 향후 CKD 부품 공급 및 현지 물류 인프라 수요 증가 가능성을 시사합니다.",
       "importance": "높음",
       "detail": {
+        "background": "현대차그룹의 인도 시장 내 입지 강화 및 생산 거점 다변화 전략의 일환.",
+        "key_points": [
+          "기아 인도 제2공장 신설을 위한 2.6조 원 투자 확정",
+          "2030년까지 인도 내 연산 63만 대 생산 체제 구축",
+          "현대차그룹의 인도 내 총 21조 원 투자 계획의 구체화"
+        ],
+        "what_to_watch": "제2공장 착공 일정 및 현지화율 제고를 위한 공급망 구축 계획",
+        "fact_check": "투자 금액 2.6조 원 및 2030년 연산 63만 대 목표 확인"
+      },
+      "new_information": "기아 인도 제2공장 신설 확정 및 2.6조 원(20억 달러) 투자, 2030년 연산 63만 대 목표 제시.",
+      "source_comparison": "각 매체 모두 2.6조 원(20억 달러) 투자와 2030년 연산 63만 대 목표를 동일하게 보도함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "7c4da735172b12f7",
+      "image_url": "",
+      "original_summary": "기아가 인도 제2공장에 약 2.6조 원을 투자하며, 이를 통해 현대차그룹은 인도 현지에서 연산 177만 대 생산 체제를 구축하게 됩니다. 이번 투자는 현대차그룹의 인도 내 21조 원 투자 계획의 일환으로 구체화되었습니다.",
+      "original_detail": {
         "background": "현대차그룹의 인도 시장 내 중장기 투자 로드맵이 구체적인 수치와 함께 발표되었습니다.",
         "key_points": [
           "기아 인도 제2공장 투자액 2.6조 원 확정",
@@ -204,82 +179,7 @@
         ],
         "what_to_watch": "현대차와 기아의 인도 내 생산 시너지 및 부품 현지화율 추이",
         "fact_check": "현대차그룹 인도 총 생산 능력 177만 대 수치 확인"
-      },
-      "new_information": "투자 금액 2.6조 원(약 20억 달러) 및 현대차그룹 인도 현지 연산 177만 대 체제 구축 사실 확인.",
-      "source_comparison": "파이낸셜뉴스 보도 대비 현대차그룹 전체 생산 능력(177만 대) 및 원화 환산 투자액이 구체화됨.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "2f2ba272911e3e6f",
-      "image_url": ""
-    },
-    {
-      "id": "46bb37579a8c09",
-      "title": "기아, 인도에 2.6조원 투자…2030년 연산 63만대 '제2공장' 짓는다 - 뉴시안",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WX2F3TVhhWDhVSDdmdHhDcDJrb3hfM0NJVDJUY3dZNUUwZkJERWFOdjJGT2FKMkRJcTktR0ItR255UTFCaU5rRGRYYWRHejk5NENVYldhWkN4ZS0xbl91WEZrenBNYWVfcFZnOQ?oc=5",
-      "source": "뉴시안",
-      "published": "2026-11-13T13:37:19+09:00",
-      "category": "자동차",
-      "description": "기아, 인도에 2.6조원 투자…2030년 연산 63만대 '제2공장' 짓는다 뉴시안",
-      "priority_markets": [
-        "인도"
-      ],
-      "section": "산업·업무",
-      "event_cluster": "",
-      "related_articles": [],
-      "summary": "기아가 인도에 2.6조 원을 투자하여 2030년까지 연산 63만 대 규모의 제2공장을 건설합니다. 이는 인도 시장 내 생산 역량을 대폭 강화하기 위한 전략적 결정입니다.",
-      "impact": "인도 시장 생산 능력 확대에 따른 현지 공급망 및 CKD 물류 전략 수립이 필요합니다.",
-      "importance": "보통",
-      "detail": {
-        "background": "기아의 인도 시장 점유율 확대 및 생산 거점 다변화 전략",
-        "key_points": [
-          "2030년까지 연산 63만 대 규모 제2공장 완공",
-          "2.6조 원 규모의 투자 집행"
-        ],
-        "what_to_watch": "제2공장 가동 시점 및 생산 차종",
-        "fact_check": "2030년 연산 63만 대 목표 수치 확인"
-      },
-      "new_information": "",
-      "source_comparison": "기존 보도된 투자액 및 공장 신설 계획과 동일하며, 2030년 연산 63만 대 목표가 추가로 언급됨.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "ac615daf431fda39",
-      "image_url": ""
-    },
-    {
-      "id": "4889054463fe88",
-      "title": "기아, 인도에 2.6조원 투자해 제2공장 건설…연 63만대 생산체제 구축 - 헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10aC01VGZYdjBmV2I3VHJhYk9SeEIxUWtDN0NSRzVHdEJWRGJXb1ZaclBMT3hPSTgzS3B0ZVpNODI0T1phWG9zNkMyQjBEYjBsYXluWENR?oc=5",
-      "source": "헤럴드경제",
-      "published": "2026-11-13T11:01:07+09:00",
-      "category": "자동차",
-      "description": "기아, 인도에 2.6조원 투자해 제2공장 건설…연 63만대 생산체제 구축 헤럴드경제",
-      "priority_markets": [
-        "인도"
-      ],
-      "section": "산업·업무",
-      "event_cluster": "",
-      "related_articles": [],
-      "summary": "기아가 2.6조 원을 투자해 인도 제2공장을 건설하고 연 63만 대 생산 체제를 구축합니다. 이번 투자를 통해 기아는 인도 내 시장 지배력을 강화할 계획입니다.",
-      "impact": "인도 생산 거점 확대에 따른 CKD 포장 및 물류 인프라 영향 분석이 필요합니다.",
-      "importance": "보통",
-      "detail": {
-        "background": "기아의 인도 시장 생산 능력 확충 계획",
-        "key_points": [
-          "제2공장 건설을 통한 연 63만 대 생산 체제 구축",
-          "2.6조 원 규모의 투자"
-        ],
-        "what_to_watch": "인도 현지 생산 물량 확대에 따른 부품 공급망 최적화",
-        "fact_check": "투자 규모 및 생산 목표 수치 재확인"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "f7f109658911f870",
-      "image_url": ""
+      }
     }
   ]
 }
