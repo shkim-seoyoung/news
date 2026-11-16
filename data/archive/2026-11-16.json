@@ -231,7 +231,7 @@
       "description": "李대통령, 아세안·APEC 정상회의 참석..한미·한중 정상회담 성사 주목 경기일보",
       "priority_markets": [],
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n009",
+      "event_cluster": "batch0-n010",
       "related_articles": [],
       "summary": "李대통령이 아세안 및 APEC 정상회의 참석을 위해 순방길에 오르며, 현지에서 한미·한중 정상회담이 성사될지 여부에 관심이 집중되고 있습니다. 이번 순방은 주요국 정상들과의 외교적 현안을 논의하고 협력 관계를 강화하는 계기가 될 것으로 보입니다.",
       "impact": "",
@@ -1127,7 +1127,7 @@
       "description": "현대차 전기 SUV, 호주서 전량 리콜…5월 급제동 경고에도 결함 못 잡았다 ABC뉴스",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n001",
+      "event_cluster": "batch0-n002",
       "related_articles": [],
       "summary": "현대차의 전기 SUV 모델이 호주 시장에서 전량 리콜 조치되었다. 지난 5월 급제동 경고 시스템에 대한 결함이 지적되었음에도 불구하고 문제가 해결되지 않아 리콜이 결정되었다.",
       "impact": "해외 시장에서의 품질 이슈는 브랜드 신뢰도 및 향후 현지 판매 전략에 영향을 미칠 수 있으며, 관련 부품의 품질 관리 및 리콜 대응 프로세스 점검이 필요함.",
@@ -1212,7 +1212,7 @@
       "description": "현대차·기아, 글로벌 생산기지 재편…차종·수출국 바꿔 수익성 높인다 동아일보",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n002",
+      "event_cluster": "batch0-n003",
       "related_articles": [],
       "summary": "현대차·기아가 글로벌 생산 거점의 효율성을 높이기 위해 차종 배정 및 수출국을 재편하는 전략을 추진한다. 이는 시장별 수요 변화에 유연하게 대응하고 수익성을 극대화하기 위한 조치이다.",
       "impact": "글로벌 생산 기지 재편에 따라 CKD 물량 및 공급망 운영 전략에 변화가 발생할 가능성이 있으므로, 주요 거점별 생산 차종 변경에 따른 물류 및 부품 공급망 최적화 모니터링 필요.",
@@ -1255,7 +1255,37 @@
       "description": "현대차 인도 '대관 사령탑' 떠났다…20조 투자 앞두고 정부 상대 핵심 조직 변화 더구루",
       "priority_markets": [
         "인도"
-      ]
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n004",
+      "related_articles": [],
+      "summary": "현대차 인도 법인의 대관(GR) 조직 핵심 인력이 교체되었습니다. 이는 현대차그룹의 인도 내 20조 원 규모 대규모 투자 및 사업 확장을 앞두고 정부 대응 체계를 재정비하려는 움직임으로 해석됩니다.",
+      "impact": "인도 내 대규모 투자 및 생산 거점 확대 과정에서 현지 정부와의 정책 조율 및 인허가 관련 대응 역량이 중요해짐에 따라 관련 조직 변화를 모니터링할 필요가 있음.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차그룹의 인도 시장 20조 원 투자 계획 및 생산 거점 고도화 추진",
+        "key_points": [
+          "현대차 인도 법인 대관 사령탑 교체",
+          "20조 원 투자 앞두고 정부 대응 조직 변화",
+          "인도 시장 내 사업 고도화를 위한 내부 체질 개선"
+        ],
+        "what_to_watch": "조직 개편 이후 인도 정부와의 정책 협력 및 투자 집행 속도",
+        "fact_check": "대관 조직 인력 교체 사실은 기사 내용에 기반함"
+      },
+      "new_information": "현대차 인도 법인이 대규모 투자 및 사업 확장을 앞두고 정부 대응 체계를 강화하기 위해 대관(GR) 조직의 핵심 인력을 교체함.",
+      "source_comparison": "",
+      "news_relation": "후속보도",
+      "follow_up": {
+        "date": "2026-11-06",
+        "title": "[창간22주년 특집: 현대차, 성장의 지도를 다시 그리다]② 현대차그룹, 인도 수출 21.1% 증가…155억달러 투자로 글로벌 공급거점 확대 - 업코리아",
+        "summary": "현대차그룹이 인도 시장에 155억 달러 규모의 투자를 단행하며 글로벌 공급 거점으로 육성하고 있습니다. 최근 인도 수출 물량이 전년 대비 21.1% 증가하며 생산 및 R&D 역량 강화가 가시화되고 있습니다.",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xUEpFSElVb2F2anFuTE5WM0M4SjRzNHN0Y214UXBObFRueE1YVGpSTVc2Nm5UaXdBaDZMSmhrVUJxOTBKaU5VVm1SY01aaXNndTNMMDc0RWI5ZkEtNUY1LURfLVdUSGRFM3BvLWhn?oc=5"
+      },
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "ab8fd7f908860926",
+      "image_url": "",
+      "persistent_event_id": "10cd23d660b33776"
     },
     {
       "id": "1f115775bd154f",
@@ -1377,7 +1407,7 @@
       "description": "자동차 수출 65.5억달러 '10월 역대 최대'…생산·내수도 동반 증가 www.thepowernews.co.kr",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n004",
+      "event_cluster": "batch0-n005",
       "related_articles": [
         {
           "title": "10월 자동차 수출·내수·생산 ‘트리플’ 증가...역대 10월 최대 수출액 65.5억 달러 - BBS불교방송",
@@ -1710,7 +1740,7 @@
       "description": "[영상] 한은, 기준금리 6연속 동결…'장기 동결' 기조 공식화 nbn 시사경제",
       "priority_markets": [],
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n006",
+      "event_cluster": "batch0-n007",
       "related_articles": [],
       "summary": "한국은행이 기준금리를 6회 연속 동결하며 장기 동결 기조를 공식화했습니다. 이는 국내외 경제 불확실성과 물가 상황을 고려한 결정으로 풀이됩니다.",
       "impact": "",
@@ -1775,7 +1805,7 @@
       "description": "에코프로, 국제배터리엑스포서 포항 투자 성과·차세대 소재 기술 공개 브레이크뉴스",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n007",
+      "event_cluster": "batch0-n008",
       "related_articles": [],
       "summary": "에코프로가 국제배터리엑스포에 참가하여 포항 캠퍼스 투자 성과와 차세대 배터리 소재 기술을 공개했습니다. 이를 통해 배터리 밸류체인 경쟁력을 강조했습니다.",
       "impact": "배터리 소재 기술의 발전은 전기차 생산 원가 절감 및 성능 향상에 기여하며, 전동화 전환을 가속화하는 산업적 의미가 있습니다.",
@@ -1858,7 +1888,7 @@
       "description": "유럽·북미 항만 노사 갈등 표면화…물류 차질 우려 코리아쉬핑가제트",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n008",
+      "event_cluster": "batch0-n009",
       "related_articles": [],
       "summary": "유럽과 북미 지역에서 항만 노사 갈등이 표면화되면서 글로벌 물류 차질에 대한 우려가 커지고 있습니다.",
       "impact": "항만 적체 및 물류 지연은 부품 공급망과 완성차 수출입에 직접적인 영향을 줄 수 있으므로, 주요 항로의 물류 흐름과 운송 비용 변화를 예의주시해야 합니다.",
@@ -1962,6 +1992,122 @@
       "category": "경제·금융",
       "description": "출발증시 1부 한국경제TV",
       "priority_markets": []
+    },
+    {
+      "id": "1c0ec93e6663a7",
+      "title": "호주 달러 환율 전망 2026: 기준금리 4.85%에도 0.67달러인 이유 - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQUtOWVl5Rzduc2hZaTlMMkE4R1R1UEpBeGVmX3dESXdNRmJVbFllUVJXVU5EZHBPa2ZtY3lfYmlqRF8tZXZDOEF5aElMYVB4Z1BWLVhfWUhlRnBOdWU4cWhzZUxHMklKOGJJV2d5Mlk0ZmlSNXY2ME90RkIwSHlWRHVRVmRMal9hcHc?oc=5",
+      "source": "Mitrade",
+      "published": "2026-11-16T18:17:46+09:00",
+      "category": "경제·금융",
+      "description": "호주 달러 환율 전망 2026: 기준금리 4.85%에도 0.67달러인 이유 Mitrade",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "summary": "호주 기준금리가 4.85%로 높은 수준을 유지함에도 불구하고 호주 달러 환율이 0.67달러 수준에 머무는 배경을 분석한 기사입니다. 고금리 기조와 환율 간의 괴리 현상을 경제적 요인으로 설명하고 있습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "호주 중앙은행의 고금리 정책과 환율 변동성 간의 상관관계 분석",
+        "key_points": [
+          "기준금리 4.85% 유지",
+          "호주 달러 환율 0.67달러 수준 정체",
+          "고금리에도 환율이 강세를 보이지 않는 경제적 요인 분석"
+        ],
+        "what_to_watch": "향후 호주 중앙은행의 금리 정책 변화 및 글로벌 달러화 강세 여부",
+        "fact_check": "제시된 금리 및 환율 수치는 기사 내용에 기반함"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "891cb4f79a8c0049",
+      "image_url": "",
+      "persistent_event_id": "2fa565b097459609"
+    },
+    {
+      "id": "4fb9f56b3a3b99",
+      "title": "산체스 스페인 총리 \"3차 대전 막으려면…다자주의로 군비 축소해야\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vekktUnd5ZUM0NHduZzRaNmFkTzlyWnlwb0xsN0w2LWJ6c2dRdXpzT0VORl9qQjk3QkNXT3p4WHNVeVV2Y2ZkY19DWUZuZ0UzQXJBcWFram9tSGFpSmp2aW9USmtnWTNSdkMyUjJjbzFkN2EwYWctdNIBeEFVX3lxTE9vekktUnd5ZUM0NHduZzRaNmFkTzlyWnlwb0xsN0w2LWJ6c2dRdXpzT0VORl9qQjk3QkNXT3p4WHNVeVV2Y2ZkY19DWUZuZ0UzQXJBcWFram9tSGFpSmp2aW9USmtnWTNSdkMyUjJjbzFkN2EwYWctdA?oc=5",
+      "source": "뉴시스",
+      "published": "2026-11-16T17:36:01+09:00",
+      "category": "국제·외교",
+      "description": "산체스 스페인 총리 \"3차 대전 막으려면…다자주의로 군비 축소해야\" 뉴시스",
+      "priority_markets": []
+    },
+    {
+      "id": "48d0b9680553f3",
+      "title": "코스피 하락·달러 강세에도…원/달러 환율 하락하는 이유 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwQVZoUUs4Y2FISUw4MWgxeWZfQThma0NOV2ZWeWN2Y05reDZQZy1tRDNYUGxBaXYxcnZZQngtZU1ncTAzc3FXQkVuZmRiaDRSSVpfbmdUNUU4TkVLMVpiNG42OU5Ld01oNTJWUnZPNk_SAXBBVV95cUxQMEFWaFFLOGNhSElMODFoMXlmX0E4ZmtDTldmVnljdmNOa3g2UGctbUQzWFBsQWl2MXJ2WUJ4LWVNZ3EwM3NxV0JFbmZkYmg0UklaX25nVDVFOE5FSzFaYjRuNjlOS3dNaDUyVlJ2TzZP?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-16T17:35:39+09:00",
+      "category": "경제·금융",
+      "description": "코스피 하락·달러 강세에도…원/달러 환율 하락하는 이유 - 머니투데이 머니투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "eae70878478fca",
+      "title": "[증시 레이더] 코스피 190포인트 급락 5,100선 마감⋯SK하이닉스 -7.89% - 포커스온경제",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xVVl3WU5SdXctR3VmQXFZNUFuRXJ3eE0yNmI2YXYwTVVkUUNrNThrYjQxN3R3bmNRdjhfRnl2N0l2OWZ2WmZId3lqVkg3MmNKMTNHeGp1YW15NUJNb1E?oc=5",
+      "source": "포커스온경제",
+      "published": "2026-11-16T15:51:49+09:00",
+      "category": "경제·금융",
+      "description": "[증시 레이더] 코스피 190포인트 급락 5,100선 마감⋯SK하이닉스 -7.89% 포커스온경제",
+      "priority_markets": []
+    },
+    {
+      "id": "ba4fd6e7db0fbd",
+      "title": "외통위원장, 유엔 사무차장 면담···우크라·미얀마·수단 등 ‘분쟁 해법’ 모색 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44SUhoV0lWVndQbU50S2JQRFY2OHdqVVRhV3FTUWM3dEFvV29ySkNVNWpLUHd2OHlSbE1udHJtanB2dWVvVnhpR1JjSDFhVnJCYU85OFNsbUl6WUVEMTY3M1FzTUZ5QnVJM2JYbEhxVFBld9IBdEFVX3lxTE5RX0dLaGRRWWwtM0FQd01iRnFCMnpxTkRWS3Y4YXV1ODdiTEc1UVNwN0RGall6YlZJU0VOaWdmRjN1Z1hrQ1B0QzAwR21xOHllX01mM21hVEY5NTRpZ1E5UGFYR3ViQ0I3NXZYd3ZtcmlXZWVJ?oc=5",
+      "source": "이뉴스투데이",
+      "published": "2026-11-16T12:21:07+09:00",
+      "category": "국제·외교",
+      "description": "외통위원장, 유엔 사무차장 면담···우크라·미얀마·수단 등 ‘분쟁 해법’ 모색 이뉴스투데이",
+      "priority_markets": []
+    },
+    {
+      "id": "13aef2cae6964b",
+      "title": "월급은 3.3% 오르는데 근로소득세 40% 더 내라… 정부, 삼전닉스 성과급 가정에 기댔다 [2027 나라살림 대해부] - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ERkYxa1NBVWtZWnVTaFpLTUJoLTMtUEFoZHJEeXZXRVdHRDRlMVd4bW1HUzlUTnYzY3I4T1I4RzJfTmxmS0QtcEh3TlN3dS12N3ktcGF0WWVabzNXZ3prUE9XakpUcDh0eTJ1aW1R0gFzQVVfeXFMT0lvVE1HYnNRNUtBMlRaNDZfYlh6N2RyZUY3Smo2MDdqQmFtejVqUGdFblhMZ0dCX1pnN0ExTHk1ay1fV1JrODVEdTFNZGJqOGwzeEFOM2NVSDl3bndaZUo2VjhnRGtSRzZFVjVmMjJTaWJYMA?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-16T11:00:00+09:00",
+      "category": "정치·정책",
+      "description": "월급은 3.3% 오르는데 근로소득세 40% 더 내라… 정부, 삼전닉스 성과급 가정에 기댔다 [2027 나라살림 대해부] 한국일보",
+      "priority_markets": []
+    },
+    {
+      "id": "e50ad0285dc991",
+      "title": "iM증권 ＂엔비디아·코스피, 불편한 차트…중요한건 펀더멘털＂ - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vWV9reUtPVWZuLXdTZC1RalVrMmtPeHA2R0tJR21RcWhZbTJrMlJTaXJ4eWpyczhlMWtEbkhNM2pwZ0h2Z2lrRmh0WXp2WC1raS1LWnhhdXVIVDJ5RVhVQlJrUWUxUE9WSnQ1dTk2Xzg5UkVGRk9tVHhyWHk?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-16T08:43:00+09:00",
+      "category": "경제·금융",
+      "description": "iM증권 ＂엔비디아·코스피, 불편한 차트…중요한건 펀더멘털＂ 한국경제TV",
+      "priority_markets": []
+    },
+    {
+      "id": "05f899d6d1c311",
+      "title": "[W 핫이슈] 고경표 음주사고·세무사 시험 AI 커닝…여의도 정치판 뉴스, 이제는 '소음 제거' - 뉴스에듀신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pUUZGMUdZa09wZWNVYjV1d21JMlFpbFkxQlRuSjM0YjItb2h6Zk91ZXJublBWdTk0Z1Nlbmdua0N1LTlQYVZ3aHZMUkVVSXZNQm45RzM3bDFzSzhiUmhFUVJ3UWxVa0hLaEZUatIBcEFVX3lxTE9XbWxHSmdNNGRjclpNS1VIcWtFZWZ6TjBidmVEV1hLVGRnSTVBN2dSUXdGa0lCOUxRRTFsd0dFTV80OTJRM215WkVITUp0ZXFiaXhFTDZseDRSMnNWR29RMU8wek02UGFVbFl6eW1mZUY?oc=5",
+      "source": "뉴스에듀신문",
+      "published": "2026-11-15T19:22:07+09:00",
+      "category": "국내 주요 사건",
+      "description": "[W 핫이슈] 고경표 음주사고·세무사 시험 AI 커닝…여의도 정치판 뉴스, 이제는 '소음 제거' 뉴스에듀신문",
+      "priority_markets": []
+    },
+    {
+      "id": "f18ca11a4c90d9",
+      "title": "\"중국 버리고 인도로 간다\"… 생산능력 60만 대 시대 여는 기아의 '초대형 프로젝트' - 이콘밍글",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yZ09tUFNxTG80YkQxMU9qR0NiRndOSXBLbU5pWDFJekhSLUxUNzJiUzdibVdGdEU3eVg1Z3lZcDNnVFBqMW16aDBSUkNHNXFGX1dMM0JJLU1WSEItaDJBSUxkVjF0NjJPQnZ5dWo3MUtSNXPSAXtBVV95cUxQdEJONG9Nb1pOTW1nM3lyVkxneDVsV1ZhZHpIemhoWGVURWJpdWVBd2lNX2p2aURodlNEdUd6ZGEyVnFjbnE4VVIzRlZXU3VQYUUyTk5YamJuOWtZNGdOcDFuWC1DNTMtU2RjZTkxeGEtWXloWTNWSkRWWXM?oc=5",
+      "source": "이콘밍글",
+      "published": "2026-11-15T18:00:00+09:00",
+      "category": "자동차",
+      "description": "\"중국 버리고 인도로 간다\"… 생산능력 60만 대 시대 여는 기아의 '초대형 프로젝트' 이콘밍글",
+      "priority_markets": [
+        "인도"
+      ]
     }
   ]
 }

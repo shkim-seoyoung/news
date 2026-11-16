@@ -1,9 +1,43 @@
 {
   "date": "2026-11-16",
-  "updated_at": "2026-11-16T19:03:00.146939+09:00",
-  "article_count": 7,
+  "updated_at": "2026-11-16T19:21:12.406852+09:00",
+  "article_count": 9,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "1c0ec93e6663a7",
+      "title": "호주 달러 환율 전망 2026: 기준금리 4.85%에도 0.67달러인 이유 - Mitrade",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQUtOWVl5Rzduc2hZaTlMMkE4R1R1UEpBeGVmX3dESXdNRmJVbFllUVJXVU5EZHBPa2ZtY3lfYmlqRF8tZXZDOEF5aElMYVB4Z1BWLVhfWUhlRnBOdWU4cWhzZUxHMklKOGJJV2d5Mlk0ZmlSNXY2ME90RkIwSHlWRHVRVmRMal9hcHc?oc=5",
+      "source": "Mitrade",
+      "published": "2026-11-16T18:17:46+09:00",
+      "category": "경제·금융",
+      "description": "호주 달러 환율 전망 2026: 기준금리 4.85%에도 0.67달러인 이유 Mitrade",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "summary": "호주 기준금리가 4.85%로 높은 수준을 유지함에도 불구하고 호주 달러 환율이 0.67달러 수준에 머무는 배경을 분석한 기사입니다. 고금리 기조와 환율 간의 괴리 현상을 경제적 요인으로 설명하고 있습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "호주 중앙은행의 고금리 정책과 환율 변동성 간의 상관관계 분석",
+        "key_points": [
+          "기준금리 4.85% 유지",
+          "호주 달러 환율 0.67달러 수준 정체",
+          "고금리에도 환율이 강세를 보이지 않는 경제적 요인 분석"
+        ],
+        "what_to_watch": "향후 호주 중앙은행의 금리 정책 변화 및 글로벌 달러화 강세 여부",
+        "fact_check": "제시된 금리 및 환율 수치는 기사 내용에 기반함"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "891cb4f79a8c0049",
+      "image_url": "",
+      "persistent_event_id": "2fa565b097459609"
+    },
     {
       "id": "0433928b047da4",
       "title": "현대차 전기 SUV, 호주서 전량 리콜…5월 급제동 경고에도 결함 못 잡았다 - ABC뉴스",
@@ -14,7 +48,7 @@
       "description": "현대차 전기 SUV, 호주서 전량 리콜…5월 급제동 경고에도 결함 못 잡았다 ABC뉴스",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n001",
+      "event_cluster": "batch0-n002",
       "related_articles": [],
       "summary": "현대차의 전기 SUV 모델이 호주 시장에서 전량 리콜 조치되었다. 지난 5월 급제동 경고 시스템에 대한 결함이 지적되었음에도 불구하고 문제가 해결되지 않아 리콜이 결정되었다.",
       "impact": "해외 시장에서의 품질 이슈는 브랜드 신뢰도 및 향후 현지 판매 전략에 영향을 미칠 수 있으며, 관련 부품의 품질 관리 및 리콜 대응 프로세스 점검이 필요함.",
@@ -47,7 +81,7 @@
       "description": "현대차·기아, 글로벌 생산기지 재편…차종·수출국 바꿔 수익성 높인다 동아일보",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n002",
+      "event_cluster": "batch0-n003",
       "related_articles": [],
       "summary": "현대차·기아가 글로벌 생산 거점의 효율성을 높이기 위해 차종 배정 및 수출국을 재편하는 전략을 추진한다. 이는 시장별 수요 변화에 유연하게 대응하고 수익성을 극대화하기 위한 조치이다.",
       "impact": "글로벌 생산 기지 재편에 따라 CKD 물량 및 공급망 운영 전략에 변화가 발생할 가능성이 있으므로, 주요 거점별 생산 차종 변경에 따른 물류 및 부품 공급망 최적화 모니터링 필요.",
@@ -71,6 +105,48 @@
       "persistent_event_id": "33688ba3eabae41d"
     },
     {
+      "id": "c3de9473b6d4ab",
+      "title": "현대차 인도 '대관 사령탑' 떠났다…20조 투자 앞두고 정부 상대 핵심 조직 변화 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yLTZPd2FtbHhROUJhRV90UnVsVVkwVFBuOWFYbU1fdWZNc0xST2U2YU5LWFk4dXlDVnowT2R4WHNtMTJVT19PQWE5WG95NzctcUtyOTNuMERZNmtIamgzMEdLaw?oc=5",
+      "source": "더구루",
+      "published": "2026-11-16T16:33:01+09:00",
+      "category": "자동차",
+      "description": "현대차 인도 '대관 사령탑' 떠났다…20조 투자 앞두고 정부 상대 핵심 조직 변화 더구루",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n004",
+      "related_articles": [],
+      "summary": "현대차 인도 법인의 대관(GR) 조직 핵심 인력이 교체되었습니다. 이는 현대차그룹의 인도 내 20조 원 규모 대규모 투자 및 사업 확장을 앞두고 정부 대응 체계를 재정비하려는 움직임으로 해석됩니다.",
+      "impact": "인도 내 대규모 투자 및 생산 거점 확대 과정에서 현지 정부와의 정책 조율 및 인허가 관련 대응 역량이 중요해짐에 따라 관련 조직 변화를 모니터링할 필요가 있음.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차그룹의 인도 시장 20조 원 투자 계획 및 생산 거점 고도화 추진",
+        "key_points": [
+          "현대차 인도 법인 대관 사령탑 교체",
+          "20조 원 투자 앞두고 정부 대응 조직 변화",
+          "인도 시장 내 사업 고도화를 위한 내부 체질 개선"
+        ],
+        "what_to_watch": "조직 개편 이후 인도 정부와의 정책 협력 및 투자 집행 속도",
+        "fact_check": "대관 조직 인력 교체 사실은 기사 내용에 기반함"
+      },
+      "new_information": "현대차 인도 법인이 대규모 투자 및 사업 확장을 앞두고 정부 대응 체계를 강화하기 위해 대관(GR) 조직의 핵심 인력을 교체함.",
+      "source_comparison": "",
+      "news_relation": "후속보도",
+      "follow_up": {
+        "date": "2026-11-06",
+        "title": "[창간22주년 특집: 현대차, 성장의 지도를 다시 그리다]② 현대차그룹, 인도 수출 21.1% 증가…155억달러 투자로 글로벌 공급거점 확대 - 업코리아",
+        "summary": "현대차그룹이 인도 시장에 155억 달러 규모의 투자를 단행하며 글로벌 공급 거점으로 육성하고 있습니다. 최근 인도 수출 물량이 전년 대비 21.1% 증가하며 생산 및 R&D 역량 강화가 가시화되고 있습니다.",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xUEpFSElVb2F2anFuTE5WM0M4SjRzNHN0Y214UXBObFRueE1YVGpSTVc2Nm5UaXdBaDZMSmhrVUJxOTBKaU5VVm1SY01aaXNndTNMMDc0RWI5ZkEtNUY1LURfLVdUSGRFM3BvLWhn?oc=5"
+      },
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "ab8fd7f908860926",
+      "image_url": "",
+      "persistent_event_id": "10cd23d660b33776"
+    },
+    {
       "id": "36dc042670905d",
       "title": "자동차 수출 65.5억달러 '10월 역대 최대'…생산·내수도 동반 증가 - www.thepowernews.co.kr",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40Q2hONUx6RWVPaGtBUVFqN1ZuYktGR2NXYmZFSWhSbTJnSjB1dmNBTkZvOC15eVpxWm9PeEIyMjRiTUkwZy1GN0RrTEE2aV9mX3hUUDFzREoyQmt6MHNhaWVQV2Y4SXBsSkpuZjgzaFVsaTliOFhTME1CZkxPQQ?oc=5",
@@ -80,7 +156,7 @@
       "description": "자동차 수출 65.5억달러 '10월 역대 최대'…생산·내수도 동반 증가 www.thepowernews.co.kr",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n004",
+      "event_cluster": "batch0-n005",
       "related_articles": [
         {
           "title": "10월 자동차 수출·내수·생산 ‘트리플’ 증가...역대 10월 최대 수출액 65.5억 달러 - BBS불교방송",
@@ -151,7 +227,7 @@
       "description": "[영상] 한은, 기준금리 6연속 동결…'장기 동결' 기조 공식화 nbn 시사경제",
       "priority_markets": [],
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n006",
+      "event_cluster": "batch0-n007",
       "related_articles": [],
       "summary": "한국은행이 기준금리를 6회 연속 동결하며 장기 동결 기조를 공식화했습니다. 이는 국내외 경제 불확실성과 물가 상황을 고려한 결정으로 풀이됩니다.",
       "impact": "",
@@ -184,7 +260,7 @@
       "description": "에코프로, 국제배터리엑스포서 포항 투자 성과·차세대 소재 기술 공개 브레이크뉴스",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n007",
+      "event_cluster": "batch0-n008",
       "related_articles": [],
       "summary": "에코프로가 국제배터리엑스포에 참가하여 포항 캠퍼스 투자 성과와 차세대 배터리 소재 기술을 공개했습니다. 이를 통해 배터리 밸류체인 경쟁력을 강조했습니다.",
       "impact": "배터리 소재 기술의 발전은 전기차 생산 원가 절감 및 성능 향상에 기여하며, 전동화 전환을 가속화하는 산업적 의미가 있습니다.",
@@ -217,7 +293,7 @@
       "description": "유럽·북미 항만 노사 갈등 표면화…물류 차질 우려 코리아쉬핑가제트",
       "priority_markets": [],
       "section": "산업·업무",
-      "event_cluster": "batch0-n008",
+      "event_cluster": "batch0-n009",
       "related_articles": [],
       "summary": "유럽과 북미 지역에서 항만 노사 갈등이 표면화되면서 글로벌 물류 차질에 대한 우려가 커지고 있습니다.",
       "impact": "항만 적체 및 물류 지연은 부품 공급망과 완성차 수출입에 직접적인 영향을 줄 수 있으므로, 주요 항로의 물류 흐름과 운송 비용 변화를 예의주시해야 합니다.",
@@ -250,7 +326,7 @@
       "description": "李대통령, 아세안·APEC 정상회의 참석..한미·한중 정상회담 성사 주목 경기일보",
       "priority_markets": [],
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n009",
+      "event_cluster": "batch0-n010",
       "related_articles": [],
       "summary": "李대통령이 아세안 및 APEC 정상회의 참석을 위해 순방길에 오르며, 현지에서 한미·한중 정상회담이 성사될지 여부에 관심이 집중되고 있습니다. 이번 순방은 주요국 정상들과의 외교적 현안을 논의하고 협력 관계를 강화하는 계기가 될 것으로 보입니다.",
       "impact": "",
