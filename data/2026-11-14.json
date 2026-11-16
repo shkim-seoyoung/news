@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
   "updated_at": "2026-11-14T12:35:55.771661+09:00",
-  "article_count": 4,
+  "article_count": 3,
   "ai_enabled": true,
   "articles": [
     {
@@ -122,64 +122,6 @@
       "integrated_summary": true,
       "integration_signature": "47392d88d2afd2a3",
       "image_url": ""
-    },
-    {
-      "id": "3bd314cbc26663",
-      "title": "기아, 인도 제2공장에 2.6조… 현대차그룹 ‘21조 투자’ 구체화 - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmFxdXRKSzVuTXlibGFZVEIwa2lGaTlxUDdCd2xOYy1CUlgxVjFQeXhSd2RRQmdRbHZuVjVDaHFJclBjRjd3TEJhVnhxNzhKaTUybW5mRVdkTzE1a0VHR1ppd0oxT3hCa3hzdGVCNk95VEwxZ2R0OXZoTDR2bG9jNElpaXF6NjhraGFCZ3VlSUo4U0XSAZMBQVVfeXFMTzZhcXV0Sks1bk15YmxhWVRCMGtpRmk5cVA3QndsTmMtQlJYMVYxUHl4UndkUUJnUWx2blY1Q2hxSXJQY0Y3d0xCYVZ4cTc4Smk1Mm1uZkVXZE8xNWtFR0daaXdKMU94Qmt4c3RlQjZPeVRMMWdkdDl2aEw0dmxvYzRJaWlxejY4a2hhQmd1ZUlKOFNF?oc=5",
-      "source": "Chosunbiz",
-      "published": "2026-11-13T13:43:00+09:00",
-      "category": "자동차",
-      "description": "기아, 인도 제2공장에 2.6조… 현대차그룹 ‘21조 투자’ 구체화 Chosunbiz",
-      "priority_markets": [
-        "인도"
-      ],
-      "section": "산업·업무",
-      "event_cluster": "batch0-n004",
-      "related_articles": [
-        {
-          "title": "기아, 인도에 20억달러 추가 투자… 제2공장 신설 - 파이낸셜뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZ2UwV0NOQnVCWGZrTERVcUNfZzBCWmlOdU5iZDhXVThIQVJzcXRvY2lFQzlhQnJnZ2ZoOTBXeGJwNEdNUHBUNElmbm91aUhtSFVsQlIyVXUtZw?oc=5",
-          "source": "파이낸셜뉴스",
-          "published": "2026-11-13T14:45:27+09:00"
-        },
-        {
-          "title": "기아, 인도에 2.6조원 투자…2030년 연산 63만대 '제2공장' 짓는다 - 뉴시안",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WX2F3TVhhWDhVSDdmdHhDcDJrb3hfM0NJVDJUY3dZNUUwZkJERWFOdjJGT2FKMkRJcTktR0ItR255UTFCaU5rRGRYYWRHejk5NENVYldhWkN4ZS0xbl91WEZrenBNYWVfcFZnOQ?oc=5",
-          "source": "뉴시안",
-          "published": "2026-11-13T13:37:19+09:00"
-        }
-      ],
-      "summary": "기아가 인도 제2공장 신설을 위해 약 2조 6천억 원(20억 달러) 규모의 투자를 결정했습니다. 이번 투자를 통해 2030년까지 인도 내 연간 생산 능력을 63만 대 규모로 확대할 계획입니다.",
-      "impact": "인도 내 생산 능력 확대는 현대차그룹의 현지 시장 점유율 강화와 직결되며, 향후 CKD 부품 공급 및 현지 물류 인프라 수요 증가 가능성을 시사합니다.",
-      "importance": "높음",
-      "detail": {
-        "background": "현대차그룹의 인도 시장 내 입지 강화 및 생산 거점 다변화 전략의 일환.",
-        "key_points": [
-          "기아 인도 제2공장 신설을 위한 2.6조 원 투자 확정",
-          "2030년까지 인도 내 연산 63만 대 생산 체제 구축",
-          "현대차그룹의 인도 내 총 21조 원 투자 계획의 구체화"
-        ],
-        "what_to_watch": "제2공장 착공 일정 및 현지화율 제고를 위한 공급망 구축 계획",
-        "fact_check": "투자 금액 2.6조 원 및 2030년 연산 63만 대 목표 확인"
-      },
-      "new_information": "기아 인도 제2공장 신설 확정 및 2.6조 원(20억 달러) 투자, 2030년 연산 63만 대 목표 제시.",
-      "source_comparison": "각 매체 모두 2.6조 원(20억 달러) 투자와 2030년 연산 63만 대 목표를 동일하게 보도함.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "7c4da735172b12f7",
-      "image_url": "",
-      "original_summary": "기아가 인도 제2공장에 약 2.6조 원을 투자하며, 이를 통해 현대차그룹은 인도 현지에서 연산 177만 대 생산 체제를 구축하게 됩니다. 이번 투자는 현대차그룹의 인도 내 21조 원 투자 계획의 일환으로 구체화되었습니다.",
-      "original_detail": {
-        "background": "현대차그룹의 인도 시장 내 중장기 투자 로드맵이 구체적인 수치와 함께 발표되었습니다.",
-        "key_points": [
-          "기아 인도 제2공장 투자액 2.6조 원 확정",
-          "현대차그룹 인도 현지 연산 177만 대 생산 체제 확보"
-        ],
-        "what_to_watch": "현대차와 기아의 인도 내 생산 시너지 및 부품 현지화율 추이",
-        "fact_check": "현대차그룹 인도 총 생산 능력 177만 대 수치 확인"
-      }
     }
   ]
 }

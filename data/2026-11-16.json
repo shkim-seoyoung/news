@@ -1,116 +1,278 @@
 {
   "date": "2026-11-16",
-  "updated_at": "2026-11-16T10:28:32.065231+09:00",
-  "article_count": 3,
+  "updated_at": "2026-11-16T19:03:00.146939+09:00",
+  "article_count": 7,
   "ai_enabled": true,
   "articles": [
     {
-      "id": "865b1f8b18b9ae",
-      "title": "“중국 버리고 인도로 간다”… 생산능력 60만 대 시대 여는 기아의 ‘초대형 프로젝트’ - 네이트뷰",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5feWpLdWFSN1lRU3A2VnJWQU5aSFgyOGdCcS1ZdkxHRmdIYThlTndDWkhWdWlHQ0k4WnRYc3NJa3N2dFZDMFdPWWQ0UTZiU2s30gFWQVVfeXFMTjZzemxOTzFtQVY1VjFOakh5S013NGtzckdJZ2ZMaU1qNFltcmZFM0dIWmMyaUJaSjU5dC1Hak1LazljdW1laHI4NXhvaHpIZEI3LUFiSVE?oc=5",
-      "source": "네이트뷰",
-      "published": "2026-11-15T18:42:00+09:00",
+      "id": "0433928b047da4",
+      "title": "현대차 전기 SUV, 호주서 전량 리콜…5월 급제동 경고에도 결함 못 잡았다 - ABC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kS3ByUUpLMEx3cTF4T3pXVkJad1h5VjlITzZ3YmYwMVNzV1lvZkVUY3RIcWpmSkxRejZHUTNFQlFmaXhVSnlfYjJGZkhScmJJblYxck5WUnRVdnAtdmx2ZGJXV29JZVnSAWdBVV95cUxNZEtwclFKSzBMd3ExeE96V1ZCWndYeVY5SE82d2JmMDFTc1dZb2ZFVGN0SHFqZkpMUXo2R1EzRUJRZml4VUp5X2IyRmZIUnJiSW5WMXJOVlJ0VXZwLXZsdmRiV1dvSWVZ?oc=5",
+      "source": "ABC뉴스",
+      "published": "2026-11-16T17:07:30+09:00",
       "category": "자동차",
-      "description": "“중국 버리고 인도로 간다”… 생산능력 60만 대 시대 여는 기아의 ‘초대형 프로젝트’ 네이트뷰",
-      "priority_markets": [
-        "인도"
-      ],
+      "description": "현대차 전기 SUV, 호주서 전량 리콜…5월 급제동 경고에도 결함 못 잡았다 ABC뉴스",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "summary": "현대차의 전기 SUV 모델이 호주 시장에서 전량 리콜 조치되었다. 지난 5월 급제동 경고 시스템에 대한 결함이 지적되었음에도 불구하고 문제가 해결되지 않아 리콜이 결정되었다.",
+      "impact": "해외 시장에서의 품질 이슈는 브랜드 신뢰도 및 향후 현지 판매 전략에 영향을 미칠 수 있으며, 관련 부품의 품질 관리 및 리콜 대응 프로세스 점검이 필요함.",
+      "importance": "보통",
+      "detail": {
+        "background": "호주 시장 내 현대차 전기차의 안전성 관련 결함 이슈",
+        "key_points": [
+          "호주 내 현대차 전기 SUV 전량 리콜 실시",
+          "5월 급제동 경고 시스템 결함 미해결 확인"
+        ],
+        "what_to_watch": "리콜 대상 차량의 범위와 구체적인 수리 조치 계획, 향후 호주 당국의 추가 제재 여부",
+        "fact_check": "5월 결함 지적 이후 조치 미흡 여부 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "c380216729f353f9",
+      "image_url": "",
+      "persistent_event_id": "0b47ead6e9a83e9d"
+    },
+    {
+      "id": "c2764ba1ea301b",
+      "title": "현대차·기아, 글로벌 생산기지 재편…차종·수출국 바꿔 수익성 높인다 - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSzdYNlhBVE04TkNoa0NiWnZyLVVkV3VmMkpmNm1VbldGMUthMm01Nk53Y0hjZjFWb0ppZU13RVZzN25sUDV3U2RKNXh5X0lkTmdJRmotTVFqN0tKM1h2RG9oaDcxd9IBZkFVX3lxTE9pSzdYNlhBVE04TkNoa0NiWnZyLVVkV3VmMkpmNm1VbldGMUthMm01Nk53Y0hjZjFWb0ppZU13RVZzN25sUDV3U2RKNXh5X0lkTmdJRmotTVFqN0tKM1h2RG9oaDcxdw?oc=5",
+      "source": "동아일보",
+      "published": "2026-11-16T16:38:00+09:00",
+      "category": "자동차",
+      "description": "현대차·기아, 글로벌 생산기지 재편…차종·수출국 바꿔 수익성 높인다 동아일보",
+      "priority_markets": [],
       "section": "산업·업무",
       "event_cluster": "batch0-n002",
       "related_articles": [],
-      "summary": "기아가 중국 시장 의존도를 낮추고 인도 생산 거점을 강화하는 대규모 프로젝트를 추진 중이다. 인도 내 생산 능력을 60만 대 규모로 확대하여 글로벌 생산 전략의 중심축을 이동하려는 움직임이다.",
-      "impact": "인도 시장 내 기아의 생산 거점 확대는 현지 CKD 물량 및 부품 공급망 전략에 직접적인 영향을 미칠 수 있으므로, 향후 인도 공장 가동률과 현지화율 추이를 모니터링할 필요가 있음.",
+      "summary": "현대차·기아가 글로벌 생산 거점의 효율성을 높이기 위해 차종 배정 및 수출국을 재편하는 전략을 추진한다. 이는 시장별 수요 변화에 유연하게 대응하고 수익성을 극대화하기 위한 조치이다.",
+      "impact": "글로벌 생산 기지 재편에 따라 CKD 물량 및 공급망 운영 전략에 변화가 발생할 가능성이 있으므로, 주요 거점별 생산 차종 변경에 따른 물류 및 부품 공급망 최적화 모니터링 필요.",
       "importance": "높음",
       "detail": {
-        "background": "기아의 글로벌 생산 전략 재편 및 인도 시장의 전략적 중요성 증대",
+        "background": "글로벌 시장 수요 변화에 따른 현대차·기아의 생산 전략 최적화",
         "key_points": [
-          "중국 시장 비중 축소 및 인도 생산 거점 강화",
-          "인도 내 연간 생산 능력 60만 대 달성 목표",
-          "글로벌 생산 전략의 대대적인 전환"
+          "글로벌 생산 기지별 차종 및 수출국 재배치",
+          "수익성 중심의 생산 거점 운영 전략 강화"
         ],
-        "what_to_watch": "인도 공장 증설의 구체적인 타임라인 및 현지 생산 차종 확대 여부",
-        "fact_check": "기아의 인도 생산 능력 확대 계획에 대한 공식 발표 수치 확인 필요"
+        "what_to_watch": "구체적인 차종별 생산 거점 변경 계획 및 이에 따른 글로벌 물류 경로 변화",
+        "fact_check": "생산 기지 재편이 실제 CKD 공급망에 미치는 영향 범위"
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "45ad81c93bd4acbb",
-      "image_url": ""
+      "integration_signature": "59a9f682894f8167",
+      "image_url": "",
+      "persistent_event_id": "33688ba3eabae41d"
     },
     {
-      "id": "811cef29ed5a7e",
-      "title": "[APEC 정상회의] 통상·휴전 논의에 글로벌 자금 향방 촉각…환율·증시 변곡점 맞나 - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EYTdmemJiMy1xdzc3US1JQWstWVlpTWFldHZESVZUbW90a3ZCdl82TGtlSlI3OElpcVg0cUNUT1pKY2d6YjEyajRuY0g2dWVoekNESnhpRmPSAVhBVV95cUxNRGE3ZnpiYjMtcXc3N1EtSUFrLVlZaU1hZXR2RElWVG1vdGt2QnZfNkxrZUpSNzhJaXFYNHFDVE9aSmNnemIxMmo0bmNINnVlaHpDREp4aUZj?oc=5",
-      "source": "아주경제",
-      "published": "2026-11-15T17:41:41+09:00",
-      "category": "경제·금융",
-      "description": "[APEC 정상회의] 통상·휴전 논의에 글로벌 자금 향방 촉각…환율·증시 변곡점 맞나 아주경제",
+      "id": "36dc042670905d",
+      "title": "자동차 수출 65.5억달러 '10월 역대 최대'…생산·내수도 동반 증가 - www.thepowernews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40Q2hONUx6RWVPaGtBUVFqN1ZuYktGR2NXYmZFSWhSbTJnSjB1dmNBTkZvOC15eVpxWm9PeEIyMjRiTUkwZy1GN0RrTEE2aV9mX3hUUDFzREoyQmt6MHNhaWVQV2Y4SXBsSkpuZjgzaFVsaTliOFhTME1CZkxPQQ?oc=5",
+      "source": "www.thepowernews.co.kr",
+      "published": "2026-11-16T14:28:27+09:00",
+      "category": "자동차",
+      "description": "자동차 수출 65.5억달러 '10월 역대 최대'…생산·내수도 동반 증가 www.thepowernews.co.kr",
       "priority_markets": [],
-      "section": "일반 뉴스",
-      "event_cluster": "batch0-n001",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n004",
       "related_articles": [
         {
-          "title": "李대통령, 아세안·APEC 정상회의 참석..한미·한중 정상회담 성사 주목 - 경기일보",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kZUlEQnZXaHBhTTRsY280M3lVVUxzaFd1NFF3Ul9Ea1dfc1RuWVpZVmlnci15VDBqVmxGc0pDX0FVUll4MzFCX1ZybmtPUzdndmlsOFJUd0JYTlE?oc=5",
-          "source": "경기일보",
-          "published": "2026-11-16T06:31:31+09:00"
+          "title": "10월 자동차 수출·내수·생산 ‘트리플’ 증가...역대 10월 최대 수출액 65.5억 달러 - BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85ZlJnVDgwUWJ0bXRpWWM5Ung5Q3BRMVk3VVRfZ184VU9VZ0Niby1tSmRqWFl1amItY0FkX3hzT25oc1hvbzBoLXNOei1sWU03ejA4WDN4Q0pfbUF5NG5adjQteWE1MXVCLW5N?oc=5",
+          "source": "BBS불교방송",
+          "published": "2026-11-16T11:00:00+09:00"
+        },
+        {
+          "title": "10월 자동차 수출 65.5억 달러로 역대 동월 최대… 수출·내수·생산 ‘트리플’ 증가 - 기계신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmSEJ6QmtmTmQxR0dmQTNfTVA5UjhPcEpFZ2tWN2ZGSjVlWWVuWmt5Q1pDVldxZVNfa0g2VFZKMlREbzdqSHhnVkRWa2ltejJWUmpOZ19YdHFlUTdTRjRGQ19KbDhqSnc?oc=5",
+          "source": "기계신문",
+          "published": "2026-11-16T14:19:52+09:00"
+        },
+        {
+          "title": "10월 자동차 수출 '역대 최대' 65억4900만 달러…생산·내수·수출 '트리플 증가' - 미디어펜",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tM2t0MjRkd2F6c1NpWlF0SGtOY2hjTGhlc00zNHhKTi1GSWpKNm1WRkVraUtENG9UV2hXZHJfTlBtN3lqVVQzMkhqb0tBOFdkVngzN3JaOGbSAVhBVV95cUxObTNrdDI0ZHdhenNTaVpRdEhrTmNoY0xoZXNNMzR4Sk4tRklqSjZtVkZFa2lLRDRvVFdoV2RyX05QbTd5alVUMzJIam9LQThXZFZ4MzdyWjhm?oc=5",
+          "source": "미디어펜",
+          "published": "2026-11-16T13:17:52+09:00"
+        },
+        {
+          "title": "10월 자동차 수출 65억달러 돌파…생산·내수 동반 성장 - 스페셜경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRTFYTnMzM210VENHNGphTlp5MUo3c2JVVFBnQ0kxdjIzWmRXb1ViXzJtTTVNcjlIV2gzVnhKeHVTMTg4OU51QmtFNl8tZ0dKWFFYSktjQWV2cmdBZ19JcE1uOUs4eHlOb2N4Qw?oc=5",
+          "source": "스페셜경제",
+          "published": "2026-11-16T13:50:16+09:00"
+        },
+        {
+          "title": "10월 자동차 수출 18% 증가…친환경차 수출 '날개' - 뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxbjRPZTBBdm1ydmNUWHJQVXpGdV9MUDBac2lPQW9aNTRPWHFlTXdYTXdSbDh6VXV1ejFCcTdTcW5sSW93Y2R3UUk5TUMxT0pyUWRiRXZCeEtEQi1S?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-11-16T11:00:00+09:00"
+        },
+        {
+          "title": "자동차 수출·내수·생산 ‘트리플 증가’···10월 수출액 역대 최대 - 이지경제",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VUktNOGVLTHl5MU1jLVl0WWR0S19zNjRGMGkzVUhNZzB6TmlIdnpNcm0zNTJEeUpJSk5FbFUwaXJzR2tDRU9pcWtNcGlacnZwRktrNUpXYXMyRHpaSXFsOHYtZlFLSnplaWNzdVZR?oc=5",
+          "source": "이지경제",
+          "published": "2026-11-16T11:00:00+09:00"
         }
       ],
-      "summary": "APEC 정상회의를 계기로 글로벌 통상 및 휴전 논의가 진행되면서 국제 금융 시장의 자금 흐름과 환율, 증시 변동성에 관심이 쏠리고 있다. 李대통령의 참석을 통해 한미, 한중 정상회담 등 주요국 간 외교적 행보가 주목받고 있다.",
+      "summary": "10월 국내 자동차 산업이 수출, 생산, 내수 모두 증가하는 '트리플 증가'를 기록했다. 특히 자동차 수출액은 65.5억 달러로 10월 기준 역대 최대치를 달성했다.",
+      "impact": "국내 자동차 생산 및 수출 호조는 부품 공급망의 가동률 유지와 물류 수요 증가로 이어질 수 있음. 친환경차 수출 비중 확대에 따른 관련 부품 공급망 동향 주시 필요.",
+      "importance": "보통",
+      "detail": {
+        "background": "10월 국내 자동차 산업 실적 발표",
+        "key_points": [
+          "10월 자동차 수출액 65.5억 달러로 역대 10월 최대",
+          "생산·내수·수출 동반 증가세 기록",
+          "친환경차 수출이 전체 실적 견인"
+        ],
+        "what_to_watch": "연말까지의 수출 성장세 유지 여부 및 친환경차 중심의 생산 비중 변화",
+        "fact_check": "10월 수출액 65.5억 달러 수치 확인"
+      },
+      "new_information": "",
+      "source_comparison": "여러 매체에서 10월 수출액을 65.5억 달러로 일관되게 보도함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "f4616f451481c9df",
+      "image_url": "",
+      "persistent_event_id": "b12100968acd2b09"
+    },
+    {
+      "id": "2b93ae9466c7a3",
+      "title": "[영상] 한은, 기준금리 6연속 동결…'장기 동결' 기조 공식화 - nbn 시사경제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkeTZKQnZWalRHaDk5eE02d2RZWnV3TE9xWnM5QzdXR3JSTkVScjJqa0JpRDBoaUEtRHRVR1pMdC1tcm93WW9DdlZfaUwwQUF0alk3ZHNMdTRUTDVxR0lpNmltY2RocmNrcEE?oc=5",
+      "source": "nbn 시사경제",
+      "published": "2026-11-16T10:40:34+09:00",
+      "category": "경제·금융",
+      "description": "[영상] 한은, 기준금리 6연속 동결…'장기 동결' 기조 공식화 nbn 시사경제",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n006",
+      "related_articles": [],
+      "summary": "한국은행이 기준금리를 6회 연속 동결하며 장기 동결 기조를 공식화했습니다. 이는 국내외 경제 불확실성과 물가 상황을 고려한 결정으로 풀이됩니다.",
       "impact": "",
       "importance": "보통",
       "detail": {
-        "background": "APEC 정상회의를 통한 주요국 간 통상 및 외교적 의제 논의",
+        "background": "고물가와 경기 둔화 우려 속에서 한국은행은 통화 정책의 방향성을 신중하게 유지하고 있습니다.",
         "key_points": [
-          "글로벌 통상 및 휴전 논의에 따른 금융 시장 변동성",
-          "李대통령의 아세안·APEC 참석 및 정상회담 추진",
-          "한미·한중 관계 변화가 경제에 미칠 영향"
+          "기준금리 6회 연속 동결",
+          "장기 동결 기조 공식화"
         ],
-        "what_to_watch": "정상회담 결과에 따른 통상 정책 변화 및 환율 추이",
-        "fact_check": "李대통령의 구체적인 회담 일정 및 의제 확인"
-      },
-      "new_information": "",
-      "source_comparison": "아주경제는 경제적 파급효과에 집중한 반면, 경기일보는 李대통령의 외교 일정과 정상회담 성사 여부에 초점을 맞춤.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "7b85efe38e38db9f",
-      "image_url": ""
-    },
-    {
-      "id": "dbb4c137e42221",
-      "title": "폴리옥시메틸렌 공중합체(POM-C) 시장 2035년 전망: 자동차 경량화와 정밀 부품 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOHllbnkwYm1RaHltdllUaVludUQ3bkFjbFVVbGh5d3B3eWhNNUlBcmo0Y1dlZW9wd2tZb0JaYXROSkk1YmI5dHdDQWY0ZHNtTXFTanpoVmVEdTYxblhrZHFuZUZzemU2M0p2b0VhendldEpZNjhWNDU5anBBWTJFM2k1QnJfQk5fMElqTjFqb3N4RUpMV25oSHFSWERaU2tZZERtV2c3X1JJeHN6Vzh5LWh1T1JXWmhPWVlORnZHTUpvTkcwUmNuNi1XM2pnNXh2RFNGRnBRM2t0NU1Ob1JualJCTldTYndBb3dqME9UWQ?oc=5",
-      "source": "IndexBox",
-      "published": "2026-11-15T13:26:04+09:00",
-      "category": "자동차",
-      "description": "폴리옥시메틸렌 공중합체(POM-C) 시장 2035년 전망: 자동차 경량화와 정밀 부품 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
-      "priority_markets": [],
-      "section": "산업·업무",
-      "event_cluster": "batch0-n003",
-      "related_articles": [],
-      "summary": "자동차 경량화와 정밀 부품 수요 증가에 힘입어 폴리옥시메틸렌 공중합체(POM-C) 시장이 2035년까지 지속적으로 성장할 것으로 전망된다. 자동차 산업의 고도화가 소재 시장의 성장을 견인하는 핵심 동력으로 분석된다.",
-      "impact": "자동차 경량화 소재인 POM-C의 수요 증가는 관련 부품의 설계 및 공급망 변화를 시사하며, 향후 경량화 소재 채택 비중 확대에 따른 산업 동향을 파악할 필요가 있음.",
-      "importance": "보통",
-      "detail": {
-        "background": "자동차 산업의 경량화 추세와 고성능 엔지니어링 플라스틱 수요 증가",
-        "key_points": [
-          "2035년까지 POM-C 시장의 지속적 성장 전망",
-          "자동차 경량화 및 정밀 부품 수요가 시장 성장의 핵심",
-          "소재 산업과 자동차 제조 기술의 연관성 강화"
-        ],
-        "what_to_watch": "자동차 경량화 소재 관련 기술 표준 및 시장 점유율 변화",
-        "fact_check": "IndexBox의 시장 전망 데이터 근거 및 분석 범위 확인"
+        "what_to_watch": "향후 금리 인하 시점 및 국내 경기 회복 속도",
+        "fact_check": "한국은행의 공식 발표 내용과 부합함"
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "78da1775833d0e4a",
-      "image_url": ""
+      "integration_signature": "b935a42a0252c002",
+      "image_url": "",
+      "persistent_event_id": "37b05537419084fd"
+    },
+    {
+      "id": "a0de477adf172d",
+      "title": "에코프로, 국제배터리엑스포서 포항 투자 성과·차세대 소재 기술 공개 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43OHl5QTROX28wLTlENjRPTmQ0a0d5S2dZUWRJWHpRXzdqR0tHS1hyX0dweDlZYnJYcDhSUmdleGI3QQ?oc=5",
+      "source": "브레이크뉴스",
+      "published": "2026-11-16T10:18:12+09:00",
+      "category": "전동화",
+      "description": "에코프로, 국제배터리엑스포서 포항 투자 성과·차세대 소재 기술 공개 브레이크뉴스",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n007",
+      "related_articles": [],
+      "summary": "에코프로가 국제배터리엑스포에 참가하여 포항 캠퍼스 투자 성과와 차세대 배터리 소재 기술을 공개했습니다. 이를 통해 배터리 밸류체인 경쟁력을 강조했습니다.",
+      "impact": "배터리 소재 기술의 발전은 전기차 생산 원가 절감 및 성능 향상에 기여하며, 전동화 전환을 가속화하는 산업적 의미가 있습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "에코프로는 포항을 중심으로 배터리 소재 생태계를 구축하고 있으며, 글로벌 시장 공략을 위한 기술 고도화에 집중하고 있습니다.",
+        "key_points": [
+          "국제배터리엑스포 참가",
+          "포항 투자 성과 및 차세대 소재 기술 공개"
+        ],
+        "what_to_watch": "차세대 소재의 양산 시점 및 주요 고객사 공급 확대 여부",
+        "fact_check": "에코프로의 엑스포 참가 및 기술 공개 사실 확인"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "779263c732eae2ba",
+      "image_url": "",
+      "persistent_event_id": "c127793a94629fcf"
+    },
+    {
+      "id": "571254d2758792",
+      "title": "유럽·북미 항만 노사 갈등 표면화…물류 차질 우려 - 코리아쉬핑가제트",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fLVFsSjNJaWNCaXJiNXZkYWVLelN0Rnh6a2lmcldlM3gwbTF2SDhJVFdZYnBoc1pnNkdDNGRmcGRXeWRUUzEtc0o5Z2VNM3VIVW8xcV9jaGlob1Zob19TV0kwTFNmNVU?oc=5",
+      "source": "코리아쉬핑가제트",
+      "published": "2026-11-16T09:07:00+09:00",
+      "category": "CKD·물류",
+      "description": "유럽·북미 항만 노사 갈등 표면화…물류 차질 우려 코리아쉬핑가제트",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n008",
+      "related_articles": [],
+      "summary": "유럽과 북미 지역에서 항만 노사 갈등이 표면화되면서 글로벌 물류 차질에 대한 우려가 커지고 있습니다.",
+      "impact": "항만 적체 및 물류 지연은 부품 공급망과 완성차 수출입에 직접적인 영향을 줄 수 있으므로, 주요 항로의 물류 흐름과 운송 비용 변화를 예의주시해야 합니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "글로벌 공급망의 불안정성이 지속되는 가운데 주요 거점 항만의 노사 이슈가 물류 대란의 뇌관으로 작용하고 있습니다.",
+        "key_points": [
+          "유럽·북미 항만 노사 갈등 심화",
+          "글로벌 물류 차질 가능성 증대"
+        ],
+        "what_to_watch": "항만 파업 여부 및 물류 적체 현황",
+        "fact_check": "항만 노사 갈등 관련 보도 내용 확인"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a07b124d1906b025",
+      "image_url": "",
+      "persistent_event_id": "9b90d6fb7d1359e3"
+    },
+    {
+      "id": "000085e21223f7",
+      "title": "李대통령, 아세안·APEC 정상회의 참석..한미·한중 정상회담 성사 주목 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kZUlEQnZXaHBhTTRsY280M3lVVUxzaFd1NFF3Ul9Ea1dfc1RuWVpZVmlnci15VDBqVmxGc0pDX0FVUll4MzFCX1ZybmtPUzdndmlsOFJUd0JYTlE?oc=5",
+      "source": "경기일보",
+      "published": "2026-11-16T06:31:31+09:00",
+      "category": "정치·정책",
+      "description": "李대통령, 아세안·APEC 정상회의 참석..한미·한중 정상회담 성사 주목 경기일보",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n009",
+      "related_articles": [],
+      "summary": "李대통령이 아세안 및 APEC 정상회의 참석을 위해 순방길에 오르며, 현지에서 한미·한중 정상회담이 성사될지 여부에 관심이 집중되고 있습니다. 이번 순방은 주요국 정상들과의 외교적 현안을 논의하고 협력 관계를 강화하는 계기가 될 것으로 보입니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "李대통령의 아세안 및 APEC 정상회의 참석을 계기로 주요국 정상과의 양자 회담 추진 상황이 주목받고 있습니다.",
+        "key_points": [
+          "李대통령, 아세안 및 APEC 정상회의 참석차 순방",
+          "한미·한중 정상회담 성사 여부가 이번 순방의 핵심 관심사",
+          "주요국 정상들과의 외교적 현안 논의 및 협력 강화 기대"
+        ],
+        "what_to_watch": "실제 한미·한중 정상회담의 성사 여부와 회담에서 논의될 경제 및 통상 관련 의제",
+        "fact_check": "李대통령의 순방 일정과 정상회담 추진 여부는 보도된 내용에 기반함"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "9a20e4877c42f3c1",
+      "image_url": "",
+      "persistent_event_id": "feba958f56c7ea57"
     }
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-15",
+  "updated_at": "2026-11-15T12:39:21.081525+09:00",
+  "article_count": 1,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "908b835e406d63",
+      "title": "기아 인도 제2공장에 2.6조 투자…생산 63만대로 확대 : 기업·산업 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwbWpPV09FRVE2d1hDWGZvUVUxa0xvSkduU2V5VFhUcmZCQWo2VWNwMGtCVUFHZUEyZFRBNFdkTUxBMlh6WmZrZUpGZw?oc=5",
+      "source": "재경일보",
+      "published": "2026-11-14T19:21:08+09:00",
+      "category": "자동차",
+      "description": "기아 인도 제2공장에 2.6조 투자…생산 63만대로 확대 : 기업·산업 재경일보",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "summary": "기아가 인도 제2공장 설립을 위해 2조 6천억 원 규모의 대규모 투자를 단행하며, 이를 통해 인도 내 연간 생산 능력을 63만 대 수준으로 확대할 계획이다. 이번 투자는 인도 시장 내 점유율 확대와 글로벌 생산 거점으로서의 입지를 강화하기 위한 전략적 결정으로 풀이된다.",
+      "impact": "인도 내 생산 거점 확대는 현지 부품 공급망 및 CKD 물류 수요 변화를 유발할 수 있으므로, 향후 현지화율 정책과 연계된 물류 인프라 및 공급망 전략을 모니터링할 필요가 있다.",
+      "importance": "높음",
+      "detail": {
+        "background": "기아는 인도 시장의 성장 잠재력을 높게 평가하고 있으며, 기존 공장의 생산 한계를 극복하고 시장 수요에 대응하기 위해 추가 생산 시설 확충을 추진해 왔다.",
+        "key_points": [
+          "인도 제2공장 설립을 위한 2조 6천억 원 투자 확정",
+          "연간 생산 능력 63만 대 체제 구축",
+          "인도 시장 내 점유율 확대 및 생산 거점 다변화"
+        ],
+        "what_to_watch": "공장 착공 및 완공 일정, 현지 부품 조달 비율(현지화율), 인도 내 신규 차종 투입 계획",
+        "fact_check": "기아의 인도 투자 규모 2.6조 원 및 생산 목표 63만 대 수치 확인"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "fc858cbecb9d20ed",
+      "image_url": ""
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-16",
+  "updated_at": "2026-11-16T10:28:32.065231+09:00",
+  "article_count": 3,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "865b1f8b18b9ae",
+      "title": "“중국 버리고 인도로 간다”… 생산능력 60만 대 시대 여는 기아의 ‘초대형 프로젝트’ - 네이트뷰",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5feWpLdWFSN1lRU3A2VnJWQU5aSFgyOGdCcS1ZdkxHRmdIYThlTndDWkhWdWlHQ0k4WnRYc3NJa3N2dFZDMFdPWWQ0UTZiU2s30gFWQVVfeXFMTjZzemxOTzFtQVY1VjFOakh5S013NGtzckdJZ2ZMaU1qNFltcmZFM0dIWmMyaUJaSjU5dC1Hak1LazljdW1laHI4NXhvaHpIZEI3LUFiSVE?oc=5",
+      "source": "네이트뷰",
+      "published": "2026-11-15T18:42:00+09:00",
+      "category": "자동차",
+      "description": "“중국 버리고 인도로 간다”… 생산능력 60만 대 시대 여는 기아의 ‘초대형 프로젝트’ 네이트뷰",
+      "priority_markets": [
+        "인도"
+      ],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "summary": "기아가 중국 시장 의존도를 낮추고 인도 생산 거점을 강화하는 대규모 프로젝트를 추진 중이다. 인도 내 생산 능력을 60만 대 규모로 확대하여 글로벌 생산 전략의 중심축을 이동하려는 움직임이다.",
+      "impact": "인도 시장 내 기아의 생산 거점 확대는 현지 CKD 물량 및 부품 공급망 전략에 직접적인 영향을 미칠 수 있으므로, 향후 인도 공장 가동률과 현지화율 추이를 모니터링할 필요가 있음.",
+      "importance": "높음",
+      "detail": {
+        "background": "기아의 글로벌 생산 전략 재편 및 인도 시장의 전략적 중요성 증대",
+        "key_points": [
+          "중국 시장 비중 축소 및 인도 생산 거점 강화",
+          "인도 내 연간 생산 능력 60만 대 달성 목표",
+          "글로벌 생산 전략의 대대적인 전환"
+        ],
+        "what_to_watch": "인도 공장 증설의 구체적인 타임라인 및 현지 생산 차종 확대 여부",
+        "fact_check": "기아의 인도 생산 능력 확대 계획에 대한 공식 발표 수치 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "45ad81c93bd4acbb",
+      "image_url": ""
+    },
+    {
+      "id": "811cef29ed5a7e",
+      "title": "[APEC 정상회의] 통상·휴전 논의에 글로벌 자금 향방 촉각…환율·증시 변곡점 맞나 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EYTdmemJiMy1xdzc3US1JQWstWVlpTWFldHZESVZUbW90a3ZCdl82TGtlSlI3OElpcVg0cUNUT1pKY2d6YjEyajRuY0g2dWVoekNESnhpRmPSAVhBVV95cUxNRGE3ZnpiYjMtcXc3N1EtSUFrLVlZaU1hZXR2RElWVG1vdGt2QnZfNkxrZUpSNzhJaXFYNHFDVE9aSmNnemIxMmo0bmNINnVlaHpDREp4aUZj?oc=5",
+      "source": "아주경제",
+      "published": "2026-11-15T17:41:41+09:00",
+      "category": "경제·금융",
+      "description": "[APEC 정상회의] 통상·휴전 논의에 글로벌 자금 향방 촉각…환율·증시 변곡점 맞나 아주경제",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n001",
+      "related_articles": [
+        {
+          "title": "李대통령, 아세안·APEC 정상회의 참석..한미·한중 정상회담 성사 주목 - 경기일보",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kZUlEQnZXaHBhTTRsY280M3lVVUxzaFd1NFF3Ul9Ea1dfc1RuWVpZVmlnci15VDBqVmxGc0pDX0FVUll4MzFCX1ZybmtPUzdndmlsOFJUd0JYTlE?oc=5",
+          "source": "경기일보",
+          "published": "2026-11-16T06:31:31+09:00"
+        }
+      ],
+      "summary": "APEC 정상회의를 계기로 글로벌 통상 및 휴전 논의가 진행되면서 국제 금융 시장의 자금 흐름과 환율, 증시 변동성에 관심이 쏠리고 있다. 李대통령의 참석을 통해 한미, 한중 정상회담 등 주요국 간 외교적 행보가 주목받고 있다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "APEC 정상회의를 통한 주요국 간 통상 및 외교적 의제 논의",
+        "key_points": [
+          "글로벌 통상 및 휴전 논의에 따른 금융 시장 변동성",
+          "李대통령의 아세안·APEC 참석 및 정상회담 추진",
+          "한미·한중 관계 변화가 경제에 미칠 영향"
+        ],
+        "what_to_watch": "정상회담 결과에 따른 통상 정책 변화 및 환율 추이",
+        "fact_check": "李대통령의 구체적인 회담 일정 및 의제 확인"
+      },
+      "new_information": "",
+      "source_comparison": "아주경제는 경제적 파급효과에 집중한 반면, 경기일보는 李대통령의 외교 일정과 정상회담 성사 여부에 초점을 맞춤.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "7b85efe38e38db9f",
+      "image_url": ""
+    },
+    {
+      "id": "dbb4c137e42221",
+      "title": "폴리옥시메틸렌 공중합체(POM-C) 시장 2035년 전망: 자동차 경량화와 정밀 부품 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOHllbnkwYm1RaHltdllUaVludUQ3bkFjbFVVbGh5d3B3eWhNNUlBcmo0Y1dlZW9wd2tZb0JaYXROSkk1YmI5dHdDQWY0ZHNtTXFTanpoVmVEdTYxblhrZHFuZUZzemU2M0p2b0VhendldEpZNjhWNDU5anBBWTJFM2k1QnJfQk5fMElqTjFqb3N4RUpMV25oSHFSWERaU2tZZERtV2c3X1JJeHN6Vzh5LWh1T1JXWmhPWVlORnZHTUpvTkcwUmNuNi1XM2pnNXh2RFNGRnBRM2t0NU1Ob1JualJCTldTYndBb3dqME9UWQ?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-15T13:26:04+09:00",
+      "category": "자동차",
+      "description": "폴리옥시메틸렌 공중합체(POM-C) 시장 2035년 전망: 자동차 경량화와 정밀 부품 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n003",
+      "related_articles": [],
+      "summary": "자동차 경량화와 정밀 부품 수요 증가에 힘입어 폴리옥시메틸렌 공중합체(POM-C) 시장이 2035년까지 지속적으로 성장할 것으로 전망된다. 자동차 산업의 고도화가 소재 시장의 성장을 견인하는 핵심 동력으로 분석된다.",
+      "impact": "자동차 경량화 소재인 POM-C의 수요 증가는 관련 부품의 설계 및 공급망 변화를 시사하며, 향후 경량화 소재 채택 비중 확대에 따른 산업 동향을 파악할 필요가 있음.",
+      "importance": "보통",
+      "detail": {
+        "background": "자동차 산업의 경량화 추세와 고성능 엔지니어링 플라스틱 수요 증가",
+        "key_points": [
+          "2035년까지 POM-C 시장의 지속적 성장 전망",
+          "자동차 경량화 및 정밀 부품 수요가 시장 성장의 핵심",
+          "소재 산업과 자동차 제조 기술의 연관성 강화"
+        ],
+        "what_to_watch": "자동차 경량화 소재 관련 기술 표준 및 시장 점유율 변화",
+        "fact_check": "IndexBox의 시장 전망 데이터 근거 및 분석 범위 확인"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "78da1775833d0e4a",
+      "image_url": ""
+    }
+  ]
+}

@@ -141,7 +141,80 @@
       ],
       "section": "산업·업무",
       "event_cluster": "batch0-n004",
-      "related_articles": [],
+      "related_articles": [
+        {
+          "title": "로이터 \"기아 인도 자동차 공장 증설에 20억 달러 투자\", 연산 63만 대 목표 - 비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84Q2l0UW4xOE1hRGxhZVJ5cmd5TXgwenNfaUw1bmN5eXBZRVdKUy1sR2Z1bE5vU085amFvSGR4R1pPRU5ZbmhrX3BmQTdZdUFoT0hkVnkwUnhkWHFSM3hmZFFhbjJ2QnZ5YkV4UUJHZnRuTEE?oc=5",
+          "source": "비즈니스포스트",
+          "published": "2026-11-12T17:22:06+09:00"
+        },
+        {
+          "title": "기아, 인도에 2조6000억원 들여 두 번째 공장 짓는다... 연간 생산능력 46% 확대 - 인사이트",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nQVZodmFiSEJUX1VhT3JQQ2NEUDZEMy14RG1WM0ozY0JYVmlSbGljMWNzZHlXYzVHZjAyNlVPRWRUMHhMUGYyVEdWYWlmQQ?oc=5",
+          "source": "인사이트",
+          "published": "2026-11-13T10:05:43+09:00"
+        },
+        {
+          "title": "Kia to Invest $2 Billion in Second India Plant, Targeting 2030 Opening - 알파경제",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBESWdZVzVkMW5OXzZfWUtsVmVaWGYtMHI1UWI4Z19WY0VhUFdiVHNGUVJucVVPbjlJQ1k5U0JZSTU1TWZYQ0lVQnNibXQyeFVheTJpNzVDTjFUT19uMm5QazgzQzBmeGJyTjNBTnZ3?oc=5",
+          "source": "알파경제",
+          "published": "2026-11-13T06:00:00+09:00"
+        },
+        {
+          "title": "현대차그룹, 인도 연산 177만대 체제 추진⋯기아도 20억달러 들여 제2공장 - 엠투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0UVJSdUQ0aUR5b2NXdWFPSTBMRjFab0JQdko3U2psMG9fNnZ3SUY3ekx3T2pud0F3MWQxS0tiNWswZXc1V1BFaEY1eW5lam9fUU40OENlQ1ZFR1F0Vm5qcHdNLUl2MVE2M0VQNTY1TQ?oc=5",
+          "source": "엠투데이",
+          "published": "2026-11-13T08:10:00+09:00"
+        },
+        {
+          "title": "기아, 인도에 2.6조원 투자해 제2공장 건설…연 63만대 생산체제 구축 - 헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10aC01VGZYdjBmV2I3VHJhYk9SeEIxUWtDN0NSRzVHdEJWRGJXb1ZaclBMT3hPSTgzS3B0ZVpNODI0T1phWG9zNkMyQjBEYjBsYXluWENR?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-11-13T11:01:07+09:00"
+        },
+        {
+          "title": "기아, 인도에 20억달러 투자해 제2공장 건설…연산 60만대 체제 구축 - 이투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1saUtwQVVJUWszSG9Da2dPcFVrdlNFQ3hJYU9FN1p6aXJEZkhZWDktRDEtbkZSbVdxVi1CYnhRZ0U2WnBDTE52Tm1vUGJ6QlFMU3pkbmc1VXVoY2NhVUY1X2dPU2I2RmNvWXg1dkdB?oc=5",
+          "source": "이투데이",
+          "published": "2026-11-12T18:24:00+09:00"
+        },
+        {
+          "title": "기아, 印 공장에 2조8000억원 투자…연산 63만대로 확대 - 한국신용신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PLVd3d3RFekZ3VFBNZWxNSGNtc3BmT2hqNEloNkRjQm1jYnRDcmxYa2tpY3ZRQm8zSmxQalRpTS1fdF8wMUIwTEpmOW9CYXYxOHBPb2JPUThSdVdreTJYeDhTbWFIMTd5Zk1z?oc=5",
+          "source": "한국신용신문",
+          "published": "2026-11-12T17:39:00+09:00"
+        },
+        {
+          "title": "기아, 인도 제2공장에 2.6조… 현대차그룹 ‘21조 투자’ 구체화 - Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmFxdXRKSzVuTXlibGFZVEIwa2lGaTlxUDdCd2xOYy1CUlgxVjFQeXhSd2RRQmdRbHZuVjVDaHFJclBjRjd3TEJhVnhxNzhKaTUybW5mRVdkTzE1a0VHR1ppd0oxT3hCa3hzdGVCNk95VEwxZ2R0OXZoTDR2bG9jNElpaXF6NjhraGFCZ3VlSUo4U0XSAZMBQVVfeXFMTzZhcXV0Sks1bk15YmxhWVRCMGtpRmk5cVA3QndsTmMtQlJYMVYxUHl4UndkUUJnUWx2blY1Q2hxSXJQY0Y3d0xCYVZ4cTc4Smk1Mm1uZkVXZE8xNWtFR0daaXdKMU94Qmt4c3RlQjZPeVRMMWdkdDl2aEw0dmxvYzRJaWlxejY4a2hhQmd1ZUlKOFNF?oc=5",
+          "source": "Chosunbiz",
+          "published": "2026-11-13T13:43:00+09:00"
+        },
+        {
+          "title": "기아, 인도에 20억달러 추가 투자… 제2공장 신설 - 파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZ2UwV0NOQnVCWGZrTERVcUNfZzBCWmlOdU5iZDhXVThIQVJzcXRvY2lFQzlhQnJnZ2ZoOTBXeGJwNEdNUHBUNElmbm91aUhtSFVsQlIyVXUtZw?oc=5",
+          "source": "파이낸셜뉴스",
+          "published": "2026-11-13T14:45:27+09:00"
+        },
+        {
+          "title": "기아, 인도에 2.6조원 투자…2030년 연산 63만대 '제2공장' 짓는다 - 뉴시안",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WX2F3TVhhWDhVSDdmdHhDcDJrb3hfM0NJVDJUY3dZNUUwZkJERWFOdjJGT2FKMkRJcTktR0ItR255UTFCaU5rRGRYYWRHejk5NENVYldhWkN4ZS0xbl91WEZrenBNYWVfcFZnOQ?oc=5",
+          "source": "뉴시안",
+          "published": "2026-11-13T13:37:19+09:00"
+        },
+        {
+          "title": "기아 인도 제2공장에 2.6조 투자…생산 63만대로 확대 : 기업·산업 - 재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwbWpPV09FRVE2d1hDWGZvUVUxa0xvSkduU2V5VFhUcmZCQWo2VWNwMGtCVUFHZUEyZFRBNFdkTUxBMlh6WmZrZUpGZw?oc=5",
+          "source": "재경일보",
+          "published": "2026-11-14T19:21:08+09:00"
+        },
+        {
+          "title": "“중국 버리고 인도로 간다”… 생산능력 60만 대 시대 여는 기아의 ‘초대형 프로젝트’ - 네이트뷰",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5feWpLdWFSN1lRU3A2VnJWQU5aSFgyOGdCcS1ZdkxHRmdIYThlTndDWkhWdWlHQ0k4WnRYc3NJa3N2dFZDMFdPWWQ0UTZiU2s30gFWQVVfeXFMTjZzemxOTzFtQVY1VjFOakh5S013NGtzckdJZ2ZMaU1qNFltcmZFM0dIWmMyaUJaSjU5dC1Hak1LazljdW1laHI4NXhvaHpIZEI3LUFiSVE?oc=5",
+          "source": "네이트뷰",
+          "published": "2026-11-15T18:42:00+09:00"
+        }
+      ],
       "summary": "기아가 인도 시장 내 생산 능력 확대를 위해 아난타푸르 공장에 이어 제2공장 건설을 추진하고 있다. 인도 내수 및 수출 물량 증가에 대응하기 위한 전략적 결정으로 분석된다.",
       "impact": "인도 생산 거점 확대는 기아의 글로벌 생산 네트워크 재편을 의미하며, 향후 CKD 물량 및 부품 공급망의 현지화 전략에 영향을 미칠 수 있다.",
       "importance": "높음",
