@@ -6,6 +6,7 @@ from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 import feedparser
 import requests
+from event_store import EventStore, event_identity, same_event, reconcile_public_history
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / 'data'
@@ -95,7 +96,7 @@ def clean_unverified_links(a, history, scraps):
     """Discard inherited follow-up and scrap metadata when the linked event is wrong."""
     a = dict(a)
     follow = a.get('follow_up')
-    if isinstance(follow, dict) and follow.get('title') and not verified_same_event(a, follow):
+    if isinstance(follow, dict) and follow.get('title') and not (verified_same_event(a, follow) or strong_historical_repeat(a, follow)):
         a.pop('follow_up', None)
         a.pop('new_information', None)
         a['news_relation'] = '신규 뉴스'
@@ -764,6 +765,123 @@ def recent_history(days=14):
     return out
 
 
+def event_evidence(a):
+    """Extract event facts from a title and summary, not from search keywords."""
+    t = ' '.join(str(a.get(k) or '') for k in ('title','description','summary')).lower()
+    actor = event_actor(a)
+    # Location and a concrete facility/decision are stronger than generic company names.
+    locations = {'india':('인도','india','印'), 'mexico':('멕시코','mexico'),
+                 'china':('중국','china'), 'usa':('미국','u.s.','united states'),
+                 'alabama':('앨라배마','alabama'), 'georgia':('조지아','georgia')}
+    loc={k for k,words in locations.items() if any(w in t for w in words)}
+    subjects = {'plant':('공장','생산기지','생산거점','plant','factory'),
+                'port':('항만','port','terminal'), 'earnings':('실적','영업이익','earnings'),
+                'strike':('파업','strike'), 'investment':('투자','invest','증설','확대','프로젝트'),
+                'capacity':('생산능력','생산 능력','연산','capacity','생산체제')}
+    facts={k for k,words in subjects.items() if any(w in t for w in words)}
+    return actor,loc,facts
+
+
+def strong_historical_repeat(a, old):
+    """Conservative non-AI safety net for a single concrete announcement."""
+    aa,al,af=event_evidence(a); ba,bl,bf=event_evidence(old)
+    # Industry roundups about several OEMs are not the same as one OEM's announcement.
+    title=(a.get('title','') or '').lower().replace('현대차그룹','')
+    named=sum(bool(any(w in title for w in words)) for words in (('기아','kia '),('현대차','현대자동차','hyundai motor'),('도요타','토요타','toyota'),('스즈키','suzuki'),('모비스','mobis')) )
+    if named>1:return False
+    if not aa or aa!=ba or not al.intersection(bl):return False
+    # The same plant expansion/investment is one event even if currency,
+    # rounded capacity and wording differ. Do not merge general industry trends.
+    plant = {'plant','investment','capacity'}
+    if len(af.intersection(plant))>=2 and len(bf.intersection(plant))>=2:
+        return True
+    return False
+
+
+def history_recall(a, history, limit=16):
+    """Wide recall for AI; a topic-key mismatch must never hide old reporting."""
+    actor,loc,facts=event_evidence(a)
+    scored=[]
+    for h in history:
+        old=h['article']; oa,ol,of=event_evidence(old)
+        if actor and oa and actor!=oa:continue
+        score=0
+        if actor and actor==oa:score+=3
+        score+=3*len(loc & ol)
+        score+=2*len(facts & of)
+        if topic_key(a)==topic_key(old):score+=5
+        if score>=5:scored.append((score,h))
+    scored.sort(key=lambda x:x[0],reverse=True)
+    return [h for _,h in scored[:limit]]
+
+
+def compare_to_history(a, history):
+    """Ask AI for exact same-event + genuinely new development; safe fallback."""
+    candidates=history_recall(a,history)
+    if not candidates:return 'new',None,''
+    key=os.environ.get('GEMINI_API_KEY','').strip()
+    if key:
+        model=os.environ.get('GEMINI_MODEL','gemini-3.1-flash-lite')
+        endpoint='https://generativelanguage.googleapis.com/v1beta/models/'+model+':generateContent'
+        payload={'current':{'title':a.get('title'),'summary':a.get('summary'),'description':a.get('description')},
+                 'previous':[{'index':i,'date':h['date'],'title':h['article'].get('title'),
+                    'summary':h['article'].get('summary')} for i,h in enumerate(candidates)]}
+        prompt=('실제 사건의 동일성과 새로운 전개를 판정한다. 기업/국가/업계가 같다는 것만으로 동일 사건이 아니다. '
+                '반면 동일한 공장 투자/증설 발표를 금액 환산, 생산량 반올림, 매체 표현만 바꾼 것은 반드시 repeat. '
+                '후속 followup은 착공 확정, 추가 투자, 일정 변경 등 이전 보도에 없는 구체적인 사실이 있을 때만. '
+                '현재 자료는 RSS 제목과 요약으로 기사 전문이 아니므로 없는 사실을 지어내지 마라. '
+                'JSON {"status":"new|repeat|followup","prior_index":정수 또는 null,"new_fact":"..."}. 입력: '
+                +json.dumps(payload,ensure_ascii=False))
+        try:
+            r=requests.post(endpoint,headers={'x-goog-api-key':key,'Content-Type':'application/json'},
+              json={'contents':[{'parts':[{'text':prompt}]}],
+                    'generationConfig':{'responseMimeType':'application/json','temperature':0}},timeout=80)
+            r.raise_for_status()
+            result=json.loads(r.json()['candidates'][0]['content']['parts'][0]['text'])
+            status=result.get('status'); idx=result.get('prior_index')
+            if status in ('repeat','followup') and isinstance(idx,int) and 0<=idx<len(candidates):
+                old=candidates[idx]
+                if event_actor(a) and event_actor(old['article']) and event_actor(a)!=event_actor(old['article']):
+                    return 'new',None,''
+                if status=='followup' and not str(result.get('new_fact','')).strip():
+                    return 'repeat',old,''
+                return status,old,str(result.get('new_fact','')).strip()
+            if status=='new':
+                # Defend against model overlooking a very clear historical repeat.
+                for h in candidates:
+                    if strong_historical_repeat(a,h['article']):return 'repeat',h,''
+                return 'new',None,''
+        except Exception as exc:
+            print('Historical comparison unavailable:',str(exc)[:120])
+    for h in candidates:
+        if strong_historical_repeat(a,h['article']):return 'repeat',h,''
+    return 'new',None,''
+
+
+def clean_historical_publications():
+    """Remove obvious old repeats from published digests; preserve original archives."""
+    seen=[]; removed=[]
+    for path in sorted(DATA.glob('????-??-??.json')):
+        try:payload=json.loads(path.read_text(encoding='utf-8'))
+        except (OSError,ValueError):continue
+        original=payload.get('articles',[])
+        if not isinstance(original,list):continue
+        keep=[]
+        for a in original:
+            if not isinstance(a,dict):continue
+            match=next((h for h in seen if strong_historical_repeat(a,h['article'])),None)
+            if match:
+                removed.append((path.name,a.get('title',''),match['date']))
+                continue
+            keep.append(a)
+        if len(keep)!=len(original):
+            payload['articles']=keep;payload['article_count']=len(keep)
+            path.write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
+        seen.extend({'date':path.stem,'article':a} for a in keep)
+    for day,title,prior in removed:print('Historical repeat removed:',day,'original',prior,title[:70])
+    return removed
+
+
 def history_candidates(a, history):
     """Retrieve broad candidates for AI; never auto-suppress based on this alone."""
     key = topic_key(a)
@@ -800,7 +918,7 @@ def ai_editorial_review(items, history):
         payload = []
         for a in batch:
             related = a.get('group_members') or []
-            previous = history_candidates(a, history)
+            previous = history_recall(a, history)
             payload.append({
                 'id': a['id'], 'event_key':topic_key(a), 'current': [
                     {'title': m.get('title'), 'description': m.get('description'), 'source': m.get('source')}
@@ -860,7 +978,7 @@ def ai_editorial_review(items, history):
                 b['detail'] = x['detail']
             b['new_information'] = norm(x.get('new_information', ''))
             b['source_comparison'] = norm(x.get('source_comparison', ''))
-            previous = history_candidates(a, history)
+            previous = history_recall(a, history)
             if previous and b['new_information']:
                 b['news_relation'] = '후속보도'
                 b['follow_up'] = {'date': previous[0]['date'],
@@ -1031,6 +1149,10 @@ def main():
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
     # Group ALL current sources first: excluding previously published URLs here
     # would silently remove valuable related reporting from each event.
+    # The event ledger is the source of truth; do not destructively rewrite historical digests.
+    cleaned = reconcile_public_history(DATA)
+    print("Reconciled historical repeated events:",len(cleaned))
+    ledger = EventStore(DATA)
     history = recent_history(14)
     # Global event clustering runs before candidate selection; previously this
     # stage split identical press releases before the AI could compare them.
@@ -1100,6 +1222,31 @@ def main():
         merged.append(a if a.get('ai_summary') else fallback([a])[0])
     # If AI review failed to produce a result for an article, it is retained by
     # ai_editorial_review; only explicit 'repeat' findings are omitted.
+    # Final cross-day event gate: independent of the AI batch cluster ID.
+    checked=[]
+    for a in merged:
+        status,prior,new_fact=compare_to_history(a,history)
+        # A durable event ID supersedes the 14-day article-based recall.
+        ledger_status, ledger_event = ledger.assess(a)
+        if ledger_status == 'repeat' and a.get('id') not in {x.get('id') for x in old}:
+            status = 'repeat'
+        elif ledger_status == 'existing' and status == 'new':
+            # No verifiable new development: do not treat a rewrite as news.
+            status = 'repeat'
+        if status=='repeat':
+            print('Suppressed prior-day event:',a.get('title','')[:85]);continue
+        if status=='followup' and prior:
+            a['news_relation']='후속보도'
+            a['new_information']=new_fact
+            a['follow_up']={'date':prior['date'],'title':prior['article'].get('title',''),
+                            'summary':prior['article'].get('summary',''),
+                            'url':prior['article'].get('url','')}
+        else:
+            a['news_relation']='신규 뉴스'
+            a.pop('follow_up',None)
+            a['new_information']=''
+        checked.append(a)
+    merged=checked
     merged = [clean_unverified_links(a, history, scraps) for a in merged]
     for a in merged:
         a.pop('group_members', None)
@@ -1126,6 +1273,22 @@ def main():
                 if item.get('url') and item['url']!=winner.get('url') and not any(x.get('url')==item['url'] for x in links):links.append(item)
             grouped[k]=winner
     merged=[clean_unverified_links(a, history, scraps) for a in grouped.values()]
+    # Commit event identities only after final grouping, and suppress duplicate
+    # representatives that survived batch-specific event_cluster IDs.
+    final_events=[]
+    for a in merged:
+        verdict, previous_event = ledger.assess(a)
+        if verdict in ('repeat', 'existing') and a.get('id') not in {x.get('id') for x in old}:
+            print('Event ledger blocked duplicate:', a.get('title','')[:90])
+            continue
+        if verdict == 'followup' and previous_event:
+            a['news_relation'] = '후속보도'
+            a['follow_up'] = {'date': previous_event['first_seen'], 'title':previous_event['title'],
+                              'summary':previous_event.get('summary',''), 'url':previous_event.get('url','')}
+        a['persistent_event_id'] = ledger.record(a, TODAY)
+        final_events.append(a)
+    merged=final_events
+    ledger.save()
     merged.sort(key=lambda a:a.get('published',''), reverse=True)
     new_items = [a for a in chosen if a['id'] not in old_map]
     # Retain newly completed summaries even if the public selection changes later.
