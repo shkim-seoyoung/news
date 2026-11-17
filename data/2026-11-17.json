@@ -1,7 +1,7 @@
 {
   "date": "2026-11-17",
-  "updated_at": "2026-11-17T10:33:36.282253+09:00",
-  "article_count": 2,
+  "updated_at": "2026-11-17T10:52:09.183746+09:00",
+  "article_count": 7,
   "ai_enabled": true,
   "articles": [
     {
@@ -20,37 +20,43 @@
           "title": "현대차 국내외 공장 가동률 8%p 하락…생산도 17만대 줄어 : 기업·산업 - 재경일보",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPVkQwWXEyQkc4cVRCNzBISEoyMGpMZ0xFcC1ZS3ktT21SUmtselNBSFRIb29GMnN2ZC1zNlM0MzRiRHhnR082VGVkbw?oc=5",
           "source": "재경일보",
-          "published": "2026-11-17T06:16:00+09:00"
+          "published": "2026-11-17T06:16:00+09:00",
+          "source_link_status": "rss_only"
         },
         {
           "title": "현대차 1~9월 공장가동률 8% '뚝'…국내도 해외도 모두 '부진' - 서플 뉴스",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBudVZNZktXYTFNem4xcTdkazVrZXp1bWNDaDQ5ejgtb1dNUDFzMDBvVTdRT1VMc05oZXVpRTNmUGxiX3llVF9yZTlXbll1NFUtanh1bU9zY0JtdUFE?oc=5",
           "source": "서플 뉴스",
-          "published": "2026-11-17T08:00:09+09:00"
+          "published": "2026-11-17T08:00:09+09:00",
+          "source_link_status": "rss_only"
         },
         {
           "title": "현대차 생산량 17만대 줄었다…기아는 공장 가동률 95%대 유지 - 키즈맘",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05WXV4QUR6ODdSdDVHQkRDUjZDel9yM2JiamlRS2ZzYWozX25ObzQ5dHZmdmQ3TmpCd0JSVlZ4TjI4aFBSMzJwWWpJQzdJS0pOMVdFcjFZUWR0MUtEUkF4REFYYUNoZVVZ?oc=5",
           "source": "키즈맘",
-          "published": "2026-11-17T09:00:38+09:00"
+          "published": "2026-11-17T09:00:38+09:00",
+          "source_link_status": "rss_only"
         },
         {
           "title": "현대차 해외 공장 가동률 80%대로…중국차 공세에 생산 위축 - 뉴스핌",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMXc4eHhiMk9HelM3R2hiajhWZlNqRTM3VGhYZTZJNFRnWG51UVFhWWdTVlY2ZXpuTXFKTHRSOWY0SFRWZDQxb1dmWnE2VWtPWWdKalZaSkRVQQ?oc=5",
           "source": "뉴스핌",
-          "published": "2026-11-17T08:17:00+09:00"
+          "published": "2026-11-17T08:17:00+09:00",
+          "source_link_status": "rss_only"
         },
         {
           "title": "현대차 공장 가동률 94→86% 뚝…국내도 해외도 부진 - 연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYZzdicWNTbTIzSEM3aEhjcDExektNeFBxX2YtQ1BnZWhMMGZ2SjRCeFdtVXBfUkZRQy1LMHltQm91b0RKTE9tUl9HeEtiaTVIV2FJblFwMUtuNndtREY5eNIBYEFVX3lxTFBYZzdicWNTbTIzSEM3aEhjcDExektNeFBxX2YtQ1BnZWhMMGZ2SjRCeFdtVXBfUkZRQy1LMHltQm91b0RKTE9tUl9HeEtiaTVIV2FJblFwMUtuNndtREY5eA?oc=5",
           "source": "연합뉴스",
-          "published": "2026-11-17T06:11:01+09:00"
+          "published": "2026-11-17T06:11:01+09:00",
+          "source_link_status": "rss_only"
         },
         {
           "title": "현대차 글로벌 공장 가동률 급락, 해외 시장 부진이 원인? - 공감신문",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01cjhFY0VSSjJ4a3JZa3g0RVE5bGdoakR0aWM1NkZsSWJ6NnZUVVdSM05lYkNabUQ0WXAwNzFJZWNVWmtuZFNhQWZZSFhpX0prcUtxby1lZUhubERTRHNZUUxxZTBhY0k?oc=5",
           "source": "공감신문",
-          "published": "2026-11-17T07:23:20+09:00"
+          "published": "2026-11-17T07:23:20+09:00",
+          "source_link_status": "rss_only"
         }
       ],
       "summary": "현대차의 올해 1~9월 글로벌 공장 가동률이 전년 대비 8%p 하락한 86%를 기록했습니다. 생산 능력은 3% 증가했으나 실제 생산량은 17만 대 감소하며 국내외 공장 전반에서 가동률 부진이 확인되었습니다.",
@@ -73,7 +79,203 @@
       "integrated_summary": true,
       "integration_signature": "a96532c82f6f4e5f",
       "image_url": "",
-      "persistent_event_id": "bf6c8ed277a808a2"
+      "persistent_event_id": "bf6c8ed277a808a2",
+      "source_link_status": "rss_only",
+      "content_status": "rss_only"
+    },
+    {
+      "id": "daa6f75e8b01b3",
+      "title": "현대차, 글로벌 생산체계 현지화…권역별 수요 맞춰 생산 효율 높인다 - PRESS9",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSckpnYkVtOHRIeEZxUkI2bll1UF9Fdzd0bzFzUXFqX2xpdGdUZWZNZlRSaE93cjM3RG5mLVlwQThrbEJMT0JiR2J6RV95N1BGSURkRjBaWnBVY1BxNUM2VnExM0o?oc=5",
+      "source": "PRESS9",
+      "published": "2026-11-17T08:49:08+09:00",
+      "category": "자동차",
+      "description": "현대차, 글로벌 생산체계 현지화…권역별 수요 맞춰 생산 효율 높인다 PRESS9",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [
+        {
+          "title": "현대차·기아, 글로벌 생산기지 재편…차종·수출국 바꿔 수익성 높인다 - 동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pSzdYNlhBVE04TkNoa0NiWnZyLVVkV3VmMkpmNm1VbldGMUthMm01Nk53Y0hjZjFWb0ppZU13RVZzN25sUDV3U2RKNXh5X0lkTmdJRmotTVFqN0tKM1h2RG9oaDcxd9IBZkFVX3lxTE9pSzdYNlhBVE04TkNoa0NiWnZyLVVkV3VmMkpmNm1VbldGMUthMm01Nk53Y0hjZjFWb0ppZU13RVZzN25sUDV3U2RKNXh5X0lkTmdJRmotTVFqN0tKM1h2RG9oaDcxdw?oc=5",
+          "source": "동아일보",
+          "published": "2026-11-16T16:38:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대차-기아 “수익성 확보하라” 글로벌 생산지도 다시 그린다 - EV라운지",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xZm1RXzZyMm1VRm9RdmZHT0tScUVhWkxjOGY1TDBUV3ZZWWJGcHpWQmpHRkNydGgzaW53UkppSHA1OXItVm5BLWpGQ1l2WWJON0ZjNDJkR1VldDZfMHZHdjh4ci1VRjhpaTRqOWtjNXFmYk0?oc=5",
+          "source": "EV라운지",
+          "published": "2026-11-17T00:30:00+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "현대차와 기아가 글로벌 생산 체계를 현지 수요에 맞춰 재편하고 차종 및 수출국 전략을 최적화하여 수익성을 극대화하고 있다. 권역별 생산 효율성을 높여 급변하는 글로벌 시장 환경에 대응하려는 전략이다.",
+      "impact": "글로벌 생산 거점의 유연한 운영은 CKD 물량의 변동성을 유발할 수 있으므로, 권역별 생산 차종 변경에 따른 부품 공급망 및 포장 물류 최적화 여부를 모니터링할 필요가 있다.",
+      "importance": "높음",
+      "detail": {
+        "background": "글로벌 자동차 시장의 수요 변화와 통상 환경 변화에 대응하기 위한 생산 전략 재편.",
+        "key_points": [
+          "권역별 수요에 맞춘 생산 기지 최적화",
+          "수익성 중심의 차종 및 수출국 재배치",
+          "글로벌 생산 효율성 제고를 통한 경쟁력 강화"
+        ],
+        "what_to_watch": "구체적인 권역별 생산 차종 변경 계획 및 이에 따른 부품 공급망 재편 방향.",
+        "fact_check": "원문 발췌가 없어 구체적인 수치나 확정된 생산 계획은 확인되지 않음."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "6794ff1689d61068",
+      "image_url": "",
+      "persistent_event_id": "56db9238d31e4e9d"
+    },
+    {
+      "id": "8fa6b9fbfbd7c3",
+      "title": "2035년까지 세계 자동차 외장 트림 부품 시장, SUV 클래딩 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1lDWk5qZU55Qm5Ec0FCZlhkZ2IxSjZBOEV3em5MMzZZRzNtZ3NSNUFETnBya3AwdFl1Ykd3eHU5eU5MWHB4Y2g1akFtc1lXNldjdXQtVlcxZjRiTkgxSlU3eGVLUGVhQUQ1SE5haTRlN0VIXzJEb1Zmc3MzT0Y1SnIxa0F2bFBxOFVobUNIQVR6NldBeGNDTW5UWU9oYkpxbXVJeEZsdlV2Y0ZUQXVrNlFyektqYzNCOVlLcHFzS0E1M2I1OGx0ajlUcw?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-16T22:46:04+09:00",
+      "category": "자동차",
+      "description": "2035년까지 세계 자동차 외장 트림 부품 시장, SUV 클래딩 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n003",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "2035년까지 글로벌 자동차 외장 트림 부품 시장에서 SUV 클래딩 수요가 성장을 주도할 것으로 전망된다. SUV 선호 현상이 지속됨에 따라 관련 외장 부품 시장의 확대가 예상된다.",
+      "impact": "SUV 비중 확대에 따른 외장 트림 부품의 수요 증가는 관련 플라스틱 사출 및 도장 부품의 공급망 관리와 연관될 수 있다.",
+      "importance": "보통",
+      "detail": {
+        "background": "글로벌 자동차 시장 내 SUV 차급의 지속적인 인기와 외장 디자인 트렌드.",
+        "key_points": [
+          "2035년까지 외장 트림 부품 시장 성장세 지속",
+          "SUV 클래딩 수요가 시장 성장의 핵심 동력"
+        ],
+        "what_to_watch": "SUV 차급의 시장 점유율 변화 및 외장 트림 소재 기술의 발전 방향.",
+        "fact_check": "시장 조사 기관의 전망치로 실제 생산 물량과는 차이가 있을 수 있음."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a67f59a6cea1b560",
+      "image_url": "",
+      "persistent_event_id": "bbd07f8eba880c7f"
+    },
+    {
+      "id": "9938b4a0e5bd01",
+      "title": "[글로벌 자동차·통상] 캐나다, 미국 관세 압박에 ‘중국 자동차 협력’ 카드…북미 자동차 생산질서 재편 가능성 - 코리아포스트 한글판",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SY0stR0xQUm9fYktrd3NZVVVPU0dSVUxVT1dzczZWQlJ2TTF0T29YclZVZ2E0d2Y4b2F4SDVPNmd2MWt6bnVYcmJTbmRjUzN5UFE1djdXdWZ1T1BQWDdsRm4xTF9uSG9JUmUzUVdR?oc=5",
+      "source": "코리아포스트 한글판",
+      "published": "2026-11-16T20:03:36+09:00",
+      "category": "자동차",
+      "description": "[글로벌 자동차·통상] 캐나다, 미국 관세 압박에 ‘중국 자동차 협력’ 카드…북미 자동차 생산질서 재편 가능성 코리아포스트 한글판",
+      "priority_markets": [
+        "미국"
+      ],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n004",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "캐나다가 미국의 관세 압박에 대응하기 위해 중국과의 자동차 협력 카드를 검토하며 북미 자동차 생산 질서의 변화 가능성이 제기되고 있다. 이는 북미 시장 내 공급망 전략에 변수로 작용할 전망이다.",
+      "impact": "북미 지역의 통상 정책 변화는 현지 생산 및 부품 공급망에 직접적인 영향을 미칠 수 있으므로, 향후 관세 정책 및 중국산 부품 규제 동향을 주시해야 한다.",
+      "importance": "높음",
+      "detail": {
+        "background": "미국의 대중국 관세 정책과 이에 따른 캐나다의 통상 대응 전략.",
+        "key_points": [
+          "캐나다의 대미 관세 압박 대응 전략",
+          "중국 자동차 협력 가능성에 따른 북미 생산 질서 재편 우려"
+        ],
+        "what_to_watch": "캐나다 정부의 실제 정책 결정 및 미국과의 통상 마찰 전개 양상.",
+        "fact_check": "현재는 가능성 단계의 분석이며 구체적인 협력 방안은 확정되지 않음."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "9d13d191640f4d68",
+      "image_url": "",
+      "persistent_event_id": "d6ce5121639650ec"
+    },
+    {
+      "id": "308e46068f1e0c",
+      "title": "미중러 정상회담 등 '강대국 중심' 국제 정치 흐름... 韓 외교 셈법 복잡해졌다 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNS0EzX0Frd1FMU2dkb2hGSXc5bGI1UWszeC1JT1NKbTJFV0VQbUZUZkNiMlhlM2dXZ0lIcFdiVkVzQWtXX0RpM0lNQW5CZ1AwOU9DTXB6WXo0T1YzYzdfMGtyVURMLS1WSzVPdFBn0gFzQVVfeXFMUEJhSzFSYVQtY3c5WUU0OGRLcmpYaDFHdkhlcGVCUjhHVkFubm1pajVDb1I0eF9PbURGYm1XUFhqaWl5X1VVa0J6UjNFdUM5Z3JQX3RxbTJ4aVZPLXdFM2xSYkxJZ3g2UDcxeVo3UGhnZ3NYWQ?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-16T19:00:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "미중러 정상회담 등 '강대국 중심' 국제 정치 흐름... 韓 외교 셈법 복잡해졌다 한국일보",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n005",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "미·중·러 등 강대국 중심의 국제 정치 흐름이 가속화되면서 한국의 외교적 셈법이 복잡해지고 있다. 글로벌 공급망과 통상 환경에 미칠 정치적 영향에 대한 우려가 커지고 있다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "최근 강대국 간 정상회담 및 국제 정치적 긴장 고조.",
+        "key_points": [
+          "강대국 중심의 국제 질서 재편",
+          "한국 외교의 전략적 선택지 축소 및 복잡성 증대"
+        ],
+        "what_to_watch": "주요국 간의 통상 규제 및 공급망 블록화 움직임.",
+        "fact_check": "정치적 분석 기사로 구체적인 산업적 사실관계는 포함되지 않음."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "1e17ad2511259167",
+      "image_url": "",
+      "persistent_event_id": "c97a0e5e29d552f2"
+    },
+    {
+      "id": "1d3428a5d9b6e2",
+      "title": "BYD \"中판매 30% 급감\"… '떨이 수출'에 韓자동차 불똥 우려 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yaVRQWlRxLTVwRXdJcWFsUk4tRzBkcW5jX2ZneFJxUVVfdUVkYzhPRlZKaDN0THN1VHl5OWdQV3VGSWlSdXZkbTc5ZDJDWk5QT25QbTVB?oc=5",
+      "source": "매일경제",
+      "published": "2026-11-16T17:39:10+09:00",
+      "category": "자동차",
+      "description": "BYD \"中판매 30% 급감\"… '떨이 수출'에 韓자동차 불똥 우려 매일경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n006",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "중국 내 판매 부진을 겪고 있는 BYD가 해외 수출을 공격적으로 확대하면서 국내 자동차 시장에 미칠 영향에 대한 우려가 제기되고 있다. 저가 공세를 앞세운 중국 전기차의 유입이 국내 시장 경쟁 심화 및 산업 생태계에 부정적 영향을 줄 수 있다는 분석이다.",
+      "impact": "중국 전기차의 저가 수출 확대는 국내 시장 내 가격 경쟁을 심화시킬 수 있으며, 향후 수입차 시장 점유율 변화 및 국내 완성차 업계의 대응 전략 수립에 영향을 미칠 수 있는 산업 동향이다.",
+      "importance": "보통",
+      "detail": {
+        "background": "BYD의 중국 내 판매량 30% 급감에 따른 재고 소진 및 시장 점유율 유지를 위한 해외 수출 확대 전략.",
+        "key_points": [
+          "BYD 중국 내 판매량 30% 급감",
+          "재고 물량의 해외 '떨이 수출' 우려",
+          "국내 자동차 시장 내 가격 경쟁 심화 가능성"
+        ],
+        "what_to_watch": "BYD의 국내 전기차 시장 진출 가속화 여부 및 정부의 수입 전기차 보조금 정책 변화.",
+        "fact_check": "BYD의 중국 내 판매 감소 수치와 수출 물량의 국내 유입 경로 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "1888b7b4f0606ed6",
+      "image_url": "",
+      "persistent_event_id": "ecd17a671d99b010"
     },
     {
       "id": "cd4d9cb7687598",
@@ -85,7 +287,7 @@
       "description": "증시 급락에도 원화는 ‘꿋꿋’…환율 1원 내린 1335.7원 마감 [김혜란의 FX] 서울경제",
       "priority_markets": [],
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n005",
+      "event_cluster": "batch0-n009",
       "related_articles": [],
       "summary": "증시 급락에도 불구하고 원화 가치가 방어되며 원/달러 환율이 1,335.7원에 마감되었습니다.",
       "impact": "",
@@ -106,7 +308,9 @@
       "integrated_summary": true,
       "integration_signature": "b021a0fc9613165a",
       "image_url": "",
-      "persistent_event_id": "47f3dd76035b1c17"
+      "persistent_event_id": "47f3dd76035b1c17",
+      "source_link_status": "rss_only",
+      "content_status": "rss_only"
     }
   ]
 }
