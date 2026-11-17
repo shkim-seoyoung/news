@@ -921,9 +921,9 @@ def ai_editorial_review(items, history):
             previous = history_recall(a, history)
             payload.append({
                 'id': a['id'], 'event_key':topic_key(a), 'current': [
-                    {'title': m.get('title'), 'description': m.get('description'), 'source': m.get('source')}
+                    {'title': m.get('title'), 'description': m.get('description'), 'source': m.get('source'), 'source_excerpt': m.get('source_excerpt','')[:3000], 'content_status':m.get('content_status','rss_only')}
                     for m in related[:10]
-                ] or [{'title': a.get('title'), 'description': a.get('description')}],
+                ] or [{'title': a.get('title'), 'description': a.get('description'), 'source_excerpt':a.get('source_excerpt','')[:3000], 'content_status':a.get('content_status','rss_only')}],
                 'previous': [
                     {'date': h['date'], 'title': h['article'].get('title'),
                      'summary': h['article'].get('summary'),
@@ -931,12 +931,12 @@ def ai_editorial_review(items, history):
                     for h in previous
                 ]
             })
-        prompt = ("너는 뉴스 편집자다. 입력은 RSS 제목/발췌문과 최근 7일 브리핑 기록이며 기사 전문이 아니다. "
+        prompt = ("너는 뉴스 편집자다. 입력은 RSS 제목/발췌문, 일부 기사에서 검증된 원문 발췌, 최근 브리핑 기록이다. 원문 발췌가 없으면 본문을 읽었다고 주장하지 마라. "
                   "과거 기사와 같은 사건을 반복 설명하고 새 사실(투자 확정, 수치, 가동 일정, 생산능력, 참여사, 결정, 실제 진척)이 없으면 status='repeat'. "
                   "새 사실이 확인되면 status='keep' 및 new_information에 구체적 변경사항을 적어 후속보도로 분류한다. "
                   "같은 산업 주제지만 별개의 사건이면 신규 뉴스다. 인도 투자 계획과 인도 분기 실적은 서로 다른 사건이므로 후속보도가 아니다. 불명확하면 keep하되 신규 사실을 지어내지 않는다. "
                   "이전 기사가 없는 경우 keep. "
-                  "같은 날 관련 기사들에서 확인되는 정보를 종합하되 RSS에 없는 사실을 만들지 마라. "
+                  "같은 날 관련 기사들에서 확인되는 정보를 종합하되 제공된 RSS/원문 발췌에 없는 사실을 만들지 마라. "
                   + WORK_PERSPECTIVE_RULES +
                   "기사 제목만 다르다는 이유로 새로운 사실이라고 판단하지 마라. 정치인의 비판·주장은 사실로 단정하지 말고 발언 주체를 명시하라. 현재 정부를 과거 정부로 서술하거나 근거 없는 과거 정책 사례를 만들지 마라. "
                   "정치인·정부명·한자 약칭을 추측해서 풀어 쓰지 마라. 특히 李정부를 이명박 정부로 해석하지 말고, 불확실하면 원문 표기를 유지하라. "
@@ -1095,41 +1095,96 @@ def extract_article_image(url):
     except Exception:pass
     return ''
 
+def is_google_news(url):
+    from urllib.parse import urlparse
+    return (urlparse(url).hostname or '').lower() in ('news.google.com', 'www.news.google.com')
+
+
 def resolve_publisher_url(url):
-    """Best-effort direct publisher URL. Never fabricate a news search link."""
-    if not url: return ''
+    """Resolve a Google News RSS item; never manufacture a search URL."""
+    from urllib.parse import urlparse, parse_qs
+    if not url or urlparse(url).scheme not in ('http', 'https'): return ''
+    if not is_google_news(url): return url
+    # RSS redirect pages sometimes contain an explicit publisher URL.
     try:
-        host = (urlparse(url).hostname or '').lower()
-        if host != 'news.google.com': return url if urlparse(url).scheme in ('http','https') else ''
-        from googlenewsdecoder import gnewsdecoder
-        result = gnewsdecoder(url, interval=0)
-        direct = result.get('decoded_url', '') if isinstance(result, dict) else ''
-        if direct and urlparse(direct).scheme in ('http','https') and (urlparse(direct).hostname or '').lower() != 'news.google.com':
-            return direct
+        r=requests.get(url, headers={'User-Agent':'Mozilla/5.0 (compatible; CKDNews/1.0)'},
+                       timeout=9, allow_redirects=True)
+        if r.ok and not is_google_news(r.url) and urlparse(r.url).scheme in ('http','https'):
+            return r.url
+        from bs4 import BeautifulSoup
+        soup=BeautifulSoup(r.text[:400000], 'html.parser')
+        for tag in soup.select('link[rel="canonical"], meta[property="og:url"]'):
+            candidate=tag.get('href') or tag.get('content') or ''
+            if candidate.startswith('http') and not is_google_news(candidate):return candidate
     except Exception as exc:
-        print('Publisher URL unresolved:', str(exc)[:100])
+        print('Direct article redirect failed:',type(exc).__name__)
+    # Modern Google News links require decoding the publisher URL from a server response.
+    try:
+        from googlenewsdecoder import gnewsdecoder
+        decoded=gnewsdecoder(url,interval=0)
+        direct=decoded.get('decoded_url','') if isinstance(decoded,dict) else ''
+        if direct.startswith(('http://','https://')) and not is_google_news(direct):return direct
+    except Exception as exc:
+        print('Google News decode failed:',type(exc).__name__,str(exc)[:90])
     return ''
 
-def attach_publisher_urls(items, limit=35):
+
+def attach_publisher_urls(items, limit=90):
+    """Resolve representatives AND related sources, with a shared in-run cache."""
+    cache={}; tried=0; resolved=0
+    def update(a):
+        nonlocal tried,resolved
+        if not isinstance(a,dict):return
+        url=a.get('url','')
+        if not url:return
+        existing=a.get('original_url') or a.get('publisher_url') or ''
+        if existing and not is_google_news(existing):
+            a['source_link_status']='publisher';return
+        if not is_google_news(url):
+            a['original_url']=url;a['source_link_status']='publisher';return
+        if url not in cache and tried<limit:
+            tried+=1;cache[url]=resolve_publisher_url(url)
+        direct=cache.get(url,'')
+        if direct:
+            a['original_url']=direct;a['source_link_status']='publisher';resolved+=1
+        else:
+            a.pop('original_url',None)
+            a['source_link_status']='rss_only'
+    for a in items:
+        update(a)
+        for child in a.get('related_articles',[]):update(child)
+    print('Publisher URL resolution:',resolved,'successful;',tried,'attempted; unresolved items retain RSS link')
+
+
+def attach_source_evidence(items, limit=18):
+    """Extract verifiable publisher text when accessible; no synthetic article bodies."""
+    from bs4 import BeautifulSoup
+    from urllib.parse import urlparse
     count=0
     for a in items:
-        if a.get('original_url') or a.get('publisher_url'): continue
-        url=a.get('url','')
-        if 'news.google.com' not in url:
-            a['original_url']=url
-        elif count<limit:
-            count+=1
-            resolved=resolve_publisher_url(url)
-            if resolved:a['original_url']=resolved
-        for item in a.get('related_articles',[]):
-            if item.get('original_url') or item.get('publisher_url'):continue
-            if 'news.google.com' not in item.get('url',''):
-                item['original_url']=item.get('url','')
-            elif count<limit:
-                count+=1
-                resolved=resolve_publisher_url(item['url'])
-                if resolved:item['original_url']=resolved
-    print('Publisher URLs:',sum(bool(a.get('original_url')) for a in items),'/',len(items))
+        if a.get('source_excerpt'):
+            a['content_status']='publisher_excerpt';continue
+        direct=a.get('original_url','')
+        if not direct or is_google_news(direct):
+            a['content_status']='rss_only';continue
+        if count>=limit:
+            a['content_status']='rss_only';continue
+        count+=1
+        try:
+            r=requests.get(direct,headers={'User-Agent':'Mozilla/5.0'},timeout=8)
+            if not r.ok or 'html' not in r.headers.get('content-type','').lower():raise ValueError('not accessible HTML')
+            soup=BeautifulSoup(r.text[:600000],'html.parser')
+            for el in soup.select('script,style,nav,footer,header,aside'):el.decompose()
+            main=soup.select_one('article') or soup.select_one('[itemprop="articleBody"]') or soup.select_one('main')
+            if main:
+                excerpt=' '.join(main.stripped_strings)
+                if len(excerpt)>=180:
+                    a['source_excerpt']=excerpt[:4500]
+                    a['content_status']='publisher_excerpt';continue
+        except Exception as exc:
+            print('Article text unavailable:',type(exc).__name__,a.get('source',''))
+        a['content_status']='rss_only'
+
 
 def main():
     articles = fetch()
@@ -1219,6 +1274,15 @@ def main():
         print('AUDIT: first selection empty; retrying recent candidates without selection ranking')
         chosen = [a for a in recent_candidates if in_window(a) and not irrelevant_work_article(a)][:25]
 
+    # Enrich selected articles before AI analysis, without blocking publication on failure.
+    attach_publisher_urls(chosen, limit=60)
+    attach_source_evidence(chosen, limit=18)
+    for a in chosen:
+        for member in a.get('group_members',[]):
+            if member is a:continue
+            if member.get('source_excerpt'):continue
+            # Related sources are linked but not treated as verified article bodies.
+            member.setdefault('content_status','rss_only')
     # Skip an event only if every source in the group was already published
     # and there is no new reporting. A repeated representative may still
     # carry newly collected related links and must not be discarded.
@@ -1337,6 +1401,8 @@ def main():
         all_saved[a['id']] = correct_known_name_error(a)
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
     attach_publisher_urls(merged, limit=50)
+    for a in merged:
+        a.setdefault('content_status','publisher_excerpt' if a.get('source_excerpt') else 'rss_only')
     if not merged:
         print('AUDIT ZERO: RSS fetched=',len(articles),'recent=',len(recent_candidates),'chosen=',len(chosen),'reviewed=',len(reviewed),'final=0; investigate Gemini review and event ledger')
     result = {'date': TODAY, 'updated_at': NOW.isoformat(), 'article_count': len(merged),
