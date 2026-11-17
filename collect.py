@@ -1,7 +1,7 @@
 """Collect public RSS headlines and publish a daily CKD news digest."""
 import os, json, re, time, hashlib, datetime, html
 from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import quote, urlparse
 from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 import feedparser
@@ -659,7 +659,7 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None, even
     event_clusters = event_clusters or {}
     source_pool = list(by_id.values())
     # Filter before ranking so older archived items cannot consume daily slots.
-    cutoff = NOW - datetime.timedelta(hours=24)
+    cutoff = NOW - datetime.timedelta(hours=48)
     for a in by_id.values():
         try:
             published_dt = datetime.datetime.fromisoformat(a['published'])
@@ -1095,6 +1095,42 @@ def extract_article_image(url):
     except Exception:pass
     return ''
 
+def resolve_publisher_url(url):
+    """Best-effort direct publisher URL. Never fabricate a news search link."""
+    if not url: return ''
+    try:
+        host = (urlparse(url).hostname or '').lower()
+        if host != 'news.google.com': return url if urlparse(url).scheme in ('http','https') else ''
+        from googlenewsdecoder import gnewsdecoder
+        result = gnewsdecoder(url, interval=0)
+        direct = result.get('decoded_url', '') if isinstance(result, dict) else ''
+        if direct and urlparse(direct).scheme in ('http','https') and (urlparse(direct).hostname or '').lower() != 'news.google.com':
+            return direct
+    except Exception as exc:
+        print('Publisher URL unresolved:', str(exc)[:100])
+    return ''
+
+def attach_publisher_urls(items, limit=35):
+    count=0
+    for a in items:
+        if a.get('original_url') or a.get('publisher_url'): continue
+        url=a.get('url','')
+        if 'news.google.com' not in url:
+            a['original_url']=url
+        elif count<limit:
+            count+=1
+            resolved=resolve_publisher_url(url)
+            if resolved:a['original_url']=resolved
+        for item in a.get('related_articles',[]):
+            if item.get('original_url') or item.get('publisher_url'):continue
+            if 'news.google.com' not in item.get('url',''):
+                item['original_url']=item.get('url','')
+            elif count<limit:
+                count+=1
+                resolved=resolve_publisher_url(item['url'])
+                if resolved:item['original_url']=resolved
+    print('Publisher URLs:',sum(bool(a.get('original_url')) for a in items),'/',len(items))
+
 def main():
     articles = fetch()
     scraps=shared_scraps()
@@ -1145,6 +1181,7 @@ def main():
                 print('Removed irrelevant previously published articles:', published_path.name, len(before)-len(after))
         except (OSError, ValueError, TypeError) as exc:
             print('Historical cleanup skipped:', published_path.name, exc)
+    attach_publisher_urls(list(all_saved.values()), limit=80)
     # Archive first; re-running cannot erase a previously saved AI summary.
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
     # Group ALL current sources first: excluding previously published URLs here
@@ -1171,13 +1208,17 @@ def main():
               for w in ('port','항만','terminal','shipping','해운','선적','strike','파업'))))
     chosen = [a for a in chosen if not irrelevant_work_article(a)]
     # Require a genuinely recent publication, not merely a newly collected RSS hit.
-    cutoff = NOW - datetime.timedelta(hours=24)
+    cutoff = NOW - datetime.timedelta(hours=48)
     def in_window(a):
         try: return cutoff <= datetime.datetime.fromisoformat(a['published']) <= NOW
         except (ValueError, KeyError, TypeError): return False
     # Strict publication window: never revive old stories just because today's
     # digest contained them. Same-issue follow-ups are reviewed separately.
     chosen = [a for a in chosen if in_window(a)]
+    if not chosen and recent_candidates:
+        print('AUDIT: first selection empty; retrying recent candidates without selection ranking')
+        chosen = [a for a in recent_candidates if in_window(a) and not irrelevant_work_article(a)][:25]
+
     # Skip an event only if every source in the group was already published
     # and there is no new reporting. A repeated representative may still
     # carry newly collected related links and must not be discarded.
@@ -1295,6 +1336,9 @@ def main():
     for a in merged:
         all_saved[a['id']] = correct_known_name_error(a)
     archive_path.write_text(json.dumps({'date':TODAY, 'articles':list(all_saved.values())}, ensure_ascii=False, indent=2), encoding='utf-8')
+    attach_publisher_urls(merged, limit=50)
+    if not merged:
+        print('AUDIT ZERO: RSS fetched=',len(articles),'recent=',len(recent_candidates),'chosen=',len(chosen),'reviewed=',len(reviewed),'final=0; investigate Gemini review and event ledger')
     result = {'date': TODAY, 'updated_at': NOW.isoformat(), 'article_count': len(merged),
               'ai_enabled': any(a.get('ai_summary') for a in merged), 'articles': merged}
     path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding='utf-8')
