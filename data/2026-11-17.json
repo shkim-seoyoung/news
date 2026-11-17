@@ -1,7 +1,112 @@
 {
   "date": "2026-11-17",
-  "updated_at": "2026-11-17T10:16:22.963962+09:00",
-  "article_count": 0,
-  "ai_enabled": false,
-  "articles": []
+  "updated_at": "2026-11-17T10:33:36.282253+09:00",
+  "article_count": 2,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "d204e2f46d1a72",
+      "title": "현대차, 생산능력 3% 늘리고도 생산 6% 줄어…공장 가동률 86%로 하락 - 중소기업신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2b296NGlVN3dIRTRDZ3lHbUZPejdUUG8zSFRnVV9GRTB3UmFtUnRDdHQ0ZE1GODllN0w3VGp6MFVDSFFnaHVtTklSSk41SVE2Z1NEVlUzampuX0h2cjJMaktXa2RRb3lfWE9Qcg?oc=5",
+      "source": "중소기업신문",
+      "published": "2026-11-17T10:05:46+09:00",
+      "category": "자동차",
+      "description": "현대차, 생산능력 3% 늘리고도 생산 6% 줄어…공장 가동률 86%로 하락 중소기업신문",
+      "priority_markets": [],
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [
+        {
+          "title": "현대차 국내외 공장 가동률 8%p 하락…생산도 17만대 줄어 : 기업·산업 - 재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPVkQwWXEyQkc4cVRCNzBISEoyMGpMZ0xFcC1ZS3ktT21SUmtselNBSFRIb29GMnN2ZC1zNlM0MzRiRHhnR082VGVkbw?oc=5",
+          "source": "재경일보",
+          "published": "2026-11-17T06:16:00+09:00"
+        },
+        {
+          "title": "현대차 1~9월 공장가동률 8% '뚝'…국내도 해외도 모두 '부진' - 서플 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBudVZNZktXYTFNem4xcTdkazVrZXp1bWNDaDQ5ejgtb1dNUDFzMDBvVTdRT1VMc05oZXVpRTNmUGxiX3llVF9yZTlXbll1NFUtanh1bU9zY0JtdUFE?oc=5",
+          "source": "서플 뉴스",
+          "published": "2026-11-17T08:00:09+09:00"
+        },
+        {
+          "title": "현대차 생산량 17만대 줄었다…기아는 공장 가동률 95%대 유지 - 키즈맘",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05WXV4QUR6ODdSdDVHQkRDUjZDel9yM2JiamlRS2ZzYWozX25ObzQ5dHZmdmQ3TmpCd0JSVlZ4TjI4aFBSMzJwWWpJQzdJS0pOMVdFcjFZUWR0MUtEUkF4REFYYUNoZVVZ?oc=5",
+          "source": "키즈맘",
+          "published": "2026-11-17T09:00:38+09:00"
+        },
+        {
+          "title": "현대차 해외 공장 가동률 80%대로…중국차 공세에 생산 위축 - 뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WMXc4eHhiMk9HelM3R2hiajhWZlNqRTM3VGhYZTZJNFRnWG51UVFhWWdTVlY2ZXpuTXFKTHRSOWY0SFRWZDQxb1dmWnE2VWtPWWdKalZaSkRVQQ?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-11-17T08:17:00+09:00"
+        },
+        {
+          "title": "현대차 공장 가동률 94→86% 뚝…국내도 해외도 부진 - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYZzdicWNTbTIzSEM3aEhjcDExektNeFBxX2YtQ1BnZWhMMGZ2SjRCeFdtVXBfUkZRQy1LMHltQm91b0RKTE9tUl9HeEtiaTVIV2FJblFwMUtuNndtREY5eNIBYEFVX3lxTFBYZzdicWNTbTIzSEM3aEhjcDExektNeFBxX2YtQ1BnZWhMMGZ2SjRCeFdtVXBfUkZRQy1LMHltQm91b0RKTE9tUl9HeEtiaTVIV2FJblFwMUtuNndtREY5eA?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-11-17T06:11:01+09:00"
+        },
+        {
+          "title": "현대차 글로벌 공장 가동률 급락, 해외 시장 부진이 원인? - 공감신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01cjhFY0VSSjJ4a3JZa3g0RVE5bGdoakR0aWM1NkZsSWJ6NnZUVVdSM05lYkNabUQ0WXAwNzFJZWNVWmtuZFNhQWZZSFhpX0prcUtxby1lZUhubERTRHNZUUxxZTBhY0k?oc=5",
+          "source": "공감신문",
+          "published": "2026-11-17T07:23:20+09:00"
+        }
+      ],
+      "summary": "현대차의 올해 1~9월 글로벌 공장 가동률이 전년 대비 8%p 하락한 86%를 기록했습니다. 생산 능력은 3% 증가했으나 실제 생산량은 17만 대 감소하며 국내외 공장 전반에서 가동률 부진이 확인되었습니다.",
+      "impact": "글로벌 생산 거점의 가동률 저하는 고정비 부담을 가중시킬 수 있으며, 향후 CKD 물량 배분 및 해외 생산 전략 재편의 근거가 될 수 있음.",
+      "importance": "높음",
+      "detail": {
+        "background": "글로벌 자동차 시장의 수요 둔화와 중국 등 해외 시장에서의 경쟁 심화가 생산 위축의 주요 원인으로 분석됨.",
+        "key_points": [
+          "현대차 글로벌 공장 가동률 94%에서 86%로 하락",
+          "생산 능력 3% 증대에도 불구하고 실제 생산량 17만 대 감소",
+          "국내외 공장 전반의 가동률 부진 지속"
+        ],
+        "what_to_watch": "가동률 회복을 위한 차종 재배치 및 해외 시장별 판매 전략 변화 여부.",
+        "fact_check": "현대차 1~9월 누적 가동률 데이터 확인."
+      },
+      "new_information": "",
+      "source_comparison": "대부분의 매체가 가동률 8%p 하락과 생산량 17만 대 감소를 공통으로 보도함. 일부 매체는 기아의 가동률(95%)과 비교하여 현대차의 부진을 강조함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a96532c82f6f4e5f",
+      "image_url": "",
+      "persistent_event_id": "bf6c8ed277a808a2"
+    },
+    {
+      "id": "cd4d9cb7687598",
+      "title": "증시 급락에도 원화는 ‘꿋꿋’…환율 1원 내린 1335.7원 마감 [김혜란의 FX] - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zSzZMM1lFYlEwUmVHdEZ1RVFsZVh1MERvRHg5MGplelpMOVJuYW5Cb3pZRG5UWXZTeDdzbXJmY1R3SzVmTmltYUVWNVVReXN4aVHSAVNBVV95cUxPbVcxSFpIb1UxT0taaUNpcEhWV1RlSTItQWpCT1VBSHlRTTc0cjJMX1BMWFViVGt4ZzdJM1pmR0JLeXJnbktGN3VfVzUwSHlwemJjQQ?oc=5",
+      "source": "서울경제",
+      "published": "2026-11-16T15:46:24+09:00",
+      "category": "경제·금융",
+      "description": "증시 급락에도 원화는 ‘꿋꿋’…환율 1원 내린 1335.7원 마감 [김혜란의 FX] 서울경제",
+      "priority_markets": [],
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n005",
+      "related_articles": [],
+      "summary": "증시 급락에도 불구하고 원화 가치가 방어되며 원/달러 환율이 1,335.7원에 마감되었습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "글로벌 금융 시장의 변동성 확대와 국내 증시 하락세가 지속되는 상황.",
+        "key_points": [
+          "증시 급락 대비 원화 가치 견조",
+          "환율 1원 하락 마감"
+        ],
+        "what_to_watch": "환율 변동성에 따른 수출 채산성 변화.",
+        "fact_check": "당일 마감 환율 데이터 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "b021a0fc9613165a",
+      "image_url": "",
+      "persistent_event_id": "47f3dd76035b1c17"
+    }
+  ]
 }
