@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-18",
+  "updated_at": "2026-11-18T12:14:14.957866+09:00",
+  "article_count": 3,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "ac8943e64a1c6e",
+      "title": "현대모비스, 유럽 생산 확대에 해외공장 가동률 상승 - 스페셜경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mR2NaeDFLVVZRYjhWVTdaQ0p5dFNEazFJaDRtTHEyQTB1WXR0Rk9haDFaX3VzYTlTemJYdjUxNDZOYWVIRUhOcnV5MzdHSl9SM0g1WDVWNWZCaUY2Q3pPQnlZc1IxZFRldTRMSw?oc=5",
+      "source": "스페셜경제",
+      "published": "2026-11-18T09:32:17+09:00",
+      "category": "자동차",
+      "description": "현대모비스, 유럽 생산 확대에 해외공장 가동률 상승 스페셜경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대모비스가 유럽 내 생산 거점 확대를 통해 해외 공장 가동률을 높이고 있습니다. 이는 유럽 시장 내 현지 생산 비중을 강화하여 물류 효율성을 높이고 시장 대응력을 높이려는 전략으로 풀이됩니다.",
+      "impact": "유럽 현지 생산 확대는 현대모비스의 CKD 공급망 및 포장 물류 전략에 영향을 미칠 수 있으며, 현지화율 제고에 따른 부품 조달 구조 변화를 모니터링할 필요가 있습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대모비스의 글로벌 생산 거점 최적화 및 유럽 시장 공략 강화",
+        "key_points": [
+          "유럽 생산 확대에 따른 해외 공장 가동률 상승",
+          "현지 생산 체계 강화를 통한 시장 대응력 제고"
+        ],
+        "what_to_watch": "유럽 내 구체적인 생산 품목 확대 여부 및 CKD 물량 변화",
+        "fact_check": "원문 발췌가 없는 RSS 기반 정보로, 구체적인 수치 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "4fb6151d1cca11ce",
+      "image_url": "",
+      "persistent_event_id": "ea83df6396953193"
+    },
+    {
+      "id": "7d2f440937f441",
+      "title": "현대차 노조, 정년 65세 연장 입법 촉구…생산 감소 속 고용 딜레마 - 마이데일리",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lc05nUkRhSkRxRzh4c1ZBTmNfeUFTZmVWNDVpUk5IbXgyZWNLRWt6aGRJNTFVRGRZbjVkTmhDQlF4N09xaDVkVzdVZ01JUzljbi12dXBKM3BMV2dqeVlrdg?oc=5",
+      "source": "마이데일리",
+      "published": "2026-11-17T17:31:32+09:00",
+      "category": "자동차",
+      "description": "현대차 노조, 정년 65세 연장 입법 촉구…생산 감소 속 고용 딜레마 마이데일리",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n004",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대차 노조가 정년 65세 연장을 위한 입법을 촉구하고 나섰습니다. 생산량 감소와 고용 불안이라는 딜레마 속에서 노사 간의 고용 형태 및 생산 효율성에 대한 논의가 지속될 전망입니다.",
+      "impact": "생산 현장의 인력 구조 변화는 장기적으로 생산성 및 인건비 구조에 영향을 미칠 수 있으며, 향후 노사 협상 과정에서의 생산 차질 가능성을 주시해야 합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "고령화 사회 진입에 따른 정년 연장 이슈와 완성차 업계의 고용 구조 변화",
+        "key_points": [
+          "현대차 노조의 정년 65세 연장 입법 촉구",
+          "생산 감소와 고용 안정 사이의 노사 갈등 요소"
+        ],
+        "what_to_watch": "정년 연장 관련 입법 동향 및 현대차 노사 협상 결과",
+        "fact_check": "노조의 주장이며 사측의 공식 입장이나 합의 사항은 아님"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "c7bb5150252b0f9d",
+      "image_url": "",
+      "persistent_event_id": "ba707a563b3dda8b"
+    },
+    {
+      "id": "c5afa680414e0a",
+      "title": "10월 자동차 수출 65.5억 달러로 역대 동월 최대… 수출·내수·생산 ‘트리플’ 증가 - 기계신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmSEJ6QmtmTmQxR0dmQTNfTVA5UjhPcEpFZ2tWN2ZGSjVlWWVuWmt5Q1pDVldxZVNfa0g2VFZKMlREbzdqSHhnVkRWa2ltejJWUmpOZ19YdHFlUTdTRjRGQ19KbDhqSnc?oc=5",
+      "source": "기계신문",
+      "published": "2026-11-16T14:19:52+09:00",
+      "category": "자동차",
+      "description": "10월 자동차 수출 65.5억 달러로 역대 동월 최대… 수출·내수·생산 ‘트리플’ 증가 기계신문",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [
+        {
+          "title": "10월 자동차 수출 '역대 최대' 65억4900만 달러…생산·내수·수출 '트리플 증가' - 미디어펜",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tM2t0MjRkd2F6c1NpWlF0SGtOY2hjTGhlc00zNHhKTi1GSWpKNm1WRkVraUtENG9UV2hXZHJfTlBtN3lqVVQzMkhqb0tBOFdkVngzN3JaOGbSAVhBVV95cUxObTNrdDI0ZHdhenNTaVpRdEhrTmNoY0xoZXNNMzR4Sk4tRklqSjZtVkZFa2lLRDRvVFdoV2RyX05QbTd5alVUMzJIam9LQThXZFZ4MzdyWjhm?oc=5",
+          "source": "미디어펜",
+          "published": "2026-11-16T13:17:52+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "자동차 수출, 10월 역대 최대 65억 달러 돌파…생산·내수도 동반 증가 - 철강금속신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SVmVRc25hXzNadk53NTlSdU5ONWpmUlJoVkw3MGZBam1fQWU4MWRFVlFGRUtXcWZqRlNRNkpLNDhNalE2YmZoSk9WM2RuVVk0NXU5YTFnMzBReEwxNGVEUkdkNkgwa05OdEE?oc=5",
+          "source": "철강금속신문",
+          "published": "2026-11-18T08:24:37+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "10월 자동차 수출 65억달러 역대 최대…친환경차 수출 49% 증가 - 스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tUWtqRTk4STl4dF9LQlk5OUVJcENKbTk3azBxbVo2WnBaUHdadGdpMV9iTEV1Q01VTEZBTXVkU011VmJqaEh0ZWVDLXY0dzdQTXVWVjNaRG9xMnZ5YUxFNlhuaU9BRmZMOUQzN3MtSGd1SUZ0SlZZ0gF3QVVfeXFMTm1Ra2pFOThJOXh0X0tCWTk5RUlwQ0ptOTdrMHFtWjZacFpQd1p0Z2kxX2JMRXVDTVVMRkFNdWRTTXVWYmpoSHRlZUMtdjR3N1BNdVZWM1pEb3EydnlhTEU2WG5pT0FGZkw5RDM3cy1IZ3VJRnRKVlk?oc=5",
+          "source": "스트레이트뉴스",
+          "published": "2026-11-17T15:24:28+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "자동차 수출 65.5억달러 '10월 역대 최대'…생산·내수도 동반 증가 - 더파워",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40Q2hONUx6RWVPaGtBUVFqN1ZuYktGR2NXYmZFSWhSbTJnSjB1dmNBTkZvOC15eVpxWm9PeEIyMjRiTUkwZy1GN0RrTEE2aV9mX3hUUDFzREoyQmt6MHNhaWVQV2Y4SXBsSkpuZjgzaFVsaTliOFhTME1CZkxPQQ?oc=5",
+          "source": "더파워",
+          "published": "2026-11-16T14:28:27+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "10월 자동차 수출 65억달러 돌파…생산·내수 동반 성장 - 스페셜경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fRTFYTnMzM210VENHNGphTlp5MUo3c2JVVFBnQ0kxdjIzWmRXb1ViXzJtTTVNcjlIV2gzVnhKeHVTMTg4OU51QmtFNl8tZ0dKWFFYSktjQWV2cmdBZ19JcE1uOUs4eHlOb2N4Qw?oc=5",
+          "source": "스페셜경제",
+          "published": "2026-11-16T13:50:16+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "10월 국내 자동차 산업이 수출, 내수, 생산 부문에서 모두 성장하는 '트리플 증가'를 기록했습니다. 특히 자동차 수출액은 65억 5천만 달러로 10월 기준 역대 최대치를 달성했습니다.",
+      "impact": "국내 자동차 생산량 증가는 부품 공급망 및 CKD 물동량에 긍정적인 신호로 작용할 수 있습니다. 산업 전반의 활성화를 의미하며 향후 물류 및 포장 수요 변화를 모니터링할 필요가 있습니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "국내 자동차 산업의 월간 실적 지표로, 수출 중심의 성장세가 지속되고 있음을 보여줍니다.",
+        "key_points": [
+          "10월 자동차 수출액 65.5억 달러로 역대 10월 중 최대",
+          "생산, 내수, 수출이 모두 증가하는 트리플 성장 달성",
+          "친환경차 수출 비중 확대가 전체 실적 견인"
+        ],
+        "what_to_watch": "연말까지의 수출 성장세 유지 여부 및 친환경차 수출 비중 추이.",
+        "fact_check": "산업통상자원부 등 공식 통계 기반의 10월 실적 수치임."
+      },
+      "new_information": "",
+      "source_comparison": "여러 매체에서 10월 수출액을 65억~65.5억 달러로 보도하고 있으며, 친환경차 수출 증가가 주요 요인으로 언급됨.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "365d392d60a2f04c",
+      "image_url": "",
+      "persistent_event_id": "1c4b83a12724b352"
+    }
+  ]
+}
