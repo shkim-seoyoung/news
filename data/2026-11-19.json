@@ -1,46 +1,113 @@
 {
   "date": "2026-11-19",
-  "updated_at": "2026-11-19T11:52:54.571589+09:00",
-  "article_count": 8,
+  "updated_at": "2026-11-19T19:54:03.659412+09:00",
+  "article_count": 11,
   "ai_enabled": true,
   "articles": [
     {
-      "id": "0915f214f2b5f9",
-      "title": "현대차 무뇨스 사장, 인도 타타그룹 회장과 뭄바이 비밀 회동…21조 투자 '최대 우군' 확보하나 - 더구루",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBReHk3QkpKOGdNYkRuMHoyRm83aElFelF5N251UzR1VHl3M0FhN1M1S2NYOUUxYmU5M1BOMzQ2d0F6RkNYV1R5MEctWHdBb3JUZWRnYXFmVDQ2dHFZdmJCRjFCSQ?oc=5",
-      "source": "더구루",
-      "published": "2026-11-19T08:56:11+09:00",
-      "category": "자동차",
-      "description": "현대차 무뇨스 사장, 인도 타타그룹 회장과 뭄바이 비밀 회동…21조 투자 '최대 우군' 확보하나 더구루",
-      "priority_markets": [
-        "인도"
-      ],
+      "id": "6e3d1d088b49b2",
+      "title": "물가·성장 동반 상승…한은, 26일 기준금리 추가 인상하나 - 포인트데일리",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kNlBqa0JCUENocjMxcmE2VGpJbzQtemJuWjFvTWRNWUp5bEpNa1JKR1BkS2FLRzFjLUZ0R0FUajdaQTVTN1hzbkVyeGhwWkNOVVBudDl4ZGdxZUhoMzl1dG5nWkdpSlpjQ29IekI1TnDSAXRBVV95cUxPMnJqM3FKODJNS3VJV2RoVXI0T1praC1LVkZsS0NGU0ZJUVlPMGtldzNuN2VxQkRKZTNXbjMyV1lvb042YTVYVHNKVjZnRjRVSWhzb1NieS1Zcm04Qm95dzZqUVZQUnFIcS1LRXRQc2NERnpBTQ?oc=5",
+      "source": "포인트데일리",
+      "published": "2026-11-19T18:00:00+09:00",
+      "category": "경제·금융",
+      "description": "물가·성장 동반 상승…한은, 26일 기준금리 추가 인상하나 포인트데일리",
+      "priority_markets": [],
       "source_link_status": "rss_only",
-      "section": "산업·업무",
-      "event_cluster": "batch0-n002",
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n001",
       "related_articles": [],
       "content_status": "rss_only",
-      "summary": "현대차 호세 무뇨스 사장이 인도 타타그룹 회장과 뭄바이에서 비공개 회동을 가졌습니다. 현대차의 인도 내 21조 원 규모 대규모 투자 계획을 앞두고 현지 유력 기업과의 협력 가능성이 제기되고 있습니다.",
-      "impact": "인도 시장 내 현대차의 대규모 투자 및 사업 확장이 가시화됨에 따라, 현지 생산 거점 고도화 및 공급망 재편에 따른 CKD 물량 및 부품 현지화 전략 변화 가능성을 주시해야 함.",
-      "importance": "높음",
+      "summary": "물가와 경제 성장률이 동반 상승하는 흐름 속에서 한국은행의 기준금리 추가 인상 가능성이 제기되고 있습니다. 오는 26일 열릴 금융통화위원회 결정에 시장의 이목이 쏠리고 있습니다.",
+      "impact": "",
+      "importance": "보통",
       "detail": {
-        "background": "현대차는 인도 시장을 글로벌 생산 및 수출 허브로 육성하기 위해 155억 달러(약 21조 원) 규모의 투자를 추진 중이며, 최근 인도 법인의 대관 조직 재정비 등 체질 개선을 진행하고 있음.",
+        "background": "최근 물가 상승 압력과 경기 회복세가 맞물리며 통화 정책 방향에 대한 불확실성이 커지고 있음.",
         "key_points": [
-          "현대차 호세 무뇨스 사장, 타타그룹 회장과 뭄바이 회동",
-          "21조 원 규모 인도 투자 관련 전략적 협력 논의 가능성",
-          "인도 시장 내 생산 거점 강화 및 현지 파트너십 구축"
+          "물가 및 성장 지표 동반 상승세",
+          "26일 한국은행 기준금리 결정 예정"
         ],
-        "what_to_watch": "타타그룹과의 구체적인 협력 분야 및 인도 투자 계획의 세부 실행 로드맵 발표 여부.",
-        "fact_check": "비공개 회동 사실은 언론 보도에 기반하며, 공식적인 투자 협력 내용은 현대차의 공식 발표를 통해 확인 필요."
+        "what_to_watch": "26일 금통위의 기준금리 결정 및 향후 통화 정책 기조 변화",
+        "fact_check": "기준금리 인상 여부는 26일 회의 결과 확인 필요"
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "4bb7342424350f4c",
+      "integration_signature": "c99b84f90e64f883",
       "image_url": "",
-      "persistent_event_id": "e051a2cdec685364"
+      "persistent_event_id": "357ccf243708a26a"
+    },
+    {
+      "id": "9d34a5946fa640",
+      "title": "세계질서 좌우할 스트롱맨들…핵군축·전쟁 당사국의 운명 한 테이블에 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zWEVQQmJhSUJaM096MnpVd2lBVmFDTUlGU0U3R0YtV1VGanZNRk9iUThybF9CbEJXS0k1ZnZQSERxQkgzMWtjMGxGTXgxYVNhTk9jVkNoQU5qd9IBWEFVX3lxTE1YRUdZQTBLQTQ3bnhfU1FfZnhHcFBkdzdrVkJjMDZFdEF0M0RuTjNNc0doWm14TlJkbTBqVEgwN3UxUllWZW80UDYtQTNSTDkxSHRVNms1bFY?oc=5",
+      "source": "아주경제",
+      "published": "2026-11-19T17:16:34+09:00",
+      "category": "국제·외교",
+      "description": "세계질서 좌우할 스트롱맨들…핵군축·전쟁 당사국의 운명 한 테이블에 아주경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "세계 질서에 영향력을 행사하는 주요 지도자들이 핵군축 및 전쟁 문제 등 국제 현안을 논의하기 위해 한자리에 모일 예정입니다. 글로벌 지정학적 리스크와 관련된 주요 의제들이 다뤄질 전망입니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "국제 사회의 핵군축 및 전쟁 당사국 간의 갈등 해결을 위한 외교적 움직임.",
+        "key_points": [
+          "주요국 지도자들의 국제 현안 논의",
+          "핵군축 및 전쟁 당사국 운명 관련 의제"
+        ],
+        "what_to_watch": "회담 결과에 따른 글로벌 정세 변화 및 경제적 파급 효과",
+        "fact_check": "회담 참여 주체 및 구체적 의제 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "5a5c594a85569c10",
+      "image_url": "",
+      "persistent_event_id": "a9f4cbbfee569e06"
+    },
+    {
+      "id": "a32e572db18ca9",
+      "title": "포스코그룹, CATL과 3년간 리튬 공급계약…중국 배터리 시장 공략 강화 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5YUlJWbk4yakxSUnBSU0JxOVY5SzJlSFJHa24tRy1VaC1NZTQ3eTkyUVJwVXB5b2FCTFVVWWtxQ09hUQ?oc=5",
+      "source": "브레이크뉴스",
+      "published": "2026-11-19T10:35:13+09:00",
+      "category": "전동화",
+      "description": "포스코그룹, CATL과 3년간 리튬 공급계약…중국 배터리 시장 공략 강화 브레이크뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n004",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "포스코그룹이 중국 배터리 기업 CATL과 3년간 리튬 공급 계약을 체결하며 중국 시장 내 배터리 소재 공급망을 강화합니다. 이번 계약을 통해 포스코는 글로벌 배터리 소재 시장에서의 입지를 더욱 공고히 할 계획입니다.",
+      "impact": "배터리 소재 공급망의 다변화 및 안정화는 전기차 산업의 핵심 경쟁력과 직결되며, 향후 관련 소재의 수급 동향을 파악할 필요가 있습니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "포스코그룹의 이차전지 소재 사업 확장 전략의 일환.",
+        "key_points": [
+          "포스코-CATL 3년 리튬 공급 계약 체결",
+          "중국 배터리 시장 공략 강화"
+        ],
+        "what_to_watch": "공급 계약에 따른 실제 물량 및 향후 추가 협력 가능성",
+        "fact_check": "계약 규모 및 세부 조건 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "8217d169aed0f548",
+      "image_url": "",
+      "persistent_event_id": "179015f968a7e46b"
     },
     {
       "id": "887b8f68715179",
@@ -55,7 +122,7 @@
       ],
       "source_link_status": "rss_only",
       "section": "산업·업무",
-      "event_cluster": "batch0-n003",
+      "event_cluster": "batch0-n006",
       "related_articles": [],
       "content_status": "rss_only",
       "summary": "2027년 세계 자동차 시장이 0.8% 성장할 것으로 전망됩니다. 중국과 미국 시장의 회복세에도 불구하고 유럽 시장의 부진이 지속되면서 전체적인 성장 폭은 제한적일 것으로 보입니다.",
@@ -91,7 +158,7 @@
       "priority_markets": [],
       "source_link_status": "rss_only",
       "section": "산업·업무",
-      "event_cluster": "batch0-n004",
+      "event_cluster": "batch0-n007",
       "related_articles": [],
       "content_status": "rss_only",
       "summary": "2035년까지 단조 해머 시장이 자동차 부품 단조 수요 증가에 힘입어 지속 성장할 것으로 전망됩니다. 자동차 산업의 전동화 및 부품 고도화가 단조 공정 수요를 견인하고 있습니다.",
@@ -126,7 +193,7 @@
       "priority_markets": [],
       "source_link_status": "rss_only",
       "section": "산업·업무",
-      "event_cluster": "batch0-n005",
+      "event_cluster": "batch0-n008",
       "related_articles": [],
       "content_status": "rss_only",
       "summary": "현대차의 생산 부진 우려가 확산되면서 관련 부품주들이 한 달 사이 최대 22% 급락했습니다. 완성차 생산량 감소가 부품 업계의 실적 악화로 이어질 것이라는 시장의 불안감이 반영된 결과입니다.",
@@ -152,6 +219,41 @@
       "persistent_event_id": "9e71a8446b4e1978"
     },
     {
+      "id": "517916f84bf8ef",
+      "title": "현대차, 내달 웨이모에 아이오닉 5 공급… 로보택시 사업 확대 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByOXV4LXVPWWZ2bTFKdlZUTXVBTFNMNXBUVldTbWFVWXlTNVktWGQ0SXhZelRpN1lSSmh5SmFHZWlMLXktWElwYlFRRnNFTUhRd3BGbzRxbXREa3A4MHU2NXhLTmVVNHpDOVJ3c1ZhaFrSAXRBVV95cUxQeGVYbjhUcm92Z1F6bHVJOTU5dDZ1akhQdFJ2SXpzQ2N5dDZ2UjQ0U3JZUFpsOURVRXVmR1lNQmNXVldsbmV3VllqazQ3TWoyWUcxZ0lOUDk1SmJadmdneHhaWkdCOTBzZFJUSGNwSklyeEdRMQ?oc=5",
+      "source": "IT조선",
+      "published": "2026-11-18T17:07:26+09:00",
+      "category": "자동차",
+      "description": "현대차, 내달 웨이모에 아이오닉 5 공급… 로보택시 사업 확대 IT조선",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n009",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대자동차가 다음 달부터 자율주행 기업 웨이모에 아이오닉 5를 공급하며 로보택시 사업 협력을 확대합니다. 이번 공급을 통해 현대차는 자율주행 기술 분야에서의 파트너십을 강화하고 글로벌 로보택시 시장 공략에 속도를 낼 예정입니다.",
+      "impact": "현대차의 자율주행 기술 및 전기차 플랫폼의 글로벌 경쟁력을 입증하는 사례로, 향후 로보택시 시장 내 현대차의 위상 변화를 주시해야 합니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차와 웨이모 간의 자율주행 로보택시 협력 프로젝트.",
+        "key_points": [
+          "내달 웨이모에 아이오닉 5 공급 시작",
+          "로보택시 사업 협력 확대"
+        ],
+        "what_to_watch": "공급 물량 및 향후 자율주행 기술 고도화 협력 범위",
+        "fact_check": "공급 시점 및 구체적인 협력 내용 확인 필요"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a5f8a004fd5f0eaf",
+      "image_url": "",
+      "persistent_event_id": "18242904359779a2"
+    },
+    {
       "id": "2c366a6fd9d624",
       "title": "글로벌 車시장 ‘엇박자’… 현대차그룹, 지역별 생산·차종 재편 - 글로벌이코노믹",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQamxsVndUa1pQVjJkTS1HUjJsemlaNkl3em13WHQ0N3RNSG8yS1VlUFhvSFVIZ0tRUkp2T2l5ZF93UlFQUm1KMGRSS3pTYW96eXZ1dTdDOHZBQ29LT08ta050YmxZN3ZDcDNPR29sTlNLVmkwX1YwZWV0bFBRMG9GOGpvR1JSdw?oc=5",
@@ -162,7 +264,7 @@
       "priority_markets": [],
       "source_link_status": "rss_only",
       "section": "산업·업무",
-      "event_cluster": "batch0-n006",
+      "event_cluster": "batch0-n010",
       "related_articles": [],
       "content_status": "rss_only",
       "summary": "글로벌 자동차 시장의 불확실성이 커짐에 따라 현대차그룹이 지역별 생산 전략과 차종 구성을 재편하고 있습니다. 시장 수요 변화에 대응하여 생산 효율성을 최적화하려는 움직임입니다.",
@@ -197,13 +299,39 @@
       "priority_markets": [],
       "source_link_status": "rss_only",
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n007",
-      "related_articles": [],
+      "event_cluster": "batch0-n011",
+      "related_articles": [
+        {
+          "title": "APEC｜미·중·러 정상회담, 룰라가 먼저 제안했다 - OBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSVNDVTFGV2NVOGFqNnBNOGNuM2IxMXExOXE3czZvaldvTEw4X0xSU3U2THlzTjFDOEpyYThERHVWTUtGaDBkeVJfSFBxUVJmMnNQNHVzVjRnOWdTVXNzTERWRm9uc3ppZWc?oc=5",
+          "source": "OBC 뉴스",
+          "published": "2026-11-18T13:28:09+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
       "content_status": "rss_only",
-      "summary": "APEC 정상회의를 계기로 미·중·러 정상회담이 논의되고 있으며, 이를 룰라 브라질 대통령이 제안한 것으로 알려졌습니다.",
+      "summary": "브라질의 룰라 대통령이 APEC 정상회의를 계기로 미·중·러 정상회담을 제안했다는 보도가 나왔습니다. 국제 외교 무대에서 주요국 간의 대화 채널을 마련하려는 시도로 풀이됩니다.",
       "impact": "",
       "importance": "보통",
       "detail": {
+        "background": "APEC 정상회의를 앞두고 브라질 룰라 대통령이 주도하는 다자간 외교적 중재 시도.",
+        "key_points": [
+          "룰라 대통령, 미·중·러 정상회담 제안",
+          "APEC 계기 주요국 정상 간 대화 추진"
+        ],
+        "what_to_watch": "실제 정상회담 성사 여부 및 주요국들의 반응.",
+        "fact_check": "제안 사실 여부 및 외교적 파급력 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "62dccf3ff5d17f62",
+      "image_url": "",
+      "persistent_event_id": "0fce1236d15811d0",
+      "original_summary": "APEC 정상회의를 계기로 미·중·러 정상회담이 논의되고 있으며, 이를 룰라 브라질 대통령이 제안한 것으로 알려졌습니다.",
+      "original_detail": {
         "background": "APEC 정상회의를 둘러싼 주요국 간의 외교적 움직임.",
         "key_points": [
           "미·중·러 정상회담 개최 논의",
@@ -211,15 +339,7 @@
         ],
         "what_to_watch": "실제 정상회담 성사 여부 및 회담 결과가 국제 무역 환경에 미칠 영향.",
         "fact_check": "정상회담 제안 주체에 대한 보도 내용임."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "e93d117c385e38e2",
-      "image_url": "",
-      "persistent_event_id": "0fce1236d15811d0"
+      }
     },
     {
       "id": "13f509673b5e58",
@@ -232,7 +352,7 @@
       "priority_markets": [],
       "source_link_status": "rss_only",
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n010",
+      "event_cluster": "batch0-n015",
       "related_articles": [],
       "content_status": "rss_only",
       "summary": "이 대통령과 시진핑 주석이 정상회담을 갖고 한반도 평화 및 한한령 해제 등 주요 현안을 논의했습니다.",
@@ -267,21 +387,39 @@
       "priority_markets": [],
       "source_link_status": "rss_only",
       "section": "산업·업무",
-      "event_cluster": "batch0-n011",
+      "event_cluster": "batch0-n012",
       "related_articles": [
         {
-          "title": "10월 자동차 수출 65억달러 역대 최대…친환경차 수출 49% 증가 - 스트레이트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tUWtqRTk4STl4dF9LQlk5OUVJcENKbTk3azBxbVo2WnBaUHdadGdpMV9iTEV1Q01VTEZBTXVkU011VmJqaEh0ZWVDLXY0dzdQTXVWVjNaRG9xMnZ5YUxFNlhuaU9BRmZMOUQzN3MtSGd1SUZ0SlZZ0gF3QVVfeXFMTm1Ra2pFOThJOXh0X0tCWTk5RUlwQ0ptOTdrMHFtWjZacFpQd1p0Z2kxX2JMRXVDTVVMRkFNdWRTTXVWYmpoSHRlZUMtdjR3N1BNdVZWM1pEb3EydnlhTEU2WG5pT0FGZkw5RDM3cy1IZ3VJRnRKVlk?oc=5",
-          "source": "스트레이트뉴스",
-          "published": "2026-11-17T15:24:28+09:00",
+          "title": "10월 자동차 수출·내수·생산 동반 상승…수출액 ‘역대 최대’ - 쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13a2ptWGJRTzdHOXRRZ2k5NTk4TXh6M3h2aHZYZWZwbXBhbndTQzljUzdWc1NveDdzcTNjdTRueGdDbW4ybWNxUG5zdEdMZGhpX3RFMjRROWxSTVRWb1BYSkF3dw?oc=5",
+          "source": "쿠키뉴스",
+          "published": "2026-11-18T13:17:49+09:00",
           "source_link_status": "rss_only"
         }
       ],
       "content_status": "rss_only",
-      "summary": "10월 자동차 수출액이 65억 달러를 기록하며 역대 최대치를 경신했습니다. 생산과 내수 판매 또한 동반 상승세를 보였으며, 특히 친환경차 수출이 전년 대비 49% 증가하며 실적을 견인했습니다.",
-      "impact": "자동차 산업 전반의 수출 호조는 완성차 물동량 증가로 이어져 관련 물류 및 부품 공급망의 활성화를 시사합니다.",
-      "importance": "보통",
+      "summary": "10월 국내 자동차 수출액이 65억 달러를 돌파하며 역대 최대치를 기록했습니다. 생산과 내수 판매 또한 동반 상승하며 자동차 산업 전반의 활력이 확인되었습니다.",
+      "impact": "수출 물량 증가에 따른 CKD 포장 및 물류 수요의 안정적 유지가 예상됩니다.",
+      "importance": "높음",
       "detail": {
+        "background": "국내 자동차 산업의 10월 실적 지표 발표.",
+        "key_points": [
+          "10월 자동차 수출액 65억 달러 달성",
+          "생산·내수·수출 동반 상승세 기록"
+        ],
+        "what_to_watch": "연말까지의 수출 호조세 지속 여부.",
+        "fact_check": "산업통상자원부 등 공식 통계 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "d3d02b5e70cd0b9d",
+      "image_url": "",
+      "persistent_event_id": "30caa4f196a1bd5b",
+      "original_summary": "10월 자동차 수출액이 65억 달러를 기록하며 역대 최대치를 경신했습니다. 생산과 내수 판매 또한 동반 상승세를 보였으며, 특히 친환경차 수출이 전년 대비 49% 증가하며 실적을 견인했습니다.",
+      "original_detail": {
         "background": "국내 자동차 산업의 수출 실적 및 생산 동향",
         "key_points": [
           "10월 자동차 수출액 65억 달러로 역대 최대",
@@ -290,15 +428,7 @@
         ],
         "what_to_watch": "친환경차 중심의 수출 성장세 지속 여부",
         "fact_check": "10월 수출액 65억 달러 및 친환경차 49% 증가 수치 확인"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "76fe28e42c615e21",
-      "image_url": "",
-      "persistent_event_id": "30caa4f196a1bd5b"
+      }
     }
   ]
 }
