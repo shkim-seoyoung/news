@@ -1,9 +1,44 @@
 {
   "date": "2026-11-20",
-  "updated_at": "2026-11-20T11:44:50.938546+09:00",
-  "article_count": 4,
+  "updated_at": "2026-11-20T19:42:54.176187+09:00",
+  "article_count": 5,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "c269dda9694dfb",
+      "title": "전기차 수출 앞지른 하이브리드...전략적 가치 업↑ - 월요신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HRlZSMnVfUXZMaWNLejlPMjRjdDJiV3NJOWEzXzhIcjBmZFkzLXRtQVdhSW54T0J1TzBJcmdMY3lFbFd3dnRqZ0ZUVnFPXzFRSW40WnUyMVBzbXY1YmItWjFjWHZaUFNJSWc?oc=5",
+      "source": "월요신문",
+      "published": "2026-11-20T13:21:11+09:00",
+      "category": "스크랩 추적",
+      "description": "전기차 수출 앞지른 하이브리드...전략적 가치 업↑ 월요신문",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "전기차 수출량을 하이브리드 차량이 앞지르며 하이브리드 모델의 시장 내 전략적 가치가 상승하고 있습니다. 전동화 전환 과정에서 하이브리드 차량이 중요한 징검다리 역할을 수행하고 있습니다.",
+      "impact": "하이브리드 차량의 수요 증가는 내연기관과 전기차 부품을 혼용하는 CKD 포장 물량 및 부품 공급망 전략에 영향을 줄 수 있으므로, 차종별 생산 믹스 변화를 모니터링할 필요가 있습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "전기차 캐즘 현상과 맞물려 하이브리드 차량의 판매 비중이 급격히 확대되는 추세입니다.",
+        "key_points": [
+          "하이브리드 차량 수출이 전기차 수출 실적을 추월",
+          "자동차 시장 내 하이브리드 모델의 전략적 중요성 재평가"
+        ],
+        "what_to_watch": "하이브리드 차량 생산 확대에 따른 부품 공급망 최적화 및 CKD 물량 변화",
+        "fact_check": "제공된 RSS 정보 외 구체적인 수치나 생산 계획은 확인되지 않음"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "e44e280cd6e20e38",
+      "image_url": "",
+      "persistent_event_id": "78b2dc7eb1da148a"
+    },
     {
       "id": "18fd85a645a78c",
       "title": "현대모비스, 전동화·자율주행·로보틱스가 성장 기회…미래 경쟁력 높인다 - 증권일보",
@@ -15,7 +50,7 @@
       "priority_markets": [],
       "source_link_status": "rss_only",
       "section": "산업·업무",
-      "event_cluster": "batch0-n001",
+      "event_cluster": "batch0-n003",
       "related_articles": [],
       "content_status": "rss_only",
       "summary": "현대모비스가 전동화, 자율주행, 로보틱스를 핵심 성장 동력으로 삼아 미래 경쟁력을 강화하겠다는 전략을 밝혔습니다. 해당 분야에 대한 지속적인 투자를 통해 글로벌 시장에서의 입지를 다질 계획입니다.",
@@ -74,18 +109,37 @@
           "source_link_status": "rss_only"
         },
         {
-          "title": "APEC｜미·중·러 정상회담, 룰라가 먼저 제안했다 - OBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSVNDVTFGV2NVOGFqNnBNOGNuM2IxMXExOXE3czZvaldvTEw4X0xSU3U2THlzTjFDOEpyYThERHVWTUtGaDBkeVJfSFBxUVJmMnNQNHVzVjRnOWdTVXNzTERWRm9uc3ppZWc?oc=5",
-          "source": "OBC 뉴스",
-          "published": "2026-11-18T13:28:09+09:00",
+          "title": "역사적인 미·중·러 정상회담의 결과. - Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckdST1JxNE9DV0lrbWlCcXZuSGNxeTQtY2x1dzRTcTEtSG5YMzk5MmpsUzU1QldpNnk0VkRteER0Wlc3WWtjQkRWbzhORWRXRklpXzlrS1c0UXlHclJSelM5bHFGT3l4cUhZRzZ4NHpVakN4M25OMnVMVW5nWWxYMFY5aE1SQmhQeVBEYw?oc=5",
+          "source": "Vietnam.vn",
+          "published": "2026-11-20T11:28:14+09:00",
           "source_link_status": "rss_only"
         }
       ],
       "content_status": "rss_only",
-      "summary": "APEC 정상회의를 계기로 미·중·러 3국 정상 간의 사상 첫 회담이 열려 핵 군축 및 우크라이나 종전 문제 등이 논의되었습니다. 강대국 간의 외교적 대화가 새로운 국면을 맞이했다는 평가와 함께, 구체적인 평화 선언 내용과 푸틴 대통령의 면책 논의 등이 주요 쟁점으로 부각되었습니다.",
+      "summary": "미·중·러 정상들이 사상 처음으로 회담을 갖고 핵 군축 및 우크라이나 종전 문제를 논의했습니다. 이번 회담은 강대국 간 외교 지형의 변화를 시사하며 국제 정세에 중대한 영향을 미칠 것으로 보입니다.",
       "impact": "",
-      "importance": "보통",
+      "importance": "높음",
       "detail": {
+        "background": "APEC 기간 중 강대국 정상들이 한자리에 모여 주요 국제 현안을 논의함.",
+        "key_points": [
+          "미·중·러 사상 첫 3자 정상회담 개최",
+          "핵 군축 및 우크라이나 전쟁 종전 논의",
+          "한중 FTA 타결 등 APEC 폐막 성과"
+        ],
+        "what_to_watch": "회담 이후 실제적인 종전 협상 진전 여부 및 글로벌 지정학적 리스크 변화",
+        "fact_check": "정상회담 개최 사실은 확인되나, 구체적인 합의문 내용은 언론사별로 해석이 상이함"
+      },
+      "new_information": "",
+      "source_comparison": "각 언론사마다 회담의 성과와 푸틴의 면책 여부 등 해석에 차이가 있음.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "68961a05f44c0eee",
+      "image_url": "",
+      "persistent_event_id": "50abc4a02017749a",
+      "original_summary": "APEC 정상회의를 계기로 미·중·러 3국 정상 간의 사상 첫 회담이 열려 핵 군축 및 우크라이나 종전 문제 등이 논의되었습니다. 강대국 간의 외교적 대화가 새로운 국면을 맞이했다는 평가와 함께, 구체적인 평화 선언 내용과 푸틴 대통령의 면책 논의 등이 주요 쟁점으로 부각되었습니다.",
+      "original_detail": {
         "background": "APEC 정상회의 기간 중 미·중·러 정상 간의 이례적인 3자 회담이 성사되어 국제 사회의 이목이 집중됨.",
         "key_points": [
           "미·중·러 사상 첫 3자 정상회담 개최",
@@ -94,15 +148,7 @@
         ],
         "what_to_watch": "이번 회담 이후 실제 우크라이나 전쟁 종전 협상으로 이어질지 여부와 강대국 간의 후속 외교 행보.",
         "fact_check": "미·중·러 3자 정상회담 개최 사실은 다수 매체에서 공통적으로 보도됨."
-      },
-      "new_information": "",
-      "source_comparison": "일부 매체는 룰라 브라질 대통령의 제안으로 회담이 성사되었다고 보도했으나, 다른 매체들은 회담의 의제와 결과물인 '평화 선언'의 실효성에 집중하는 등 보도 관점의 차이가 존재합니다.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "771e002feeb631c5",
-      "image_url": "",
-      "persistent_event_id": "50abc4a02017749a"
+      }
     },
     {
       "id": "5e8358cc12e9ae",
@@ -118,7 +164,7 @@
       ],
       "source_link_status": "rss_only",
       "section": "산업·업무",
-      "event_cluster": "batch0-n003",
+      "event_cluster": "batch0-n004",
       "related_articles": [
         {
           "title": "\"가동률까지 줄었다\"...현대차, 국내에 이어 해외 공장도 가동률 80% 추락 - 오토버프",
@@ -166,41 +212,41 @@
       "persistent_event_id": "6ab8306b8e21cb0e"
     },
     {
-      "id": "31db64bac3a68d",
-      "title": "‘현대차 29년 대관통’ 품은 BMW, 인도 전기차 현지화 속도 낸다 - 한국신용신문",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lRWpQUlp6cW84Rm1HdlV4UDdCTG1IQTVrcG4yMS1LYmNST0Q3YWJfWEhCRVV2eEp4ckhWYktKdW5zaE1QdGE2RU1rZFZxRmE4ZXNsTDMyNEFKaER0dHNIZ05UVENCWE1sOE5z?oc=5",
-      "source": "한국신용신문",
-      "published": "2026-11-18T12:00:00+09:00",
+      "id": "a11ed7334b0fee",
+      "title": "현대차·SK온 미국 배터리 합작사, 조지아 공급망 가동... 2027년 완전 상업화 로드맵 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTG43RV9WWmI2cE9xbXpHMk9LTVYwMV8wZ2tCa1JvdmEybjl4Y1ZGenJIZkg2ckpTNmJ1NDdMQm42MUNxRXlDRXBZblU4bkhreEJLR3ZfcXYwRnNKZWd1eld6Umxram5hTnZWYnEwRmZHQVhWaUk0SnNzdVBUSlZZdzR5aUxNR3VE?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-11-19T05:42:53+09:00",
       "category": "자동차",
-      "description": "‘현대차 29년 대관통’ 품은 BMW, 인도 전기차 현지화 속도 낸다 한국신용신문",
+      "description": "현대차·SK온 미국 배터리 합작사, 조지아 공급망 가동... 2027년 완전 상업화 로드맵 글로벌이코노믹",
       "priority_markets": [
-        "인도"
+        "미국"
       ],
       "source_link_status": "rss_only",
       "section": "산업·업무",
-      "event_cluster": "batch0-n011",
+      "event_cluster": "batch0-n008",
       "related_articles": [],
       "content_status": "rss_only",
-      "summary": "BMW가 인도 시장에서 전기차 현지화에 속도를 내고 있습니다. 현대차의 인도 시장 전략과 더불어 글로벌 완성차 업체들의 인도 내 생산 거점 경쟁이 치열해지고 있습니다.",
-      "impact": "글로벌 완성차 업체의 인도 현지화 가속은 인도 내 자동차 부품 공급망 및 물류 환경 변화를 야기할 수 있는 산업 동향입니다.",
-      "importance": "보통",
+      "summary": "현대차와 SK온의 미국 배터리 합작사가 조지아주 공급망 가동을 시작하며 2027년 완전 상업화를 목표로 로드맵을 구체화했습니다.",
+      "impact": "미국 현지 배터리 공급망 구축은 현대차의 북미 생산 거점 전동화 전략의 핵심이며, 향후 현지 생산 차종의 부품 조달 구조 변화를 유발할 것입니다.",
+      "importance": "높음",
       "detail": {
-        "background": "인도 자동차 시장의 글로벌 생산 거점화",
+        "background": "현대차그룹의 북미 전동화 전환을 위한 핵심 배터리 공급망 확보 전략.",
         "key_points": [
-          "BMW의 인도 전기차 현지화 전략",
-          "글로벌 완성차 업체의 인도 시장 투자 확대"
+          "현대차-SK온 합작사 조지아 공급망 가동",
+          "2027년 완전 상업화 목표 로드맵 수립"
         ],
-        "what_to_watch": "인도 내 전기차 생산 인프라 구축 현황",
-        "fact_check": "원문 발췌 없음"
+        "what_to_watch": "조지아 공장의 가동률 추이 및 현대차 북미 공장으로의 배터리 공급 안정성",
+        "fact_check": "2027년 상업화 로드맵은 이번 보도를 통해 확인된 새로운 사실임"
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "2f107bcfed13876d",
+      "integration_signature": "8f0658414685f814",
       "image_url": "",
-      "persistent_event_id": "d6b060c0a81dbbb5"
+      "persistent_event_id": "04ceb00775ddaccb"
     }
   ]
 }

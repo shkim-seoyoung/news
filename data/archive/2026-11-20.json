@@ -258,18 +258,37 @@
           "source_link_status": "rss_only"
         },
         {
-          "title": "APEC｜미·중·러 정상회담, 룰라가 먼저 제안했다 - OBC 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTSVNDVTFGV2NVOGFqNnBNOGNuM2IxMXExOXE3czZvaldvTEw4X0xSU3U2THlzTjFDOEpyYThERHVWTUtGaDBkeVJfSFBxUVJmMnNQNHVzVjRnOWdTVXNzTERWRm9uc3ppZWc?oc=5",
-          "source": "OBC 뉴스",
-          "published": "2026-11-18T13:28:09+09:00",
+          "title": "역사적인 미·중·러 정상회담의 결과. - Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckdST1JxNE9DV0lrbWlCcXZuSGNxeTQtY2x1dzRTcTEtSG5YMzk5MmpsUzU1QldpNnk0VkRteER0Wlc3WWtjQkRWbzhORWRXRklpXzlrS1c0UXlHclJSelM5bHFGT3l4cUhZRzZ4NHpVakN4M25OMnVMVW5nWWxYMFY5aE1SQmhQeVBEYw?oc=5",
+          "source": "Vietnam.vn",
+          "published": "2026-11-20T11:28:14+09:00",
           "source_link_status": "rss_only"
         }
       ],
       "content_status": "rss_only",
-      "summary": "APEC 정상회의를 계기로 미·중·러 3국 정상 간의 사상 첫 회담이 열려 핵 군축 및 우크라이나 종전 문제 등이 논의되었습니다. 강대국 간의 외교적 대화가 새로운 국면을 맞이했다는 평가와 함께, 구체적인 평화 선언 내용과 푸틴 대통령의 면책 논의 등이 주요 쟁점으로 부각되었습니다.",
+      "summary": "미·중·러 정상들이 사상 처음으로 회담을 갖고 핵 군축 및 우크라이나 종전 문제를 논의했습니다. 이번 회담은 강대국 간 외교 지형의 변화를 시사하며 국제 정세에 중대한 영향을 미칠 것으로 보입니다.",
       "impact": "",
-      "importance": "보통",
+      "importance": "높음",
       "detail": {
+        "background": "APEC 기간 중 강대국 정상들이 한자리에 모여 주요 국제 현안을 논의함.",
+        "key_points": [
+          "미·중·러 사상 첫 3자 정상회담 개최",
+          "핵 군축 및 우크라이나 전쟁 종전 논의",
+          "한중 FTA 타결 등 APEC 폐막 성과"
+        ],
+        "what_to_watch": "회담 이후 실제적인 종전 협상 진전 여부 및 글로벌 지정학적 리스크 변화",
+        "fact_check": "정상회담 개최 사실은 확인되나, 구체적인 합의문 내용은 언론사별로 해석이 상이함"
+      },
+      "new_information": "",
+      "source_comparison": "각 언론사마다 회담의 성과와 푸틴의 면책 여부 등 해석에 차이가 있음.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "68961a05f44c0eee",
+      "image_url": "",
+      "persistent_event_id": "50abc4a02017749a",
+      "original_summary": "APEC 정상회의를 계기로 미·중·러 3국 정상 간의 사상 첫 회담이 열려 핵 군축 및 우크라이나 종전 문제 등이 논의되었습니다. 강대국 간의 외교적 대화가 새로운 국면을 맞이했다는 평가와 함께, 구체적인 평화 선언 내용과 푸틴 대통령의 면책 논의 등이 주요 쟁점으로 부각되었습니다.",
+      "original_detail": {
         "background": "APEC 정상회의 기간 중 미·중·러 정상 간의 이례적인 3자 회담이 성사되어 국제 사회의 이목이 집중됨.",
         "key_points": [
           "미·중·러 사상 첫 3자 정상회담 개최",
@@ -278,15 +297,7 @@
         ],
         "what_to_watch": "이번 회담 이후 실제 우크라이나 전쟁 종전 협상으로 이어질지 여부와 강대국 간의 후속 외교 행보.",
         "fact_check": "미·중·러 3자 정상회담 개최 사실은 다수 매체에서 공통적으로 보도됨."
-      },
-      "new_information": "",
-      "source_comparison": "일부 매체는 룰라 브라질 대통령의 제안으로 회담이 성사되었다고 보도했으나, 다른 매체들은 회담의 의제와 결과물인 '평화 선언'의 실효성에 집중하는 등 보도 관점의 차이가 존재합니다.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "771e002feeb631c5",
-      "image_url": "",
-      "persistent_event_id": "50abc4a02017749a"
+      }
     },
     {
       "id": "978194b827ab7f",
@@ -603,7 +614,7 @@
       ],
       "source_link_status": "rss_only",
       "section": "산업·업무",
-      "event_cluster": "batch0-n003",
+      "event_cluster": "batch0-n004",
       "related_articles": [
         {
           "title": "\"가동률까지 줄었다\"...현대차, 국내에 이어 해외 공장도 가동률 80% 추락 - 오토버프",
@@ -1726,7 +1737,7 @@
       "priority_markets": [],
       "source_link_status": "rss_only",
       "section": "산업·업무",
-      "event_cluster": "batch0-n001",
+      "event_cluster": "batch0-n003",
       "related_articles": [],
       "content_status": "rss_only",
       "summary": "현대모비스가 전동화, 자율주행, 로보틱스를 핵심 성장 동력으로 삼아 미래 경쟁력을 강화하겠다는 전략을 밝혔습니다. 해당 분야에 대한 지속적인 투자를 통해 글로벌 시장에서의 입지를 다질 계획입니다.",
@@ -2039,6 +2050,476 @@
       "published": "2026-11-18T13:09:23+09:00",
       "category": "자동차",
       "description": "[현대모비스 액추에이터 개발]② '손끝에 달린 수익성' 정의선의 美 IPO 셈법 블로터",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "a14f62eaa92e89",
+      "title": "[2026 선전 APEC과 이재명 정부의 강대국 외교 ⑥]미·중·러 ‘평화선언’…강대국 협상의 문 열렸지만, 한반도의 자리는 숙제로 - https://www.climatepol.com/",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01SGRLTFpPUWV0MHk2djdEelNNRllZNXVnTFp6bDFTTGFKUGhGZ21wRGJEMmI1bTRfSEJEOW1FMUFBZzBmV19pQkF5Z0loRmtzU2k0NXdqdDh2VC1RNFVmVGdJaHEzRDJ3aWhrRw?oc=5",
+      "source": "https://www.climatepol.com/",
+      "published": "2026-11-20T19:00:00+09:00",
+      "category": "국제·외교",
+      "description": "[2026 선전 APEC과 이재명 정부의 강대국 외교 ⑥]미·중·러 ‘평화선언’…강대국 협상의 문 열렸지만, 한반도의 자리는 숙제로 https://www.climatepol.com/",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "75ba597a371251",
+      "title": "신성범 의원, ‘에스컬레이터 산업 활성화’ 정책토론회 개최 - 글로벌뉴스통신GNA",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQQXpBbW1RclZSbzZYS1NFR1dERG1UaXZ1cllleWZ6MjVVLUdIQXVMeG42X0o5dnV1U3BfUG5LeW4tVXY2UlRlQ2MzbXM5UDdGQXBnSlF2b2ZITy1RSHNkTHF2aFNWQVV4Tjl0TDJlazZPbFJm?oc=5",
+      "source": "글로벌뉴스통신GNA",
+      "published": "2026-11-20T18:35:37+09:00",
+      "category": "정치·정책",
+      "description": "신성범 의원, ‘에스컬레이터 산업 활성화’ 정책토론회 개최 글로벌뉴스통신GNA",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "e2d2596a8236d8",
+      "title": "'2.50%→3.25%' 유력…사상 첫 백투백부터 마지막 긴축까지 - 뉴스토마토",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oRWdpZVlHY1JYVmtfVW5iMFpZQWdEYXRvS2tDZVdiNDlxc1JGYWJweHgxMEhrcmh4bkMwMlkzS2hCM1oyZHRYbW1La3d5VlNUR244VkMtdjV3VHZCd1NPTg?oc=5",
+      "source": "뉴스토마토",
+      "published": "2026-11-20T17:43:46+09:00",
+      "category": "경제·금융",
+      "description": "'2.50%→3.25%' 유력…사상 첫 백투백부터 마지막 긴축까지 뉴스토마토",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "3fae9c66250536",
+      "title": "트럼프, 시진핑·푸틴의 들러리 됐다…美 상원 “완전히 이용당했다” - OBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OWG1hT0R5QXNJeElsMTVMSlJkWms3MjNhbEtMbVlsbWplREo1NjhNT0cxQmFyVnpVWXY3RWxpRFQzdTMxc1IzZGxjZWxzNHhBb1JkdkFBOHd2X0NHM3dsQkQ2OVRPcUVadVE?oc=5",
+      "source": "OBC 뉴스",
+      "published": "2026-11-20T17:25:56+09:00",
+      "category": "국제·외교",
+      "description": "트럼프, 시진핑·푸틴의 들러리 됐다…美 상원 “완전히 이용당했다” OBC 뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "cece0d658bc94e",
+      "title": "한국, 유엔 전자정부평가 12년 만에 194개국 중 ‘1위’ - 인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xejBqTFAxVnViYV91cHJvVDNwVzgzZnhTV2xteHM4SjhJMGF3ZDNIWko2OWJYbGphNjhvanREcGNIYkswYmJXUC1NLXFMMjR4MllYXy1nTnJxazc4TUY2S1YyLTdHQ2VmV3FUc2t3QlZ6QQ?oc=5",
+      "source": "인더스트리뉴스",
+      "published": "2026-11-20T17:12:19+09:00",
+      "category": "정치·정책",
+      "description": "한국, 유엔 전자정부평가 12년 만에 194개국 중 ‘1위’ 인더스트리뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "e1228024619e70",
+      "title": "부품값 줄인상에 국산차 ‘원가 압박’…中 밀어내기까지 ‘이중고’ [비즈360] - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aN0NValQwVUFzY0pRSFMxTG5YQXhrbGtteEIyREdjRVJKN1ZJaGZWMlhWNml3SUVmM1lZTDgzMU5WV2lHOFRFWTljTFl0cE1XRkVDaVl3?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-11-20T17:00:00+09:00",
+      "category": "자동차",
+      "description": "부품값 줄인상에 국산차 ‘원가 압박’…中 밀어내기까지 ‘이중고’ [비즈360] 헤럴드경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "3150f5ffb47c3d",
+      "title": "위험회피 심리에 환율 상승 마감…장중 1340원 터치 [김혜란의 FX] - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xVFhUSHpTY2ZnNGF5aGxZN0hxbEtMdi1UVW9EWlB1anNRVnFWcjlPVk92bERqUWJKYmFMaDBtZFpqbVphM3liOWllRkQyenllOHfSAVNBVV95cUxQRlFqR29ZdkZBSnVHVWI1Qi1EdUJEMlMzZ0NuNTlRYnItZ2prVVgwV0RmaF9KdTRyMmtMWjNaeGtpNXhUckhRTkJreFNSRlZPMWZYOA?oc=5",
+      "source": "서울경제",
+      "published": "2026-11-20T16:18:39+09:00",
+      "category": "경제·금융",
+      "description": "위험회피 심리에 환율 상승 마감…장중 1340원 터치 [김혜란의 FX] 서울경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "38d817a7c3ce76",
+      "title": "외국인 유학생 30만명 시대…\"핵심은 비자 아닌 단절 없는 경로\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNeTVyUF9GX0QzNnk0OWZqT05vclRpSFV4M1F3cF9PYW1OOWdZLU5vd3lQcEt4MG5aS2lVM1dvZ280NThqRXhaNE9sTjJ1ZFJIbnBMRXQ5a0k2Nzg3LVloa9IBYEFVX3lxTFBNeTVyUF9GX0QzNnk0OWZqT05vclRpSFV4M1F3cF9PYW1OOWdZLU5vd3lQcEt4MG5aS2lVM1dvZ280NThqRXhaNE9sTjJ1ZFJIbnBMRXQ5a0k2Nzg3LVloaw?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-11-20T15:27:12+09:00",
+      "category": "정치·정책",
+      "description": "외국인 유학생 30만명 시대…\"핵심은 비자 아닌 단절 없는 경로\" 연합뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "88e4924367f1e1",
+      "title": "유엔 구금 조사단 방한 앞두고 한국 정부 입장 바꿔 : 정치 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9EYUR5UnhSd005OXFZMUNCMnlocW8tQkpXdm5yM0VBOVRnQ2Z3RGFTaVZfWDg0RXBVVVU4WVM4RXpVbzlRMVpiVXVMQQ?oc=5",
+      "source": "재경일보",
+      "published": "2026-11-20T15:24:08+09:00",
+      "category": "정치·정책",
+      "description": "유엔 구금 조사단 방한 앞두고 한국 정부 입장 바꿔 : 정치 재경일보",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "b1111a7e60986e",
+      "title": "이 정부의 '경제·민생' 정책, 민심은 싸늘 - 평화뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wQXYzZXFJNHl2dEVWSW9QVXE0M2NZYk1leUdUMVFXOThKUTcyOFM2NmhqZ3pBOGhGekg1ZlIydzlTS2RmOExqZE1nek83TUFtNFVYNW1rSjV4T2YtOWRmODFJTEw?oc=5",
+      "source": "평화뉴스",
+      "published": "2026-11-20T15:15:47+09:00",
+      "category": "정치·정책",
+      "description": "이 정부의 '경제·민생' 정책, 민심은 싸늘 평화뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "c4df04c534c9fc",
+      "title": "1조 달러 돌파 순간에도 주인공은 '반도체'... 1분에 42억씩 수출 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zQXhUMndlVk9IQXR6bGRuSUNXLXJRY1pCbGpGcHM3LVdzMEJEcGNTbXAxbVE4SFR3V250T1dZU3E2ZDFZczFtRHVOWWUtbmctQ01oa1ZseGRWbEcxYUwwTnRqNC1aUmhqcGFaTTdB0gFzQVVfeXFMUFEwQl9ZaUEtYzVqRE0wSlVRNjZvUFoxZnlJYkNzSUJ1Q2dVREdiemI0MWVQYnFrMFVFVzdQcFJET1VHamVSNXJ1dEZzdlJpcE56NW9fd3JjdzlrTHFWdWEtV2pSMHB1Vkt0eVNwd1JfZy1Icw?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-20T14:39:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "1조 달러 돌파 순간에도 주인공은 '반도체'... 1분에 42억씩 수출 한국일보",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "a52285c958b355",
+      "title": "수능 전자기기 부정행위 111건…재난문자로 절반 가까이 적발 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKUEJRNzMyOGI1b2dwaEtlV3dMZFJOc2x2Nk8tRG5FYzdXeERLVDEtQk0wWXl0VzFmSGFvUWZ6N203dmFESzAzNG1VQzhIM3RtaWZqZXlVVUptZjVqU24ybkgtWnI?oc=5",
+      "source": "매일일보",
+      "published": "2026-11-20T14:30:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "수능 전자기기 부정행위 111건…재난문자로 절반 가까이 적발 매일일보",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "c269dda9694dfb",
+      "title": "전기차 수출 앞지른 하이브리드...전략적 가치 업↑ - 월요신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HRlZSMnVfUXZMaWNLejlPMjRjdDJiV3NJOWEzXzhIcjBmZFkzLXRtQVdhSW54T0J1TzBJcmdMY3lFbFd3dnRqZ0ZUVnFPXzFRSW40WnUyMVBzbXY1YmItWjFjWHZaUFNJSWc?oc=5",
+      "source": "월요신문",
+      "published": "2026-11-20T13:21:11+09:00",
+      "category": "스크랩 추적",
+      "description": "전기차 수출 앞지른 하이브리드...전략적 가치 업↑ 월요신문",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "전기차 수출량을 하이브리드 차량이 앞지르며 하이브리드 모델의 시장 내 전략적 가치가 상승하고 있습니다. 전동화 전환 과정에서 하이브리드 차량이 중요한 징검다리 역할을 수행하고 있습니다.",
+      "impact": "하이브리드 차량의 수요 증가는 내연기관과 전기차 부품을 혼용하는 CKD 포장 물량 및 부품 공급망 전략에 영향을 줄 수 있으므로, 차종별 생산 믹스 변화를 모니터링할 필요가 있습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "전기차 캐즘 현상과 맞물려 하이브리드 차량의 판매 비중이 급격히 확대되는 추세입니다.",
+        "key_points": [
+          "하이브리드 차량 수출이 전기차 수출 실적을 추월",
+          "자동차 시장 내 하이브리드 모델의 전략적 중요성 재평가"
+        ],
+        "what_to_watch": "하이브리드 차량 생산 확대에 따른 부품 공급망 최적화 및 CKD 물량 변화",
+        "fact_check": "제공된 RSS 정보 외 구체적인 수치나 생산 계획은 확인되지 않음"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "e44e280cd6e20e38",
+      "image_url": "",
+      "persistent_event_id": "78b2dc7eb1da148a"
+    },
+    {
+      "id": "000135118584dc",
+      "title": "뉴욕증시, 앤트로픽 상장에도 일제히 하락…다우 2.19%↓ 5만선 아래로 - 와우넷 오늘장전략 - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aVHg5QmVxMnlzX3NZLXhQTG9yZGdwZDhrdW5qa3lGQng5c1NkNHk3cWQ5dUZ5STlIdGJJVWNwTjVuU1R1SW9tWHNuaFRkVnFrc0hhM2NXeUFsV1hCUWY4aEhybzZhajQ0WU1tdlluWE5XaXVuYVZj?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-20T13:15:58+09:00",
+      "category": "경제·금융",
+      "description": "뉴욕증시, 앤트로픽 상장에도 일제히 하락…다우 2.19%↓ 5만선 아래로 - 와우넷 오늘장전략 한국경제TV",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "f7e2a8f4ec5f6d",
+      "title": "행안부, '대한민국' 국제연합(UN) 전자정부평가 12년 만에 세계 1위 탈환 - 서울포커스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1STG9kLS1DR19Kc3FsdFFjZlp6dklfZFg0dGI4bFBxWkoyMUVkVWwwMl8wRzljNGx2Uy1ybm9EYi1pbG5FRTEzaG1HUlFWeHZkcWJDdGJRTllPVUltU2RkYXNMbUtWUXZQLWFYQQ?oc=5",
+      "source": "서울포커스",
+      "published": "2026-11-20T12:26:01+09:00",
+      "category": "국내 주요 사건",
+      "description": "행안부, '대한민국' 국제연합(UN) 전자정부평가 12년 만에 세계 1위 탈환 서울포커스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "e6df6dbe9aff5d",
+      "title": "[글로벌 진출] 제네시스, G80 하이브리드 세계 최초 공개…북미 HEV 시장 진출 - 코리아포스트 한글판",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TSXhJdFRfRGdsejJmNXJvVG9jaW1kMFlKUTMzc01hREZpbE5aRzdnck0zektiX3dscExZT285UGtLaXNNS1hEeFVmVEJ5OGJfemF6M2pmQjQ2UXZ4Z0lPU0FXMXVJNnZkU0ZmelN3?oc=5",
+      "source": "코리아포스트 한글판",
+      "published": "2026-11-20T12:00:00+09:00",
+      "category": "전동화",
+      "description": "[글로벌 진출] 제네시스, G80 하이브리드 세계 최초 공개…북미 HEV 시장 진출 코리아포스트 한글판",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "e2d9c66b974f2f",
+      "title": "李대통령 지지율 40%로 6주째 횡보…경기 낙관론은 정부 출범 후 최저 [한국갤럽] - 시사저널",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnODJHNFlWeFJrQzg4RkNRWWNtZlVzNk16d0k4UlBySDVwb3F3aEh2blFHSzZySVlOTjVUOGhLNHN4aFBEMnZOelE1LTZ0dENhbnBWOVRXQy1WQzRJYkJKVWQwRnpnMmZzUjlYTU5STdIBc0FVX3lxTE16SWR3UUdsMTRiUWtpQUpCN3FJWjlnbDZweDJEZjlnQzJROHRYMkRTT2ZNZUc3alVqS1dNeUNvLTR2b1FnaVJmODRlUlNiVWVwQjRXSzZKSndaQjNMR1dac2wzQUo0TzdZTndIRE9MR1pzQmc?oc=5",
+      "source": "시사저널",
+      "published": "2026-11-20T11:56:49+09:00",
+      "category": "정치·정책",
+      "description": "李대통령 지지율 40%로 6주째 횡보…경기 낙관론은 정부 출범 후 최저 [한국갤럽] 시사저널",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "61b183ae0bbd42",
+      "title": "정부, 대한민국 수출 1조 달러 돌파 - 글로벌뉴스통신GNA",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wUG1mNHd4QWZ0MVhaeHdPdG5FNlBETXBJQm02empra1owczRVREZjVV8tOUNBQkM1UGdLX0xPN2J4d1E1bjNnSEotal9Ja1BOX0J6OXVVQnlZSGpxVGF6LUdPY01EQ3dhR01pdE1aMUQyRW1o?oc=5",
+      "source": "글로벌뉴스통신GNA",
+      "published": "2026-11-20T11:46:58+09:00",
+      "category": "정치·정책",
+      "description": "정부, 대한민국 수출 1조 달러 돌파 글로벌뉴스통신GNA",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "f7b5d1fc367b12",
+      "title": "역사적인 미·중·러 정상회담의 결과. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNckdST1JxNE9DV0lrbWlCcXZuSGNxeTQtY2x1dzRTcTEtSG5YMzk5MmpsUzU1QldpNnk0VkRteER0Wlc3WWtjQkRWbzhORWRXRklpXzlrS1c0UXlHclJSelM5bHFGT3l4cUhZRzZ4NHpVakN4M25OMnVMVW5nWWxYMFY5aE1SQmhQeVBEYw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-11-20T11:28:14+09:00",
+      "category": "국제·외교",
+      "description": "역사적인 미·중·러 정상회담의 결과. Vietnam.vn",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "1d6036e515f94e",
+      "title": "수능에 나온 '强달러'…환율은 오르고 정답은 '1번' | - 연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jOG9zWk1WVEtLbF9XTUlqRjR2cGowYkpDUnFSWXJMcDFXVXh4VlBITDZwOGVPckhqS1NGUUVGSFNXdVYwNDhBUGNxOTdwb1NwOHF5b2hvdmhEQXFHQ1VGR3Z1dmExcTFiVjIxNjlmZ1hQTGZK?oc=5",
+      "source": "연합인포맥스",
+      "published": "2026-11-20T10:23:11+09:00",
+      "category": "경제·금융",
+      "description": "수능에 나온 '强달러'…환율은 오르고 정답은 '1번' | 연합인포맥스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "e6a5f191e57ceb",
+      "title": "한국국가전략연구원 논문 공모전 최우수상에 박성범 씨 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BanIwZExTNjFvRHBIQjZaYWNPMmpGb2NuNVBsa0J3WTFmcW85ZHozLUwyWk04OVY5bHVHdHRkeENKanFMQXlhaHRycEFXMVRNY0MzMl8yVnN6S2lj?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-11-20T10:21:00+09:00",
+      "category": "정치·정책",
+      "description": "한국국가전략연구원 논문 공모전 최우수상에 박성범 씨 뉴스핌",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "138d81334da391",
+      "title": "1300원대 중반에 멈춘 원/달러 환율…증시발 달러 수요 2배 급증이 하락 막아 - 내외뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2d0VCSW40bGJ0SmdRcVpuZFBZUHFBT3Jaa2NCMTUtU0l1UFpacmlNTnVCa1o4VVdCWnhUUXJXd1Z2VU1pTElhRFRiTTBoM0Y4bzZFR2puV21kUUk5WjdKMjhQYUFiMVRFd1RSWtIBcEFVX3lxTFBrMERQZmdTYlJWb3FvRlh1b3BzY0J0dWpTYWdFbzJFXzlQa1BOYmtTQTh4TG5VVnBpQ2J6djVzcWJOdEJLTmVPY1VxakwwSjVZQ2ZPMzJ3RXg4TmQzTGZucVFLTjZReXVtcjlCLXQ5R1I?oc=5",
+      "source": "내외뉴스통신",
+      "published": "2026-11-20T09:57:34+09:00",
+      "category": "경제·금융",
+      "description": "1300원대 중반에 멈춘 원/달러 환율…증시발 달러 수요 2배 급증이 하락 막아 내외뉴스통신",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "df3ad2f3fc97a8",
+      "title": "미세 전자기계 센서 시장 2035년 전망: 자동차 안전과 전동화가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLWwzazJFOUE4eWlCaGNQT29wM2JVZlZjNFZuMDRXZkpCQ2dmRWlOazB6UTBQSVFpUTZtak9pMWZjMHRhT2JLYWxoLWdyZmFKaFVIUDdBbEVtZEJJbDlFbjM5UlQ5VU44U2RPWThmUXk4ZFBJcGctTVV1RmJ1UTlIRXNsQklMSmV0cVdBQWJfbGxaend2dXEzQ2Q3VzN5QmtGOFpHVFNxUXpFMDJOV2s3aFpJdmp4LW9qSE5VTVZKQWNiYlpQd3QzMUNoalAzOEU2RmpIU1ZGU3owN3c?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-20T09:16:05+09:00",
+      "category": "자동차",
+      "description": "미세 전자기계 센서 시장 2035년 전망: 자동차 안전과 전동화가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "72fae2026c0083",
+      "title": "[환율 전망] 쟁여두기엔 너무 많은 달러 - KB Think",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMlpLT1BTYkpZRU1hc004WTZsZUJZSVZkUmlCTHBlRXk1b3l1dGNqNDRtX3JOelFTQ0lnUkNMYkJfSEZLajhpOTFoMmZybm1LVXNiVGg0U3lFWEkzLUtFOQ?oc=5",
+      "source": "KB Think",
+      "published": "2026-11-20T08:06:44+09:00",
+      "category": "경제·금융",
+      "description": "[환율 전망] 쟁여두기엔 너무 많은 달러 KB Think",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "915f6be5ef3bd7",
+      "title": "[오늘의 주요일정] 정치·정부 (20일, 금) - Queen 이코노미퀸",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jekpadVdoZG03Y0lpZ0JSaDZGR1ozSjdvTXExajVhWkY2bWp2TEg4cktiZkhPTzdWd2hMbXU4TVFRNlNtNllMZXhyOFZvLUozZk1SUGlETUtxZno5LXlJeUszQlJkMEhBWkE?oc=5",
+      "source": "Queen 이코노미퀸",
+      "published": "2026-11-20T06:50:44+09:00",
+      "category": "정치·정책",
+      "description": "[오늘의 주요일정] 정치·정부 (20일, 금) Queen 이코노미퀸",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "ebdcbd89c132e0",
+      "title": "2035년 탄소 섬유 원사 시장 전망: 풍력·항공우주 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWnpxRjkzX3NYcDdxMkhfVVRlblFacGc5UUE1a2V2YXJVUXhJX2NxTWJjWDVIdm9GdjhXamlOaGNKV1hCNHVkNENQT3dLTVgtUVItODlBaUhTZW8zTTJ6Zmg2RVgzQk5oMFIzU1lISjVhbGFCaGhWNHRZdW1mQXVLTENVUDhJNnlGMWJFZTZmb1pxMXY2dnF6STAxVlh6aEUyYlV0cUJOLW5TVkN3R1RtaXMzN1dpanVS?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-20T00:41:05+09:00",
+      "category": "자동차",
+      "description": "2035년 탄소 섬유 원사 시장 전망: 풍력·항공우주 수요가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "27ee54848753e0",
+      "title": "2035년 무크롬 무두질제 시장 전망: 자동차 업계 지속가능성 요구가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb1JLelFOVzF5Vkk2Wkpyd0wyZloxNF80WXlsdWFqU3JMb3kwalQxdUlGX0pwZjR6VS1pSTFwdnZSa09wWEVob1pLMGJEQ3JJZkFNalJxSVBDaWdsNVZDN0V2dGVVZEZ2cTV0LTJTcC1hLUk1cDVsbnFJMlJBSlQySnB0RGZVVVVoLWNMa0E2a0RrOUJIaHB6YjFsa1FIVm1Oc09hbjNod3FaSy1fY05GRlVId3lNNGhrWE55Z3F6QXlyNjZYdXBxaWVtUkc?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-20T00:36:06+09:00",
+      "category": "자동차",
+      "description": "2035년 무크롬 무두질제 시장 전망: 자동차 업계 지속가능성 요구가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "29ce0cb0185154",
+      "title": "정부 수능 대응 논란 속 李대통령 지지율 40% 횡보세 - 헤럴드경제 미주판",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByb1dDRjhZd1hzR2p2cUdJWjdUWHh2Z2pteFpEeUluTXY1Q3FpTkVPQUtNSllEQ3FlZlg2cU5ZTFQybVRuUkRKV1QzWFJrSDYzNldpd3JUb2xNSTM3LW55ZA?oc=5",
+      "source": "헤럴드경제 미주판",
+      "published": "2026-11-19T18:00:00+09:00",
+      "category": "정치·정책",
+      "description": "정부 수능 대응 논란 속 李대통령 지지율 40% 횡보세 헤럴드경제 미주판",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "d0ccaa41089179",
+      "title": "“10년간 11배 수익”…39년 베테랑 펀드매니저의 성장株 투자법 [한국의 위대한 투자자] - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52MVV0N1lBQWdhMlJNaTJoZDM2cjhNdVJNTmM1c0d5OGZQYU5mclI4NTAtQWZvejgzYy1ZQk1Pb1hfdzFDWERETUZxS2oxU1ZzQXc?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-11-19T17:44:15+09:00",
+      "category": "경제·금융",
+      "description": "“10년간 11배 수익”…39년 베테랑 펀드매니저의 성장株 투자법 [한국의 위대한 투자자] 매일경제 마켓",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "75b737974b0a4a",
+      "title": "환율 10% 하락의 경제학…가계 생활비 줄고 내수기업 수익성 개선 - 조세금융신문",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WT29DZUd6V0lmMEh5ZTlBaUlVdnRnaUJrVkxFS1ZnZjJZOXZweXZFY2JlYTdmd2l1Mk1EOS04YTFYbkVob3E5dUZ3ZUdTN1NYMEs0enFacmlyY2dBTW9KX0ZHdw?oc=5",
+      "source": "조세금융신문",
+      "published": "2026-11-19T14:44:35+09:00",
+      "category": "경제·금융",
+      "description": "환율 10% 하락의 경제학…가계 생활비 줄고 내수기업 수익성 개선 조세금융신문",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "b2dc176176ddf1",
+      "title": "포스코그룹, CATL과 3년간 리튬 공급계약…중국 배터리 시장 공략 강화 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rc25DQUFoNlZhNXp0Q0RjaUxSYkU0Q2lmZGNzSkZZTU1WQzdfVmJjNTRsVHY2bDdGdkQzYVBHVlVIdG9zMW5Neg?oc=5",
+      "source": "브레이크뉴스",
+      "published": "2026-11-19T10:35:13+09:00",
+      "category": "전동화",
+      "description": "포스코그룹, CATL과 3년간 리튬 공급계약…중국 배터리 시장 공략 강화 브레이크뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "fe1d7bfb72af54",
+      "title": "[국제금융리포트] 美 금리인상 가능성에 달러 강세…금융시장 불확실성 확대 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuV0phVzU4MENWemRqMlAxN05qQXdoSkZsaHBMSWVKaElYRDRQVmdmMHVKalFLd0I5dl9keERBVkpSY0ZpbnRJREUwSXJFWUNJMUtEOEZ4dFPSAVhBVV95cUxQbldKYVc1ODBDVnpkajJQMTdOakF3aEpGbGhwTEllSmhJWEQ0UFZnZjB1SmpRS3dCOXZfZHhEQVZKUmNGaW50SURFMElyRVlDSTFLRDhGeHRT?oc=5",
+      "source": "아주경제",
+      "published": "2026-11-19T08:47:12+09:00",
+      "category": "경제·금융",
+      "description": "[국제금융리포트] 美 금리인상 가능성에 달러 강세…금융시장 불확실성 확대 아주경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "f2247642aa6e5f",
+      "title": "[2027 투자전략] ① 세계경제 떠받친 AI 투자 둔화…경기침체 뇌관 되나 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hWnFHV0lUVTlpOXE4eWJOOTlGRDB2WlphTy13NTh4bko1Q2VEeUVfa0d6MF9FOGdkdmZKTVhDQU1fejBTQ1Q4OElpUU01MDhIUy0zSlZDUDRTNXRX?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-11-19T06:00:00+09:00",
+      "category": "경제·금융",
+      "description": "[2027 투자전략] ① 세계경제 떠받친 AI 투자 둔화…경기침체 뇌관 되나 뉴스핌",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "a11ed7334b0fee",
+      "title": "현대차·SK온 미국 배터리 합작사, 조지아 공급망 가동... 2027년 완전 상업화 로드맵 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTG43RV9WWmI2cE9xbXpHMk9LTVYwMV8wZ2tCa1JvdmEybjl4Y1ZGenJIZkg2ckpTNmJ1NDdMQm42MUNxRXlDRXBZblU4bkhreEJLR3ZfcXYwRnNKZWd1eld6Umxram5hTnZWYnEwRmZHQVhWaUk0SnNzdVBUSlZZdzR5aUxNR3VE?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-11-19T05:42:53+09:00",
+      "category": "자동차",
+      "description": "현대차·SK온 미국 배터리 합작사, 조지아 공급망 가동... 2027년 완전 상업화 로드맵 글로벌이코노믹",
+      "priority_markets": [
+        "미국"
+      ],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n008",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대차와 SK온의 미국 배터리 합작사가 조지아주 공급망 가동을 시작하며 2027년 완전 상업화를 목표로 로드맵을 구체화했습니다.",
+      "impact": "미국 현지 배터리 공급망 구축은 현대차의 북미 생산 거점 전동화 전략의 핵심이며, 향후 현지 생산 차종의 부품 조달 구조 변화를 유발할 것입니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차그룹의 북미 전동화 전환을 위한 핵심 배터리 공급망 확보 전략.",
+        "key_points": [
+          "현대차-SK온 합작사 조지아 공급망 가동",
+          "2027년 완전 상업화 목표 로드맵 수립"
+        ],
+        "what_to_watch": "조지아 공장의 가동률 추이 및 현대차 북미 공장으로의 배터리 공급 안정성",
+        "fact_check": "2027년 상업화 로드맵은 이번 보도를 통해 확인된 새로운 사실임"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "8f0658414685f814",
+      "image_url": "",
+      "persistent_event_id": "04ceb00775ddaccb"
+    },
+    {
+      "id": "253e47254fe40c",
+      "title": "현대차 인도 1000만대 시대 초읽기…성장 공식은 ‘현지화’, 다음 승부는 ‘수출’ - 쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmcHhNNl9RdTVjLXIwT09CZ1Y4NDRlR1JLYkctYloxeXQtdkNCZkNCYkNpTFg1S1VKb2tTenNUZ1dnR3F0azZ0TlBLT3RWQ0hvSEtmRGZwZzBmUksxNmtRQVZpbw?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-11-19T01:07:15+09:00",
+      "category": "자동차",
+      "description": "현대차 인도 1000만대 시대 초읽기…성장 공식은 ‘현지화’, 다음 승부는 ‘수출’ 쿠키뉴스",
+      "priority_markets": [
+        "인도"
+      ],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "bbdbf9470ede0b",
+      "title": "2035년 자동차용 소결 브레이크 패드 시장: 전기차 열부하가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOakFNZTMwbWhuX1AzSVpUbHFtOWN2dnB2UVJBMlo0S1hNOFVpY2JaeDRyZ3RCUWEzRTFBbXluWWN5LVJWWHdNVnVyOXMzSHE0d2xtYmh5Q1NjREJmZ2p0c19OdVBaM2FHazNqUjdBRDlwdkZNUEVyYWlxNlJhaFFSS2J6Y3JrMVA2aEtTQzBYZDZuTVQ3QjBxVGpRQjFZWC1jYkNhUzhNb1UyM2VnOFlnMmdfVnV5R2dNZlFCT0V4NGtlbmppR1ozWWZoX2M?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-18T21:31:04+09:00",
+      "category": "자동차",
+      "description": "2035년 자동차용 소결 브레이크 패드 시장: 전기차 열부하가 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "1e320e522c140c",
+      "title": "2035년 플라스틱 연료 탱크 시장 전망: 자동차 경량화와 애프터마켓 수요가 성장 견인 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMWloYnZhaHNXeGhGVEVjdzRFbWRGeF9GTFdEWHNXcGttazg3YmlBcVZDLUpoTjFZbEVTc2ROX1NUOHBPa1FaVFgyVW5IMkk5aUJmaElqaXlWbXBWXzQ0Y01yb0t4QkpqaTdJX2RxSEY4TktoMmY3aFR3SEtYN3FsNmZodFpyOFBfbUw0eExURmRfUThWaVFod19aWnVSeU5sOGM3VmcwVWxoU0V0eEVleEFLVGtEcjEzYnBZUVpQLTVBVWljMUkyV2N1ZzItdk5ueUUw?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-18T21:16:05+09:00",
+      "category": "자동차",
+      "description": "2035년 플라스틱 연료 탱크 시장 전망: 자동차 경량화와 애프터마켓 수요가 성장 견인 IndexBox",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "c56309ff9675d3",
+      "title": "2035년 컬러 콘센트레이트 시장 전망: 포장재·자동차 수요가 성장 견인 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdzhLWEViamxpMC1MZF9ZSVU0ZV9hZ2VNLWpKc3JudTVJZ05jems1U2JVUGkxMVRHakxFZkxENW5INW0ycXhlYzhTZThUOXhjbFQ5dW8yYWVRek9GRVoyZlRLM0Z1ODd3Rkx2NlBWcTlpOFlZd1B2eFZQY0dWaTE5V0Z5RWVlS181bG1NMzVXYlVtbS1NSXAxQTNrc2dBOWw2V1ZybmFwUDRzNXpBMDNWTkJnNXFfa2dJSlpLUg?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-18T20:36:05+09:00",
+      "category": "자동차",
+      "description": "2035년 컬러 콘센트레이트 시장 전망: 포장재·자동차 수요가 성장 견인 IndexBox",
       "priority_markets": [],
       "source_link_status": "rss_only"
     }
