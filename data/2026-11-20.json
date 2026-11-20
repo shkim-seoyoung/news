@@ -1,9 +1,44 @@
 {
   "date": "2026-11-20",
-  "updated_at": "2026-11-20T08:00:40.870977+09:00",
-  "article_count": 2,
+  "updated_at": "2026-11-20T11:44:50.938546+09:00",
+  "article_count": 4,
   "ai_enabled": true,
   "articles": [
+    {
+      "id": "18fd85a645a78c",
+      "title": "현대모비스, 전동화·자율주행·로보틱스가 성장 기회…미래 경쟁력 높인다 - 증권일보",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OdnkzeEk3UzN3eUZEWG5zVjAzOGdjeE8xTWl1U1dJcFB1MVdqdjFYd2hMTUU4THdOVkFqa3IzM0dZbHNfZVczV0xvWGdfLXRrdTcxYlBRTFVzdE9pN2FnQQ?oc=5",
+      "source": "증권일보",
+      "published": "2026-11-20T09:15:00+09:00",
+      "category": "자동차",
+      "description": "현대모비스, 전동화·자율주행·로보틱스가 성장 기회…미래 경쟁력 높인다 증권일보",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대모비스가 전동화, 자율주행, 로보틱스를 핵심 성장 동력으로 삼아 미래 경쟁력을 강화하겠다는 전략을 밝혔습니다. 해당 분야에 대한 지속적인 투자를 통해 글로벌 시장에서의 입지를 다질 계획입니다.",
+      "impact": "전동화 및 자율주행 기술 고도화는 향후 현대모비스의 CKD 부품 포트폴리오 변화와 연관될 수 있으나, 현재 구체적인 공급 품목이나 물량 변화에 대한 근거는 없습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대모비스의 미래 모빌리티 전환 전략",
+        "key_points": [
+          "전동화, 자율주행, 로보틱스를 3대 성장 기회로 선정",
+          "미래 경쟁력 확보를 위한 기술 투자 지속"
+        ],
+        "what_to_watch": "각 부문별 구체적인 기술 상용화 및 수주 실적",
+        "fact_check": "원문 발췌 없음"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "cb777af2e0efc8bc",
+      "image_url": "",
+      "persistent_event_id": "380517001a9ad345"
+    },
     {
       "id": "a0fabb6a06f0d7",
       "title": "[미·중·러 첫 3자 정상회담] 핵 군축·우크라 종전 논의, 강대국 외교 새 국면 맞나 - 코리아포스트 한글판",
@@ -15,7 +50,7 @@
       "priority_markets": [],
       "source_link_status": "rss_only",
       "section": "일반 뉴스",
-      "event_cluster": "batch0-n001",
+      "event_cluster": "batch0-n002",
       "related_articles": [
         {
           "title": "APEC｜미·중·러 ‘평화 선언’…전쟁은 빠지고 푸틴의 면책은 담겼다 - OBC 뉴스",
@@ -83,7 +118,7 @@
       ],
       "source_link_status": "rss_only",
       "section": "산업·업무",
-      "event_cluster": "batch0-n002",
+      "event_cluster": "batch0-n003",
       "related_articles": [
         {
           "title": "\"가동률까지 줄었다\"...현대차, 국내에 이어 해외 공장도 가동률 80% 추락 - 오토버프",
@@ -129,6 +164,43 @@
       "integration_signature": "767efbd711adaad2",
       "image_url": "",
       "persistent_event_id": "6ab8306b8e21cb0e"
+    },
+    {
+      "id": "31db64bac3a68d",
+      "title": "‘현대차 29년 대관통’ 품은 BMW, 인도 전기차 현지화 속도 낸다 - 한국신용신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lRWpQUlp6cW84Rm1HdlV4UDdCTG1IQTVrcG4yMS1LYmNST0Q3YWJfWEhCRVV2eEp4ckhWYktKdW5zaE1QdGE2RU1rZFZxRmE4ZXNsTDMyNEFKaER0dHNIZ05UVENCWE1sOE5z?oc=5",
+      "source": "한국신용신문",
+      "published": "2026-11-18T12:00:00+09:00",
+      "category": "자동차",
+      "description": "‘현대차 29년 대관통’ 품은 BMW, 인도 전기차 현지화 속도 낸다 한국신용신문",
+      "priority_markets": [
+        "인도"
+      ],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n011",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "BMW가 인도 시장에서 전기차 현지화에 속도를 내고 있습니다. 현대차의 인도 시장 전략과 더불어 글로벌 완성차 업체들의 인도 내 생산 거점 경쟁이 치열해지고 있습니다.",
+      "impact": "글로벌 완성차 업체의 인도 현지화 가속은 인도 내 자동차 부품 공급망 및 물류 환경 변화를 야기할 수 있는 산업 동향입니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "인도 자동차 시장의 글로벌 생산 거점화",
+        "key_points": [
+          "BMW의 인도 전기차 현지화 전략",
+          "글로벌 완성차 업체의 인도 시장 투자 확대"
+        ],
+        "what_to_watch": "인도 내 전기차 생산 인프라 구축 현황",
+        "fact_check": "원문 발췌 없음"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "2f107bcfed13876d",
+      "image_url": "",
+      "persistent_event_id": "d6b060c0a81dbbb5"
     }
   ]
 }
