@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-22",
+  "updated_at": "2026-11-22T10:46:43.300025+09:00",
+  "article_count": 3,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "8334ccfc589fdd",
+      "title": "한국 투자자, 9월 미 국채 1977년 집계 이후 최대 순매수...7월 국내 증시 급락 영향 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc2tuakhrZXNWbnlwOWdabzVCQ2lwRml2UkppVnVhY1VLMDgzNkh5cm1Wa3otdWxycGJqckkyb1pTUlIwSUpHS01YSGRyekVJanFvV2lpUnVyRHF0NktaV2RzNTJHUXotRFBpU2w1R3dkbFZRYnZKNGZMNk5MejZPY2dWY2ozUElkZ2ln?oc=5",
+      "source": "조선일보",
+      "published": "2026-11-22T10:33:00+09:00",
+      "category": "경제·금융",
+      "description": "한국 투자자, 9월 미 국채 1977년 집계 이후 최대 순매수...7월 국내 증시 급락 영향 조선일보",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n001",
+      "related_articles": [
+        {
+          "title": "환율｜코스피 폭락 이어 환율 1,346원 급등…AI 투매에 금융시장 요동 - OBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nVFJGV0FoS0FycUlUbXFFUmNOUjlPbnI2dEZNR1ZkOU1yS1AyVDQ5dks4VklMMU5mamlNbFJSSkRNRWc5aWtaS2JYTHMwaDRLUXllZVVRcGJwSEpjcWQyQjkwbHF2MG9tTnc?oc=5",
+          "source": "OBC 뉴스",
+          "published": "2026-11-21T09:25:54+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "국내 증시 급락과 금융시장 변동성 확대가 지속되는 가운데, 한국 투자자들이 9월 미 국채를 1977년 집계 이후 최대 규모로 순매수한 것으로 나타났습니다. 이는 7월 국내 증시 급락에 따른 자산 배분 전략 변화와 안전자산 선호 심리가 반영된 결과로 풀이됩니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "국내 증시의 불안정한 흐름과 AI 관련주 투매 현상이 금융시장 전반의 투자 심리를 위축시키고 있습니다.",
+        "key_points": [
+          "한국 투자자 9월 미 국채 순매수 역대 최대 기록",
+          "7월 국내 증시 급락이 투자자들의 안전자산 선호로 이어짐",
+          "코스피 폭락 및 원/달러 환율 급등세 지속"
+        ],
+        "what_to_watch": "국내 증시 안정화 여부 및 환율 변동에 따른 기업 경영 환경 변화",
+        "fact_check": "미 국채 순매수 데이터는 조선일보 보도에 근거함"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "f508177546c79986",
+      "image_url": "",
+      "persistent_event_id": "15da58680dc13930"
+    },
+    {
+      "id": "d84956614482cc",
+      "title": "배터리는 세금 깎아주고 전기차는 제외…국내 생산·일자리 못 지켜 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ybjZSMVhRV0Zac1NmLTBHMUc1enVzRnBVX1NwaGN4VHJzLWpWdmRybnNYWWJ3VUhFWjU2ZE11RUg3d3lZVkF5dXFBMlRzeHVEQ3VVWkF1OVVMQQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published": "2026-11-22T07:00:43+09:00",
+      "category": "자동차",
+      "description": "배터리는 세금 깎아주고 전기차는 제외…국내 생산·일자리 못 지켜 파이낸셜뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "배터리 산업에 대한 세제 혜택과 달리 전기차 생산은 지원 대상에서 제외되면서 국내 생산 기반과 일자리 유지가 어렵다는 우려가 제기되었습니다.",
+      "impact": "국내 전기차 생산 정책의 변화는 향후 완성차 업체의 국내 투자 및 부품 공급망 전략에 영향을 미칠 수 있는 산업 동향입니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "정부의 산업 지원 정책이 배터리 분야에 집중되면서 전기차 제조 분야의 상대적 소외론이 대두됨.",
+        "key_points": [
+          "배터리 세제 혜택 대비 전기차 생산 지원 부족",
+          "국내 생산 기반 약화 및 일자리 감소 우려"
+        ],
+        "what_to_watch": "향후 전기차 생산 관련 정부의 추가 지원 정책 여부",
+        "fact_check": "파이낸셜뉴스 보도에 기반한 산업계의 비판적 시각임"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "0708800217beea7c",
+      "image_url": "",
+      "persistent_event_id": "919e608249a6db71"
+    },
+    {
+      "id": "a1edd2ca604071",
+      "title": "현대차·SK온 美 배터리 JV ‘HSBMA’로 확정…IRA 대응 공급망 본격 가동 - 쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KSUYzV1FmRXBJeVhXWlNsa3E4OGhfUEJHLXZGd245Nm42bFRzRFNjckpvQkhZeF9Yd1RLOXJFdTZpNDlNdHlnQTF2dVVMNnVEU0xPYTJ1UDFFYVZ0UXZaenFpMA?oc=5",
+      "source": "쿠키뉴스",
+      "published": "2026-11-22T00:51:31+09:00",
+      "category": "자동차",
+      "description": "현대차·SK온 美 배터리 JV ‘HSBMA’로 확정…IRA 대응 공급망 본격 가동 쿠키뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n003",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대차와 SK온의 미국 배터리 합작법인(JV) 사명이 'HSBMA'로 확정되었습니다. 이번 합작을 통해 양사는 미국 인플레이션 감축법(IRA)에 대응하는 공급망을 본격적으로 가동할 계획입니다.",
+      "impact": "현대차의 미국 현지 전기차 생산 체계 강화에 따른 배터리 공급망 안정화 및 관련 부품 물류 전략 수립의 기초 자료가 됩니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차그룹과 SK온은 미국 내 전기차 시장 공략을 위해 배터리 합작 공장을 추진해 왔음.",
+        "key_points": [
+          "합작법인 사명 'HSBMA' 확정",
+          "IRA 대응을 위한 미국 내 공급망 본격 가동"
+        ],
+        "what_to_watch": "합작 공장의 가동 시점 및 생산 능력 확대 계획",
+        "fact_check": "쿠키뉴스 보도에 근거함"
+      },
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "40c028e81c580548",
+      "image_url": "",
+      "persistent_event_id": "099c8ff697b3e1c8"
+    }
+  ]
+}
