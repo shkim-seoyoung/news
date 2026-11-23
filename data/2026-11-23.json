@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-23",
+  "updated_at": "2026-11-23T11:04:06.821445+09:00",
+  "article_count": 4,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "ded12d3b82ab60",
+      "title": "[ANDA 칼럼] 전기차 공장 그다음은…신차도 한국에서 만들려면 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVSk1VV09WUEJLLUo2RzN6eTRPRlo5S25zQnpTaW0wTzZrMWQ4X2ZoVThPM1hjQU9DYzNPUzRVUzlULXgwZ2w5d0dwN1ZvWWd0SkU3aWh0QnA3Y3ox?oc=5",
+      "source": "뉴스핌",
+      "published": "2026-11-23T10:01:00+09:00",
+      "category": "자동차",
+      "description": "[ANDA 칼럼] 전기차 공장 그다음은…신차도 한국에서 만들려면 뉴스핌",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n001",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "국내 전기차 생산 경쟁력 강화를 위해 생산 시설 확충뿐만 아니라 신차 개발 및 생산 전략의 국내 유지 필요성을 제기하는 칼럼입니다. 고비용 구조와 노사 관계 등 국내 생산의 제약 요인을 극복하기 위한 정책적 지원과 기업의 노력이 강조되고 있습니다.",
+      "impact": "국내 자동차 산업의 생산 거점 유지 및 고도화 전략에 관한 논의로, 향후 국내 생산 물량 및 부품 공급망 전략에 간접적인 영향을 미칠 수 있는 산업 동향입니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "전기차 전환기 속 국내 생산 시설의 공동화 우려와 신차 생산 거점 확보를 위한 논의.",
+        "key_points": [
+          "전기차 공장 신설을 넘어 신차 생산의 국내 유치 필요성",
+          "국내 생산 경쟁력 확보를 위한 비용 구조 및 노사 관계 개선 과제"
+        ],
+        "what_to_watch": "국내 완성차 업체의 신차 생산 거점 결정 및 관련 정책 변화",
+        "fact_check": "원문 발췌 없음"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "0ce8e4bbef44f2dd",
+      "image_url": "",
+      "persistent_event_id": "c5508d01c73f9f10"
+    },
+    {
+      "id": "ac0e534c615230",
+      "title": "현대모비스, 2034년까지 유럽·북미 완성차에 1조 원 제동·조향 부품 수주 배경 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZktWV0Z2V1NNX2xFUmRrMFhpUDROaU1nSGctbUdBcjhWOGRPQ3hNN05DX0I2UlQzZTkwS3VvWkh4a29tTGFZNE5ZZEMwcFFYcmZvSm10UzMxcDhLRXBJNU9pLWhxa19XZW96ZFQwaDhRUFZ2Tm01N3pORjZVSnU4UWZLMkJuZ1oz?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-11-23T05:08:09+09:00",
+      "category": "자동차",
+      "description": "현대모비스, 2034년까지 유럽·북미 완성차에 1조 원 제동·조향 부품 수주 배경 글로벌이코노믹",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n002",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대모비스가 유럽과 북미 완성차 업체로부터 2034년까지 약 1조 원 규모의 제동 및 조향 부품을 수주한 배경을 분석한 기사입니다. 전동화 및 자율주행 기술 고도화에 따른 핵심 부품의 글로벌 경쟁력 강화가 주요 요인으로 언급됩니다.",
+      "impact": "현대모비스의 글로벌 수주 확대는 핵심 부품의 해외 공급망 강화와 직결되며, 향후 관련 부품의 수출 물량 및 물류 수요 변화를 모니터링할 필요가 있습니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "글로벌 완성차 업체의 전동화 전환에 따른 현대모비스의 핵심 부품 수주 확대.",
+        "key_points": [
+          "2034년까지 유럽·북미 대상 1조 원 규모 수주",
+          "제동 및 조향 부품의 기술 경쟁력 확보가 수주 배경"
+        ],
+        "what_to_watch": "추가적인 글로벌 수주 소식 및 해당 지역 물류 공급망 최적화 여부",
+        "fact_check": "원문 발췌 없음"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "792ed9c8f5b9a19c",
+      "image_url": "",
+      "persistent_event_id": "23e67b7fd01a4fdf"
+    },
+    {
+      "id": "f5c59ac0f05e9d",
+      "title": "[사설] 증시 급락에 증안펀드 준비…단계별 위기 대응 빈틈 없어야 - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YeTBVT3gyZmEtRHZLVVh1bWx2eFRnekcteVNLNml4c1Y3V3dzVk5BV1BEc0NLcXFLb0lmcS1TZTJOcGt6Qlh3V2llVXhSVjBST1HSAVNBVV95cUxNc2lCaEVaM3NBZzNoYWprYlZiQ2prdG1PRHdUa0dWSXRZWktrNUNUVThMRV8zNkRwRjNFc0FhNV9UYzZYTjVBakdmZ3hmLUNxX3dOcw?oc=5",
+      "source": "서울경제",
+      "published": "2026-11-23T00:00:00+09:00",
+      "category": "경제·금융",
+      "description": "[사설] 증시 급락에 증안펀드 준비…단계별 위기 대응 빈틈 없어야 서울경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "일반 뉴스",
+      "event_cluster": "batch0-n003",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "최근 증시 급락에 대응하여 증권시장안정펀드(증안펀드) 가동 준비 등 단계별 위기 대응 체계를 점검해야 한다는 사설입니다. 금융 시장의 불안정이 실물 경제 및 기업 투자 심리에 미칠 영향을 경계하고 있습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "증시 급락에 따른 시장 안정화 조치 필요성 대두.",
+        "key_points": [
+          "증안펀드 가동 준비 등 단계별 대응 체계 점검",
+          "금융 시장 불안정이 실물 경제에 미치는 파급 효과 경계"
+        ],
+        "what_to_watch": "정부의 시장 안정화 조치 및 금융 시장 추이",
+        "fact_check": "원문 발췌 없음"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a0dfc177cfddc595",
+      "image_url": "",
+      "persistent_event_id": "9289fb09ade628e3"
+    },
+    {
+      "id": "9776d740ca5130",
+      "title": "對중국 자동차 무역적자 '역대 최대' 42.3억달러…'中생산' 테슬라 영향 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX3haVWw4dTVVc0hfNDBzRTlRWEFtb1RMZ2syM3BQQVR0NnUxY0JfWmY2dlNfUjV1bjV0OFJDSHhDUGtySU90ZklfeGJ5aFQ5NW9QNnoyemljcUtGZHN5RkRLUnFVTW1NTFFhcWVWY0VaZ1hxdzlXZFVZT0dCOWdWQjRR?oc=5",
+      "source": "아시아경제",
+      "published": "2026-11-22T15:21:00+09:00",
+      "category": "자동차",
+      "description": "對중국 자동차 무역적자 '역대 최대' 42.3억달러…'中생산' 테슬라 영향 아시아경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "event_cluster": "batch0-n004",
+      "related_articles": [
+        {
+          "title": "테슬라 돌풍에 對중국 자동차 무역적자 6조원 역대 최대(종합) - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vaG16Y0M5T2FDQUxzdF9pcDFJcHZXNTllbHlvNWM3U2ZHT0ZleVQyOGY4SF9JYVQyU1hWUndUWXRyTG9VNDhCNVhia0I3X013Nk1ETDNuYndfakpUcHhjUtIBYEFVX3lxTE9vaG16Y0M5T2FDQUxzdF9pcDFJcHZXNTllbHlvNWM3U2ZHT0ZleVQyOGY4SF9JYVQyU1hWUndUWXRyTG9VNDhCNVhia0I3X013Nk1ETDNuYndfakpUcHhjUg?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-11-22T13:01:47+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "대중국 자동차 무역적자가 42.3억 달러(약 6조 원)로 역대 최대치를 기록했습니다. 이는 중국에서 생산된 테슬라 차량의 국내 수입 급증이 주요 원인으로 분석됩니다.",
+      "impact": "중국산 수입 전기차의 비중 확대는 국내 자동차 시장의 경쟁 구도 변화를 의미하며, 향후 수입 물류 및 국내 부품 생태계에 미칠 영향을 검토할 필요가 있습니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "중국 생산 테슬라 모델의 국내 판매 증가에 따른 무역 수지 악화.",
+        "key_points": [
+          "대중국 자동차 무역적자 역대 최대 42.3억 달러 기록",
+          "중국 생산 테슬라 차량의 국내 수입 증가가 핵심 원인"
+        ],
+        "what_to_watch": "중국산 수입 전기차의 국내 시장 점유율 추이 및 관련 무역 정책",
+        "fact_check": "원문 발췌 없음"
+      },
+      "new_information": "",
+      "source_comparison": "아시아경제와 연합뉴스 모두 대중국 자동차 무역적자 규모를 42.3억 달러 및 6조 원으로 동일하게 보도함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "2cf275741e6eb238",
+      "image_url": "",
+      "persistent_event_id": "13ba493ce0302df8"
+    }
+  ]
+}
