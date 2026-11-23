@@ -644,7 +644,80 @@ def ai_event_clusters(articles):
     return groups
 
 
-def choose_for_day(articles, existing, work_limit=None, general_limit=None, event_clusters=None, interest_keywords=None):
+
+def ai_candidate_assessment(articles):
+    """Judge the whole candidate pool before hard-coded keyword gates or ranking.
+
+    The RSS query/category is discovery metadata, never an editorial decision.
+    If the model is unavailable, use conservative local eligibility instead.
+    """
+    key = os.environ.get('GEMINI_API_KEY', '').strip()
+    if not key:
+        print('Editorial candidate assessment unavailable: no Gemini key')
+        return {}
+    endpoint = ('https://generativelanguage.googleapis.com/v1beta/models/' +
+                os.environ.get('GEMINI_MODEL', 'gemini-3.1-flash-lite') + ':generateContent')
+    decisions = {}
+    # Assess all unique, recent titles, not only those allowed by classify().
+    for offset in range(0, len(articles), 35):
+        batch = articles[offset:offset+35]
+        payload = [{'id':a['id'], 'title':a.get('title',''),
+                    'description':a.get('description','')[:280],
+                    'published':a.get('published','')[:10]} for a in batch]
+        prompt = (
+            '당신은 팀 공용 DAILY BRIEFING의 뉴스 편집장이다. 제목과 RSS 발췌만 보고 '
+            '기사별 적합성을 독립적으로 평가한다. 검색어와 기존 category는 신뢰하지 않는다. '
+            '업무: 자동차 산업의 실제 생산/투자/신차/현지화/부품 공급 변화, CKD 수출포장, '
+            '관련 항만·운송·통관 변화. 담당 지역(인도·미국·멕시코·브라질·중국)의 '
+            '현대차·기아·현대모비스 생산·공급 변화는 특히 중요하다. '
+            '일반: 국내외 정치·경제·사회·국제사건 중 당일 주요 뉴스. '
+            '개별 소재의 2035년 시장 전망, SEO형 산업 보고서, 단순 주가 시황, 광고·홍보, '
+            '의미 없는 전망과 오래된 정보는 낮은 점수로 제외한다. '
+            '자동차라는 단어만으로 업무 뉴스를 만들지 않는다. '
+            '자동차 관련 제목이 아니어도 실제 공급·항만 운영 영향은 업무가 될 수 있다. '
+            'section은 산업·업무 / 일반 뉴스 / 제외 중 하나. '
+            'score는 0~100 정수이며 75 이상은 당일 핵심 뉴스, 55~74는 후보, '
+            '54 이하는 배제한다. 확인할 근거가 부족하면 낮게 평가한다. '
+            '모든 id를 반환하라. JSON {"articles":[{"id":"...","section":"산업·업무",'
+            '"score":80}]}만 출력. 입력: ' + json.dumps(payload,ensure_ascii=False))
+        try:
+            r=requests.post(endpoint,headers={'x-goog-api-key':key,'Content-Type':'application/json'},
+                json={'contents':[{'parts':[{'text':prompt}]}],
+                      'generationConfig':{'responseMimeType':'application/json','temperature':0}},timeout=110)
+            r.raise_for_status()
+            rows=json.loads(r.json()['candidates'][0]['content']['parts'][0]['text']).get('articles',[])
+            valid={a['id'] for a in batch}
+            parsed={}
+            for x in rows:
+                if not isinstance(x,dict) or x.get('id') not in valid:continue
+                if x.get('section') not in ('산업·업무','일반 뉴스','제외'):continue
+                try:score=int(x.get('score',0))
+                except (ValueError,TypeError):continue
+                parsed[x['id']]={'section':x['section'],'score':max(0,min(100,score))}
+            if len(parsed)<len(batch)*0.85:
+                raise ValueError('incomplete editorial assessment')
+            decisions.update(parsed)
+        except Exception as exc:
+            print('Editorial assessment failed for batch',offset, str(exc)[:160])
+    print('Editorial candidate assessment:',len(decisions),'of',len(articles))
+    return decisions
+
+
+def candidate_section(a, decisions):
+    d=decisions.get(a.get('id'))
+    if d:
+        if d['section']=='제외' or d['score']<55:return None
+        return d['section']
+    return classify(a)
+
+
+def selection_rank(a, decisions):
+    d=decisions.get(a.get('id'))
+    if d:return d['score']
+    # Missing model results must not outrank editorially assessed candidates.
+    return min(54, max(0,editorial_score(a)))
+
+def choose_for_day(articles, existing, work_limit=7, general_limit=3, event_clusters=None, interest_keywords=None, decisions=None):
     """Select issue representatives; retain up to three source links per issue.
 
     Group source articles before selecting a representative; retain links to
@@ -656,6 +729,7 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None, even
             by_id.setdefault(a['id'], dict(a))
 
     groups = {}
+    decisions = decisions or {}
     event_clusters = event_clusters or {}
     source_pool = list(by_id.values())
     # Filter before ranking so older archived items cannot consume daily slots.
@@ -667,7 +741,7 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None, even
                 continue
         except (ValueError, KeyError, TypeError):
             continue
-        section = classify(a)
+        section = candidate_section(a, decisions)
         if section is None:
             continue
         # A single event may arrive through different RSS categories.
@@ -675,12 +749,13 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None, even
         anchor = event_anchor(a)
         group_section = '산업·업무' if anchor and anchor.startswith('mobis-') else section
         cluster = event_clusters.get(a.get('id'))
-        groups.setdefault(('산업·업무' if cluster else group_section, 'ai:'+cluster if cluster else topic_key(a)), []).append(a)
+        groups.setdefault((group_section, 'ai:'+cluster if cluster else topic_key(a)), []).append(a)
 
     ranked_groups = []
     for (section, _), members in merge_same_day_groups(groups):
-        if any(classify(m)=='산업·업무' for m in members):section='산업·업무'
-        elif any(classify(m)=='일반 뉴스' for m in members):section='일반 뉴스'
+        sections=[candidate_section(m,decisions) for m in members]
+        if sections.count('산업·업무') > sections.count('일반 뉴스'):section='산업·업무'
+        elif sections.count('일반 뉴스'):section='일반 뉴스'
         # Multiple Google News URLs can point to the exact same published
         # story. Keep one per normalized publisher+headline before grouping.
         unique_members = {}
@@ -703,7 +778,7 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None, even
                     continue
             except (KeyError, ValueError, TypeError):
                 continue
-            if classify(candidate) != section or not same_day_issue(candidate, members[0]):
+            if candidate_section(candidate, decisions) != section or not same_day_issue(candidate, members[0]):
                 continue
             members.append(candidate)
         members.sort(key=lambda a: (representative_score(a), a.get('published', '')), reverse=True)
@@ -718,6 +793,7 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None, even
             continue
         representative = dict(recent_members[0])
         representative['section'] = section
+        representative['editorial_score_ai'] = max(selection_rank(m,decisions) for m in members)
         representative['event_cluster'] = event_clusters.get(representative.get('id'),'')
         relation_member=next((m for m in members if m.get('scrap_relation')),None)
         if relation_member:representative['scrap_relation']=relation_member['scrap_relation']
@@ -730,9 +806,9 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None, even
         representative['related_articles'] = [
             {'title': a.get('title', ''), 'url': a.get('url', ''),
              'source': a.get('source', ''), 'published': a.get('published', '')}
-            for a in members[:30] if a.get('url') and a.get('id') != representative.get('id')
+            for a in members[:30] if a.get('url') and a.get('id') != representative.get('id') and a.get('url') != representative.get('url')
         ]
-        ranked_groups.append((editorial_score(representative), interest_bonus(representative, interest_keywords or []), representative_score(representative), representative))
+        ranked_groups.append((representative['editorial_score_ai'], interest_bonus(representative, interest_keywords or []), representative_score(representative), representative))
 
     ranked_groups.sort(key=lambda x: (x[0], x[1], x[2], x[3].get('published', '')), reverse=True)
     chosen, counts = [], {'산업·업무': 0, '일반 뉴스': 0}
@@ -741,9 +817,11 @@ def choose_for_day(articles, existing, work_limit=None, general_limit=None, even
         limit = work_limit if section == '산업·업무' else general_limit
         if limit is not None and counts[section] >= limit:
             continue
+        if len(chosen) >= 10:
+            break
         chosen.append(a)
         counts[section] += 1
-    return sorted(chosen, key=lambda a: a.get('published', ''), reverse=True)
+    return chosen
 
 def recent_history(days=14):
     """Read previous published digests for actual cross-day event comparison."""
@@ -1252,10 +1330,12 @@ def main():
     for candidate in all_saved.values():
         try:
             if NOW-datetime.timedelta(hours=48) <= datetime.datetime.fromisoformat(candidate['published']) <= NOW:
-                if classify(candidate):recent_candidates.append(candidate)
+                recent_candidates.append(candidate)
         except (KeyError,ValueError,TypeError):pass
-    clusters=ai_event_clusters(recent_candidates)
-    chosen = choose_for_day([], list(all_saved.values()), event_clusters=clusters, interest_keywords=shared_keywords())
+    decisions=ai_candidate_assessment(recent_candidates)
+    editorial_candidates=[a for a in recent_candidates if candidate_section(a,decisions)]
+    clusters=ai_event_clusters(editorial_candidates)
+    chosen = choose_for_day([], list(all_saved.values()), event_clusters=clusters, interest_keywords=shared_keywords(), decisions=decisions)
     print('Collection audit: fetched=',len(articles),'archive=',len(all_saved),
           'recent_classified=',len(recent_candidates),'clustered=',len(clusters),
           'event_candidates=',len(chosen),'logistics_candidates=',
@@ -1270,9 +1350,9 @@ def main():
     # Strict publication window: never revive old stories just because today's
     # digest contained them. Same-issue follow-ups are reviewed separately.
     chosen = [a for a in chosen if in_window(a)]
-    if not chosen and recent_candidates:
+    if not chosen and editorial_candidates:
         print('AUDIT: first selection empty; retrying recent candidates without selection ranking')
-        chosen = [a for a in recent_candidates if in_window(a) and not irrelevant_work_article(a)][:25]
+        chosen = [a for a in editorial_candidates if in_window(a) and not irrelevant_work_article(a)][:10]
 
     # Enrich selected articles before AI analysis, without blocking publication on failure.
     attach_publisher_urls(chosen, limit=60)
@@ -1364,7 +1444,7 @@ def main():
     # This also collapses legacy cached summaries from earlier buggy runs.
     grouped={}
     for a in merged:
-        k=('산업·업무' if a.get('event_cluster') else a.get('section'), 'ai:'+a['event_cluster'] if a.get('event_cluster') else topic_key(a))
+        k=(a.get('section'), 'ai:'+a['event_cluster'] if a.get('event_cluster') else topic_key(a))
         prev=grouped.get(k)
         if prev is None:
             grouped[k]=a
@@ -1394,7 +1474,8 @@ def main():
         final_events.append(a)
     merged=final_events
     ledger.save()
-    merged.sort(key=lambda a:a.get('published',''), reverse=True)
+    merged.sort(key=lambda a:(a.get('editorial_score_ai',0),a.get('published','')), reverse=True)
+    merged=merged[:10]
     new_items = [a for a in chosen if a['id'] not in old_map]
     # Retain newly completed summaries even if the public selection changes later.
     for a in merged:
