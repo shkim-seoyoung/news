@@ -1,0 +1,369 @@
+{
+  "date": "2026-11-24",
+  "updated_at": "2026-11-24T14:34:36.129163+09:00",
+  "article_count": 8,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "e00e3292322f59",
+      "title": "현대차, '수출'에서 '현지 완결형'으로…생산·부품·제품 동시 재편 - 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnTkZXbExlMHM3SGZYZkdVWmd6T3VNX0Z2YUVXU1liSzhaZ29CVEVaOEMxdW4waXZramI3QnJhY2ZzTFNTNTZYWXhuSUxvZTFGZVNOQVo2dklmYXZZMnZfSFh3MjRNcXVtR25idlBn?oc=5",
+      "source": "폴리뉴스 Polinews",
+      "published": "2026-11-23T18:08:15+09:00",
+      "category": "자동차",
+      "description": "현대차, '수출'에서 '현지 완결형'으로…생산·부품·제품 동시 재편 폴리뉴스 Polinews",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 95,
+      "event_cluster": "batch0-n012",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대자동차가 기존의 수출 중심 전략에서 현지 완결형 생산 체제로 전환을 가속화합니다. 생산, 부품 공급망, 제품 전략을 동시에 재편하여 글로벌 시장 대응력을 높이려는 의도입니다.",
+      "impact": "현지 완결형 생산 체제 확대는 CKD 수출 물량의 구조적 변화를 야기할 수 있으며, 현지 부품 조달 비중 확대에 따른 공급망 관리가 중요해질 전망입니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "글로벌 보호무역주의 강화 및 시장별 맞춤형 전략 필요성 증대.",
+        "key_points": [
+          "수출 중심에서 현지 완결형 생산으로 전환",
+          "생산·부품·제품 전략 동시 재편",
+          "글로벌 시장 대응력 강화"
+        ],
+        "what_to_watch": "주요 거점별 현지화율 변화 및 CKD 물량의 장기적 추이.",
+        "fact_check": "현대차의 현지 완결형 전략 구체적 로드맵 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "5e3f6f0838af56d1",
+      "image_url": "",
+      "persistent_event_id": "86b7129a6abe085f"
+    },
+    {
+      "id": "8eacc8e1a9e6d9",
+      "title": "제네시스, 미국 앨라배마 조립 3년 만에 접고 한국 울산 생산 통합 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0k3aXJVemtaMnYxbkk1eDlOYWwwaFB4Tm50NXFUMVJkdTdEY1FDT0dzMS1POGdLY1lnZ3VtenJUbmR5TEhVUFFlajBEU25ScUE3cXU4V0UwTzFrRUlTdFBvanEzbmNnSW9MLTNTOU55X1JHQXBQT3MtTlI4RjhxRkk3dUFVNUFx?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-11-23T03:30:00+09:00",
+      "category": "자동차",
+      "description": "제네시스, 미국 앨라배마 조립 3년 만에 접고 한국 울산 생산 통합 글로벌이코노믹",
+      "priority_markets": [
+        "미국"
+      ],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 95,
+      "event_cluster": "batch0-n024",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "제네시스가 미국 앨라배마 공장에서 진행하던 조립 생산을 3년 만에 중단하고, 생산 거점을 한국 울산 공장으로 통합하기로 결정했습니다. 이는 글로벌 생산 효율화 및 현지화 전략 재편의 일환으로 풀이됩니다.",
+      "impact": "미국 현지 조립 물량이 국내 울산으로 이전됨에 따라 국내 생산 물량 및 수출 물류 계획에 변화가 예상됩니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "제네시스의 글로벌 생산 전략 변화 및 미국 현지 생산 효율성 검토 결과.",
+        "key_points": [
+          "미국 앨라배마 조립 생산 3년 만에 종료",
+          "생산 거점 울산으로 통합",
+          "글로벌 생산 전략 재편"
+        ],
+        "what_to_watch": "울산 공장으로의 물량 이전 시점 및 국내 생산 라인 가동률 변화.",
+        "fact_check": "제네시스 미국 생산 중단 및 울산 통합 사실 여부 확인 필요."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a3fa4e6617c48663",
+      "image_url": "",
+      "persistent_event_id": "9408fa817739a1d3"
+    },
+    {
+      "id": "fb351da47d41f5",
+      "title": "[단독] 현대모비스, 램프 매각에 노르웨이 큰손 반대 깃발…주식매수청구 가능성 촉각 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BcXI4MDE1ckVfNHcxa0lralZiSFFkVzgtVEh4NlVXVlA2QkFTR1pmc2d6Yk1sMjBHaG9acENxRWl6dy1ZTFlVbmVJSWJPMDQ3VTZ3WTJsMFIyZ9IBWEFVX3lxTE5IajByM1I2NkRKNmx1OVRYNjk1aVF1RjR2WEJGRzlCUnh6WjRkX0pVTk5Yc3NzWHhJM1BWMndmX3dYQUU2R2JIQXE4SGhSYVdFMDlTOVdzRms?oc=5",
+      "source": "아주경제",
+      "published": "2026-11-23T18:00:00+09:00",
+      "category": "자동차",
+      "description": "[단독] 현대모비스, 램프 매각에 노르웨이 큰손 반대 깃발…주식매수청구 가능성 촉각 아주경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 90,
+      "event_cluster": "batch0-n003",
+      "related_articles": [
+        {
+          "title": "현대모비스 램프 사업 분할안 주총 통과…전동화·로봇에 집중 - 스마트투데이",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sRnQtakZnS3JTNTNsanlPbFpvN0xvajlqTXlFSXpGTFJhQlV6bnp2dmlad1NkWkFVQmw5dmxPSldYVS00V0o3Q3JmdTUxMmd0OWRqbFZ3RnJQdkpEYjRn?oc=5",
+          "source": "스마트투데이",
+          "published": "2026-11-24T10:49:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 램프사업 매각 탄력…로봇·전장에 집중 속도 - 헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPeEJ6bHM0WWtTTVY2Zk5Wc1FSRHRVRVNRQWtCYUdLYW1IZ0F0YWRBWU5yOS1YcmQ5VTBFUVpfUWxZSldHS0pTUkY3ZkZJSnkybTJaUHBR?oc=5",
+          "source": "헤럴드경제",
+          "published": "2026-11-24T13:28:55+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "현대모비스의 램프 사업부 분할 및 매각 안건이 주주총회를 통과했습니다. 다만, 노르웨이 국부펀드 등 일부 주주가 반대 의사를 표명하며 주식매수청구권 행사 가능성이 제기되고 있습니다.",
+      "impact": "램프 사업 매각을 통해 확보된 자금은 전동화 및 로봇 등 미래 모빌리티 분야에 집중 투자될 예정입니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대모비스의 사업 구조 개편 및 미래 핵심 사업 집중 전략.",
+        "key_points": [
+          "램프 사업 분할안 주총 통과",
+          "일부 주주 반대 및 주식매수청구권 행사 가능성",
+          "전동화·로봇 사업 집중 투자 계획"
+        ],
+        "what_to_watch": "주식매수청구권 행사 규모 및 매각 절차의 최종 완료 시점.",
+        "fact_check": "주주총회 결과 및 반대 주주들의 구체적 대응 동향."
+      },
+      "new_information": "",
+      "source_comparison": "일부 매체는 매각 탄력을 강조하는 반면, 주주 반대 및 주식매수청구권 가능성을 언급하며 리스크 요인을 부각함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "34aa631238ecf83a",
+      "image_url": "",
+      "persistent_event_id": "9fcb61d0a7098780"
+    },
+    {
+      "id": "3ebc3c9872f209",
+      "title": "“한국엔 관세 15% 안 넘긴다더니”…美, 디지털 정책 겨냥 301조 조사 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN1NHcnNnbVpzYkFEdnU3UmhDMjhLdHJVdEtmSjFUd20zVERiWkpacG9RNFMxVk5xSUZsY1RrZEJ6bVRCOHdwS0Zzcm8wWVBlZ1E?oc=5",
+      "source": "매일경제",
+      "published": "2026-11-23T21:57:50+09:00",
+      "category": "정치·정책",
+      "description": "“한국엔 관세 15% 안 넘긴다더니”…美, 디지털 정책 겨냥 301조 조사 매일경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 85,
+      "event_cluster": "batch0-n002",
+      "related_articles": [
+        {
+          "title": "\"美, 유럽·한국 디지털규제 301조 조사 검토\"…추가 관세 압박 우려 - 한국일보",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IalZqUVdCdG1nZG5PQzBRc0pUWGFHQlI3TDdabkplNkdBT3JvdU1PWVE4Q2FYc0dfQ2JQRXUwTnpIaWd1TlRpQ3lQYXFvQnhWZS1VVEhzWlhnbG01WV9WUV9CcmlUYnlkUmtzVFpB0gFzQVVfeXFMUENkUXU2cmtwVDZmZHpodG5leTluM0dxZ20wOWFtTmZCT1I0V1VldE5DNFFUbzF1SzJUNG42aVc0SnhDbTZwN3BDX0FWdWdVUWRNX0FlT1VFUFlJRGpIeXNOSjBkZWwyeVhodWZLZWdzQm04RQ?oc=5",
+          "source": "한국일보",
+          "published": "2026-11-24T14:09:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "\"트럼프 행정부, 한국·EU·호주 디지털 규제 301조 조사 검토\" - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zV3BqMXdZM1ZSNm5GVE91UEJDa2dmT3JKa3hmNUQyckc3QS14YS1rYVlVWVg0cWZOUHpURlpldjdfLVJ5bjd6TGtVWng3c2tYSGREU0RxUDlCTVluUmNTeNIBYEFVX3lxTE1zV3BqMXdZM1ZSNm5GVE91UEJDa2dmT3JKa3hmNUQyckc3QS14YS1rYVlVWVg0cWZOUHpURlpldjdfLVJ5bjd6TGtVWng3c2tYSGREU0RxUDlCTVluUmNTeA?oc=5",
+          "source": "연합뉴스",
+          "published": "2026-11-23T23:40:11+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "트럼프 행정부가 한국, 유럽연합(EU), 호주 등의 디지털 규제 정책을 겨냥해 무역법 301조에 따른 조사 착수를 검토하고 있습니다. 이는 디지털 서비스세 등 자국 기업에 불리한 규제에 대한 보복 관세 압박의 일환으로 해석됩니다.",
+      "impact": "디지털 통상 규제 강화는 글로벌 IT 및 플랫폼 기업의 비용 상승과 무역 갈등을 유발할 수 있어 관련 산업의 대외 리스크 관리가 필요합니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "미국 무역법 301조를 활용한 디지털 통상 압박 기조",
+        "key_points": [
+          "미국, 한국·EU·호주 디지털 규제 대상 301조 조사 검토",
+          "디지털 서비스세 등 자국 기업 차별 규제 대응 목적",
+          "추가 관세 부과 가능성에 따른 통상 마찰 우려"
+        ],
+        "what_to_watch": "미국 정부의 공식 조사 개시 여부 및 대상 국가별 대응",
+        "fact_check": "조사 검토 단계이며 실제 관세 부과 여부는 미정"
+      },
+      "new_information": "",
+      "source_comparison": "매일경제는 관세 15% 언급 등 구체적 수치를 거론했으나, 연합뉴스는 조사 검토 대상 국가에 호주를 포함하여 보도함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "d809881ec22699b6",
+      "image_url": "",
+      "persistent_event_id": "4e756d9c5f5fa262"
+    },
+    {
+      "id": "a892fa822f832a",
+      "title": "한국 중국 일본 하이브리드차 미국·유럽 시장 공략 본격화, 현지화로 글로벌 생산거점 재편 활발해져 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kNTRZeHBLU2hKTlVMcUVwYzhyNnhFUEVLYnBncExKM2pUZlh2UGlkZ0RQQVdQQzg4cFBUdzUwdXFCUGRpOXJ5bk1mZUtDdXUybklyNTA0ajFBSWNiaG1RcFFmX1ViOVh5VHZKanBidDRGWEk?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-11-23T15:26:12+09:00",
+      "category": "자동차",
+      "description": "한국 중국 일본 하이브리드차 미국·유럽 시장 공략 본격화, 현지화로 글로벌 생산거점 재편 활발해져 비즈니스포스트",
+      "priority_markets": [
+        "미국"
+      ],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 85,
+      "event_cluster": "batch0-n014",
+      "related_articles": [
+        {
+          "title": "[현대차그룹 비전 2030㊤] 하이브리드·전기차 투트랙으로 글로벌 968만대 겨냥 - 포인트데일리",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51VTlnQWlkeW15MG5OMjNKUHZNbWM1eHRLZjVfdG9LUDFMM01EZEp6NDRxbUozVVczRU5nVjhMbkktVjU3dGdSYkRNa2d1RFRNdkZQeVNyd3VjelBoUHBsX3VaNlAwMWg2VXVxLWJaT1_SAXRBVV95cUxPNUs2eUpzYnpnQ2JjZmtkMTdHdmF6dGdaZkplaFQ0ek9pNTVLS24wSHVMTEZFQXpWaTh0MWVnSHdUbV9hQzMtRmNSRThhREd5NGVNcGtfRTJ3MmRUcG1ZTDFFRU5OMVJiNjR2X3QwWmRTdkVRTQ?oc=5",
+          "source": "포인트데일리",
+          "published": "2026-11-23T16:37:04+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "한·중·일 자동차 기업들이 미국과 유럽 시장을 겨냥해 하이브리드차 공략을 본격화하고 있습니다. 이를 위해 글로벌 생산 거점을 현지화 중심으로 재편하는 움직임이 활발합니다.",
+      "impact": "하이브리드차 수요 증가에 따른 생산 거점 재편은 부품 공급망의 변화를 수반하며, 글로벌 생산 전략의 유연성이 중요해지고 있습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "전기차 캐즘 현상에 따른 하이브리드차의 전략적 중요성 부각.",
+        "key_points": [
+          "한·중·일 하이브리드차 글로벌 시장 공략 본격화",
+          "현지 생산 거점 재편 가속화",
+          "현대차그룹 비전 2030 하이브리드·전기차 투트랙 전략"
+        ],
+        "what_to_watch": "주요 시장별 하이브리드차 판매 비중 및 현지 생산 물량 확대 여부.",
+        "fact_check": "글로벌 하이브리드차 시장 점유율 및 생산 거점 재편 현황."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "a84469de488efa51",
+      "image_url": "",
+      "persistent_event_id": "64f448828656aac6"
+    },
+    {
+      "id": "9772bfa666f9dc",
+      "title": "[메가분석] 현대제철, 8조 규모 美 제철소 핵심설비 유럽서 조달…국내 협력사 몫은? - 메가경제",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtVU9GeGhZNkRNS2ZMN1dNWFV2TDFxTnYyTDN5TVBiZEh3VTBFSE9NSlFBMXBpRUNEMUtkMklRQS10SXNHY1lGcFowamtCZHNqZjVDUkpOLUoyTEw4UWpSMXhTTFpVcXBSa0pYY0duem4xZ9IBckFVX3lxTFBtVU9GeGhZNkRNS2ZMN1dNWFV2TDFxTnYyTDN5TVBiZEh3VTBFSE9NSlFBMXBpRUNEMUtkMklRQS10SXNHY1lGcFowamtCZHNqZjVDUkpOLUoyTEw4UWpSMXhTTFpVcXBSa0pYY0duem4xZw?oc=5",
+      "source": "메가경제",
+      "published": "2026-11-23T10:40:48+09:00",
+      "category": "CKD·물류",
+      "description": "[메가분석] 현대제철, 8조 규모 美 제철소 핵심설비 유럽서 조달…국내 협력사 몫은? 메가경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 85,
+      "event_cluster": "batch0-n020",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대제철이 추진 중인 8조 원 규모의 미국 제철소 건설 프로젝트에서 핵심 설비가 유럽 업체로부터 조달될 가능성이 제기되었습니다. 이에 따라 국내 협력사들의 참여 범위와 수혜 규모에 대한 업계의 관심이 집중되고 있습니다.",
+      "impact": "국내 철강 및 설비 관련 협력사의 해외 프로젝트 참여 기회와 공급망 변화를 모니터링할 필요가 있습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대제철의 대규모 미국 현지 투자 계획에 따른 공급망 구성 단계",
+        "key_points": [
+          "8조 원 규모의 미국 제철소 투자 추진",
+          "핵심 설비 조달처로 유럽 업체 유력 검토",
+          "국내 협력사의 참여 비중 및 영향 분석 필요"
+        ],
+        "what_to_watch": "국내 협력사의 실제 수주 물량 및 현지화 전략",
+        "fact_check": "원문 발췌가 없어 설비 조달처 및 협력사 참여 비중은 추정치임"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "0f707edeef0a1957",
+      "image_url": "",
+      "persistent_event_id": "365919f5e13087c6"
+    },
+    {
+      "id": "6e7556d6b26c16",
+      "title": "골드만삭스 \"한국, 내년 3.2% 성장 전망…기준금리 상단 3.5%\" - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4walpMbWZxR1pjeFllRURDcGxTOHJQaVRVbEUyVFNvbEVpYWdqcEFsUHg4N3dvaXU1eXZQOGNfeHRNemlkNTQ0T2UybUN5SXNpNVE?oc=5",
+      "source": "매일경제 마켓",
+      "published": "2026-11-24T14:04:27+09:00",
+      "category": "경제·금융",
+      "description": "골드만삭스 \"한국, 내년 3.2% 성장 전망…기준금리 상단 3.5%\" 매일경제 마켓",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "일반 뉴스",
+      "editorial_score_ai": 60,
+      "event_cluster": "batch0-n001",
+      "related_articles": [
+        {
+          "title": "골드만삭스 韓 내년 3.2% 성장…반도체 호황에도 내수 온기 제한 - 아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZmlIODdBMnpJVm5YcWJMLUhERUdUbnVWRVVxNXE3UWd1RXpHQ0RDWC1VTmx5RmhicjJkdGZlMW5mRHVXelh2QTJhdExwRVZRd2tSMVZxdV83QdIBWEFVX3lxTE0yTmFVZHZSWXlXTlNIeHNKWDJ2bGNULThaVEI2Wk5TVTZuOTZKQ1BzNFhSc0IxWHFJZFRlMkhiM25kQlJZWlVJcGllOWNLRUdfSE9GcXhDR3E?oc=5",
+          "source": "아주경제",
+          "published": "2026-11-24T14:12:58+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "골드만삭스 \"韓 물가 안정에 금리 인상보다 환율 안정 효과적\" - 블루밍비트",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PUlotVGJ1NTdBdTVCbS1pZ3NMRWJFb1lNY2pjUXVqQm5rMXNZWXotY182UVFxUER2X3dsM3lsNWFVU1c4N2t0U2hmZ3NmWWZH?oc=5",
+          "source": "블루밍비트",
+          "published": "2026-11-24T14:02:36+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "골드만삭스가 한국의 내년 경제성장률을 3.2%로 전망하며, 물가 안정을 위해 금리 인상보다는 환율 안정이 더 효과적일 수 있다는 분석을 내놓았습니다. 반도체 호황에도 불구하고 내수 회복은 제한적일 것으로 평가했습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "글로벌 투자은행의 한국 경제 전망 및 통화 정책 제언",
+        "key_points": [
+          "내년 한국 경제성장률 3.2% 전망",
+          "반도체 호황 대비 내수 온기 제한적",
+          "금리 인상보다 환율 안정화가 물가 관리에 효과적"
+        ],
+        "what_to_watch": "환율 변동성 및 한국은행의 통화 정책 기조",
+        "fact_check": "골드만삭스의 경제 전망 보고서 내용임"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "11fd2d6ca556e524",
+      "image_url": "",
+      "persistent_event_id": "64a8705be849b202"
+    },
+    {
+      "id": "0ae071c23786c4",
+      "title": "한은 다시 긴축 나서나…채권시장 전문가 54% \"11월 기준금리 인상\" - www.ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hMW4tMGlJWndncjdzXzlOdTlBZVY4YVZwZ19SVkppWWVSeUNTSFBzZHFzcGRHVUMweUdQdlV4X28ydGtlYTBRU1YyYXdzam04Y2l4MlVGQWx1eFNTWFF1YzR0WXRTRG9E?oc=5",
+      "source": "www.ebn.co.kr",
+      "published": "2026-11-24T13:19:39+09:00",
+      "category": "경제·금융",
+      "description": "한은 다시 긴축 나서나…채권시장 전문가 54% \"11월 기준금리 인상\" www.ebn.co.kr",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "일반 뉴스",
+      "editorial_score_ai": 60,
+      "event_cluster": "batch0-n004",
+      "related_articles": [
+        {
+          "title": "PCE 물가, 금통위에 주목해야 할 한 주 - KB Think",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjUlZWdUp5V21EM29ZRGc2Q1k1VWJQaXRfU25uMWphQ2NobzIyUHBTOW9YaDdQdVppR01DMDNablJTa1FoOGFROHRFN2hUZjNITFFZVFVLQnZ1b1YxblJ1RFFENHVyZw?oc=5",
+          "source": "KB Think",
+          "published": "2026-11-24T09:51:53+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "채권시장 전문가들 사이에서 한국은행의 11월 기준금리 인상 가능성이 54%로 점쳐지며 긴축 기조 재개 여부에 관심이 쏠리고 있습니다. 시장은 PCE 물가 지표와 금통위의 결정을 주요 변수로 주시하고 있습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "국내외 물가 지표 및 통화 정책 방향성 논의",
+        "key_points": [
+          "채권시장 전문가 54%가 11월 금리 인상 전망",
+          "PCE 물가 지표가 금통위 결정에 미칠 영향 주목",
+          "긴축 기조 재개 여부에 대한 시장의 불확실성 존재"
+        ],
+        "what_to_watch": "11월 한국은행 금융통화위원회 결정",
+        "fact_check": "전문가 설문 기반의 전망치임"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "03923e583c7ca34c",
+      "image_url": "",
+      "persistent_event_id": "86e6e81ffa0abc1a"
+    }
+  ]
+}
