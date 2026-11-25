@@ -2,8 +2,6 @@
 name: CKD News Auto Collect
 
 on:
-  schedule:
-    - cron: '47 21,2 * * *'
   workflow_dispatch:
 
 permissions:
