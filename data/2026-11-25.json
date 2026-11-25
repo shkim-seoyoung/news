@@ -1,0 +1,360 @@
+{
+  "date": "2026-11-25",
+  "updated_at": "2026-11-25T13:36:59.618243+09:00",
+  "article_count": 7,
+  "ai_enabled": true,
+  "articles": [
+    {
+      "id": "eca49a4e85c5a9",
+      "title": "현대모비스, 유럽·북미서 부품 1조 수주…올해 20조원 전망 - 중앙일보",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ud0huQkJtdHFhOTFDRTJ6elhHNmdoUGxBTm5xTmR4cFVsYjFHalZUSGpzcC1uREt6Yi1fcnlJRy1lY0J2Z25TYjBvcEo4dVdfd0ljUDNB?oc=5",
+      "source": "중앙일보",
+      "published": "2026-11-25T11:22:05+09:00",
+      "category": "자동차",
+      "description": "현대모비스, 유럽·북미서 부품 1조 수주…올해 20조원 전망 중앙일보",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 85,
+      "event_cluster": "batch0-n001",
+      "related_articles": [
+        {
+          "title": "현대모비스, 현대차·기아 밖으로…그룹 외 수주 20조원 전망 - www.ebn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85ak5uMWxtcl9HX01hSEtHSFQ5RVBtRTFUcF9rbDYxcHByVmFfM3drUzd3TS14c09nSDJkSXE3M2hpSC1FOVVTaGdsN1hJWXdPOFJOMWpuY2NSZmFDcXZJUnBRR2RweGF4?oc=5",
+          "source": "www.ebn.co.kr",
+          "published": "2026-11-25T11:00:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 유럽·북미서 1조원 따냈다… 올해 해외 수주 20조원 전망 - 조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblRsXzBYLVREVTBWbXQwUGJpSmg3MFdjX1lBYnlySUFxWDhKUGhjcUFZZ2FJYk1ST2dsWWxucENrbXhBdVo3RkUtZ2c2VnZOaHAyU2tVNXlVTkR0dndWc0FvMU0ybTBNNEhLLU55d2V0dW4xQ3NkZ0QxZWtrd01PUVVSUWJpeG1LVGlXMW1rMA?oc=5",
+          "source": "조선일보",
+          "published": "2026-11-25T11:45:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 올해 해외수주 20조원 전망…연간 목표 초과 달성 - 디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aa0J2TUxPak4zbkNOMzZ1RXprZ0d2RFZvaWdmSGdtUW8wVmIydDlSX1VsTDZTTUxCUzZOSkNKXzdzN2dOUjVpck9iU1VvcWVWX2RlSHJWaUNmcHZHUjNKaWpGUzQ?oc=5",
+          "source": "디지털데일리",
+          "published": "2026-11-25T11:25:19+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 유럽·북미서 잇단 대형 계약…해외 수주 20조원 눈앞 - 데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOdFgxNklxaTRBcS0zdlRBQlI5aFUwcm90czNNZUpxWVc1NHVRSnF2WTVKblNxc3VsLWdlN3pfQnFtaHRnX29rb0t4NXVZUGpLN1E4UV9tRTB3S0xta28yV2JlcG5TTmxIU3VZcWozQklvcGoyMjN4S0FLbXhEZFNvLWpWTWZxSEJDSy15aXFSaWpYWlp6TGV4ZXRLTWFFVWEycWtaRjBBOTRLakNtamFPMFpuZ2VwbEszcDluUDFGTURJZHBDSllqVmZiS2dVano5dXpXaXpQVXVLQU9DX3NYOHN0OWtpSE4zLWtnT1JRall0aGZsZUh6UmJOV1Zic0pDYkpIM3NnblpnZnV5NUg0aG1zR3B3TzZnTTRsLW1SQWwxbm8?oc=5",
+          "source": "데일리안",
+          "published": "2026-11-25T11:00:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 올해 해외수주 20조원 눈앞…목표치 23% 초과 - 뉴스토마토",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VRlpVMG1TZk16RW9rVnZkUzd5NDR3VnlGV0dWTnFxd2pXNS1GT19EdkNMY3dMbVFlRnJlZ254OUVOU3h4aUFYaGdRUFpyQ2FvVGFoUjJFWmV5eGUwRVJjWg?oc=5",
+          "source": "뉴스토마토",
+          "published": "2026-11-25T11:00:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 글로벌 완성차 대상 대규모 해외수주 ‘봇물’ 터졌다! | 뉴스 | 현대자동차그룹 - Hyundai Motor Group",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSS1zUktueGZrMTIzdWpQbGVfd2ZrdVM0MWJBVjFOTTdZVnNaWGc5c25GTnZDVUNZNnRxaEhEUS1aclB6NXRaWU40SWgtQjRQdFR1RlRiX3V5V3JkSXlZXy1YMGR5blF0aVFTdUl3Vl84NV92TklXMUFrdzlXSDFWOC1SaFBpTTBjQllKclNCVkJaY0w3QkJJZkJn?oc=5",
+          "source": "Hyundai Motor Group",
+          "published": "2026-11-25T11:26:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "现代摩比斯获得约7.43亿美元欧美订单 - 汽车之家",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2LXA5bWg5UThFbE5WbFUwM1VmeXotSmp5MGk3T1RIN1NndlFqSl8tcFhFWWpSWnNxU2wtdk50Q2R3eTE2VjFtSzRlLWxqR0d1ZE9VUmRRNjFTSE0?oc=5",
+          "source": "汽车之家",
+          "published": "2026-11-24T16:14:21+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "현대모비스가 유럽과 북미 지역 완성차 업체로부터 약 1조 원 규모의 부품 수주를 달성했습니다. 이를 통해 올해 해외 수주 목표를 초과 달성하며 연간 20조 원 규모의 수주 실적을 기록할 것으로 전망됩니다.",
+      "impact": "현대모비스의 글로벌 고객사 다변화가 가속화되고 있으며, 이는 향후 CKD 물량 및 해외 생산 거점의 포트폴리오 안정성에 긍정적인 영향을 미칠 것으로 분석됩니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대모비스는 현대차·기아 의존도를 낮추고 글로벌 완성차 업체로의 수주 확대를 추진 중임.",
+        "key_points": [
+          "유럽·북미 지역에서 약 1조 원 규모 부품 수주 성공",
+          "올해 해외 수주 20조 원 달성 전망",
+          "연간 수주 목표치 초과 달성"
+        ],
+        "what_to_watch": "글로벌 완성차 업체 대상 수주 물량의 실제 공급 시점 및 CKD 포장 물량 연계 가능성.",
+        "fact_check": "원문 발췌가 제공되지 않았으나, 다수 매체에서 공통적으로 1조 원 수주 및 20조 원 전망을 보도함."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "9b9d7f7b75903146",
+      "image_url": "",
+      "persistent_event_id": "d0459f6b20471fef"
+    },
+    {
+      "id": "fc936f007c8c0c",
+      "title": "현대차 인도법인, 12월 최대 8000루피 인상…매출 2000억 돌파에도 마진 급감 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlZucTI2V2o4NERRak1WY2lrSFJLejVKaDBuc3RPbUpTOFJRXzBJWUNIekJZaUlJVEduUktlR251RUhKQ1NPQzd0XzFlQUlxSFlTa3A0T0ZmbmZaQkJ6MzB1Zmd5d1BZODFycmVrcVZqTkhTUXRfdHoxeXNPLVBDdWJGYXoxa05j?oc=5",
+      "source": "글로벌이코노믹",
+      "published": "2026-11-25T04:53:02+09:00",
+      "category": "자동차",
+      "description": "현대차 인도법인, 12월 최대 8000루피 인상…매출 2000억 돌파에도 마진 급감 글로벌이코노믹",
+      "priority_markets": [
+        "인도"
+      ],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 85,
+      "event_cluster": "batch0-n005",
+      "related_articles": [
+        {
+          "title": "인도 자동차 가격 인상 러시…현대차도 가세 최대 11만원 ↑ - 더구루",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MTjVSZXNZZHBwbngxbmc5ZWVtV2xpNDJLT0dyVGJsTmlxcDFXQ1pkYzlaYzc1OVBneTAtcmxKOVF3X0N5U3ZtbmwyVk8zTGwxSXQ3NkNRbi12M3F1aWNhZkk0dw?oc=5",
+          "source": "더구루",
+          "published": "2026-11-25T08:56:30+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "현대차 인도법인이 12월부터 차량 가격을 최대 8,000루피(약 11만 원) 인상합니다. 매출 규모는 성장하고 있으나, 원가 상승 등으로 인해 마진율이 급감하는 상황이 반영된 조치로 풀이됩니다.",
+      "impact": "인도 시장 내 원가 부담 증가와 수익성 방어를 위한 가격 정책 변화를 보여주며, 향후 인도 내 생산 모델의 가격 경쟁력 변화를 주시해야 합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "인도 자동차 시장 전반의 가격 인상 흐름과 현대차 인도법인의 수익성 관리 필요성.",
+        "key_points": [
+          "12월 차량 가격 최대 8,000루피 인상",
+          "매출 증가에도 불구하고 마진율 하락세",
+          "인도 시장 내 전반적인 가격 인상 러시 동참"
+        ],
+        "what_to_watch": "가격 인상이 인도 시장 내 판매량에 미치는 영향 및 향후 수익성 개선 여부.",
+        "fact_check": "인도법인의 가격 인상 결정 보도 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "f930c112307f1347",
+      "image_url": "",
+      "persistent_event_id": "452cc4e8c5e1ad8c"
+    },
+    {
+      "id": "c5c82d21dc6a31",
+      "title": "현대차·기아 하이브리드차 EU 공략 빨간불, 수입 상한과 중국업체 현지 생산 확대 '이중고' - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLa25MQzlES21wVGlGNGFCMDhFMGZWVHBpUzhCaHhfMG83VjRxU1RxVWVNN0p2QklOclpxT0l2SEdHb3ZyZHFQZWV1U1YtcHc4OUI1X2xxX01TNkNXaVBfNGdYUG5IMHEwUTZRRFQ4bVo4M0k?oc=5",
+      "source": "비즈니스포스트",
+      "published": "2026-11-24T15:27:24+09:00",
+      "category": "자동차",
+      "description": "현대차·기아 하이브리드차 EU 공략 빨간불, 수입 상한과 중국업체 현지 생산 확대 '이중고' 비즈니스포스트",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 85,
+      "event_cluster": "batch0-n013",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대차·기아가 유럽연합(EU) 시장에서 하이브리드차 판매 확대에 어려움을 겪고 있습니다. EU의 수입 상한 규제와 중국 업체들의 현지 생산 확대에 따른 가격 경쟁 심화가 이중고로 작용하고 있습니다.",
+      "impact": "유럽 내 하이브리드차 시장 경쟁 심화는 현대차·기아의 유럽 수출 전략 및 현지 판매 수익성에 영향을 줄 수 있는 산업 동향입니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "유럽 시장 내 환경 규제 강화와 중국 전기차·하이브리드차의 공세가 거세지고 있음.",
+        "key_points": [
+          "EU의 수입 상한 규제 영향",
+          "중국 업체의 현지 생산 확대로 인한 가격 경쟁 심화",
+          "현대차·기아의 유럽 하이브리드 전략에 제동"
+        ],
+        "what_to_watch": "EU의 추가적인 수입 규제 정책 변화 및 현대차·기아의 유럽 현지 대응 전략.",
+        "fact_check": "EU 시장 내 경쟁 환경 변화에 대한 분석 보도임."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "d9adca4a179e0d1d",
+      "image_url": "",
+      "persistent_event_id": "8ee90f3a76ac122f"
+    },
+    {
+      "id": "42fd62ecc8dac9",
+      "title": "현대모비스 램프 사업 분할안 주총 통과…전동화·로봇에 집중 - 스마트투데이",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sRnQtakZnS3JTNTNsanlPbFpvN0xvajlqTXlFSXpGTFJhQlV6bnp2dmlad1NkWkFVQmw5dmxPSldYVS00V0o3Q3JmdTUxMmd0OWRqbFZ3RnJQdkpEYjRn?oc=5",
+      "source": "스마트투데이",
+      "published": "2026-11-24T10:49:00+09:00",
+      "category": "자동차",
+      "description": "현대모비스 램프 사업 분할안 주총 통과…전동화·로봇에 집중 스마트투데이",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 85,
+      "event_cluster": "batch0-n015",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대모비스가 램프 사업 부문을 분할하는 안건이 주주총회를 통과했습니다. 이번 사업 재편을 통해 전동화 및 로봇 등 미래 모빌리티 핵심 사업에 역량을 집중할 계획입니다.",
+      "impact": "사업 구조 효율화를 통해 전동화 부품 및 로봇 사업의 경쟁력을 강화하려는 전략으로, 향후 관련 분야의 R&D 및 설비 투자 집중도가 높아질 것으로 예상됩니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대모비스는 미래 모빌리티 기술 중심의 사업 체질 개선을 지속적으로 추진하고 있음.",
+        "key_points": [
+          "램프 사업 부문 분할안 주총 통과",
+          "전동화 및 로봇 사업에 자원 집중"
+        ],
+        "what_to_watch": "분할된 램프 사업 부문의 향후 운영 방향 및 전동화 사업 부문의 구체적인 투자 성과.",
+        "fact_check": "주주총회 통과 사실 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "7f134f4c67cc3260",
+      "image_url": "",
+      "persistent_event_id": "93a10bda8c22ed23"
+    },
+    {
+      "id": "50bcd07f1f07c7",
+      "title": "[현대차그룹 비전 2030㊤] 하이브리드·전기차 투트랙으로 글로벌 968만대 겨냥 - 포인트데일리",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51VTlnQWlkeW15MG5OMjNKUHZNbWM1eHRLZjVfdG9LUDFMM01EZEp6NDRxbUozVVczRU5nVjhMbkktVjU3dGdSYkRNa2d1RFRNdkZQeVNyd3VjelBoUHBsX3VaNlAwMWg2VXVxLWJaT1_SAXRBVV95cUxPNUs2eUpzYnpnQ2JjZmtkMTdHdmF6dGdaZkplaFQ0ek9pNTVLS24wSHVMTEZFQXpWaTh0MWVnSHdUbV9hQzMtRmNSRThhREd5NGVNcGtfRTJ3MmRUcG1ZTDFFRU5OMVJiNjR2X3QwWmRTdkVRTQ?oc=5",
+      "source": "포인트데일리",
+      "published": "2026-11-23T16:37:04+09:00",
+      "category": "자동차",
+      "description": "[현대차그룹 비전 2030㊤] 하이브리드·전기차 투트랙으로 글로벌 968만대 겨냥 포인트데일리",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 85,
+      "event_cluster": "batch0-n021",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "현대차그룹이 2030년까지 하이브리드와 전기차를 병행하는 투트랙 전략을 통해 글로벌 판매량 968만 대 달성을 목표로 하고 있습니다.",
+      "impact": "하이브리드와 전기차의 병행 생산 전략은 향후 부품 공급망 및 CKD 포장 물량의 다변화와 생산 거점별 최적화 전략에 중요한 지표가 됩니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "전기차 캐즘 현상에 대응하여 현대차그룹이 하이브리드 모델의 비중을 확대하는 중장기 전략을 수립함.",
+        "key_points": [
+          "2030년 글로벌 판매 목표 968만 대 설정",
+          "하이브리드 및 전기차 투트랙 생산 전략 강화"
+        ],
+        "what_to_watch": "하이브리드 모델의 구체적인 생산 비중 확대 계획 및 글로벌 거점별 생산 물량 배분.",
+        "fact_check": "원문 발췌가 없어 기사 제목 및 발췌문에 기반하여 작성함."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "9b1a9962e733575d",
+      "image_url": "",
+      "persistent_event_id": "9a0bfe3bf22da024"
+    },
+    {
+      "id": "37e6972ed72f42",
+      "title": "내일 금통위, 기준금리 3.25%로 오를까… 반도체 호황이 부른 금리 인상, 과거 25번은 '왜 올리느냐'가 갈랐다 - 네이버 프리미엄콘텐츠",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUl6MGIwT1lrUTA0Q3hkbUd0dzhzQzQxRnVVTGhUaThaLW1YS2x5YTdaTzFINVdwbTliYTBLY2RXQzd4NDd3cUxyenl2WndidWFqOG9CZFBhcEMwaEtmUERFWEl0QldWcTFuRTdTMGV1Q0gzdG9PTldNOHhhSmpkZ0xXY0tYNHE2YUF3bWZiellXYU93?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "published": "2026-11-25T08:36:00+09:00",
+      "category": "경제·금융",
+      "description": "내일 금통위, 기준금리 3.25%로 오를까… 반도체 호황이 부른 금리 인상, 과거 25번은 '왜 올리느냐'가 갈랐다 네이버 프리미엄콘텐츠",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "일반 뉴스",
+      "editorial_score_ai": 65,
+      "event_cluster": "batch0-n003",
+      "related_articles": [
+        {
+          "title": "11월 금통위 인상 카운트다운 속 유안타증권이 본 거시 4대 변수 - 위클리서울",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jd3pFOG53SW9QNGMxbTVkWllaeXlpTlpIUGN6MXpDYU9aX1ZwX21KVmNJVTdxY0xHaXRyZThIbXhJeWFfekVxY0lVZjVuSGxvdi1yWGQzRWF6dHlWZk9lVzZfSVdTSzZ6eUJyUEVn?oc=5",
+          "source": "위클리서울",
+          "published": "2026-11-23T18:16:26+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "집값·환율 진정됐지만 물가·가계빚은 ‘버티기’…한은, 26일 추가 인상 가닥 - 투데이신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yQjg5UUt4WTNpX2VpTkZUS2ZvZDhpbVBLeDlBd0dBTmIzVWZsUUJ5WW5BbFJENDVoeGtKZG1QSVdCdXhTZU5CTlhaelpMdVlhcGd6X2lkVDBkTVRYZlktVUQ2Rkgzc3RaZ1U40gFvQVVfeXFMTTZTdDlJajl5NXJfS3M2Slo2LTA3QzlFVjY1TjZldHBhbG51UnY1SUhOajRCSzAyNkRuVFRGcFRlOUVmVnNITjZIbDlEa3RzQk9nMlp2akZKRzB0Znk0eDBZem10YUNIUVVaTnV1aVBF?oc=5",
+          "source": "투데이신문",
+          "published": "2026-11-25T09:12:12+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "마지막 금리인상에 베팅?…외인, 금통위 앞두고 국채선물 대량 매수 - 한국경제TV",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ2J2ZFIxY1I1UEZ0VklZdTBPOHBkT1FJODEzUkFlZ3c0NjJJbG40QmpXVWp3WktwLU8xX1NOMUtmcW1sendPUnNUTzJxeUFiOTY3ejFjZHNKNHN3TEVuMXAwMWNFZnZac0NqcVdYZUpRTEQ3a2VIWHpSWHMzR1BQag?oc=5",
+          "source": "한국경제TV",
+          "published": "2026-11-25T08:00:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "[11월 금통위 D-1] 외환시장 시나리오는 | - 연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBabmpKZnVVdTNmdUxNbXNmaTlybEdwN3lXZmJ3MGVzbjBYRUg1TkpOUUJvZmJZbW9ERGVRdjVoaUktMG9QVk5rT3J1TmNXTVdWYTF2WG9uTU5JUGVuTlpJYVJkWVNBMmZHT0NtMkZuZEtoMldR?oc=5",
+          "source": "연합인포맥스",
+          "published": "2026-11-25T10:07:18+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "PCE 물가, 금통위에 주목해야 할 한 주 - KB Think",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjUlZWdUp5V21EM29ZRGc2Q1k1VWJQaXRfU25uMWphQ2NobzIyUHBTOW9YaDdQdVppR01DMDNablJTa1FoOGFROHRFN2hUZjNITFFZVFVLQnZ1b1YxblJ1RFFENHVyZw?oc=5",
+          "source": "KB Think",
+          "published": "2026-11-23T17:57:27+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "한국은행 금융통화위원회가 26일 기준금리 결정을 앞둔 가운데, 물가와 가계부채 상황을 고려한 추가 인상 가능성이 제기되고 있습니다. 시장에서는 이번 인상이 마지막일 수 있다는 기대와 함께 외환시장 및 국채 금리 변동성에 주목하고 있습니다.",
+      "impact": "",
+      "importance": "높음",
+      "detail": {
+        "background": "물가 안정과 가계부채 억제를 위한 한국은행의 통화 긴축 기조가 지속되고 있음.",
+        "key_points": [
+          "11월 26일 금통위 기준금리 결정 예정",
+          "물가 및 가계부채 상황에 따른 추가 인상 가능성",
+          "외환시장 및 국채 시장의 금리 인상 선반영 움직임"
+        ],
+        "what_to_watch": "금통위의 최종 금리 결정 및 향후 통화 정책 방향성에 대한 총재의 발언.",
+        "fact_check": "원문 발췌가 없어 기사 제목 및 발췌문에 기반하여 작성함."
+      },
+      "new_information": "",
+      "source_comparison": "여러 매체에서 26일 금통위의 추가 인상 가능성을 높게 점치고 있으며, 유안타증권 등 금융권의 거시경제 변수 분석이 병행되고 있음.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "04d7930953cae226",
+      "image_url": "",
+      "persistent_event_id": "8264cb3eb66d4935"
+    },
+    {
+      "id": "25c701d4437680",
+      "title": "Mexican Peso sinks as softer core inflation meets Fed hike threat - tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ3MwZlFtYWVwMDRDYWlyWHVTOG4yMzhPNnZNdEpLeWk0Vk40REtraFlZbEwwX3dwN1FUVGtWYUplQ3U1S0JXcGRHLVdRSTVVcVFrSDVqcnFDV0didWpibUh4N0tWWWFVYW1ZXy1pOTlSaUtsTVIzbHFCTXVqSWdXQzZ2UHhDbExjYXh3VVozVUpKNWdWQjliWE1NYTlYby1xMDFBVVlpV1RfSnpveE1qY0stYmtlVFpOaHpXUkU1RnZlYmVTN2ZHamtsdw?oc=5",
+      "source": "tmgm.com",
+      "published": "2026-11-25T08:09:54+09:00",
+      "category": "경제·금융",
+      "description": "Mexican Peso sinks as softer core inflation meets Fed hike threat tmgm.com",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "일반 뉴스",
+      "editorial_score_ai": 60,
+      "event_cluster": "batch0-n006",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "멕시코 페소화 가치가 미국의 금리 인상 위협과 멕시코의 낮은 근원 인플레이션 지표가 맞물리며 하락세를 보이고 있습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "미국 연준의 금리 정책과 멕시코 현지 경제 지표 간의 괴리로 인한 환율 변동성 확대.",
+        "key_points": [
+          "멕시코 페소화 가치 하락",
+          "미국 금리 인상 위협 및 멕시코 근원 인플레이션 둔화"
+        ],
+        "what_to_watch": "미국 연준의 금리 결정 및 멕시코 페소화 환율 추이.",
+        "fact_check": "원문 발췌가 없어 기사 제목 및 발췌문에 기반하여 작성함."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "7cd6280dfaa60057",
+      "image_url": "",
+      "persistent_event_id": "7e64df70aa32411c"
+    }
+  ]
+}
