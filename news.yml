@@ -2,9 +2,7 @@
 name: CKD News Auto Collect
 
 on:
-  schedule:
-    # KST 06:50 and 11:50 (UTC 21:50 previous day / 02:50 same day)
-    - cron: '50 21,2 * * *'
+
   workflow_dispatch:
 
 permissions:
