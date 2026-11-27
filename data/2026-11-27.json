@@ -1,365 +1,28 @@
 {
   "date": "2026-11-27",
-  "updated_at": "2026-11-27T06:47:20.217308+09:00",
-  "article_count": 5,
+  "updated_at": "2026-11-27T11:47:25.078828+09:00",
+  "article_count": 2,
   "ai_enabled": true,
   "articles": [
     {
-      "id": "c5cff313a13729",
-      "title": "UK port congestion, empty-container restrictions add upward pressure to freight rates - S&P Global",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR2FLbW83N0dUSTZJUGNrdnVpV1BPV0RwMk1MUGFBQmlDdlZkZVF6cWRQdG8wRk45QmRDUzJROTFJNTlSOWZMNkRpX1IwN0U0U2lVSHFrOVNYUWsxWjB6VGJ5Q25rTXFkU0k2bk5pcHRuV0o3cndxV2VxV3VzWVhOOXJfNC1Hdm95ekJTRmZZdjNQOTVwR3VJSjc3U2MwYTdMNGktb1NGcU51M1ZpMG9SYnhPNXdTTkRwS1BxN3dnWm1MaWVVbTVOenltcUxzQ2NVVU5WRW15OVBkLXEwSGVULTFtenNUUFlhYXM3dGxONmtOanc?oc=5",
-      "source": "S&P Global",
-      "published": "2026-11-26T16:13:21+09:00",
-      "category": "CKD·물류",
-      "description": "UK port congestion, empty-container restrictions add upward pressure to freight rates S&P Global",
-      "priority_markets": [],
-      "source_link_status": "rss_only",
-      "section": "산업·업무",
-      "editorial_score_ai": 85,
-      "event_cluster": "batch0-n7",
-      "related_articles": [],
-      "content_status": "rss_only",
-      "summary": "영국 항만 적체 현상과 빈 컨테이너 반납 제한 조치가 맞물리면서 해상 운임 상승 압력이 가중되고 있습니다. 물류 병목 현상이 지속됨에 따라 공급망 비용 부담이 커질 것으로 보입니다.",
-      "impact": "유럽향 수출입 물류 비용 상승 및 리드타임 지연 가능성이 있어, CKD 부품 공급망의 효율적 운영을 위한 모니터링이 필요합니다.",
-      "importance": "높음",
-      "detail": {
-        "background": "영국 주요 항만의 물류 적체 및 컨테이너 회수 관련 규제",
-        "key_points": [
-          "항만 적체로 인한 물류 병목 현상 심화",
-          "빈 컨테이너 반납 제한으로 인한 장비 회전율 저하",
-          "해상 운임 상승 압력 발생"
-        ],
-        "what_to_watch": "영국 항만 적체 해소 시점 및 유럽향 물류비 변동 추이",
-        "fact_check": "S&P Global 보도 기반의 물류 동향 정보"
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "901483a581a1deca",
-      "image_url": "",
-      "persistent_event_id": "2261f55444250c94"
-    },
-    {
-      "id": "53fbb7d116ba75",
-      "title": "현대모비스, 유럽·북미서 1조 원 규모 제동·조향부품 수주… 해외 공급망 확대 - 기계신문",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWazZUOGZZTVlTQl9Od25uWUtCa2RBeGpaUkNDaFhjOGNLenhsejNTY1Q4MEk1TWt6QjAtZjRWOGhXaV9iNGN4SHc5V0llbGhsdzRzYThCTk9PaFEyUlRXRy15UUMtMDQ?oc=5",
-      "source": "기계신문",
-      "published": "2026-11-26T09:50:24+09:00",
-      "category": "스크랩 추적",
-      "description": "현대모비스, 유럽·북미서 1조 원 규모 제동·조향부품 수주… 해외 공급망 확대 기계신문",
-      "priority_markets": [],
-      "source_link_status": "rss_only",
-      "section": "산업·업무",
-      "editorial_score_ai": 85,
-      "event_cluster": "batch0-n17",
-      "related_articles": [
-        {
-          "title": "현대모비스, 유럽·북미서 대규모 부품 수주...올해 해외수주 20조원 전망 - 뉴스락",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtWDlPUGxUOHQwSEJaVHhEQnUtQlJ6X1EySko0NGtoTWtRTWFVMWxnR3FzbU81aFQ2VEk2bGMwQWxKbElVNnpULTFSdjhmQTgxVFh0UHJXaVZtMVBZUmRQNm5lSlo5bHl2dGZhUg?oc=5",
-          "source": "뉴스락",
-          "published": "2026-11-25T13:30:19+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 대규모 부품 수주…올해 해외수주 20조 전망 - 신아일보",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iUFYxQ0pjaWJGRVdtU3FvU2Z5ZFBFbHZ4aFNUczJjVElnSGN6SUgzRjlIOTdRM1NjZE1jeXpEUzhEelFtY0VhejJsdUJvX3NVVU1aVHNQR2FpLW9Ud1Zvd28wWFp4RlIzdGVNMXBWa00?oc=5",
-          "source": "신아일보",
-          "published": "2026-11-25T14:35:12+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 핵심부품 수주…올해 20조원 전망 - 뉴스투데이",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pbnJySGpFVi1XN29wdHVRN0oxS1hfYkF5bWRMLWFnWWxQeGtNczkzVUpfWF9Md2htZnl2ODNSczYxSXV1N09rdTFyTWtOcGpjaFk3eERPNTQ5NlYzWHc?oc=5",
-          "source": "뉴스투데이",
-          "published": "2026-11-25T14:42:00+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 부품 1조 수주…올해 20조원 전망 - 중앙일보",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ud0huQkJtdHFhOTFDRTJ6elhHNmdoUGxBTm5xTmR4cFVsYjFHalZUSGpzcC1uREt6Yi1fcnlJRy1lY0J2Z25TYjBvcEo4dVdfd0ljUDNB?oc=5",
-          "source": "중앙일보",
-          "published": "2026-11-25T11:22:05+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 독자 개발 부품으로 북미·유럽서 1조원 수주…올해 수주실적, 목표치 123% 초과 전망 - 경향신문",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiV05PWFhYTXk5aGlaeFRjMVB0WmJkSHRZRDhRWDlqbHozQVhjdy0wZ0M1OU1MN1o1UW9VYk94TjFGSnVpZzU2a1BHX3Q5ZFllQjhNa0M1THRRUdIBX0FVX3lxTE53WjFzSHNyenRHUFprbHJnTV9TQzFfVVBpQWhuVHAtRkRfd0NfcXNiS2NSV3JPcTg1TzFVTThJTGRreS1PWk5SSHNEcnVHc3JfWnFGeGNDdFRZcVdEY1Jv?oc=5",
-          "source": "경향신문",
-          "published": "2026-11-25T11:00:00+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 제동·조향부품 1조 수주...올해 해외수주 20조 찍는다 - 소비자가 만드는 신문",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93UWpLZ01DeVowYzFTdWJ5NXkwS1lBTmRkWThmTnhQdm5vRTFaX3V5Qkt6WGFLNDcyS2lhLWNyd0RYeW1hT1Z5YmxkNmI5QW9JUEhFemdEZjlXMlZmSmFxWl9jMlhxeGJHanp6YlF1ekljTjQ?oc=5",
-          "source": "소비자가 만드는 신문",
-          "published": "2026-11-25T18:08:40+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "“해외 수주 ‘20조원’ 돌파 목전”..현대모비스, 유럽·북미서 1조원대 부품 수주 - 데일리카",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTjVnQzRIejJmSVFUMDFsNHV6Q2xTTlBrQ2Jpcnp5MFNsYktkS1NBWmQ2ZllybEYzSjFfakRUS2I3N3ZzRTItd1Y1QVNFLUYxRXRJX2N3YkEzQW9nbjhiRlhDdEdhM2liWGQycmUyLWZiZ2RGaXc?oc=5",
-          "source": "데일리카",
-          "published": "2026-11-25T12:03:45+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "북미·유럽 완성차 핵심 안전부품 꿰찼다…현대모비스, 올해 해외수주 20조원 전망 - EV라운지",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmQTNvSVdSSmR0VFllMHByeDNpZWViTFhpdFE5N3NNVGhrQzdCQzFoSkF0aXBfRVRsX2tPdGp4Y190R1dOYmJKWmp5WVVGazA4YXgxRWg4ZVRyb3hmOTdaanRVVGpCMVgySjA3QjdTXzVvVWM?oc=5",
-          "source": "EV라운지",
-          "published": "2026-11-25T22:30:19+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 대규모 핵심부품 수주…올해 해외수주 20조 원 전망 - 글로벌이코노믹",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUXQ5VUQwVXRsMjZvRkFCS21KSVpXam5weWJfQWdWcFNtdjZ0ekY1M1cyWERGMDlfRC1kamstNXVIVDB4eHFpYTMzQTBDeU8wR0xkUFFENUtGaXV1NUZDakIzT0JreS1pbDY1c1dwM2ltQ2JtdW5idmZ2OEZJeW1QYW9XTUh4QQ?oc=5",
-          "source": "글로벌이코노믹",
-          "published": "2026-11-25T11:00:00+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 핵심부품 1조원 수주…올해 해외수주 20조원 전망 - 서울타임즈뉴스",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vMWxRRENUb3RkX2ZHZ2paRzQwU1FnVmVnR3J6QXd3bldHdkQ3Y2hobmxZSTR1SV9nZ0JIdTFhMFUxUFBLZ0lBcHppbWk3b1h3c0xEaUF4UU1ydXgzY245YzdjNHAtWXM3eEVR?oc=5",
-          "source": "서울타임즈뉴스",
-          "published": "2026-11-25T11:54:03+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 제동·조향 부품 1조원 수주…해외수주 58% 늘 듯 - 에너지경제신문",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5keFdPRGt0N2xVeTR4c0NIOGF0RjdOZC1lNGxyYXViM3NvVEozZWRlWDZBazNBWW1TRXM1c0F2SjF6TklKTy1GdmFQcGFLdldYYXhNNVRaZXFhT2c?oc=5",
-          "source": "에너지경제신문",
-          "published": "2026-11-25T15:18:24+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 대규모 수주…올해 해외수주 20조원 전망 - 파이낸셜신문",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xeGhZRXE3T19VcFJPMFBCNXV1NThtMU55RGg0LVVtSXNyZ0lNQWJHQ0Y1OFBIWTlHTW5jRnotaEtINDhFaHZQUnlzd0FObEU5VGQ4WHJrY0h0SjJ3Um1aTmFBQ1lGUjRLc3RF?oc=5",
-          "source": "파이낸셜신문",
-          "published": "2026-11-25T14:58:29+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 대규모 수주…해외수주 20조원 청신호 - 쿠키뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NSUVLcWdCb0pwNVI0V0RQZ3RVSjFoeUJFUy0wbUdOMzB4bFNuamdWVjlDTU8yTU80b3daRC05TTBWanF6Y1F0aENsbXFSX0hVRTM5Q2p0MTl1ZmVNVXEzTko1VQ?oc=5",
-          "source": "쿠키뉴스",
-          "published": "2026-11-25T10:30:40+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 북미·유럽서 제동·조향 핵심부품 1조원대 수주 - 미래경제",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jbmRONDhtWXJSNUwtVDUzZFZQWnZ6a3VxeTJIWHZmRFpVQV9Fd09Ya0hjWE5nVzBIRUdRNlY5Nllib0pxSG41anBJei1KMTdubl9qVkktZHNPN3ZWaW41NUt5V0FVSW5wckZ2SQ?oc=5",
-          "source": "미래경제",
-          "published": "2026-11-25T13:40:00+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 대규모 수주…올해 20조원 전망 - 전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UbVRwWktPRzBZQ0pHd1BsVzRIZGZndE00dzhReTNxY2tvMzlwNnFJZF9SZ1RleWRaV0plRV83Zkk3NWQtSER3MXkwQkh0dw?oc=5",
-          "source": "전자신문",
-          "published": "2026-11-25T14:19:51+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 제동·조향부품 1조원 수주 - 헤럴드경제",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94cnRzUHZuNWVSNFNHWXBJRzRUazJmM2xyTXdhc3Y4b1F2LXczbkE5Nk92d0tpbWRWMElTRlBrNmtvajJnOVdlNkY4ZVNmSDRBeThMUkd3?oc=5",
-          "source": "헤럴드경제",
-          "published": "2026-11-25T11:00:00+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽과 북미서 1조원 규모 핵심부품 수주 - 디일렉",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dW5BZ2tjWGo0Vl96dVFaWmQ4aGJTa0JPbzB2TmlYaTdCQzRaa3E5Y3dVT2EyUGo5dm1VRW1fY01xSVQtQ2t5SmhIVjEwTDNlS3o5LWphZktQZTZVMmJsNkZfZ2xWUQ?oc=5",
-          "source": "디일렉",
-          "published": "2026-11-25T17:26:53+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 1조원 수주... 올해 해외 수주 20조원 돌파 전망 - 매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vOUc4VjNSdzNoLVVNUjFlYmxPRFBEOGdvcVRoRGdHWmN3bktUcGhWeGRWZGY0bGxOLUFzWDVLZ005Y3BES0E?oc=5",
-          "source": "매일경제",
-          "published": "2026-11-25T16:11:50+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 북미·유럽서 대규모 수주 잇따라 … 올해 20조원 달성 전망 - 뉴데일리 경제",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPTXBGdmZKYU9XZTFDczg1NzdmUkZCVFY4dXIwUHJUcm1RRVg2aGlKVlRXWXgwcDBxMDhxMmZIWHVTa3pLNXFDamEwTkVKSjR1YjBHMDQ3MEZqV0VsVk01SS1LSXdWdWQ4VS1uQzFDYlJrTk8yLVdpMkV6NNIBgAFBVV95cUxORk1vRGxncnd0dXBqUnA5c01CbTF3T0RUWHExd0Ryb1Q1NHRmVHkxNmNxa204V2p0QTdPLV9NNkk5TkRNUjZpRENSQVRRd1kxd3hiVEF6Z3F6cVVUSnJFZ3hjeTZTVk9DSHZ5RTRfQUpXQmYzOWhGSlNyR2xlOTRxMw?oc=5",
-          "source": "뉴데일리 경제",
-          "published": "2026-11-25T11:24:00+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽ㆍ북미서 제동ㆍ조향 1조 수주…올해 해외수주 145억불 전망 - 대한경제",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00SmRGbzBzblB0YnQzd2pLX1BHMHUtSTBQWEZwWFo0Q3Jnc1JhSUtUazJHc213SjhJcXdWNWxkVG80TEZES3FZV2NWMlBIZkZtODlrdVk5WEhjZmwzbHRhME1RZy1uaF90REVDSGV6TXdUVEk?oc=5",
-          "source": "대한경제",
-          "published": "2026-11-25T11:00:24+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 수주 잇따라…올해 20조원 전망 - 머니투데이 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mRk5nYm9BVW5SaHlzS2R3MWxPMnNOYVFoSWJtckl2SGNtVVVDbXFha3lOYWJ3c1NNRUcxOWVsQS13eWNYMUtmTjhvQmlVTjF5RFFoSV9ncjJuSGw3dnhWQjVfbTJ4NDFoSmZrN1ppNHNPd9IBckFVX3lxTE1mRk5nYm9BVW5SaHlzS2R3MWxPMnNOYVFoSWJtckl2SGNtVVVDbXFha3lOYWJ3c1NNRUcxOWVsQS13eWNYMUtmTjhvQmlVTjF5RFFoSV9ncjJuSGw3dnhWQjVfbTJ4NDFoSmZrN1ppNHNPdw?oc=5",
-          "source": "머니투데이",
-          "published": "2026-11-25T11:00:00+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 글로벌 완성차 수주 잇따라…올해 해외수주 20조원 전망 - 나눔경제뉴스",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vQzVqTTYtMTBhOWNlWG8wOTQzMVJ0amt0b1h1VVNvQzdWUmRfRVZHNVY5S1dnRGVVSGRHX1Z2b1doZkVhcGhvTGZNWXMzY05Zcjc2TThqQ21aX1BQY2djSGFkVUpWTDJWRUh1dw?oc=5",
-          "source": "나눔경제뉴스",
-          "published": "2026-11-25T13:41:51+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 1조원 따냈다… 올해 해외 수주 20조원 전망 - 조선일보",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblRsXzBYLVREVTBWbXQwUGJpSmg3MFdjX1lBYnlySUFxWDhKUGhjcUFZZ2FJYk1ST2dsWWxucENrbXhBdVo3RkUtZ2c2VnZOaHAyU2tVNXlVTkR0dndWc0FvMU0ybTBNNEhLLU55d2V0dW4xQ3NkZ0QxZWtrd01PUVVSUWJpeG1LVGlXMW1rMA?oc=5",
-          "source": "조선일보",
-          "published": "2026-11-25T11:51:31+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 조 단위 수주 잇따라…해외서만 20조 넘본다 - AP신문",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JTl9iSjBtUGtJd1NTUnNDc2NiRDdaYmcwYzVOOFlRdERqS1hnRXMzNWdwVnpDUklzQk44cnVOT0hFNVItcjZXcmZhRmVZNElBZzV5emEzNmFzaFNIcjJ5YUFOblZRNjBL0gFsQVVfeXFMT0d6QmNSOXVGM2V2NjZrQnM1UVpyNWF4dHRiSUdma2dRTVRSbFFJMkoxN2Z2SGgyc3VlYS1JNTN3aGtwLUpZenY1XzdwdlNFcUdjamxfNU9DQTlUeUZZQUhaR1IwRWZGX0hiOUpx?oc=5",
-          "source": "AP신문",
-          "published": "2026-11-26T02:42:48+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽-북미 대규모 수주… 올해 해외서 20조 달성할 듯 - 동아일보",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wcGFtZFg2cWxJRy02VkVXMU9lckF0U2RBUTFXU2VfM0R4cXJPaUlqeVBmMnhwQjdqSmpZMU9Fc2UxVkwzVFB4b2xQZDlqSmRSM0ZQSmkxTVBlUE9qUElVMWg2Qi1HU2JNcDVrU29Hbm9yUHRQOVHSAWZBVV95cUxOWmNVRDl3X3Q0RVpoQ1J3Rm1qZkNaME4tTFZZTzVJLVNVSXJ2YWFnNkFxc29pLWpaR3NRV3c5cVVCT081X21KWUtDQ0NZRTRQVkRQOGpDUmxXcVYyYzZ4VWtfTXQ3R2c?oc=5",
-          "source": "동아일보",
-          "published": "2026-11-26T00:30:00+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 4분기 잇단 대규모 수주…올해 해외수주 약 20조 전망 - 팝콘뉴스",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iQklGZmFHaFJyM1g0NVRlRjlWS3did3c1Q0hURVZFTU1ad3J4RUEtNmtIblZCckFfVkl3T18zQ0NvVVQzd05XQlBHQXMyXzAyQmtWckJ4MEJVSXJXTDdoaGJ5SkRnbnBtenFaaThB0gFyQVVfeXFMTXdhT0d6UnlnOVlvdjd3V1l1TlpVd1NfR3V2QlRGeTgwOEF0NllyVWh1QmJwZUVYSmx3TnFQR0ZEZ3FONlBLOFZVcTh2TnVYcTh4TUNIMlYwdGZKdEloakNFdlVYZUNncE03Ujlqc0hhVklB?oc=5",
-          "source": "팝콘뉴스",
-          "published": "2026-11-25T12:51:01+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "유럽·북미서 잇단 쾌거 현대모비스, ‘글로벌 수주 20조원’ 초읽기 - 뉴스웰",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KZzQ0S1hBRVZtSkJvX0xxRGJIeU1RRURzLVhtWGw5MkpJc0txUTBWYlAzakNrQ0hOcHdBMThYbkpTeEZKa29FWUhQSTFaRVhyZmMyNEFYQXBEeG1obnc4aHJ0Qkw0RlpiM0lYVw?oc=5",
-          "source": "뉴스웰",
-          "published": "2026-11-25T14:23:28+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 올해 해외수주 20조원 전망…연간 목표 초과 달성 - 디지털데일리",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aa0J2TUxPak4zbkNOMzZ1RXprZ0d2RFZvaWdmSGdtUW8wVmIydDlSX1VsTDZTTUxCUzZOSkNKXzdzN2dOUjVpck9iU1VvcWVWX2RlSHJWaUNmcHZHUjNKaWpGUzQ?oc=5",
-          "source": "디지털데일리",
-          "published": "2026-11-25T11:25:19+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "현대모비스, 유럽·북미서 잇단 잭팟…올해 해외 수주 20조원 전망 - 아주경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sM05NVGNXZjVXRWZScV8wS2FCYWszU0sxWTAtRXYySDkwOTB3Smc3UnpUeEdpV0IxX1FKRUxJLWE3Zk1Wellpa0Focl9ULVVVQnJvZ19wdmxOd9IBWEFVX3lxTE9tQnZZejNsTTVkRm5VeUFFMU1Oa0RkUzdKb2FXVzhJb0h4TW9XUjU0blA1NjRKRlpVVktKSV9PZnpLcThOSVp6cTdLSnhSa2l3VW9sSDIxR0Q?oc=5",
-          "source": "아주경제",
-          "published": "2026-11-25T11:00:00+09:00",
-          "source_link_status": "rss_only"
-        }
-      ],
-      "content_status": "rss_only",
-      "summary": "현대모비스가 유럽과 북미 완성차 업체로부터 제동 및 조향 부품 등 핵심 안전 부품을 대규모 수주했다. 이번 수주를 포함해 올해 해외 수주액이 목표치를 123% 초과한 20조 원에 달할 것으로 전망된다.",
-      "impact": "글로벌 완성차 업체 대상 핵심 부품 공급 확대는 현대모비스의 해외 매출 비중을 높이고, 글로벌 공급망 내 입지를 강화하는 계기가 될 것이다.",
-      "importance": "높음",
-      "detail": {
-        "background": "현대모비스의 글로벌 수주 확대 전략 및 전동화·핵심 부품 중심의 포트폴리오 재편.",
-        "key_points": [
-          "유럽·북미 완성차 대상 1조 원 규모 제동·조향 부품 수주",
-          "올해 해외 수주 실적 20조 원 돌파 및 목표치 123% 초과 전망"
-        ],
-        "what_to_watch": "수주 물량의 실제 공급 시점 및 관련 부품의 현지 생산 여부.",
-        "fact_check": "램프 사업 매각 등 사업 구조 개편과 별개로 핵심 부품 수주 역량은 지속적으로 강화되고 있음."
-      },
-      "new_information": "",
-      "source_comparison": "대부분의 매체가 1조 원 규모의 수주와 20조 원 달성 전망을 공통적으로 보도함.",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "21c8f14538a8e79b",
-      "image_url": "",
-      "persistent_event_id": "50b202489ac3e067"
-    },
-    {
-      "id": "24c02d945506f9",
-      "title": "현대차, 아마존 타고 유럽 공략…美 이어 英서도 온라인 판매 - 파이낸셜뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TUGJHU0VJcFZBTkprS0JOMXROemd5NkF6SmRLbGxMVlRGaUtIR0RrTDFLdDFtbXg4R3ItbUZyVDFid2gwaVF3TWNaQlF6M3NNZmZlaW9GamN5dw?oc=5",
-      "source": "파이낸셜뉴스",
-      "published": "2026-11-26T07:44:10+09:00",
-      "category": "자동차",
-      "description": "현대차, 아마존 타고 유럽 공략…美 이어 英서도 온라인 판매 파이낸셜뉴스",
-      "priority_markets": [
-        "미국"
-      ],
-      "source_link_status": "rss_only",
-      "section": "산업·업무",
-      "editorial_score_ai": 85,
-      "event_cluster": "batch0-n1",
-      "related_articles": [
-        {
-          "title": "현대차-아마존 전기차 들고 영국 공략..미국 밖 첫 협업 기대감↑ - 머니투데이 - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdnN4NDJ2Sno4TXZvUGl4NDk4YVJxTHVELUFpZnhDc2tVSC1rVVJMR3cybkFRR0lQaG9OSE1NWlhDNDh1RXFkYjZoSGVackx2QlVYeHJZdTlIVWJieFIyWk5KcWZoeU1KYndDNXlqaUs4Z9IBckFVX3lxTFBTdnN4NDJ2Sno4TXZvUGl4NDk4YVJxTHVELUFpZnhDc2tVSC1rVVJMR3cybkFRR0lQaG9OSE1NWlhDNDh1RXFkYjZoSGVackx2QlVYeHJZdTlIVWJieFIyWk5KcWZoeU1KYndDNXlqaUs4Zw?oc=5",
-          "source": "머니투데이",
-          "published": "2026-11-26T18:10:00+09:00",
-          "source_link_status": "rss_only"
-        }
-      ],
-      "content_status": "rss_only",
-      "summary": "현대차가 미국에 이어 영국에서도 아마존과 협력하여 온라인 자동차 판매를 시작한다. 이는 유럽 시장 내 디지털 판매 채널을 확대하고 고객 접점을 강화하려는 전략이다.",
-      "impact": "완성차 업체의 온라인 판매 채널 확대는 전통적인 딜러망 중심의 유통 구조에 변화를 줄 수 있으며, 향후 유럽 전역으로의 확산 가능성을 시사한다.",
-      "importance": "보통",
-      "detail": {
-        "background": "현대차와 아마존의 글로벌 파트너십을 통한 디지털 판매 채널 구축.",
-        "key_points": [
-          "영국 시장 내 아마존 온라인 판매 플랫폼 도입",
-          "미국 외 지역에서의 첫 아마존 협업 사례"
-        ],
-        "what_to_watch": "온라인 판매 채널의 유럽 내 점유율 확대 속도 및 소비자 반응.",
-        "fact_check": "현대차의 아마존 협업은 미국에서 시작되어 영국으로 확장되는 단계임."
-      },
-      "new_information": "",
-      "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "8ae2d0a8708af27b",
-      "image_url": "",
-      "persistent_event_id": "c56714aa30953afe"
-    },
-    {
-      "id": "3eef5f8fea8f93",
-      "title": "[인사이트 뉴스] 한은, 반도체 호황에 기준금리 3.25%로 인상…가계는 '빚의 역습' 직면 - https://www.moneystorm.kr/",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IZVJDSUJ1dDgwTG1iYjhPMWd3VFh5Z01NVXZoUENRVmtTRjZ5bk5YeGFNb2RGclZiQWJsR0dJc2l4cEtHVTVvbTN1RXBJdVRLR2dXOHRGdno0aU5HQ05uTFZxTXcxRDZSTmc?oc=5",
-      "source": "https://www.moneystorm.kr/",
-      "published": "2026-11-26T10:14:15+09:00",
+      "id": "dbeade3a6c183f",
+      "title": "한은, 기준금리 3.25%로 인상…AI發 성장 기대와 증시 불안 교차 - https://www.seoulilbo.co.kr/",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kZDctYlQtYTBLaEd1a3BXNlo4anRCdE8xckhQZEV2S1RWN004M2tNcWxZaThkV0lmelVwOXd2RF9JckdRd2RTLU1LbmlqcW9wb0E4MGp2QlhuUnNnNWJvenEyQmJ1OFN0MUxFd2VB?oc=5",
+      "source": "https://www.seoulilbo.co.kr/",
+      "published": "2026-11-26T16:42:11+09:00",
       "category": "경제·금융",
-      "description": "[인사이트 뉴스] 한은, 반도체 호황에 기준금리 3.25%로 인상…가계는 '빚의 역습' 직면 https://www.moneystorm.kr/",
+      "description": "한은, 기준금리 3.25%로 인상…AI發 성장 기대와 증시 불안 교차 https://www.seoulilbo.co.kr/",
       "priority_markets": [],
       "source_link_status": "rss_only",
       "section": "일반 뉴스",
       "editorial_score_ai": 60,
-      "event_cluster": "batch0-n2",
+      "event_cluster": "batch0-n003",
       "related_articles": [
         {
-          "title": "내일 금통위, 기준금리 3.25%로 오를까… 반도체 호황이 부른 금리 인상, 과거 25번은 '왜 올리느냐'가 갈랐다 - 네이버 프리미엄콘텐츠",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUl6MGIwT1lrUTA0Q3hkbUd0dzhzQzQxRnVVTGhUaThaLW1YS2x5YTdaTzFINVdwbTliYTBLY2RXQzd4NDd3cUxyenl2WndidWFqOG9CZFBhcEMwaEtmUERFWEl0QldWcTFuRTdTMGV1Q0gzdG9PTldNOHhhSmpkZ0xXY0tYNHE2YUF3bWZiellXYU93?oc=5",
-          "source": "네이버 프리미엄콘텐츠",
-          "published": "2026-11-25T08:36:00+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "한은, 기준금리 3.25%로 인상…AI發 성장 기대와 증시 불안 교차 - https://www.seoulilbo.co.kr/",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kZDctYlQtYTBLaEd1a3BXNlo4anRCdE8xckhQZEV2S1RWN004M2tNcWxZaThkV0lmelVwOXd2RF9JckdRd2RTLU1LbmlqcW9wb0E4MGp2QlhuUnNnNWJvenEyQmJ1OFN0MUxFd2VB?oc=5",
-          "source": "https://www.seoulilbo.co.kr/",
-          "published": "2026-11-26T16:42:11+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "[금융이슈] 한은, 기준금리 3.25%로 인상…다시 긴축의 고삐 죄나 - CEONEWS",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3UzlGUkNjMjZZbGU5UllKMkt3SEVKbEtLNjBCWlZfUWUyLXVrX2J5NXZ6VVEzbF9Ka2xxdlNzalp1QlVjVnpwZXJ6Ujh3OWRVdGEtUGNJYnhlRFNRX2pn?oc=5",
-          "source": "CEONEWS",
-          "published": "2026-11-26T10:20:00+09:00",
+          "title": "[이슈앤피플] 한국은행, 기준금리 3.25%로 인상…내년 성장률 전망 4.1%로 대폭 상향 - 매일경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OMmFtQnNRODJOR2pDVnM0V3F3NVNTTjM4WXVELTFpZjhBM2lrNERmZXM3MzhHVXB6RU91QmNOSlM4bXkwbzhPeENwNVBHT183Q3lMdS1jTzBHazdScmI3LTkxN09hMFUw?oc=5",
+          "source": "매일경제TV",
+          "published": "2026-11-26T16:33:00+09:00",
           "source_link_status": "rss_only"
         },
         {
@@ -370,6 +33,20 @@
           "source_link_status": "rss_only"
         },
         {
+          "title": "원/달러 환율, 금통위 금리 인상에 1,340원선 하회 - nbn 시사경제",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXalhYaVBaQkoxQnVneGdxTG1JR1dUb0QwdklDRW1GOE91RVExOFVZd1IzVU82dzhjZmJYVnBBYTlTRGZIY3VyRW9Wa2U4NDVIY3hrOFl3MzkxSnBGMFB2Uzlxa09qMzVMTHc?oc=5",
+          "source": "nbn 시사경제",
+          "published": "2026-11-27T09:52:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "반도체가 깔아준 길, 물가가 당긴 방아쇠… 한은 “내년 상반기 더 올릴 수 있다” - 라이센스뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZNTFselNoVlhtNFN2cjNlVlJBcXc5VXJ1VnN0MzJxUkx2WlM0Vlkxd0gxVzFVc1F1a0VHUmZ5NlNyWktFZnVBNklha0ZfT3NSTXFCM0J6a3Y0enRQdlk2RklzOHNSOEhTQXA4?oc=5",
+          "source": "라이센스뉴스",
+          "published": "2026-11-27T09:54:46+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
           "title": "한은, 반도체 호황에도 금리 인상…물가·환율 잡기 위한 ‘선제 긴축’ 승부수 - 나눔경제뉴스",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83OWM3OUUzaE02SkJTeHFIWmVOOHg5RmZkY053RVpQbW9XTlp3OUphNHMwc2tleTBLRWlZaERfYVFLMDU3TzVURXpHZndjOWV6RUt5bUhPbFZxVFRUUmY1bkRBdnpvZjg3MDgwMA?oc=5",
           "source": "나눔경제뉴스",
@@ -377,10 +54,10 @@
           "source_link_status": "rss_only"
         },
         {
-          "title": "집값·환율 진정됐지만 물가·가계빚은 ‘버티기’…한은, 26일 추가 인상 가닥 - 투데이신문",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yQjg5UUt4WTNpX2VpTkZUS2ZvZDhpbVBLeDlBd0dBTmIzVWZsUUJ5WW5BbFJENDVoeGtKZG1QSVdCdXhTZU5CTlhaelpMdVlhcGd6X2lkVDBkTVRYZlktVUQ2Rkgzc3RaZ1U40gFvQVVfeXFMTTZTdDlJajl5NXJfS3M2Slo2LTA3QzlFVjY1TjZldHBhbG51UnY1SUhOajRCSzAyNkRuVFRGcFRlOUVmVnNITjZIbDlEa3RzQk9nMlp2akZKRzB0Znk0eDBZem10YUNIUVVaTnV1aVBF?oc=5",
-          "source": "투데이신문",
-          "published": "2026-11-25T09:12:12+09:00",
+          "title": "[환율 전망] 삼성전자 배당에 대한 외국인 역송금 경계 - KB Think",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53MGI3VGVWWGIyeGxVSTZZdUlLRXMyQnVJU0RrbWcxNG4ydVpSZG5MVUFmcHhITllDeHFZSGpsTU9tcmgxRWMyOWczZGtDTmpYeW1uVGU4QTRFUmZsOXNhYw?oc=5",
+          "source": "KB Think",
+          "published": "2026-11-27T10:04:26+09:00",
           "source_link_status": "rss_only"
         },
         {
@@ -392,63 +69,57 @@
         }
       ],
       "content_status": "rss_only",
-      "summary": "한국은행이 반도체 호황에 따른 경기 회복 기대감에도 불구하고, 물가 안정과 환율 방어를 위해 기준금리를 3.25%로 인상했습니다. 시장에서는 가계 부채 부담 증가와 증시 불안 등 긴축 기조에 따른 부작용을 우려하고 있습니다.",
+      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
       "impact": "",
       "importance": "보통",
       "detail": {
-        "background": "한국은행 금융통화위원회의 기준금리 결정",
-        "key_points": [
-          "기준금리 3.25%로 인상",
-          "물가 및 환율 안정을 위한 선제적 긴축",
-          "가계 부채 부담 및 증시 변동성 확대 우려"
-        ],
-        "what_to_watch": "금리 인상이 국내 자동차 내수 판매 및 금융 상품 금리에 미치는 영향",
-        "fact_check": "다수 언론을 통해 확인된 기준금리 인상 사실"
+        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
+        "key_points": [],
+        "what_to_watch": "원문 및 공식 후속 발표 확인",
+        "fact_check": "제목과 RSS 발췌문만 수집됨"
       },
+      "news_relation": "신규 뉴스",
       "new_information": "",
       "source_comparison": "",
-      "news_relation": "신규 뉴스",
-      "ai_summary": true,
-      "integrated_summary": true,
-      "integration_signature": "6986c6ca18053669",
       "image_url": "",
-      "persistent_event_id": "c4d6e62c0d88d0d1"
+      "persistent_event_id": "ce05ef588d37acb5"
     },
     {
-      "id": "7910688c16b310",
-      "title": "[11월 금통위 D-1] 외환시장 시나리오는 | - 연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBabmpKZnVVdTNmdUxNbXNmaTlybEdwN3lXZmJ3MGVzbjBYRUg1TkpOUUJvZmJZbW9ERGVRdjVoaUktMG9QVk5rT3J1TmNXTVdWYTF2WG9uTU5JUGVuTlpJYVJkWVNBMmZHT0NtMkZuZEtoMldR?oc=5",
-      "source": "연합인포맥스",
-      "published": "2026-11-25T10:07:18+09:00",
+      "id": "469300f2ba5f76",
+      "title": "美 성장률 4.3%에도 기술주 휘청…고물가·관세·AI 거품 우려에 흔들리는 뉴욕증시 - 지이코노미",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ld2dEakM3S2FvWnFqUVU5YjZDcDJOMFF6bEtmWC11dTFwOHJkYmRCTUgwVFc4TkZHYzBaRlZsWXJKQnRjN3Z4OUVTRmhsdXROSXVxVmJfUV9FcEhWaG50VDhPeHU?oc=5",
+      "source": "지이코노미",
+      "published": "2026-11-26T07:24:28+09:00",
       "category": "경제·금융",
-      "description": "[11월 금통위 D-1] 외환시장 시나리오는 | 연합인포맥스",
+      "description": "美 성장률 4.3%에도 기술주 휘청…고물가·관세·AI 거품 우려에 흔들리는 뉴욕증시 지이코노미",
       "priority_markets": [],
       "source_link_status": "rss_only",
       "section": "일반 뉴스",
-      "editorial_score_ai": 60,
-      "event_cluster": "batch80-n1",
+      "editorial_score_ai": 55,
+      "event_cluster": "batch40-n009",
       "related_articles": [],
       "content_status": "rss_only",
-      "summary": "11월 금융통화위원회 개최를 앞두고 외환시장에 미칠 영향과 시나리오에 대한 전망이 제기되고 있습니다. 금리 결정이 환율 변동성에 미칠 파급 효과에 시장의 관심이 집중되고 있습니다.",
+      "summary": "미국의 3분기 경제성장률이 4.3%를 기록했음에도 불구하고, 고물가와 관세 정책, AI 산업 거품론이 부각되며 뉴욕 증시 내 기술주가 하락세를 보이고 있습니다. 거시경제 지표 호조와 시장의 불안 심리가 상충하는 양상입니다.",
       "impact": "",
       "importance": "보통",
       "detail": {
-        "background": "11월 금통위 금리 결정을 앞두고 외환시장 내 다양한 시나리오와 대응 전략이 논의됨.",
+        "background": "미국 경제성장률 호조에도 불구하고 시장 내 인플레이션 우려와 정책 불확실성이 기술주 투매를 유발함.",
         "key_points": [
-          "11월 금통위 금리 결정에 따른 외환시장 영향 분석",
-          "금리 결정 시나리오별 환율 변동성 전망"
+          "미국 3분기 경제성장률 4.3% 기록",
+          "고물가 및 관세 정책에 따른 시장 불안",
+          "AI 산업 거품 우려로 인한 기술주 조정"
         ],
-        "what_to_watch": "금통위의 실제 금리 결정 내용과 그에 따른 외환시장의 즉각적인 반응.",
-        "fact_check": "원문 발췌가 제공되지 않아 RSS 제목을 바탕으로 작성함."
+        "what_to_watch": "미국 기술주 조정이 글로벌 자동차 및 IT 부품 공급망에 미치는 영향",
+        "fact_check": "미국 경제성장률 수치 및 시장 동향은 일반적인 경제 보도 내용을 기반으로 함"
       },
       "new_information": "",
       "source_comparison": "",
       "news_relation": "신규 뉴스",
       "ai_summary": true,
       "integrated_summary": true,
-      "integration_signature": "6a35648a09ae0155",
+      "integration_signature": "99d663a7a9bd578b",
       "image_url": "",
-      "persistent_event_id": "f834f36c76747845"
+      "persistent_event_id": "93d15be844b796c4"
     }
   ]
 }
