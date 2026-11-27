@@ -38,12 +38,13 @@ def _facts(a):
  t=str(a.get('title') or '').lower()
  return set(re.findall(r'착공\s*(?:확정|개시)|준공\s*(?:확정|완료)|가동\s*(?:시작|개시)|투자\s*철회|계획\s*취소|(?:착공|준공|가동)\s*일정\s*변경|construction\s+started|production\s+began',t))
 class EventStore:
- def __init__(self,data):
+ def __init__(self,data,before_day=None):
   self.data=Path(data);self.path=self.data/'events.json';self.events={}
-  if self.path.exists():
+  if self.path.exists() and before_day is None:
    try:self.events=json.loads(self.path.read_text(encoding='utf-8')).get('events',{})
    except (OSError,ValueError,TypeError):pass
   for p in sorted(self.data.glob('????-??-??.json')):
+   if before_day and p.stem >= before_day:continue
    try:articles=json.loads(p.read_text(encoding='utf-8')).get('articles',[])
    except (OSError,ValueError,TypeError):continue
    for a in articles:
