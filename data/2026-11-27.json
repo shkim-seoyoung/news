@@ -1,7 +1,7 @@
 {
   "date": "2026-11-27",
-  "updated_at": "2026-11-27T15:25:36.845141+09:00",
-  "article_count": 5,
+  "updated_at": "2026-11-27T15:49:17.790345+09:00",
+  "article_count": 7,
   "ai_enabled": true,
   "articles": [
     {
@@ -277,6 +277,89 @@
       "integration_signature": "10eda95c3202a60c",
       "image_url": "",
       "persistent_event_id": "1cb55ce823b3d25f"
+    },
+    {
+      "id": "34bb59abba5798",
+      "title": "Kolkata Exporters Face Costly Shift as Hormuz Disruption Chokes Freight - Urban Acres",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTTFQSXNlUTlEQVNfbUM4ZG5COENaLS15V25rTm5fQTVBUW1GSGFIRDQtTTh5S3pPc0FfeUFla0FBRkJqRHBZZEpLS21PR1BCWGhQQ2xyRnJrTV9UWkdoNEw2NWdfanVxV2ZNX0VrM3RXMTBmV3A1RjV0ZllKSzByUW1oeUR2NlhxTGhWYnJXUWZ3WHNINHA0ZHFqVm9pRDFLTmxPSEdjUkFMQUFvWEVzV3FjZw?oc=5",
+      "source": "Urban Acres",
+      "published": "2026-11-26T11:44:15+09:00",
+      "category": "CKD·물류",
+      "description": "Kolkata Exporters Face Costly Shift as Hormuz Disruption Chokes Freight Urban Acres",
+      "priority_markets": [],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 80,
+      "event_cluster": "batch0-n017",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "호르무즈 해협의 긴장 고조로 인해 콜카타 지역 수출업체들이 물류 경로 변경에 따른 비용 상승 문제에 직면했습니다. 글로벌 해상 물류 차질이 인도발 수출입 물류에 영향을 미치고 있습니다.",
+      "impact": "해상 물류 경로의 불안정성은 글로벌 공급망 비용을 상승시키는 요인입니다. 인도 생산 거점과 연계된 CKD 물류 경로 및 운송 비용 변동 가능성을 모니터링해야 합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "호르무즈 해협 내 지정학적 리스크로 인한 해상 운송 차질 발생.",
+        "key_points": [
+          "호르무즈 해협 긴장으로 인한 물류 경로 변경",
+          "수출업체들의 물류 비용 상승 부담 가중"
+        ],
+        "what_to_watch": "해상 운임 지수 변화 및 주요 항로의 물류 적체 현상.",
+        "fact_check": "해당 지역 수출업체들의 물류 비용 상승에 관한 보도임."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "38f4a4c19d4230f7",
+      "image_url": "",
+      "persistent_event_id": "51df83d430f57999"
+    },
+    {
+      "id": "b8545a55e69417",
+      "title": "현대차, 아마존과 영국 공략…온라인 판매 접점 확대 - PRESS9",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNWk5UcXdINGFsYVg5dHZuT29pS29xOERsWkNGUmMwUlpycHVVWU5VQ3Rub0tWYkZiMXBwRExKUzQyeDNyOHN3X2FacDZtSHhMRlRHZHhVNkNjbnd0dXE1M0Qzdmo?oc=5",
+      "source": "PRESS9",
+      "published": "2026-11-27T08:55:53+09:00",
+      "category": "자동차",
+      "description": "현대차, 아마존과 영국 공략…온라인 판매 접점 확대 PRESS9",
+      "priority_markets": [
+        "미국"
+      ],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 75,
+      "event_cluster": "batch0-n006",
+      "related_articles": [
+        {
+          "title": "현대차-아마존 전기차 들고 영국 공략..미국 밖 첫 협업 기대감↑ - 머니투데이 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdnN4NDJ2Sno4TXZvUGl4NDk4YVJxTHVELUFpZnhDc2tVSC1rVVJMR3cybkFRR0lQaG9OSE1NWlhDNDh1RXFkYjZoSGVackx2QlVYeHJZdTlIVWJieFIyWk5KcWZoeU1KYndDNXlqaUs4Z9IBckFVX3lxTFBTdnN4NDJ2Sno4TXZvUGl4NDk4YVJxTHVELUFpZnhDc2tVSC1rVVJMR3cybkFRR0lQaG9OSE1NWlhDNDh1RXFkYjZoSGVackx2QlVYeHJZdTlIVWJieFIyWk5KcWZoeU1KYndDNXlqaUs4Zw?oc=5",
+          "source": "머니투데이",
+          "published": "2026-11-26T18:10:00+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "현대자동차가 영국 시장에서 아마존과 협력하여 온라인 판매 접점을 확대합니다. 이는 미국 외 지역에서 진행되는 첫 번째 아마존 협업 사례로, 전기차 판매를 중심으로 영국 시장 공략을 가속화할 전망입니다.",
+      "impact": "글로벌 시장의 온라인 판매 채널 다변화 전략으로, 향후 현지 물류 및 배송 거점과의 연계 가능성을 모니터링할 필요가 있음.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차는 기존 미국 시장에서 아마존과 디지털 쇼룸 및 판매 협력을 진행해 왔음.",
+        "key_points": [
+          "현대차-아마존 영국 시장 협업 개시",
+          "미국 외 첫 번째 협업 사례",
+          "전기차 중심의 판매 접점 확대"
+        ],
+        "what_to_watch": "영국 내 온라인 판매 채널을 통한 실제 판매량 추이 및 타 유럽 국가로의 확대 여부.",
+        "fact_check": "원문 발췌가 없는 RSS 기반 정보로, 구체적인 계약 조건이나 판매 목표 수치는 확인되지 않음."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "dfdd403386d2922d",
+      "image_url": "",
+      "persistent_event_id": "8e49b0a4735d6154"
     },
     {
       "id": "33a8cdab84595c",

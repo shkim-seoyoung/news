@@ -895,7 +895,32 @@
       "category": "CKD·물류",
       "description": "Kolkata Exporters Face Costly Shift as Hormuz Disruption Chokes Freight Urban Acres",
       "priority_markets": [],
-      "source_link_status": "rss_only"
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 80,
+      "event_cluster": "batch0-n017",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "호르무즈 해협의 긴장 고조로 인해 콜카타 지역 수출업체들이 물류 경로 변경에 따른 비용 상승 문제에 직면했습니다. 글로벌 해상 물류 차질이 인도발 수출입 물류에 영향을 미치고 있습니다.",
+      "impact": "해상 물류 경로의 불안정성은 글로벌 공급망 비용을 상승시키는 요인입니다. 인도 생산 거점과 연계된 CKD 물류 경로 및 운송 비용 변동 가능성을 모니터링해야 합니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "호르무즈 해협 내 지정학적 리스크로 인한 해상 운송 차질 발생.",
+        "key_points": [
+          "호르무즈 해협 긴장으로 인한 물류 경로 변경",
+          "수출업체들의 물류 비용 상승 부담 가중"
+        ],
+        "what_to_watch": "해상 운임 지수 변화 및 주요 항로의 물류 적체 현상.",
+        "fact_check": "해당 지역 수출업체들의 물류 비용 상승에 관한 보도임."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "38f4a4c19d4230f7",
+      "image_url": "",
+      "persistent_event_id": "51df83d430f57999"
     },
     {
       "id": "efdf5c43e0a8d2",
@@ -2874,8 +2899,44 @@
       "published": "2026-11-27T08:55:53+09:00",
       "category": "자동차",
       "description": "현대차, 아마존과 영국 공략…온라인 판매 접점 확대 PRESS9",
-      "priority_markets": [],
-      "source_link_status": "rss_only"
+      "priority_markets": [
+        "미국"
+      ],
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 75,
+      "event_cluster": "batch0-n006",
+      "related_articles": [
+        {
+          "title": "현대차-아마존 전기차 들고 영국 공략..미국 밖 첫 협업 기대감↑ - 머니투데이 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTdnN4NDJ2Sno4TXZvUGl4NDk4YVJxTHVELUFpZnhDc2tVSC1rVVJMR3cybkFRR0lQaG9OSE1NWlhDNDh1RXFkYjZoSGVackx2QlVYeHJZdTlIVWJieFIyWk5KcWZoeU1KYndDNXlqaUs4Z9IBckFVX3lxTFBTdnN4NDJ2Sno4TXZvUGl4NDk4YVJxTHVELUFpZnhDc2tVSC1rVVJMR3cybkFRR0lQaG9OSE1NWlhDNDh1RXFkYjZoSGVackx2QlVYeHJZdTlIVWJieFIyWk5KcWZoeU1KYndDNXlqaUs4Zw?oc=5",
+          "source": "머니투데이",
+          "published": "2026-11-26T18:10:00+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "현대자동차가 영국 시장에서 아마존과 협력하여 온라인 판매 접점을 확대합니다. 이는 미국 외 지역에서 진행되는 첫 번째 아마존 협업 사례로, 전기차 판매를 중심으로 영국 시장 공략을 가속화할 전망입니다.",
+      "impact": "글로벌 시장의 온라인 판매 채널 다변화 전략으로, 향후 현지 물류 및 배송 거점과의 연계 가능성을 모니터링할 필요가 있음.",
+      "importance": "보통",
+      "detail": {
+        "background": "현대차는 기존 미국 시장에서 아마존과 디지털 쇼룸 및 판매 협력을 진행해 왔음.",
+        "key_points": [
+          "현대차-아마존 영국 시장 협업 개시",
+          "미국 외 첫 번째 협업 사례",
+          "전기차 중심의 판매 접점 확대"
+        ],
+        "what_to_watch": "영국 내 온라인 판매 채널을 통한 실제 판매량 추이 및 타 유럽 국가로의 확대 여부.",
+        "fact_check": "원문 발췌가 없는 RSS 기반 정보로, 구체적인 계약 조건이나 판매 목표 수치는 확인되지 않음."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "dfdd403386d2922d",
+      "image_url": "",
+      "persistent_event_id": "8e49b0a4735d6154"
     },
     {
       "id": "f92959261e1e67",
@@ -3940,6 +4001,193 @@
       "published": "2026-11-25T15:32:33+09:00",
       "category": "스크랩 추적",
       "description": "현대모비스, 유럽·북미서 대형 수주 잇따라…올해 20조원 전망 포인트데일리",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "3cf715b8b84d1f",
+      "title": "美 USTR “韓 자동차 육성책 과잉생산”…현대차는 울산 가동률 지키기 - 소셜밸류",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xWUVXVEJxR1RkY2VjN2pMYmJFeUlpeTdUVWxGU0V3Wkd6bXhUMHJ2NjF3N1NUb0JyQnhaQXUwWDRNaEYtMVNuS0dmWlY4UjdiNC1ad2V4UWNpZEhxbmkxS2IzQdIBbEFVX3lxTFBwaTFMZHN6TnpvSkhkUjJoQnRIa3dpcmNXa3VScnNHbHd0UkZCQzVtMU1xTFlVeG4tRW1zLUhqb003eG1qNHYxRUlfaEppSnJ1MURPNXF2QUxmTkZXX1dJTFdlYnYxSHl1bzZjQQ?oc=5",
+      "source": "소셜밸류",
+      "published": "2026-11-27T15:38:08+09:00",
+      "category": "CKD·물류",
+      "description": "美 USTR “韓 자동차 육성책 과잉생산”…현대차는 울산 가동률 지키기 소셜밸류",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "d48b57d163bdd7",
+      "title": "롤러코스터 장세에 시장점검 나선 정부 \"공매도 특이동향 없어\" - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQMzQ1US1oUXl1b0l5alZNaTJ1SlZvRWRKVEFYWlFwX2ZDQXlaN2VSZjRmTjZLTjVyQUhoNFV4dkhKWWtWZzZ5c2NqNUdGQTl0R0U5a2ZVdHhYTkZNXzJjbzA5OTBKNUVINlZ0d09B?oc=5",
+      "source": "한국일보",
+      "published": "2026-11-27T14:07:00+09:00",
+      "category": "정치·정책",
+      "description": "롤러코스터 장세에 시장점검 나선 정부 \"공매도 특이동향 없어\" 한국일보",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "c77520cc0e241c",
+      "title": "환율, 물가, 마지막은 주가 … 한은 총재가 통화정책에 고려하는 우선 순위 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zZkRDZExLM1ZuZHNvYXJCdmwzdXI5eVFsUlk2b2Y5UEx2YkExR0NENjA4S0NHbUZGZXBQX0hTa2hLZG1VTWFyZERzYkZFVzE3LTdVcg?oc=5",
+      "source": "매일경제",
+      "published": "2026-11-27T05:00:00+09:00",
+      "category": "경제·금융",
+      "description": "환율, 물가, 마지막은 주가 … 한은 총재가 통화정책에 고려하는 우선 순위 매일경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "cf88e8de1b31d5",
+      "title": "[현대차그룹 사장단] 현대모비스 백철승 사장 누구…트랜시스 경영 정상화 주도 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkQkxEMEd4RDhQR1BPQ0RTS0RsSm0zTFpvd1g4X3pid1A4RXhfV1lzMXk0VmtVZXZLc2hEdUN6R2lCYmFXX1kwSDd0TXBBSzlXWl9TUldLUVJnSDl3TUJnd0VISUNZRC1nazNfX2c1aE0?oc=5",
+      "source": "신아일보",
+      "published": "2026-11-26T14:31:49+09:00",
+      "category": "스크랩 추적",
+      "description": "[현대차그룹 사장단] 현대모비스 백철승 사장 누구…트랜시스 경영 정상화 주도 신아일보",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "a5f83870c840fd",
+      "title": "현대차그룹, 대표이사·사장단 인사 '안정'에 초점…현대모비스 등 3곳 수장 교체 - SR타임스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTTDRweXlNM1ZseDRVeGp3UmpmdHFlX1IwdmFPaUQxbTNPRjgyVzFNMll3TndQS1hXWDRMdGkzQ3BfaVg1UzV3Q2t3ZUVyU05OMkpldWF1LTNUc1ZWVWRlWU5kRkN0VVnSAWtBVV95cUxNYWlpYzh3eUhHT1V1eTlmWERRb25NTm1tRXBKQzJ1TFJ2U0NTQVhKMjZwTTN3elFDTUxfRVFsaTJpZ280bW5wR3Znby0xeUE3NVNaVXlVMnVIeFUyMmFoejJkcFpGMTJUWWdhQQ?oc=5",
+      "source": "SR타임스",
+      "published": "2026-11-26T11:55:21+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, 대표이사·사장단 인사 '안정'에 초점…현대모비스 등 3곳 수장 교체 SR타임스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "c3ae8f8ba4d5f1",
+      "title": "현대차·기아 사장은 그대로…현대모비스 등 핵심 계열사 수장 바꿨다 - 코리아데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XWHYySTdEVW1NTzlWeG1DdHZXYXFxMnpBTHFEdWYyNlZVLTl0UFlWSkkzREhiTDJoRU9HT21GRzNXazdhU21uRlMzdUVsTE1xYmtvS2RKbWdsaThoM2JtMVJZSzEtUThXRmxjZ09mWUtEZw?oc=5",
+      "source": "코리아데일리",
+      "published": "2026-11-26T10:50:02+09:00",
+      "category": "자동차",
+      "description": "현대차·기아 사장은 그대로…현대모비스 등 핵심 계열사 수장 바꿨다 코리아데일리",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "0cbd2d757f1241",
+      "title": "현대모비스 새 대표에 백철승 사장…현대차그룹 부품 계열사 수장 연쇄 이동 - 생생비즈플러스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKR0FDSUhMd3A3RmlleUJpbEtWYnRhX3lVZ3Jnd2xpemVTSXk5d1IyYkNIMjVPQndHNkl5dnhCVXBlUnR6MV96Q1Qxd3dEMG4wcDNycUo5cWFWNzZoVWZMN2VPZkQydDA4cVdRSA?oc=5",
+      "source": "생생비즈플러스",
+      "published": "2026-11-26T10:28:47+09:00",
+      "category": "자동차",
+      "description": "현대모비스 새 대표에 백철승 사장…현대차그룹 부품 계열사 수장 연쇄 이동 생생비즈플러스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "a79e42f968cda2",
+      "title": "현대차그룹, 현대모비스·트랜시스·엔지니어링 수장 교체...미래 사업 전환 속도 - 중앙이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2LWNjNThSUFJ1eWlOZkxWOVAtVzkxcEZTZG40Sndnc1FBQWxzcXFVcDJtQ25ELUJXdmNwRTd3dUw0bE9INFFfUnI3QnZpSF9jVHJJMEVJdGVQdHUzQV9WWXMySERZc21KOEMxWGl0bXdSdw?oc=5",
+      "source": "중앙이코노미뉴스",
+      "published": "2026-11-26T10:13:19+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, 현대모비스·트랜시스·엔지니어링 수장 교체...미래 사업 전환 속도 중앙이코노미뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "8d69944a4784e7",
+      "title": "현대모비스 해외수주 경쟁력 두 축 '핵심부품·현지 생산' - 프라임경제",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GYWd2ZnEybkhKRGpHaVJ5YklPX0VMY3QweFpMcUpaX0V0VUp2YVNhcWFGZWxOSkxMUGVpQzlEMmNvMTF5NHNGNFN6cGU1QkxkZy1DZFM0WEFHNGR2TzNTNXRURVJwMmNIbm9Rdmg3MXFXUQ?oc=5",
+      "source": "프라임경제",
+      "published": "2026-11-26T10:02:49+09:00",
+      "category": "스크랩 추적",
+      "description": "현대모비스 해외수주 경쟁력 두 축 '핵심부품·현지 생산' 프라임경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "4863aa25eeb16c",
+      "title": "[Car & Now] 현대차그룹, 'HMG 글로벌 완속충전기' 공개·현대모비스, 올해 해외수주 145억달러 전망 - www.ebn.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GdlItQ3diSW9FUUxpaFJKUXFKODBjdmtQSTk0c1IzRGgwUmw0aFg5YjFKU0FpTnNhMFFtYVBfN05aQnZQM0E4TXUyaTEyeWFZSURTdUxRN1NUZkp0Z2JkbnBCUFNRWlR4?oc=5",
+      "source": "www.ebn.co.kr",
+      "published": "2026-11-26T10:00:05+09:00",
+      "category": "스크랩 추적",
+      "description": "[Car & Now] 현대차그룹, 'HMG 글로벌 완속충전기' 공개·현대모비스, 올해 해외수주 145억달러 전망 www.ebn.co.kr",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "f88ed871ca33e1",
+      "title": "현대모비스, 글로벌 완성차 대상 대규모 해외수주 ‘봇물’ 터졌다! - 인천타임스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nOHdjLWtMa0JFd3c0cWJPaWFpQS1ZaEQ1WGFnNmU1WXo4Y0dnZTA5TmMwS1FjMG5xaWctOHdyY3Zjd0tOY0p2NDJMWUJ5QXAyZkVzZ2dITC1YWXI1NUNFSUFXbTBEUQ?oc=5",
+      "source": "인천타임스",
+      "published": "2026-11-26T07:25:00+09:00",
+      "category": "스크랩 추적",
+      "description": "현대모비스, 글로벌 완성차 대상 대규모 해외수주 ‘봇물’ 터졌다! 인천타임스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "8406f0f1f7f67c",
+      "title": "현대모비스 해외 수주 봇물 - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fQW56bmt4NEhVdnhFdjI3OThnamw0NVVMWjhCZXZwSFREUVpKWlg5QmU4UDRhWjRieHF6cUx4TmtiNDRlWkZZV29yNWZaR1ZP0gFUQVVfeXFMT0JncFlpYnl1MXlCTGRIb1BxVkJweDVBakJJaXp5a1RueEpsWC05bEwyU0k4d1FaVm9QRnFJWDNpdVlQLW9LanNTeDkzSV9kVHVVMS1x?oc=5",
+      "source": "세계일보",
+      "published": "2026-11-26T06:00:00+09:00",
+      "category": "스크랩 추적",
+      "description": "현대모비스 해외 수주 봇물 세계일보",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "8730f9a33f0803",
+      "title": "북미·유럽 완성차 핵심 안전부품 꿰찼다…현대모비스, 올해 해외수주 20조원 전망 - 동아비즈니스리뷰",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02U0xnc0x6aDhQdnFzS01hczk2TmVReGxHeUZaWUpPeVlvYTF2TnhzenY5ZnQ1T2luQ3Vla2k4LW03bEtLTUUyQlpBVFVaNW9RU1JQMUxETEpJR0ZaVGc?oc=5",
+      "source": "동아비즈니스리뷰",
+      "published": "2026-11-25T22:30:18+09:00",
+      "category": "자동차",
+      "description": "북미·유럽 완성차 핵심 안전부품 꿰찼다…현대모비스, 올해 해외수주 20조원 전망 동아비즈니스리뷰",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "2deba8cbab8079",
+      "title": "현대모비스, 유럽·북미 완성차업체에 제동·조향장치 공급...섀시모듈 수주도 - 코리아리포트",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02UXdmR21xaEw3SmF2eHZscGVBaGh1MTRKSlNYZHJGUXM2dzFEZGoyWE9LMmZwaHlRX0RsUnIyMy05aF9UTndpUGo3QlM1WGJ5NzZWQUc5c0xfR3RvdG0wbTFOTU9jSjBZeXB3bXNiLUM?oc=5",
+      "source": "코리아리포트",
+      "published": "2026-11-25T21:55:13+09:00",
+      "category": "스크랩 추적",
+      "description": "현대모비스, 유럽·북미 완성차업체에 제동·조향장치 공급...섀시모듈 수주도 코리아리포트",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "9c0a744a323264",
+      "title": "현대모비스, 4Q 유럽·북미서 1조 수주… 올해 수주 145억 달러 전망 - 미디어워치",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzd1JoV2tzcUpZd1JJbnVDcnVnNzFkaEh3Ml83LUNHeUZuYzBicnVIWXJwNkRieEV6VllwSHg1UU5RaWw4aXgzRG5ubW5GcUZDS2lSTEZ3c1RfRHk2amNPN28wUQ?oc=5",
+      "source": "미디어워치",
+      "published": "2026-11-25T16:47:06+09:00",
+      "category": "스크랩 추적",
+      "description": "현대모비스, 4Q 유럽·북미서 1조 수주… 올해 수주 145억 달러 전망 미디어워치",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "0481bc2112ce10",
+      "title": "현대모비스, 글로벌 수주 확대…올해 20조원 전망 - 스페셜경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jazBhYUhERmVWVjlmSUdrb25rQ0JEVHJpajNfUmUwcnFCZF9GeEJDWFlMM0ZoaGxnNnVjMXAyTlpXV1Y1X3FuYzBILVBlcFU2dVFOdlJlX1V2cE9STHlUN2VEQkxMNEJnaGtJdg?oc=5",
+      "source": "스페셜경제",
+      "published": "2026-11-25T16:31:54+09:00",
+      "category": "자동차",
+      "description": "현대모비스, 글로벌 수주 확대…올해 20조원 전망 스페셜경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "e0d9cf00f2b40e",
+      "title": "현대모비스, 유럽·북미서 1조원 수주... 올해 해외 수주 20조원 돌파 전망 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50ZTVPMUh5cFRvWUUyS3JSSE1zb2txUDBJdTU1bnJPYU1rX2NyOFI3cnhTMW41MzFxV1RqWVhLVDZKUkFvT0dSTkFBZ2dUYWRmeGVpYjVB?oc=5",
+      "source": "매일경제",
+      "published": "2026-11-25T16:11:50+09:00",
+      "category": "자동차",
+      "description": "현대모비스, 유럽·북미서 1조원 수주... 올해 해외 수주 20조원 돌파 전망 매일경제",
       "priority_markets": [],
       "source_link_status": "rss_only"
     }
