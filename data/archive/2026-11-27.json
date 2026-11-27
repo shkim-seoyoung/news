@@ -378,7 +378,7 @@
       "source_link_status": "rss_only",
       "section": "일반 뉴스",
       "editorial_score_ai": 60,
-      "event_cluster": "batch0-n003",
+      "event_cluster": "batch0-n013",
       "related_articles": [
         {
           "title": "[이슈앤피플] 한국은행, 기준금리 3.25%로 인상…내년 성장률 전망 4.1%로 대폭 상향 - 매일경제TV",
@@ -395,20 +395,6 @@
           "source_link_status": "rss_only"
         },
         {
-          "title": "원/달러 환율, 금통위 금리 인상에 1,340원선 하회 - nbn 시사경제",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXalhYaVBaQkoxQnVneGdxTG1JR1dUb0QwdklDRW1GOE91RVExOFVZd1IzVU82dzhjZmJYVnBBYTlTRGZIY3VyRW9Wa2U4NDVIY3hrOFl3MzkxSnBGMFB2Uzlxa09qMzVMTHc?oc=5",
-          "source": "nbn 시사경제",
-          "published": "2026-11-27T09:52:00+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
-          "title": "반도체가 깔아준 길, 물가가 당긴 방아쇠… 한은 “내년 상반기 더 올릴 수 있다” - 라이센스뉴스",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZNTFselNoVlhtNFN2cjNlVlJBcXc5VXJ1VnN0MzJxUkx2WlM0Vlkxd0gxVzFVc1F1a0VHUmZ5NlNyWktFZnVBNklha0ZfT3NSTXFCM0J6a3Y0enRQdlk2RklzOHNSOEhTQXA4?oc=5",
-          "source": "라이센스뉴스",
-          "published": "2026-11-27T09:54:46+09:00",
-          "source_link_status": "rss_only"
-        },
-        {
           "title": "한은, 반도체 호황에도 금리 인상…물가·환율 잡기 위한 ‘선제 긴축’ 승부수 - 나눔경제뉴스",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83OWM3OUUzaE02SkJTeHFIWmVOOHg5RmZkY053RVpQbW9XTlp3OUphNHMwc2tleTBLRWlZaERfYVFLMDU3TzVURXpHZndjOWV6RUt5bUhPbFZxVFRUUmY1bkRBdnpvZjg3MDgwMA?oc=5",
           "source": "나눔경제뉴스",
@@ -416,10 +402,10 @@
           "source_link_status": "rss_only"
         },
         {
-          "title": "[환율 전망] 삼성전자 배당에 대한 외국인 역송금 경계 - KB Think",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53MGI3VGVWWGIyeGxVSTZZdUlLRXMyQnVJU0RrbWcxNG4ydVpSZG5MVUFmcHhITllDeHFZSGpsTU9tcmgxRWMyOWczZGtDTmpYeW1uVGU4QTRFUmZsOXNhYw?oc=5",
+          "title": "'매파'지만 비켜 간 바람…서울환시는 금통위보다 '수급' 주시 - KB Think",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1UnlyeHdNNktIczNkQ1RSQUlmMHFrS0lkZ1pLRUdPV3lrNnRTcU11OXVvYTBLdXJEVl9NdlA2Y1Z2d2l6U3lHeHM4XzRpdjFfYUxlWU1pMW93Y1lHbTB6Qk92bTJWalotMnRQRHh5VVF0Zw?oc=5",
           "source": "KB Think",
-          "published": "2026-11-27T10:04:26+09:00",
+          "published": "2026-11-26T13:43:49+09:00",
           "source_link_status": "rss_only"
         },
         {
@@ -431,20 +417,27 @@
         }
       ],
       "content_status": "rss_only",
-      "summary": "AI 요약 대기 중입니다. 원문 기사에서 내용을 확인할 수 있습니다.",
+      "summary": "한국은행이 기준금리를 3.25%로 인상하며 물가 안정과 환율 방어를 위한 긴축 기조를 강화했습니다. 반도체 호황 등 경기 회복세에도 불구하고 금융 불균형 해소와 선제적 대응을 위한 결정으로 풀이됩니다.",
       "impact": "",
-      "importance": "보통",
+      "importance": "높음",
       "detail": {
-        "background": "기사 전문을 확인하지 못해 상세 요약을 제공하지 않습니다.",
-        "key_points": [],
-        "what_to_watch": "원문 및 공식 후속 발표 확인",
-        "fact_check": "제목과 RSS 발췌문만 수집됨"
+        "background": "한국은행 금융통화위원회가 물가 상승 압력과 가계부채 등 금융 불균형 문제를 해결하기 위해 기준금리 인상을 단행함.",
+        "key_points": [
+          "기준금리 3.25%로 인상",
+          "물가 및 환율 안정을 위한 선제적 긴축 정책",
+          "반도체 등 경기 회복세와 금융 불안정성 사이의 정책적 균형 모색"
+        ],
+        "what_to_watch": "향후 추가 금리 인상 여부와 이에 따른 국내 소비 심리 변화 및 환율 추이.",
+        "fact_check": "제공된 RSS 제목 및 발췌문을 바탕으로 작성되었으며, 원문 발췌가 없어 구체적인 금통위 의사록 내용은 포함하지 않음."
       },
       "news_relation": "신규 뉴스",
       "new_information": "",
-      "source_comparison": "",
+      "source_comparison": "대부분의 매체가 금리 인상과 물가·환율 대응을 주요 원인으로 꼽았으며, 일부 매체는 반도체 호황과 증시 불안 사이의 정책적 딜레마를 강조함.",
       "image_url": "",
-      "persistent_event_id": "ce05ef588d37acb5"
+      "persistent_event_id": "ce05ef588d37acb5",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "5d5aec895350d8a0"
     },
     {
       "id": "53f16ddb08dc6d",
@@ -571,7 +564,41 @@
       "category": "CKD·물류",
       "description": "EU 수입 장벽에 유럽 공장 짓는 中...현대차·기아, 진짜 승부는 전기차 현지생산 중앙이코노미뉴스",
       "priority_markets": [],
-      "source_link_status": "rss_only"
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 90,
+      "event_cluster": "batch0-n005",
+      "related_articles": [
+        {
+          "title": "EU 하이브리드 쿼터 韓 6만 7924대…中은 '공장 쇼핑' 우회 - 자본시장뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1bnZZYzNxT2Y2M2QxaHEtVTlOYnJ1N2hheGxra0ZoMEpPWlFIMExZSjZ2TUpKMEVJMXJTbXhZMEJaY1I4UW1iN2d1SW9EM01JdURIXzRFQmc0aFR0ZUFzdXkyMGpWVUk?oc=5",
+          "source": "자본시장뉴스",
+          "published": "2026-11-27T11:00:00+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "유럽연합(EU)의 수입 규제 강화에 따라 중국 완성차 업체들이 유럽 현지 공장 건설을 추진하고 있습니다. 현대차·기아는 이에 대응하여 전기차 현지 생산 전략을 강화해야 하는 과제에 직면했습니다.",
+      "impact": "유럽 시장 내 규제 환경 변화는 현대차·기아의 유럽 내 생산 전략 및 부품 공급망 최적화에 영향을 미칠 수 있습니다.",
+      "importance": "보통",
+      "detail": {
+        "background": "EU의 환경 규제와 보호무역주의 강화로 인해 글로벌 완성차 업체들의 유럽 생산 전략이 재편되고 있습니다.",
+        "key_points": [
+          "EU의 하이브리드차 수입 쿼터 제한(한국 6만 7,924대)",
+          "중국 업체의 유럽 현지 공장 건설을 통한 우회 전략",
+          "현대차·기아의 전기차 현지 생산 경쟁력 확보 필요성 증대"
+        ],
+        "what_to_watch": "EU의 추가적인 수입 규제 정책 및 현대차·기아의 유럽 생산 거점 대응 전략",
+        "fact_check": "EU의 하이브리드 쿼터 수치 및 중국 업체의 현지화 전략은 업계의 주요 동향으로 확인됨"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "77c2169d66436d44",
+      "image_url": "",
+      "persistent_event_id": "8f0377923bd03ebc"
     },
     {
       "id": "500ecc3f82a9b4",
@@ -1850,7 +1877,131 @@
       "category": "스크랩 추적",
       "description": "현대모비스, 유럽·북미서 제동·조향부품 1조 수주...올해 해외수주 20조 찍는다 소비자가 만드는 신문",
       "priority_markets": [],
-      "source_link_status": "rss_only"
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 90,
+      "event_cluster": "batch80-n001",
+      "related_articles": [
+        {
+          "title": "북미·유럽 완성차 핵심 안전부품 꿰찼다…현대모비스, 올해 해외수주 20조원 전망 - EV라운지",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmQTNvSVdSSmR0VFllMHByeDNpZWViTFhpdFE5N3NNVGhrQzdCQzFoSkF0aXBfRVRsX2tPdGp4Y190R1dOYmJKWmp5WVVGazA4YXgxRWg4ZVRyb3hmOTdaanRVVGpCMVgySjA3QjdTXzVvVWM?oc=5",
+          "source": "EV라운지",
+          "published": "2026-11-25T22:30:19+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 유럽·북미서 핵심 부품 수주 봇물…올해 145억 달러 달성 전망 - SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mSFBWdG9UOXFTUnk4UEJsVEFnemRiQ2pUNEtKOWpwT3lPVzdneTRBb0h0Um4wVGpnTF82NG5UcnlzWWY3NEMwTHJMWXBIT0ZiVFNKaUhPaVV3emU2LUlHYlkzZkd5ZVFGM0gw0gFrQVVfeXFMT2ZIUFZ0b1Q5cVNSeThQQmxUQWd6ZGJDalQ0S0o5anBPeU9XN2d5NEFvSHRSbjBUamdMXzY0blRyeXNZZjc0QzBMckxZcEhPRmJUU0ppSE9pVXd6ZTYtSUdiWTNmR3llUUYzSDA?oc=5",
+          "source": "SR타임스",
+          "published": "2026-11-25T17:05:41+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 제동·조향 부품 1조원 해외 수주···올해 20조 전망 - 화이트페이퍼",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80aEs1cGdONXVVSkM0MkRScEIxQkh0VXRhZkpIQWpvYUU4aWdvZ3NUU25qdlFGMHllU29paGJadng1N3JUc2taZUpzMktfSlBwc1lfeTZ6d2dIRlNHZzNhSjdsUFE2amtqbFFRMDRTd3VLRmvSAXNBVV95cUxPNGhLNXBnTjV1VUpDNDJEUnBCMUJIdFV0YWZKSEFqb2FFOGlnb2dzVFNuanZRRjB5ZVNvaWhiWnZ4NTdyVHNrWmVKczJLX0pQcHNZX3k2endnSEZTR2czYUo3bFBRNmpramxRUTA0U3d1S0Zr?oc=5",
+          "source": "화이트페이퍼",
+          "published": "2026-11-25T15:53:25+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 유럽·북미 핵심부품 연쇄 수주…올해 20조원 육박 - 중앙뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nREo1cDdhWGFfS052OG0zY1MxbHdTT3E5UFhBMF9peVAwNUVhZEg0Y1dOdzNRNVlvTjhmTGJGZmpGZ3RPM3lOZm5WRHdBWi1fbkkxcFUtaGpjcS1QTTFyZmhqdEdMcEdCR0hUStIBcEFVX3lxTE5PVWE2elFCN0gxT3pua0ZwbDVTRWtudjJ4UDNhemVzOEYzNjVrbTdVOVZEN1diS2Y1ckw0UzcyYTh1SC1oNHBseThMMGRQMjRPWGotT1VYX3ZsZE56ek01SS02ZkNObU9XMFR5OWtDSzk?oc=5",
+          "source": "중앙뉴스",
+          "published": "2026-11-25T17:39:13+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 유럽과 북미서 1조원 규모 핵심부품 수주 - 디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50dW5BZ2tjWGo0Vl96dVFaWmQ4aGJTa0JPbzB2TmlYaTdCQzRaa3E5Y3dVT2EyUGo5dm1VRW1fY01xSVQtQ2t5SmhIVjEwTDNlS3o5LWphZktQZTZVMmJsNkZfZ2xWUQ?oc=5",
+          "source": "디일렉",
+          "published": "2026-11-25T17:26:53+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 올해 해외수주 145억달러 '목표 초과'..유럽 및 북미서 1조원 수주 - 생생비즈플러스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iS3lsOXoxSzdFSTlQazZpX2d4bnNxYnJ1dnRqWDZJdjBockQ1ZEM0ZTBodVRHemtBYjdzdXl0UllWeUNFUnVuZUZSR1dJYnVlQTZSemlzckhuUFBUZmVhM0tGejBidWZrcVBpRw?oc=5",
+          "source": "생생비즈플러스",
+          "published": "2026-11-25T15:35:48+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 유럽·북미서 1조원 수주... 올해 해외 수주 20조원 돌파 전망 - 매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vOUc4VjNSdzNoLVVNUjFlYmxPRFBEOGdvcVRoRGdHWmN3bktUcGhWeGRWZGY0bGxOLUFzWDVLZ005Y3BES0E?oc=5",
+          "source": "매일경제",
+          "published": "2026-11-25T16:11:50+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 유럽·북미서 1조원 수주…올해 목표 123% 달성 - CEO스코어데일리",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrcUZHX2FOUWlxeHhtU3M4N012clpfeTMwcFRCSi1adWNmbXcxbFZWQzNtc3B4cTlCOERNd2tHU05OcGFUTFJhMnpNQk5QeFBZSnFCTG9Rd3ZtblY0SkNoRTRybUs0ZlM3Z09F?oc=5",
+          "source": "CEO스코어데일리",
+          "published": "2026-11-25T16:18:39+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 유럽-북미 대규모 수주… 올해 해외서 20조 달성할 듯 - EV라운지",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByb0d0aWo1bUpRTmNYaG9OS0YyaEFnZGR5MlUwWUFSR2FNbjBoQkV0eUFTTlJVZ3p0Mlp5NnAzRWpWX2FRbzhoajN0V3o1NTZIZ2EyLVV2RHloVnpLbTNXY0Y3cTNCVzJtemJIMEhLTUkwLW8?oc=5",
+          "source": "EV라운지",
+          "published": "2026-11-26T00:30:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 유럽·북미서 1조원대 수주…올해 해외 수주 20조원 전망 - 서울신문",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIRmF2LXVtNFpnSjBYRlcySTF0N1h5NGlXNHZ4cUpYeE85ak44X0xMSTcwRzZ0WVlPMVBqcU5vWE9vaHAxLTZPRGJZQTFWMmdRelc3aXJ6S2VLdEFiQm9wcnpFRDhETDhkTzh6dGItUDJvMlppWGJjQUdyTQ?oc=5",
+          "source": "서울신문",
+          "published": "2026-11-25T18:13:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 유럽·북미서 대형 수주 잇따라…올해 20조원 전망 - 포인트데일리",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MT0lCajNvNGI1YW81dWM1Z24yWUQ2dktHa3hERWV0OWVUSkZCdUpuaFo0eVFpcndrLUR5NUFRMVg4cWxmenVmYW80U3lVeXFQd2NMQ3hrQk0zSlRlcjFqTmZnWWRva1FVN1RTRm1CejBwMTVJ0gF0QVVfeXFMTUxPSUJqM280YjVhbzV1YzVnbjJZRDZ2S0dreERFZXQ5ZVRKRkJ1Sm5oWjR5UWlyd2stRHk1QVExWDhxbGZ6dWZhbzRTeVV5cVB3Y0xDeGtCTTNKVGVyMWpOZmdZZG9rUVU3VFNGbUJ6MHAxNUk?oc=5",
+          "source": "포인트데일리",
+          "published": "2026-11-25T15:32:33+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 북미-유럽서 대규모 수주…올해 20조원 달성할 듯 - 동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqLWMzSHFiRmZYMFdLNnNkVVBreThWUXAxMU5nM2lESmdnc2NzR29iekJMNXRJWmpxWHJyODdIRG96WGFFeGQtelpRcTRVRTFDOU5qSVRNeVpRUHNTZlJOaVdDbjVIZ9IBZkFVX3lxTFBqLWMzSHFiRmZYMFdLNnNkVVBreThWUXAxMU5nM2lESmdnc2NzR29iekJMNXRJWmpxWHJyODdIRG96WGFFeGQtelpRcTRVRTFDOU5qSVRNeVpRUHNTZlJOaVdDbjVIZw?oc=5",
+          "source": "동아일보",
+          "published": "2026-11-25T16:33:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 유럽·북미서 잇단 수주…올해 145억달러 전망 - 테크월드",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qQWYtbmxXMFJCQVpmUGlKeFlDTngtcDgtdUtpMWl1Z19Cb040MDdLUm85RXVxZzZEa0xzdHZVNlktVXpWSV9aVVRpYXpxM000ZHdCb1Q4bk1PVUFfTV82MXg5aXQ3QTc1?oc=5",
+          "source": "테크월드",
+          "published": "2026-11-25T15:50:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대모비스, 해외 수주 확대… 올해 20조원 달성 전망 - IT조선",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mRlI2MVVSYUFqYVF2VExBOVd2RWpiUXBjeVFRMnlVVVNsVjBaUWlNSmVaLXZPTVZHdzlVQk9xNjltR1JIeW5hX3Ywbm8yQzA2ZTNYaDdaUmJuTjgwV0xiQkkyeE5BUU54RFVLSVMyQ0hmTTkz0gF0QVVfeXFMTmZGUjYxVVJhQWphUXZUTEE5V3ZFamJRcGN5UVEyeVVVU2xWMFpRaU1KZVotdk9NVkd3OVVCT3E2OW1HUkh5bmFfdjBubzJDMDZlM1hoN1pSYm5OODBXTGJCSTJ4TkFRTnhEVUtJUzJDSGZNOTM?oc=5",
+          "source": "IT조선",
+          "published": "2026-11-25T18:15:45+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "현대모비스가 유럽과 북미 완성차 업체로부터 제동 및 조향 부품 등 핵심 부품을 1조 원 규모로 수주했습니다. 이에 따라 올해 해외 수주액이 20조 원을 돌파할 것으로 전망됩니다.",
+      "impact": "글로벌 완성차 업체 대상 핵심 부품 공급 확대는 현대모비스의 해외 생산 및 물류 포장 인프라 수요 증가로 이어질 수 있습니다.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대모비스는 전동화 및 핵심 부품의 글로벌 수주 확대를 전략적 목표로 삼고 있습니다.",
+        "key_points": [
+          "유럽 및 북미 지역 제동·조향 부품 1조 원 수주",
+          "올해 해외 수주 목표 145억 달러 초과 달성 및 20조 원 돌파 전망"
+        ],
+        "what_to_watch": "수주 물량의 실제 공급 시점 및 지역별 물류 거점 대응 계획",
+        "fact_check": "다수 매체에서 1조 원 수주 및 20조 원 달성 전망을 공통적으로 보도함"
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "4a7fd073aede5929",
+      "image_url": "",
+      "persistent_event_id": "20706857de7879d9"
     },
     {
       "id": "336e068361688c",
@@ -2845,7 +2996,90 @@
       "category": "CKD·물류",
       "description": "현대차그룹 핀셋 인사 단행… 미래 경쟁·공급망 확보 시동 서울신문",
       "priority_markets": [],
-      "source_link_status": "rss_only"
+      "source_link_status": "rss_only",
+      "section": "산업·업무",
+      "editorial_score_ai": 85,
+      "event_cluster": "batch0-n004",
+      "related_articles": [
+        {
+          "title": "현대차그룹, 외풍 속 안정에 힘 실어…부품·건설 CEO '핀셋 교체' - 이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSC05b1lRMEJRMDcyanROXzdlWC1GMVJ0eTNaRW5UUVdkTGJoOE5JMVBrSTNEdklabHZ3X0JDREV6R09QTTJxaVN3SmVKaWVuTnBjc3lONG5HSFByQ2s3ZlI3TmROZU5qaDBPTUx1QUxTWnJ5Yk02b3liUktCVEtZYw?oc=5",
+          "source": "이데일리",
+          "published": "2026-11-26T17:16:12+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "정의선 왜 현대차·기아 수장은 두고 '생산·부품' 책임자 바꿨나 - 아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ENW04aHBuVjVQdk9WNXdBUV9wRUhxMnpTTUxTZXF5ZjNzd0VqWkNBQi1uS3lYWXJUMjNBdW1QczRtYjRGNmNGbXhqcw?oc=5",
+          "source": "아이뉴스24",
+          "published": "2026-11-27T07:00:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대차그룹, 대표이사·사장단 인사 '안정'에 초점…현대모비스 등 3곳 수장 교체 - SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1haWljOHd5SEdPVXV5OWZYRFFvbk1ObW1FcEpDMnVMUnZTQ1NBWEoyNnBNM3d6UUNNTF9FUWxpMmlnbzRtbnBHdmdvLTF5QTc1U1pVeVUydUh4VTIyYWh6MmRwWkYxMlRZZ2FB0gFrQVVfeXFMTWFpaWM4d3lIR09VdXk5ZlhEUW9uTU5tbUVwSkMydUxSdlNDU0FYSjI2cE0zd3pRQ01MX0VRbGkyaWdvNG1ucEd2Z28tMXlBNzVTWlV5VTJ1SHhVMjJhaHoyZHBaRjEyVFlnYUE?oc=5",
+          "source": "SR타임스",
+          "published": "2026-11-26T13:49:25+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대차·기아, 무뇨스·송호성 체제 유지…핵심 계열사 4곳 수장 교체 - 미디어펜",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RU0xFSE9vZjZHOTVLczMtcVVFRmJnci1xc3Q0ZldyRVRjamJvVnBEclA2QndDeGxtVGxpd2x6clBCNUYtWUp0ZmhBa09JSzJ4ZnNHatIBWEFVX3lxTE9BeVo1emM3QVhsS0g3LVJhU1VkZHR1NUp5ZmF2WGVnbllZRkJKeE93a0FXVmFLZ29XdHNMQzJxbVJxemhOeVFoV2pCa0J1SXlKcG9OQkhUdTE?oc=5",
+          "source": "미디어펜",
+          "published": "2026-11-26T15:35:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "구매·영업 거친 백철승, 현대모비스 새 수장…해외수주 성과 잇는다[송호길의 재계 막전막후] - 스마트투데이",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KR2pBSmRzc0kyYVZ5d01HNFVoTWxfUmVfR1g3UFVJalhUN2RCN2tma0prUVhvNTNTSlhjYXJocktOU19wdDFmelVNQnFKZ0YtcFROY2hSN19mSzc3ZkJN?oc=5",
+          "source": "스마트투데이",
+          "published": "2026-11-27T11:20:00+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "이규석 떠나고 백철승 맞이한 현대모비스…램프 매각 후속 작업 시험대 - 마이데일리",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91Sy1zcU9VX3lEVHJEUmozZ21uUEtYT3hnNjVrNS1QeHZTSW5NbGpVR1RneFg1RFhaWVZXNGZ4ejdDR29PUE13WHlOZFRJNFlvSVZpTmExeTg2ZkdHdnNCQw?oc=5",
+          "source": "마이데일리",
+          "published": "2026-11-26T14:26:43+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "모비스 백철승, 트랜시스 박찬영 … 현대차그룹 사장단 인사 - 디지털포스트",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtRHQ4T3MzeUtyVS1YNFFLSVhjcGxxWkdsa0s5MHpwcHlmUl82WjFXUHJtOTBfYWVOdTl6LWttWVVsZXJzQ3B6TWZJMEdoTW9GUHQ0RHpEdVFfUXFWMC1kbVlMbTBoT2VCZUtv?oc=5",
+          "source": "디지털포스트",
+          "published": "2026-11-26T13:56:51+09:00",
+          "source_link_status": "rss_only"
+        },
+        {
+          "title": "현대차 '핀셋 쇄신' 인사...미래차 실행 조직 바꿨다 - 뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82cklCUnhjb3ZUU2szTFZkLVBURVN6cC1FMWlyMXNaenNjTnFOWEowWGc1Ukd2NTRveDFlalhfOFFKYVdNazdxQVRDcXpZVk54Mm5fTmpfVlVGY3ha?oc=5",
+          "source": "뉴스핌",
+          "published": "2026-11-26T13:55:00+09:00",
+          "source_link_status": "rss_only"
+        }
+      ],
+      "content_status": "rss_only",
+      "summary": "현대차그룹이 미래 경쟁력 확보와 공급망 강화를 위해 주요 계열사 사장단 인사를 단행했습니다. 현대모비스는 백철승 신임 대표이사를 선임하며 램프 사업 매각 후속 작업과 해외 수주 성과를 이어갈 계획입니다.",
+      "impact": "경영진 교체에 따른 사업 전략 변화 및 해외 수주 기조 유지 여부를 파악해야 하며, 특히 램프 사업 매각 이후의 조직 개편이 CKD 사업 운영에 미칠 영향을 주시해야 함.",
+      "importance": "높음",
+      "detail": {
+        "background": "현대차그룹은 급변하는 글로벌 자동차 시장 환경에 대응하기 위해 생산 및 부품 계열사 중심의 인사를 단행함.",
+        "key_points": [
+          "현대모비스 등 핵심 계열사 3~4곳 수장 교체",
+          "백철승 신임 현대모비스 대표이사 선임",
+          "미래 경쟁력 확보 및 공급망 안정화 목적"
+        ],
+        "what_to_watch": "신임 대표이사 체제 하의 현대모비스 사업 우선순위 및 조직 개편 방향.",
+        "fact_check": "현대모비스 대표이사 교체 사실 확인."
+      },
+      "new_information": "",
+      "source_comparison": "일부 매체는 안정에 초점을 맞춘 인사로 평가하는 반면, 다른 매체는 미래차 실행 조직의 쇄신으로 해석함.",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "10eda95c3202a60c",
+      "image_url": "",
+      "persistent_event_id": "1cb55ce823b3d25f"
     },
     {
       "id": "b5ea5f4c553991",
@@ -3270,6 +3504,442 @@
       "published": "2026-11-25T12:09:53+09:00",
       "category": "전동화",
       "description": "“1회 충전·주유로 1,030km” 제네시스 신형 SUV, 내년 초 출격 더드라이브",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "95d232a9c05119",
+      "title": "李 \"연간 50조원 R&D 성과 환수 필요…억까 언론·반대 정치가 장애물\" - 경북도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10amtIbExSdG9oTHBnUzN4UVhjZDhpUjd3WUtJZkptdEZjT2dWYkZxejY4elNZWVllcTFWdFRabG44N01kd29ZRmlhZl9reGhxNmJoM1R1dGZhbEY2RklURDNIQjdLZFBjMkE?oc=5",
+      "source": "경북도민일보",
+      "published": "2026-11-27T14:37:18+09:00",
+      "category": "정치·정책",
+      "description": "李 \"연간 50조원 R&D 성과 환수 필요…억까 언론·반대 정치가 장애물\" 경북도민일보",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "4823ff8cf3c2fb",
+      "title": "이 대통령 \"첨단기술산업 이익 일부 국가가 회수하라면 지원·투자 중간 형태 필요\" - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPakdPNmZyUlJTdDRHQmgyR3VzTm5MalRVY2FhUHc5Smw1WUZPS1hzRFVHenhDMHpBQWM2X0xJNWx3NGV1V0dJQndmc1dBR3NIOGFFRE92X0RPLVF1YTJRNdIBeEFVX3lxTE1KVExYTXZrbXRoR2NFaXNHWkl2VXJaTWlRd2xUekZsS3ppVGVSbmwtbnR4T0pzUDQtaThQTkNYbXgtRkl3djJ6NjhEaFZ4YnNQZDRRenFXSzQzN3UzUGJVQXdhcG8zdThYQmJtaDlfZmp1ZkRRbXdXTA?oc=5",
+      "source": "뉴시스",
+      "published": "2026-11-27T14:31:56+09:00",
+      "category": "정치·정책",
+      "description": "이 대통령 \"첨단기술산업 이익 일부 국가가 회수하라면 지원·투자 중간 형태 필요\" 뉴시스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "f9ff2d4558391a",
+      "title": "영원무역그룹 임직원, 취약계층에 겨울나기 물품 지원 - 한국면세뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GeTBSNjBEcXVRVmdta2hZSW5wTHF5T3ZVc1BpV3JJeFAzS1FoUkhxNjJfOWlLR2piZWtBdjFyeWs4RXVPeWthVzByc0FJbXIyYzVycVBERTFkaFhmV2h3ZF82THUyalNaUFE?oc=5",
+      "source": "한국면세뉴스",
+      "published": "2026-11-27T14:28:21+09:00",
+      "category": "국내 주요 사건",
+      "description": "영원무역그룹 임직원, 취약계층에 겨울나기 물품 지원 한국면세뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "45e61d02fb4c64",
+      "title": "한국공항공사, 내부통제경영대상 '혁신상' 수상… 위험 등급별 통제체계 인정 - 한국면세뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VMXZTY0FRbUtRUFFpelNxdHpyTnlsRXRnWlFURk5pOVg5SlNlYzlzcUw3YmwwTzQteUxJeElCdHlZcXJLZk00alNHSE9PaTdIdHNNMDBpSTJybURUX2xjdm5JRHNOU2JNQUE?oc=5",
+      "source": "한국면세뉴스",
+      "published": "2026-11-27T14:27:55+09:00",
+      "category": "국내 주요 사건",
+      "description": "한국공항공사, 내부통제경영대상 '혁신상' 수상… 위험 등급별 통제체계 인정 한국면세뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "ba5bf48ede9de0",
+      "title": "보성키위, 대한민국 대표과일 선발대회서 참다래 부문 3곳 선정 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WczVuUHlmMlpmMmJxQVJVbWRDek0zb1VUZzEzMjZubEowVTVXSjhhOC1BbExyU0lMd3MxazE5ZkpPSjhFYi1qUnNJeUhwbWUzOWg2QnNoUkxpY1Ju?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-11-27T14:18:06+09:00",
+      "category": "국내 주요 사건",
+      "description": "보성키위, 대한민국 대표과일 선발대회서 참다래 부문 3곳 선정 아시아뉴스통신",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "be7e56bcd94792",
+      "title": "[중꺾정80화] 국민주권 정부의 ‘국민주권’을 찾습니다 - 참여연대",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3LWZwd0tYZVUya2xhV1Y0QjVGbjhYQnlyUW8xOUROUk1mUEl3cno5QmFKVDluTjRuTGtBX0JzQmRQcHRUNGFHaTAtZ0dBdDJES0NMZQ?oc=5",
+      "source": "참여연대",
+      "published": "2026-11-27T14:15:44+09:00",
+      "category": "정치·정책",
+      "description": "[중꺾정80화] 국민주권 정부의 ‘국민주권’을 찾습니다 참여연대",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "23b24a12279e4a",
+      "title": "李대통령 “연 50조 R&D 성과 국가 환수할 ‘지원·투자 하이브리드’ 필요” - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tTVBhaFpRVTltbEhkZUlHTWt5bEJLa0lZcjlWekRtS3J4b3hGNGlucVF3U2p1MGZCYW1WaEk3VGg0RHNSTlNkd2Z0eDhtWnAxNmJpQTJR?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-11-27T14:01:31+09:00",
+      "category": "정치·정책",
+      "description": "李대통령 “연 50조 R&D 성과 국가 환수할 ‘지원·투자 하이브리드’ 필요” 헤럴드경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "13172d29e35ee8",
+      "title": "재사용 가능한 골판지 플라스틱 박스 시장 2035년 전망: 전자상거래 물류와 지속가능성이 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVFNnVXpFYVBIMy02WkFnTHVxWlFzZko2MnJ6ZjNxdVd2a1JXWHpVM0RMZ09TbW9zcklyT2tya2NYZlVyMUFBTjVlaDZvbGNDRkt4UDRHX1h0eVNEVkJYM0hDLTZfRVdRb0ROZzhKWEJOMUNXOENqYl9OcUd2Sl9nM0NJRDlkVF9uaGFVZkcwaGFRMkc0YUc1dFk3UWEwdGk0WWpKYjBYTDh1V2stWTlPYUNtYjFpU3BRdEJKaVBTTEtyQ0M1NFR5NnloNERtTHB2S3RHNDl4NXc5NlhHMXZRNzRRaw?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-27T13:51:06+09:00",
+      "category": "자동차",
+      "description": "재사용 가능한 골판지 플라스틱 박스 시장 2035년 전망: 전자상거래 물류와 지속가능성이 성장 견인 - 뉴스 및 통계 IndexBox",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "d2cf033c038a1a",
+      "title": "Canadian Dollar flattens against US Dollar while entering into weekend - tmgm.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVhRWG1vRjlWUkRhUndDY0xBaWdwTk1LVUJKbm9EaElGUVFaVkVuYnNTQTBwV0ZaRVBQMEs1RENYdGJ3cmRSWVFTODgydlNoU2NuanpSUmZiUHNEOWlaZVpjQ2x1Skd2eUktTU5OSjRrUFdjODdVblA2ZTl5QVdQS2RxVmszR0k2NWs1MjFJTGl6R01YcWtuR2lfSnZqTzJ3QWtQX1h5T3Z0Q2ZPUGI4Vkk1NEZRckhuYlFDNUdETHFQbXdMZVMyYTFUR29DRUozUHc?oc=5",
+      "source": "tmgm.com",
+      "published": "2026-11-27T13:23:45+09:00",
+      "category": "경제·금융",
+      "description": "Canadian Dollar flattens against US Dollar while entering into weekend tmgm.com",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "29b5954e490518",
+      "title": "현대글로비스, BYD·노르웨이 공세에 ‘긴축 압박’ 거세져 - 뉴스프리존",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pQmVSVWlRdm9uYk1DOE5QaFBNMU41dVFEV195cl9NNkNFWnlDVTN2T21UeHl3SnpYWjd2NHl2cExlbTE2aWU0UXFSa0E0YktmMTVraGZxbzdnd3UzTldEMElzcXM3Q0VKVlBlSDJUeHdaUHPSAXdBVV95cUxPc0hFSjRQQzRFNXo2RGZHaFM5NjllWVM5d2EyY0VVcnBNNGwtU3EwOFY4NmxTbTFrOWR2M0JfVGR3Rms5VVFhV0EzQ1BxVmZkV1FPTHgtdjNGTTZGam5UbERYNG5SbUVBN2ttb3lFVVVTeTY5RVhKRQ?oc=5",
+      "source": "뉴스프리존",
+      "published": "2026-11-27T13:14:52+09:00",
+      "category": "CKD·물류",
+      "description": "현대글로비스, BYD·노르웨이 공세에 ‘긴축 압박’ 거세져 뉴스프리존",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "2d546e89fd07ea",
+      "title": "나이스평가정보, 'DYP' 2026년 매출 5,040억원 전망 - 이머니뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12NF93azNFWU12d2VKUGRKOGhHd24yd19YMS14NWEySktyaF9XREVERmZPM0FMcE9RTk5iaG5acjhSZEZMNE85d21uMnRXanJWb0g5WlhtQlBrdWNSdXREd2pEaUpobm1ENTh2T0hsZw?oc=5",
+      "source": "이머니뉴스",
+      "published": "2026-11-27T13:08:09+09:00",
+      "category": "CKD·물류",
+      "description": "나이스평가정보, 'DYP' 2026년 매출 5,040억원 전망 이머니뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "aaade70b1910d2",
+      "title": "日銀, 3개월만에 다시 금리 올리나…심의위원 ＂가능성 충분＂ - 한국경제TV",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb3QweU9NQmxOOXJqTDkydlZRUXhBOXg4TGo1WDlvM1NKODdkM0FfZGlXMC00SE1zYUFNYm02MFZwODFpWU10NUxkUmtVN183SWFQaGZYamZMV3ExWnk4d2dNaG5jZjRUMGhSX3JOUTBxS0dKcTg2VGlnQlNkZFR3cQ?oc=5",
+      "source": "한국경제TV",
+      "published": "2026-11-27T12:25:00+09:00",
+      "category": "경제·금융",
+      "description": "日銀, 3개월만에 다시 금리 올리나…심의위원 ＂가능성 충분＂ 한국경제TV",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "cb75c2c4e97d3e",
+      "title": "공주시, 시정 소식지 ‘흥미진진 공주’ 대한민국 커뮤니케이션대상 기획대상 수상 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hSGxRTkMtbVM0MlZBTUladGRVWmVMMWc2eVlreXAxS3ktdFBwQkd6aDc2a1F1SENFV2d3V1Job1ZvenZRTDU0dVBDTVpfYVVPYjJFUVpQWlFyMzhG?oc=5",
+      "source": "아시아뉴스통신",
+      "published": "2026-11-27T12:20:30+09:00",
+      "category": "국내 주요 사건",
+      "description": "공주시, 시정 소식지 ‘흥미진진 공주’ 대한민국 커뮤니케이션대상 기획대상 수상 아시아뉴스통신",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "47ab67227057dc",
+      "title": "전남광주 농가, 대표과일대회서 9개 입상 ‘전국 최다’ - 순천독립신문",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOT0FzbHhDZzlnR2l3dHJ4aVJkQ2NwNXJhNVc1cGY5Y0JITzhtcWdLSEt4RHFLYmRPRGZNOG0zLWpSb3pkSi1pcEZYN0M4SVd5V0kwb3dnOWdzalc5Q1p5TlhJYUFxRGRUV1p0MHZFbm02dTlibnZrcW5yNXhjVzQxVHR5a2k3YXVEaXo5V3ZTS1pjRE5CQkxSNXpEcmxfV2VuMkVSeTdBeDNrV3NKWW5GZkZOcmdzQl9ZbTVMRkVBMk1BcWFUbFVxc1JXVFpUUGg0WGwwbWRVTnQtMmIwNWNlakpKVTcwX1VSd1JkWWMzNWpzU1hKUy15aTRsXzdTUkJYeDhzbUNmWEtOWmtBd1d2X1VvRjZORWlhYVdULXZNU1JSdUU2QVZZYVB2ZzVMQS1YcXB3aHBweWpQR2FwVk1FVnJ4bG9vWllCN2xVaWZ6Q2dKQXg2?oc=5",
+      "source": "순천독립신문",
+      "published": "2026-11-27T12:06:16+09:00",
+      "category": "국내 주요 사건",
+      "description": "전남광주 농가, 대표과일대회서 9개 입상 ‘전국 최다’ 순천독립신문",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "598cafb61e664a",
+      "title": "“사회혁명이 주주혁명으로, 민중이 개미로, 해방이 배당으로 치환됐다” - 주간경향",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92Z1UyajBjaTZxZEZvSExNQUZNeTNYV0pielF4UnFMdmE0TUNOZHFpSUw0amxxamFURmVXMHhYYUMwVVlpenlKMGpERzQwS2FEcGR3VjAzaUxDd3gtVnc?oc=5",
+      "source": "주간경향",
+      "published": "2026-11-27T11:51:00+09:00",
+      "category": "정치·정책",
+      "description": "“사회혁명이 주주혁명으로, 민중이 개미로, 해방이 배당으로 치환됐다” 주간경향",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "0aaaf93742f02c",
+      "title": "“부동산·주식 정책 실패했는데 李정부, 책임지는 사람이 없다” - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mYjVoQ2xIWHFqcXEtTzlBQlRHOXd2dGJ6bTJIeVNxRVFaaXkxeHB2cVhkM0NySXZXakZiMzdIT2R6RU9vSzl2ZGxoSFpjRVIwbnJ5RnB3?oc=5",
+      "source": "헤럴드경제",
+      "published": "2026-11-27T11:43:28+09:00",
+      "category": "정치·정책",
+      "description": "“부동산·주식 정책 실패했는데 李정부, 책임지는 사람이 없다” 헤럴드경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "8a88cbf4271395",
+      "title": "임병수 탐정, KCI 한국탐정연맹 중앙회장 [세상 읽기] - CEO저널",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pajBwcVpNX2p4dlp0TG51emdwVURfWnF5OTBGRUhJRWFNdzY1Wk5waTdId3BmVTUxSGoxUm40VXZiQkhaTnYxS0xpTjBCZWZjUFM2b2VSUG5ZZGx2ZWlMdTNQX005SXJiNkhN0gFrQVVfeXFMTmlqMHBxWk1fanh2WnRMbnV6Z3BVRF9acXk5MEZFSElFYU13NjVaTnBpN0h3cGZVNTFIajFSbjRVdmJCSFpOdjFLTGlOMEJlZmNQUzZvZVJQbllkbHZlaUx1M1BfTTlJcmI2SE0?oc=5",
+      "source": "CEO저널",
+      "published": "2026-11-27T10:06:23+09:00",
+      "category": "국내 주요 사건",
+      "description": "임병수 탐정, KCI 한국탐정연맹 중앙회장 [세상 읽기] CEO저널",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "ae992daae815f6",
+      "title": "ENIG 최종 표면 처리 시장 2035년 전망: ADAS·전기차 전자 수요가 성장 가속 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ1diQk9STmVncm9tOHlHRjhFODVGUXFnVnpDWHhhc0lQb2JBd01wdUZycmpEUWNLX3BzcGR2QkRaRTNCLS1IZWFEcUxobUNCaVhGYW5Cc2o2R0pDV0taY05WWUx3SmwyU2pBS1pQWVhuTmZ3SU9WRlNHeHNEaFY3S3dPeXczRDlMejhBbGFxVnZxNFlrdVlHZ0QtM0NuSk9CWmotTFdMNlphZ2xfN2pkbXdDMjEyNlhabEsyTnNyX0RJNENsZTI4?oc=5",
+      "source": "IndexBox",
+      "published": "2026-11-27T09:31:05+09:00",
+      "category": "자동차",
+      "description": "ENIG 최종 표면 처리 시장 2035년 전망: ADAS·전기차 전자 수요가 성장 가속 IndexBox",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "33a8cdab84595c",
+      "title": "미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4Q2xsbVJZSHA2YmZVWXNacE9kSzdES25uVEJCOVk3YmlORnBBUEdIQjZIZElFUUdXZ1NiNmc4VzlNV202OHRzTlhqcTNHSS1fYW9xbFZ6Rjdnb2lpeXlta9IBYEFVX3lxTFB4Q2xsbVJZSHA2YmZVWXNacE9kSzdES25uVEJCOVk3YmlORnBBUEdIQjZIZElFUUdXZ1NiNmc4VzlNV202OHRzTlhqcTNHSS1fYW9xbFZ6Rjdnb2lpeXltaw?oc=5",
+      "source": "연합뉴스",
+      "published": "2026-11-27T07:30:03+09:00",
+      "category": "정치·정책",
+      "description": "미국 중간선거 뒤에도 통상 불확실성…기업들, 정부 지원책 요청 연합뉴스",
+      "priority_markets": [
+        "미국"
+      ],
+      "source_link_status": "rss_only",
+      "section": "일반 뉴스",
+      "editorial_score_ai": 65,
+      "event_cluster": "batch0-n011",
+      "related_articles": [],
+      "content_status": "rss_only",
+      "summary": "미국 중간선거 이후에도 통상 환경의 불확실성이 지속되자 국내 기업들이 정부 차원의 적극적인 지원책 마련을 요청하고 있습니다.",
+      "impact": "",
+      "importance": "보통",
+      "detail": {
+        "background": "미국 정치 지형 변화에 따른 보호무역주의 강화 우려가 기업들의 경영 불확실성을 높이고 있음.",
+        "key_points": [
+          "미국 중간선거 이후 통상 불확실성 증대",
+          "기업들의 정부 지원책 마련 요구"
+        ],
+        "what_to_watch": "미국 정부의 향후 통상 정책 및 국내 기업 대상 지원책 구체화 여부.",
+        "fact_check": "기업들의 정부 지원 요청 사실 확인."
+      },
+      "new_information": "",
+      "source_comparison": "",
+      "news_relation": "신규 뉴스",
+      "ai_summary": true,
+      "integrated_summary": true,
+      "integration_signature": "ce8416bdf5fa359e",
+      "image_url": "",
+      "persistent_event_id": "b7c67b9a26eb3d6b"
+    },
+    {
+      "id": "f10bf0a6d1a909",
+      "title": "[단독]기아, '인도판 헤이딜러' 스피니와 인증중고차사업 맞손 - 더트래커",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HT29tQVdVZEJtSVZ2YUxLbVlIWTRXblJmRXNqOFpQOXFyMko3c2xQUFhwcXdjVE9yc09RYXB5eGsxemx4WnlvWGVFMkNPMnhfLVltQzh1T08?oc=5",
+      "source": "더트래커",
+      "published": "2026-11-27T07:18:22+09:00",
+      "category": "자동차",
+      "description": "[단독]기아, '인도판 헤이딜러' 스피니와 인증중고차사업 맞손 더트래커",
+      "priority_markets": [
+        "인도"
+      ],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "60f448e84c91ad",
+      "title": "정의선 왜 현대차·기아 수장은 두고 '생산·부품' 책임자 바꿨나 - 아이뉴스24",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ENW04aHBuVjVQdk9WNXdBUV9wRUhxMnpTTUxTZXF5ZjNzd0VqWkNBQi1uS3lYWXJUMjNBdW1QczRtYjRGNmNGbXhqcw?oc=5",
+      "source": "아이뉴스24",
+      "published": "2026-11-27T07:00:00+09:00",
+      "category": "CKD·물류",
+      "description": "정의선 왜 현대차·기아 수장은 두고 '생산·부품' 책임자 바꿨나 아이뉴스24",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "9cf926282b45dd",
+      "title": "한국 U-17, 에콰도르 꺾고 조 1위 32강…일본은 온두라스전 승리 필요 - 메디컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LN2szWjh5MGw0aHRjTy1pWVI2XzY3bWhoaGdiM3pxX2JGc3hHR2NRd3pCMXd6eVZzWWJaZ2J2c0Q3MEw4SkYtVzhycTBCNnN4Ny00a18xZDZwMGl6emVrcTVja0VxWC11aWJ4bA?oc=5",
+      "source": "메디컬투데이",
+      "published": "2026-11-27T00:06:33+09:00",
+      "category": "국내 주요 사건",
+      "description": "한국 U-17, 에콰도르 꺾고 조 1위 32강…일본은 온두라스전 승리 필요 메디컬투데이",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "9ae0ca00c48aae",
+      "title": "넥사다이내믹스, 대한민국 고성능 AI 서버 제품 단일공급계약 체결 - 톱스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtNVpPVncyOXg1a0szVTM1dVZvT1h1TTlUOFdiRlRrdzhQWTU1YU1vNVVrbl93WGRLS0N3Ni1YUzBmZU83NEc3amZkUUhlVDdKYnlJVHJneTZiRWZtdFp1aEYzT1FYUS1CVEgxZVlPblVXdw?oc=5",
+      "source": "톱스타뉴스",
+      "published": "2026-11-26T17:53:51+09:00",
+      "category": "국내 주요 사건",
+      "description": "넥사다이내믹스, 대한민국 고성능 AI 서버 제품 단일공급계약 체결 톱스타뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "567df551555700",
+      "title": "헌재 \"한국 체류 외국인 정치활동 금지는 위헌\"…2028년까지 개정해야 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zWjIxNXJ3SzNNbjdaUVhLdWJEbEg1WWd2MXd2ajJnWmVRYWFaRzUwSFBpY0RvaTdORWF4R1VGN0NsYWlPWFZYcEIyNDBlbF9JS1ZYc0JOMDU4YWp0enpmOUZPNmZ1bDBpM0tZN3Iwa2zSAXBBVV95cUxOc1oyMTVyd0szTW43WlFYS3ViRGxINVlndjF3dmoyZ1plUWFhWkc1MEhQaWNEb2k3TkVheEdVRjdDbGFpT1hWWHBCMjQwZWxfSUtWWHNCTjA1OGFqdHp6ZjlGTzZmdWwwaTNLWTdyMGts?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-26T15:39:03+09:00",
+      "category": "정치·정책",
+      "description": "헌재 \"한국 체류 외국인 정치활동 금지는 위헌\"…2028년까지 개정해야 - 머니투데이 머니투데이",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "17dc80bdc75a16",
+      "title": "최민희 ‘사진기자 비하’ 논란…모욕·명예훼손 혐의 수사 속도 - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BVThtS1pDeTc5ZGZmdTZRSlRKMzduazkxbFRMaC1IQjFtVWFobFM4YV9oRVNxUmJ5NndmWWYtdnJYMU5GR3QxT0ZibkxVSXhKRUZncVQ4M0tEeHg3c0U0ajI1RG5OWHV3NGpz?oc=5",
+      "source": "서울뉴스통신",
+      "published": "2026-11-26T13:45:00+09:00",
+      "category": "국내 주요 사건",
+      "description": "최민희 ‘사진기자 비하’ 논란…모욕·명예훼손 혐의 수사 속도 서울뉴스통신",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "33712454ca301d",
+      "title": "현대차그룹, 2026년 사장단 인사…모비스·트랜시스·엔지니어링 대표 교체 - 포커스경제",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJbFYtMTY0c2VJSE42ajBvanRzOS15TU5MWFZQWFBreWxpc2lKcmZLMlI0S0VWSFItbURxXzQybGQ5VXE2SWdncUxpUlJxWVRySkZQa1BKRWc5SHIzVzBkZlM2VnhMZk03QTNSRFJn?oc=5",
+      "source": "포커스경제",
+      "published": "2026-11-26T13:19:17+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, 2026년 사장단 인사…모비스·트랜시스·엔지니어링 대표 교체 포커스경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "dc5e0d46b1ed3f",
+      "title": "현대차그룹, 완성차 경영 연속성 유지 방점 사장단·임원 인사...현대모비스 백철승 사장 등 계열사 4곳 새 대표 선임 - 글로벌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNaXlKbTdIUjlUNmVIS0Zxa2xnbzV0MHcxRlcxNTE1bXljckhVVnF4VzNfSl94U3liSWNRRUJLb2pxcGlDOWhoQkR1R0JnRzdpd0hsRnJxdHBZYzVJY0xiN29rY1hJdG1YUXJhUNIBcEFVX3lxTFB0ZVA1RUgxdDhwTkdIaG1rempYV2hxMEI4Y1BodXZscmZUT1hZd3EwZS1jcGgwUm5NeGl0M3pFWWI2cFowOVRhUXVRYnM4WVVIcUZHVlp4cmtuM3hianBDeWlBSGh6ZURZOW9DUHliZFc?oc=5",
+      "source": "글로벌경제신문",
+      "published": "2026-11-26T10:47:07+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, 완성차 경영 연속성 유지 방점 사장단·임원 인사...현대모비스 백철승 사장 등 계열사 4곳 새 대표 선임 글로벌경제신문",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "62e48319453521",
+      "title": "현대차그룹, 완성차 경영진 유지…부품·건설 수장 교체 - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CcXNyNmkzTVBIc2EzWlJQQXhRX29hSExqZmRoQjQ4QTg4enFTbXYtY18wZndZbzVpblNtSVhZZXIycGdoRDgtcExySDVZYW1EOElMcXJYVTJZdGlUNkdpRDZwLTk5QlFNUFB0Ylp2ONIBb0FVX3lxTE5CcXNyNmkzTVBIc2EzWlJQQXhRX29hSExqZmRoQjQ4QTg4enFTbXYtY18wZndZbzVpblNtSVhZZXIycGdoRDgtcExySDVZYW1EOElMcXJYVTJZdGlUNkdpRDZwLTk5QlFNUFB0Ylp2OA?oc=5",
+      "source": "한스경제",
+      "published": "2026-11-26T10:19:38+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, 완성차 경영진 유지…부품·건설 수장 교체 한스경제",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "846b8ed6e86cc7",
+      "title": "현대차·기아, 무뇨스·송호성 체제 유지…현대모비스 백철승 사장 승진 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sMHM3b19kbzl2a1M2alN1MU41SmVvMk1hcUdXVmNWT09sdHRsbFlXZ0VQVVBRc3UwMHQ5RFRFVTdXN3huRzBnZVhvY1VWTnJqWmFlSQ?oc=5",
+      "source": "데일리안",
+      "published": "2026-11-26T10:16:00+09:00",
+      "category": "스크랩 추적",
+      "description": "현대차·기아, 무뇨스·송호성 체제 유지…현대모비스 백철승 사장 승진 데일리안",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "8d305e310a9b83",
+      "title": "현대차그룹, 올해 인사도 ‘안정 속 변화’…부품·건설 전문경영인 전진 배치 - 마켓인",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xdTI2TGhsdTFOdDRiWUs0VkJDOUc3OTN4cnVFVExjanZ1MmVfem9ncTVRc3hYTFZ6TFotY1pCb19fWl93X1B1d3J4X2tobjd6OXpsOHRLOFF2YXNyN0xiYXFTMDd2YW13VlVuVFNrcG5ldWc?oc=5",
+      "source": "마켓인",
+      "published": "2026-11-26T10:14:26+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, 올해 인사도 ‘안정 속 변화’…부품·건설 전문경영인 전진 배치 마켓인",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "89425a66f2218d",
+      "title": "현대차그룹, 2026년 대표이사·사장단 인사 단행…현대모비스 백철승 사장 선임 - 카매거진 CAR MAGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wSDBVOFd6cGFzc2M3Y0lCLU1JUExBTWdtb0hUWGJxaDJkTDYyQVBVSUU1Vnc0Q1VLaktLalZ6ZEJmOHQybU5JNFIxYjdxSllZanlMS0Y5V3V3dU9iVjBZR1ZMUUkwUQ?oc=5",
+      "source": "카매거진 CAR MAGAZINE",
+      "published": "2026-11-26T10:13:16+09:00",
+      "category": "자동차",
+      "description": "현대차그룹, 2026년 대표이사·사장단 인사 단행…현대모비스 백철승 사장 선임 카매거진 CAR MAGAZINE",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "e1d60ca92387c9",
+      "title": "아내에겐 허위 자수 시키고 상관에겐 전화…'뺑소니 경찰' 사건 감찰 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqWkR2emdySWZEY2tmbUFGVEtzeEttTEZqRjJud1IyTk11VkVuOF9YYmMxZlFvRUJLdklUdjhBYXNzaHNlcERXNFdnRUFKMHRTWGItN1RSQllzOTZSUGg4dFpPWEdDLXNCRWpHNVhsSFloeVdONGxhbNIBfkFVX3lxTE1HVlpPcTlrcXJneC1QOGZVc1d4SGFuRkZnN0ZWT00xbXktTzFwM0ZVYUk0cnhzWFo0Zng5TGRNTnpwNU1Ya2ZUMzY5aThXNWZad1JfNG1haEZqeER6aWJMY3Q5WmlJZXpmSlBCREZyZFVxQ2lFM3I2VFFXN2VDdw?oc=5",
+      "source": "머니투데이",
+      "published": "2026-11-25T22:56:05+09:00",
+      "category": "국내 주요 사건",
+      "description": "아내에겐 허위 자수 시키고 상관에겐 전화…'뺑소니 경찰' 사건 감찰 - 머니투데이 머니투데이",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "27988c8ecc607e",
+      "title": "현대모비스, 유럽·북미 핵심부품 연쇄 수주…올해 20조원 육박 - 중앙뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nREo1cDdhWGFfS052OG0zY1MxbHdTT3E5UFhBMF9peVAwNUVhZEg0Y1dOdzNRNVlvTjhmTGJGZmpGZ3RPM3lOZm5WRHdBWi1fbkkxcFUtaGpjcS1QTTFyZmhqdEdMcEdCR0hUStIBcEFVX3lxTE5PVWE2elFCN0gxT3pua0ZwbDVTRWtudjJ4UDNhemVzOEYzNjVrbTdVOVZEN1diS2Y1ckw0UzcyYTh1SC1oNHBseThMMGRQMjRPWGotT1VYX3ZsZE56ek01SS02ZkNObU9XMFR5OWtDSzk?oc=5",
+      "source": "중앙뉴스",
+      "published": "2026-11-25T17:39:13+09:00",
+      "category": "스크랩 추적",
+      "description": "현대모비스, 유럽·북미 핵심부품 연쇄 수주…올해 20조원 육박 중앙뉴스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "ddf995367a0149",
+      "title": "전국 자원봉사센터 관계자 순천에 모인다…24~25일 대한민국자원봉사센터대회 개최 - 순천독립신문",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRXBjb202TjAtR3hveG1oUHdGSk9SWHJFMU81QTlESVJSWktielJ0Y1FWekxFVjc0Q19yUzVVcEZFcTBKNWtyeVVCenN1ZUdUb1NOZHVJZGxqSGROY0F1c284U2Mxcnp0YVBGN0loQWdIdmdyR3IyVEhDZERwSm5BY2lrRHZDOUswUThIbXdvNTJDc2VE?oc=5",
+      "source": "순천독립신문",
+      "published": "2026-11-25T16:12:54+09:00",
+      "category": "국내 주요 사건",
+      "description": "전국 자원봉사센터 관계자 순천에 모인다…24~25일 대한민국자원봉사센터대회 개최 순천독립신문",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "99e9099b70a4ce",
+      "title": "현대모비스, 제동·조향 부품 1조원 해외 수주···올해 20조 전망 - 화이트페이퍼",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80aEs1cGdONXVVSkM0MkRScEIxQkh0VXRhZkpIQWpvYUU4aWdvZ3NUU25qdlFGMHllU29paGJadng1N3JUc2taZUpzMktfSlBwc1lfeTZ6d2dIRlNHZzNhSjdsUFE2amtqbFFRMDRTd3VLRmvSAXNBVV95cUxPNGhLNXBnTjV1VUpDNDJEUnBCMUJIdFV0YWZKSEFqb2FFOGlnb2dzVFNuanZRRjB5ZVNvaWhiWnZ4NTdyVHNrWmVKczJLX0pQcHNZX3k2endnSEZTR2czYUo3bFBRNmpramxRUTA0U3d1S0Zr?oc=5",
+      "source": "화이트페이퍼",
+      "published": "2026-11-25T15:53:25+09:00",
+      "category": "스크랩 추적",
+      "description": "현대모비스, 제동·조향 부품 1조원 해외 수주···올해 20조 전망 화이트페이퍼",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "23b6864ff3a62f",
+      "title": "현대모비스, 올해 해외수주 145억달러 '목표 초과'..유럽 및 북미서 1조원 수주 - 생생비즈플러스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iS3lsOXoxSzdFSTlQazZpX2d4bnNxYnJ1dnRqWDZJdjBockQ1ZEM0ZTBodVRHemtBYjdzdXl0UllWeUNFUnVuZUZSR1dJYnVlQTZSemlzckhuUFBUZmVhM0tGejBidWZrcVBpRw?oc=5",
+      "source": "생생비즈플러스",
+      "published": "2026-11-25T15:35:48+09:00",
+      "category": "스크랩 추적",
+      "description": "현대모비스, 올해 해외수주 145억달러 '목표 초과'..유럽 및 북미서 1조원 수주 생생비즈플러스",
+      "priority_markets": [],
+      "source_link_status": "rss_only"
+    },
+    {
+      "id": "c4b3a952afd814",
+      "title": "현대모비스, 유럽·북미서 대형 수주 잇따라…올해 20조원 전망 - 포인트데일리",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MT0lCajNvNGI1YW81dWM1Z24yWUQ2dktHa3hERWV0OWVUSkZCdUpuaFo0eVFpcndrLUR5NUFRMVg4cWxmenVmYW80U3lVeXFQd2NMQ3hrQk0zSlRlcjFqTmZnWWRva1FVN1RTRm1CejBwMTVJ0gF0QVVfeXFMTUxPSUJqM280YjVhbzV1YzVnbjJZRDZ2S0dreERFZXQ5ZVRKRkJ1Sm5oWjR5UWlyd2stRHk1QVExWDhxbGZ6dWZhbzRTeVV5cVB3Y0xDeGtCTTNKVGVyMWpOZmdZZG9rUVU3VFNGbUJ6MHAxNUk?oc=5",
+      "source": "포인트데일리",
+      "published": "2026-11-25T15:32:33+09:00",
+      "category": "스크랩 추적",
+      "description": "현대모비스, 유럽·북미서 대형 수주 잇따라…올해 20조원 전망 포인트데일리",
       "priority_markets": [],
       "source_link_status": "rss_only"
     }
